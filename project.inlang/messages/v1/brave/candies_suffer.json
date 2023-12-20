@@ -1,0 +1,660 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "you_are_being_redirected",
+        "library.inlang.paraglideJs": "you_are_being_redirected"
+    },
+    "id": "brave_candies_suffer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ستتم إعادة توجيهك إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " خلال $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Budete přesměrováni na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " za $t(s, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "s"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du bliver omdirigeret til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " om $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie werden in $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) auf "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " weitergeleitet."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You are being redirected to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " in $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Estás siendo redirigido a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " en $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous allez être redirigé vers "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " dans $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אנחנו ננתב אותך אל "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " בעוד $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verrai reindirizzato a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " tra $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "$t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) で "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " にリダイレクトします"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "$t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) 후에 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": "(으)로 리디렉션됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U wordt omgeleid naar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " over $t(seconde, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconden"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du blir omdirigert til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " om $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zostałeś przekierowany do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " w $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Está a ser redireccionado para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " em $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você está sendo redirecionado para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " em $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sunteți redirecționat către "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " în $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Перенаправление на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " произойдет через $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Preusmeravamo vas na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " za $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du omdirigeras till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " om $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "$t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) içinde "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " adresine yönlendirileceksiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ви перейдете за адресою "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " через $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn sẽ được chuyển hướng đến "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": " sau $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " })."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您将在 $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) 秒后重定向到 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": "。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "將於 $t(second, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seconds"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) 秒後將您重新導向至 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " url "
+                },
+                {
+                    "type": "Text",
+                    "value": "。"
+                }
+            ]
+        }
+    ]
+}

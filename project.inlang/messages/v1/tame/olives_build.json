@@ -1,0 +1,316 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "zapier_setup_instructions",
+        "library.inlang.paraglideJs": "zapier_setup_instructions"
+    },
+    "id": "tame_olives_build",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>سجل الدخول إلى حساب Zapier الخاص بك وأنشئ Zap جديد.</0><1>حدد Cal.com كتطبيق Trigger لديك. اختر أيضًا حدث Trigger.</1><2>اختر حسابك ثم أدخل مفتاح API الفريد الخاص بك.</2><3>اختبر Trigger الخاص بك.</3><4>أنت جاهز!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Přihlaste se ke svému účtu Zapier a vytvořte nový Zap.</0><1>Vyberte Cal.com jako svoji aplikaci Trigger. Také vyberte událost Trigger.</1><2>Vyberte svůj účet a pak zadejte svůj unikátní klíč API.</2><3>Otestujte svůj Trigger.</3><4>Všechno máte nastaveno!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Log ind på din Zapier-konto og opret en ny Zap.</0><1>Vælg Cal.com som din Trigger app. Vælg også en Trigger event. </1><2>Vælg din konto og indtast derefter din unikke API-nøgle.</2><3>Test din Trigger.</3><4>Du er klar!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Loggen Sie sich in Ihr Zapier-Konto ein und erstelle einen neuen Zap.</0><1>Wählen Sie Cal.com als ihre Trigger-App aus. Wählen Sie auch ein Auslöserereignis.</0><1>Wählen Sie ihr Konto aus und geben dann ihren eindeutigen API-Key ein.</2><3>Testen Sie den Trigger.</3><4>Alles fertig!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Log into your Zapier account and create a new Zap.</0><1>Select Cal.com as your Trigger app. Also choose a Trigger event.</1><2>Choose your account and then enter your Unique API Key.</2><3>Test your Trigger.</3><4>You're set!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Inicie sesión en su cuenta de Zapier y cree un nuevo Zap.</0><1>Seleccione Cal.com cómo su aplicación Trigger. También elija un evento Trigger.</1><2>Seleccione su cuenta e ingrese su Clave API única.</2><3>Pruebe su Trigger.</3><4>¡Listo!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Connectez-vous à votre compte Zapier et créez un nouveau Zap.</0><1>Sélectionnez Cal.com comme application déclencheur. Choisissez également un événement déclencheur.</1><2>Choisissez votre compte, puis saisissez votre clé API unique.</2><3>Testez votre déclencheur.</3><4>Vous êtes prêt !</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>התחבר/י לחשבון Zapier שלך וצור/י Zap חדש.</0><1>בחר/י את Cal.com כאפליקציית ה-Trigger. בנוסף, בחר/י אירוע Trigger.</1><2>בחר/י את החשבון שלך ולאחר מכן הזן/י את מפתח ה-API הייחודי שלך.</2><3>בדוק/י את ה-Trigger.</3><4>וזהו, הכל מוכן!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Accedi al tuo account Zapier e crea un nuovo Zap.</0><1>Seleziona Cal.com come app trigger. Scegli l'evento trigger.</1><2>Seleziona il tuo account e immetti la tua chiave API univoca.</2><3>Fai una prova del tuo trigger.</3><4>Fatto!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Zapier アカウントにログインし、新しい Zap を作成します。</0><1>Cal.com をトリガーアプリとして選択します。また、トリガーイベントも選択します。</1><2>アカウントを選択し、あなた専用の API キーを入力します。</2><3>トリガーをテストします。</3><4>これで設定は完了です！</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Zapier 계정에 로그인하고 새 Zap을 만듭니다.</0><1>Cal.com을 트리거 앱으로 선택합니다. 또한 트리거 이벤트를 선택합니다.</1><2>계정을 선택한 후 고유 API 키를 입력합니다.</2><3>트리거를 테스트합니다.</3><4>설정이 완료되었습니다!</4 >"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Meld u aan op uw Zapier-account en maak een nieuwe Zap.</0><1>Selecteer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " als uw activatie-app. Kies ook een activatiegebeurtenis.</1><2>Kies uw account en voer vervolgens uw unieke API-sleutel in.</2><3>Test uw activatie.</3><4>U bent er klaar voor!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Logg på Zapier-kontoen din og opprett en ny Zap.</0><1>Velg "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " som din Trigger-app. Velg også en utløserhendelse.</1><2>Velg kontoen din og skriv deretter inn din unike API nøkkel.</2><3>Test utløseren.</3><4>Du er klar!</4 >"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Zaloguj się do swojego konta Zapier i utwórz nowy Zap.</0><1>Wybierz Cal.com jako aplikację wyzwalającą. Wybierz również wydarzenie wyzwalające. </1><2>Wybierz konto, a następnie wprowadź niepowtarzalny klucz interfejsu API.</2><3>Przetestuj wyzwalanie.</3><4>Wszystko gotowe!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Inicie sessão na sua conta Zapier e crie um novo Zap.</0><1>Seleccione "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " como aplicação acionadora. Selecione também um evento acionador.</1><2>Seleccione a sua conta e insira a sua chave de API única.</2><3>Teste o seu accionador.</3><4>Está configurado!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Entre na conta do Zapier e crie um novo Zap.</0><1>Selecione "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " como seu app de gatilho. Escolha também um evento de gatilho.</1><2>Escolha sua conta e insira sua chave de API única.</2><3>Teste seu gatilho.</3><4>Tudo pronto!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Conectează-te la contul Zapier și creează un Zap nou.</0><1>Selectează Cal.com ca aplicație Trigger. Alege și un eveniment Trigger.</1><2>Alege contul, apoi introdu cheia API unică.</2><3>Testează Trigger-ul.</3><4>Ai terminat!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Войдите в свой аккаунт Zapier и создайте новый Zap.</0><1>Выберите в качестве приложения-триггера Cal.com. Также выберите событие-триггер.</1><2>Выберите свою учетную запись и введите уникальный ключ API.</2><3>Проверьте триггер.</3><4>Готово!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Prijavite se na vaš Zapier nalog i kreirajte novi Zap.</0><1>Izaberite Cal.com kao vašu Trigger aplikaciju. Takođe izaberite i Trigger događaj.</1><2>Izaberite svoj nalog i unesite vaš jedinstveni API ključ.</2><3>Testirajte svoj Trigger.</3><4>Završili ste!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Logga in på ditt Zapier-konto och skapa en ny Zap.</0><1>Välj "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " som din Trigger-app. Välj också en Trigger-händelse. /1><2>Välj ditt konto och ange sedan din unika API-nyckel.</2><3>Testa din Trigger.</3><4>Du är klar!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Zapier hesabınıza giriş yapın ve yeni bir Zap oluşturun.</0><1>Trigger uygulamanız olarak Cal.com'u seçin. Ayrıca bir Trigger etkinliği seçin.</1><2>Hesabınızı seçin ve ardından Benzersiz API Anahtarınızı girin.</2><3>Trigger'ınızı test edin.</3><4>Hazırsınız!</4 >"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Увійдіть в обліковий запис Zapier та створіть Zap.</0><1>Виберіть Cal.com як додаток Trigger, а також укажіть подію Trigger.</1><2>Виберіть свій обліковий запис і введіть унікальний ключ API.</2><3>Перевірте тригер.</3><4>Усе готово!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Đăng nhập vào tài khoản Zapier của bạn và tạo một Zap mới.</0><1>Chọn "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " làm ứng dụng Trigger của bạn. Đồng thời chọn một sự kiện Trigger.</1><2>Chọn tài khoản của bạn và sau đó điền vào Khoá API đặc trưng.</2><3>Thử nghiệm Trigger của bạn.</3><4>Bạn đã xong!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>登录您的 Zapier 帐户并创建新的 Zap。</0><1>将 Cal.com 选择为 Trigger 应用。同时选择一个 Trigger 事件。</1><2>选择您的帐户，然后输入您的唯一 API 密钥。</2><3>测试您的 Trigger。</3><4>设置完毕!</4>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>登入您的 Zapier 帳號並建立新的 Zap。</0><1>選取 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 作為您的 Trigger 應用程式，也請一併選擇 Trigger 事件。</1><2>選擇您的帳號，然後輸入您的唯一 API 金鑰。</2><3>測試您的 Trigger。</3><4>一切就大功告成了！</4>"
+                }
+            ]
+        }
+    ]
+}

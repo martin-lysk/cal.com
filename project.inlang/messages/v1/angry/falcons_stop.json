@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "set_as_free",
+        "library.inlang.paraglideJs": "set_as_free"
+    },
+    "id": "angry_falcons_stop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تعطيل حالة \"ليس موجودًا\""
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vypnout status \"pryč\""
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deaktivér væk status"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Abwesenheitsstatus deaktivieren"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disable away status"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desactivar estado Ausente"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Désactiver le statut absent"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "השבתת הסטטוס 'לא נמצא/ת'"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disabilita lo stato \"assente\""
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "離席中状態を無効化する"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "공석 상태 비활성화"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Status afwezig uitschakelen"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deaktiver borte-status"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wyłącz status Nieobecny"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desactivar estado de ausência"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desativar status indisponível"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dezactivați starea Plecat"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отключить статус «отошел»"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deaktiviraj status prisutnosti"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ställ av din status som inte tillgänglig"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dışarıda durumunu devre dışı bırak"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вимкнути стан «Не на місці»"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tắt trạng thái đi vắng"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "关闭离开状态"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "關閉離開狀態"
+                }
+            ]
+        }
+    ]
+}

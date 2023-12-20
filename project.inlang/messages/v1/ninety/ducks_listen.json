@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "invalid_around_link",
+        "library.inlang.paraglideJs": "invalid_around_link"
+    },
+    "id": "ninety_ducks_listen",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يرجى إدخال رابط Around.Co صحيح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zadejte platný odkaz Around.Co"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Angiv venligst et gyldigt Around Link"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte geben Sie einen gültigen Around Link ein"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please enter a valid Around Link"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduce un enlace Around válido"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez saisir un lien Around.Co valide"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש להזין קישור Around.Co חוקי"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inserisci un link Around.Co valido"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "有効なAroundリンクを入力してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "유효한 Around 링크를 입력하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voer een geldige Around.Co-link in"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vennligst skriv inn en gyldig Around Link"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podaj prawidłowy link do aplikacji Around.Co"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Insira uma ligação válida do Around.Co"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Insira um link válido do Around.Co"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduceți un link Around.Co valid"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Укажите допустимую ссылку на Around.Co"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unesite ispravnu Around.Co vezu"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ange en giltig Around-länk"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lütfen geçerli bir Around Bağlantısı girin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введіть припустиме посилання на Around"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vui lòng nhập một Liên kết Around hợp lệ"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请输入有效的 Around.Co 链接"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請輸入有效的 Around.Co 連結"
+                }
+            ]
+        }
+    ]
+}

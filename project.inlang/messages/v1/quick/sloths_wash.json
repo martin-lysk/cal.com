@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "light_theme_contrast_error",
+        "library.inlang.paraglideJs": "light_theme_contrast_error"
+    },
+    "id": "quick_sloths_wash",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Light Theme color doesn't pass contrast check. We recommend you change this colour so your buttons will be more visible."
+                }
+            ]
+        }
+    ]
+}

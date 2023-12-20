@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "uprade_to_create_instant_bookings",
+        "library.inlang.paraglideJs": "uprade_to_create_instant_bookings"
+    },
+    "id": "witty_spiders_type",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Upgrade to Enterprise and let guests join an instant call that attendees can jump straight into. This is only for team event types"
+                }
+            ]
+        }
+    ]
+}

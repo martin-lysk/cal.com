@@ -1,0 +1,456 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "choose_ways_put_cal_site",
+        "library.inlang.paraglideJs": "choose_ways_put_cal_site"
+    },
+    "id": "cute_mugs_change",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "اختر واحدة من الطرق التالية لوضع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " على موقعك الإلكتروني."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vyberte si některý z následujících způsobů, jak umístit "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " na své stránky."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vælg en af følgende måder at sætte "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " på dit websted."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wählen Sie eine der folgenden Möglichkeiten, um "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " in Ihre Website zu integrieren."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Choose one of the following ways to put "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " on your site."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Elija una de las siguientes maneras de poner "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " en su sitio."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Choisissez l'une des méthodes suivantes pour mettre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sur votre site."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בחר/י אחת מהדרכים הבאות כדי לשלב את "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " באתר שלך."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Scegli uno dei seguenti modi per inserire "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nel tuo sito."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "サイトに "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " を設置する方法を、次の中から 1 つ選んでください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "귀하의 사이트에 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "을 추가하는 다음 방법 중 하나를 선택하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kies een van de volgende manieren om "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " op uw website te plaatsen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Velg en av følgende måter å plassere "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " på nettstedet ditt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wybierz jeden z następujących sposobów, aby umieścić aplikację "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " w swojej witrynie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Escolha uma das seguintes formas de colocar o "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " no seu site."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Escolha uma das maneiras a seguir para colocar o "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " no seu site."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alegeți una dintre următoarele modalități de a include "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " pe site-ul dvs."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Выберите способ размещения "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " на сайте."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Izaberite jedan od sledećih načina za postavljanje "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-a na vaš sajt."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Välj ett av följande sätt att lägga "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " på din webbplats."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "'ı sitenize eklemek için aşağıdaki seçeneklerden birini belirleyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Виберіть один із наведених нижче способів розмістити "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " на сайті."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chọn một trong những cách sau để đặt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " trên website."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "选择下列方式之一将 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 放到您的网站上。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "選擇下列其中一種方式將 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 放到您的網站。"
+                }
+            ]
+        }
+    ]
+}

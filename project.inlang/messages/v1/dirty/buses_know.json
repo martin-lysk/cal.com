@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "workflow_example_3",
+        "library.inlang.paraglideJs": "workflow_example_3"
+    },
+    "id": "dirty_buses_know",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إرسال بريد إلكتروني مخصص للمضيف عندما يتم حجز حدث جديد"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Odeslat hostiteli vlastní e-mail, pokud je rezervována nová událost"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send brugerdefineret e-mail til vært når ny begivenhed bookes"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Benutzerdefinierte E-Mail senden, wenn der Termin zum Moderieren gebucht wird"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send custom email when new event is booked to host"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar correo electrónico personalizado al anfitrión cuando se reserve un evento nuevo"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Envoyer un e-mail personnalisé à l'hôte lorsqu'un nouvel événement est réservé"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לשלוח דוא\"ל מותאם אישית למארח/ת כאשר אירוע חדש מוזמן"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Invia all'organizzatore un'e-mail personalizzata quando viene prenotato un nuovo evento"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "新しいイベントの予約時に、ホストにカスタムメールを送信する"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "호스트에 새 이벤트가 예약되면 사용자 정의 이메일 보내기"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aangepaste e-mail versturen naar organisator wanneer een nieuwe gebeurtenis wordt geboekt"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send verten en tilpasset e-post når en ny hendelse er booket"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wyślij do gospodarza spersonalizowaną wiadomość e-mail, gdy zostanie zarezerwowane nowe wydarzenie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar e-mail personalizado para o anfitrião quando um novo evento é agendado"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar e-mail personalizado quando o novo evento for agendado para o host"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trimiteți gazdei un e-mail personalizat atunci când evenimentul nou este rezervat"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отправить организатору электронное письмо с пользовательским содержанием, когда бронируется новое событие"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pošalji prilagođeni imejl domaćinu kada je novi događaj rezervisan"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skicka anpassat e-postmeddelande till värd när ny händelse bokas"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yeni bir etkinlik rezervasyonu yapıldığında organizatöre özel e-posta gönder"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Надсилати ведучому персоналізований електронний лист у разі бронювання нового заходу"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gửi email tuỳ chỉnh cho chủ sự kiện khi sự kiện mới được đặt lịch hẹn"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "预约新活动后向主持人发送自定义电子邮件"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "預約新活動時傳送自訂電子郵件給主辦者"
+                }
+            ]
+        }
+    ]
+}

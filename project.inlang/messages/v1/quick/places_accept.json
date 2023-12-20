@@ -1,0 +1,280 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_meeting_found_description",
+        "library.inlang.paraglideJs": "no_meeting_found_description"
+    },
+    "id": "quick_places_accept",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هذا الاجتماع غير موجود. اتصل بصاحب الاجتماع للحصول على الرابط المُحدَّث."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tato schůzka neexistuje. Pro aktualizovaný odkaz kontaktujte vlastníka schůzky."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dette møde findes ikke. Kontakt mødeejeren for et opdateret link."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dieser Termin existiert nicht. Kontaktieren Sie den Ersteller um einen aktuellen Link zu bekommen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This meeting does not exist. Contact the meeting owner for an updated link."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esta reunión no existe. Póngase en contacto con el responsable de la reunión para obtener un enlace actualizado."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bilera hau ez dago. Jarri harremanetan bileraren jabearekin eguneratutako esteka lortzeko."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ce rendez-vous n'existe pas. Contactez le propriétaire du rendez-vous pour obtenir un lien mis à jour."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "פגישה זו אינה קיימת. נא לפנות אל הבעלים של הפגישה לקבלת קישור מעודכן."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovaj sastanak ne postoji. Kontaktirajte organizatora sastanka za ažurirani link."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Questa riunione non esiste. Contatta il proprietario della riunione per un link aggiornato."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "このミーティングは存在しません。更新されたリンクについてはミーティングの所有者に連絡してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "존재하지 않는 회의입니다. 회의 운영자에게 새 링크를 문의하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kan deze afspraak niet vinden. Neem contact op met de organisator voor een nieuwe link."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dette møtet eksisterer ikke. Kontakt møteeieren for en oppdatert lenke."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To spotkanie nie istnieje. Skontaktuj się z właścicielem spotkania, aby uzyskać zaktualizowany link."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esta reunião não existe. Contacte o proprietário da reunião para obter uma ligação atualizada."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esta reunião não existe. Contate o organizador da reunião para obter um link atualizado."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Această ședință nu există. Contactați proprietarul ședinței pentru un link actualizat."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Этой встречи не существует. Обратитесь к владельцу встречи за новой ссылкой."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovaj sastanak ne postoji. Kontaktirajte admina sastanka za ažuriran link."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mötet finns inte. Kontakta mötesägaren för en uppdaterad länk."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu toplantı mevcut değil. Güncel bir bağlantı için toplantı sahibiyle iletişime geçin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Цієї наради не існує. Зверніться до власника наради по оновлене посилання."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cuộc họp này không tồn tại. Liên hệ với chủ trì cuộc họp để có liên kết mới."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此会议不存在。联系会议所有者获取更新后的链接。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "會議不存在。請聯繫會議主持人取得新連結。"
+                }
+            ]
+        }
+    ]
+}

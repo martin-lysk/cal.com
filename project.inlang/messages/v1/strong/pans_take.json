@@ -1,0 +1,360 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "new_event_type_availability",
+        "library.inlang.paraglideJs": "new_event_type_availability"
+    },
+    "id": "strong_pans_take",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "توافر "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dostupnost pro "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " Tilgængelighed"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " | Verfügbarkeit"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " Availability"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disponibilidad para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disponibilités de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "זמינות "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disponibilità "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 空き状況"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 가용성"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beschikbaarheid "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " Tilgjengelighet"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " – dostępność"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disponibilidade de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disponibilidade de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disponibilitate "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " | Доступность"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " Dostupnost"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tillgänglighet till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " Müsaitlik Durumu"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Доступність: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tình trạng trống lịch của "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 可预约时间"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 開放時間"
+                }
+            ]
+        }
+    ]
+}

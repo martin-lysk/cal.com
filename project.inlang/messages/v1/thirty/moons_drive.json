@@ -1,0 +1,270 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "request_is_expired_instructions",
+        "library.inlang.paraglideJs": "request_is_expired_instructions"
+    },
+    "id": "thirty_moons_drive",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "انتهت صلاحية ذلك الطلب. قم بالعودة وأدخل البريد الإلكتروني المرتبط بحسابك وسنرسل إليك رابطًا آخر لإعادة تعيين كلمة المرور."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Platnost odkazu vypršela. Vraťte se zpět a zadejte e-mail přiřazený k vašemu účtu. Pošleme vám na něj nový odkaz pro obnovení vašeho hesla."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Denne anmodning er udløbet. Gå tilbage og indtast den e-mail der er tilknyttet din konto, og vi vil sende dig et nyt link til at nulstille din adgangskode."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Diese Anfrage ist abgelaufen. Gehen Sie zurück und geben Sie die E-Mail Ihres Kontos ein und wir senden Ihnen einen weiteren Link zum Zurücksetzen Ihres Passworts."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "That request is expired. Go back and enter the email associated with your account and we will send you another link to reset your password."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La solicitud ha caducado. Vuelve e introduce el email asociado a tu cuenta y te enviaremos otro enlace para restablecer tu contraseña."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cette requête a expiré. Revenez en arrière et saisissez l'adresse e-mail associée à votre compte. Nous vous enverrons un autre lien pour réinitialiser votre mot de passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "תוקף הבקשה פג. נא לחזור אחורה ולהזין את כתובת הדוא\"ל המשויכת לחשבון שלך, ואנו נשלח לך קישור נוסף לאיפוס הסיסמה."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Taj zahtjev je istekao. Vratite se i unesite adresu e-pošte povezanu s vašim računom i poslat ćemo vam drugi link za resetiranje lozinke."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La richiesta è scaduta. Torna indietro e inserisci l'email associata al tuo account e ti invieremo un altro link per reimpostare la password."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "リクエストの有効期限が切れています。アカウントに関連付けられているメールアドレスを入力すると、パスワードをリセットするための別のリンクが送信されます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "해당 요청은 만료되었습니다. 돌아가서 계정과 연결된 이메일을 입력하면 비밀번호를 재설정할 수 있는 다른 링크를 보내드립니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dat verzoek is verlopen. Ga terug en voer het e-mailadres in dat gekoppeld is aan uw account en wij sturen u een andere link om uw wachtwoord opnieuw in te stellen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Den forespørselen er utløpt. Gå tilbake og skriv inn e-postadressen knyttet til kontoen din, så sender vi deg en annen lenke for å tilbakestille passordet ditt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ta prośba wygasła. Wróć i wprowadź e-mail powiązany z Twoim kontem, a wyślemy Ci kolejny link do zresetowania hasła."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este pedido expirou. Volte atrás e digite o email associado à sua conta para lhe enviarmos uma nova ligação para redefinir a sua senha."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este pedido expirou. Volte atrás e digite o email associado à sua conta para lhe enviarmos uma nova ligação para redefinir a sua senha."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Această cerere a expirat. Întoarce-te și introdu e-mailul asociat contului tău și îți vom trimite un alt link pentru a reseta parola."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Срок действия запроса истек. Вернитесь и введите адрес электронной почты, привязанный к вашей учетной записи, и мы вышлем вам новую ссылку для сброса пароля."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Taj zahtev je istekao. Idite nazad i unesite adresu e-pošte koja je povezana sa vašim nalogom i mi ćemo vam poslati drugi link da resetujete lozinku."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Denna begäran har löpt ut. Gå tillbaka och ange e-postmeddelandet som är kopplat till ditt konto och vi kommer att skicka dig en annan länk för att återställa ditt lösenord."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu istek zaman aşımına uğradı. Geri dönün ve hesabınızla ilişkili e-posta adresini girin. Şifrenizi sıfırlamanız için size başka bir bağlantı göndereceğiz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Термін дії цього запиту закінчився. Поверніться та введіть адресу електронної пошти, пов’язану з вашим обліковим записом, і ми надішлемо вам ще одне посилання для скидання пароля."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yêu cầu đó đã hết hạn. Quay lại và nhập email tài khoản của bạn và chúng tôi sẽ gửi cho bạn liên kết khác để đặt lại mật khẩu."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此请求已过期。请返回并输入与您账户关联的电子邮件，我们将向您发送另一个链接以重置您的密码。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此要求已經逾期。回上一步驟，輸入帳號使用的電子郵件位址，就會收到另一組重設密碼的連結。"
+                }
+            ]
+        }
+    ]
+}

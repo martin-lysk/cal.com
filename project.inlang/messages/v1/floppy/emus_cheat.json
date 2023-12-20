@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "delete_schedule_description",
+        "library.inlang.paraglideJs": "delete_schedule_description"
+    },
+    "id": "floppy_emus_cheat",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيؤدي حذف الجدول الزمني إلى إزالته من جميع أنواع الأحداث، ولا يمكن التراجع عن هذا الإجراء."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Odstraněný plán bude odstraněn ze všech typů událostí. Tuto akci nelze vrátit zpět."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das Löschen eines Verfügbarkeitsplanes entfernt ihn von allen Termintypen. Diese Aktion kann nicht rückgängig gemacht werden."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deleting a schedule will remove it from all event types. This action cannot be undone."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Al borrar un horario se eliminará de todos los tipos de eventos. Esta acción no se puede deshacer."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La suppression d'un planning l'enlèvera de tous les types d'événements. Cette action ne peut pas être annulée."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מחיקת תזמון תמחק אותו מכל סוגי הארועים. לא ניתן לבטל פעולה זו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'eliminazione di una pianificazione comporterà la sua rimozione da tutti i tipi di eventi. L'azione non può essere annullata."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "スケジュールを削除すると、すべてのイベントの種類から削除されます。この操作は元に戻せません。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "일정을 삭제하면 모든 이벤트 유형에서 제거됩니다. 이 작업은 취소할 수 없습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Het verwijderen van een planning verwijdert deze uit alle gebeurtenistypen. Deze actie kan niet ongedaan worden gemaakt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Usunięcie harmonogramu spowoduje usunięcie go ze wszystkich typów wydarzeń. Tego działania nie można cofnąć."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A eliminação de um agendamento irá removê-lo de todos os tipos de eventos. Esta ação não poderá ser revertida."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A exclusão da agenda vai removê-la de todos os tipos de evento. Essa ação não pode ser desfeita."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ștergerea unei programări o va elimina din toate tipurile de evenimente. Această acțiune nu poate fi anulată."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Если вы удалите расписание, оно удалится из всех типов событий. Это действие нельзя отменить."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Brisanje rasporeda će ga ukloniti iz svih tipova događaja. Ova radnja ne može da se opozove."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om du tar bort ett schema, tas det bort från alla händelsetyper. Åtgärden kan inte ångras."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Plan silindiğinde tüm etkinlik türlerinden kaldırılır. Bu işlem geri alınamaz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Видалений розклад буде вилучено з усіх типів заходів. Цю дію неможливо скасувати."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Theo tác xóa một lịch hẹn sẽ xóa bỏ đi lịch hẹn đó ra khỏi tất cả các loại sự kiện. Thao tác này không thể hồi lại được."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "删除日程安排会将其从所有活动类型中删除。此操作无法撤消。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "若刪除行程，該行程將從所有活動類型中移除。此操作無法復原。"
+                }
+            ]
+        }
+    ]
+}

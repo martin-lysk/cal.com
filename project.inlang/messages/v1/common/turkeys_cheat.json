@@ -1,0 +1,340 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_invite_team",
+        "library.inlang.paraglideJs": "email_invite_team"
+    },
+    "id": "common_turkeys_cheat",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم دعوة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozvánka pro uživatele "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " odeslána"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " wurde eingeladen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " has been invited"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se ha invitado a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " a été invité"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נשלחה הזמנה ל-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " è stato invitato"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " が招待されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "이(가) 초대되었습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " is uitgenodigd"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaproszono "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " foi convidado/a"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " recebeu um convite"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " a fost invitat"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Участник "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " приглашен(а)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " je pozvan/a"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " har bjudits in"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " davet edildi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " запрошено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã được mời"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已被邀请"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已邀請 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        }
+    ]
+}

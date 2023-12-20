@@ -1,0 +1,1144 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "team_upgrade_seats_details",
+        "library.inlang.paraglideJs": "team_upgrade_seats_details"
+    },
+    "id": "twenty_boats_shout",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "من بين "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " من الأعضاء في فريقك، لم يتم الدفع مقابل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " من المقاعد. بما أن سعر المقعد $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " شهريًا، تبلغ التكلفة الإجمالية المقدرة لعضويتك $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " شهريًا."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " členů ve vašem týmů je "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " míst neplacených. Při $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " měsíčně za místo je odhad celkové částky za členství $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " měsíčně."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Af "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " medlemmer i dit team, er "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " plads(er) ubetalt. Ved $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/ måned pr. plads, er den estimerede samlede pris for dit medlemskab $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/måned."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Von den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " Mitgliedern in Ihrem Team sind "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " Sitze(n) unbezahlt. Bei $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m pro Sitzplatz betragen die geschätzten Gesamtkosten Ihrer Mitgliedschaft $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Of the "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " members in your team, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " seat(s) are unpaid. At $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/month per seat the estimated total cost of your membership is $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/month."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De los "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " miembros de su equipo, no se han pagado "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " licencia(s). A "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " $/m por licencia, el coste total estimado de su membresía es de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " $/mes."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Parmi les "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " membres de votre équipe, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " place(s) sont impayées. À "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " $/mois par place, le coût total estimé de votre abonnement est de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " $/mois."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא התבצע תשלום עבור "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " מקומות מתוך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " חברי הצוות שלך. תמורת $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " לחודש למקום, עלות המינוי הכוללת המשוערת שלך היא $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " לחודש."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Od "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " članova u vašem timu, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " mjesta/o su neplaćena. Za $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " mjesečno po mjestu, procijenjeni ukupni trošak vašeg članstva je $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " mjesečno."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dari "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " anggota di tim kamu, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " orang tidak berbayar. Dengan harga $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bulan per orang, perkiraan biaya total keanggotaan adalah $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bulan."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " membri del tuo team, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " posti non sono pagati. A € "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m per posto, il costo totale stimato della tua adesione è di € "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたのチームに所属する "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 人のメンバーのうち、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 名分のライセンスが未払いとなっています。ライセンスごとの料金は、$"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " / 月ですので、あなたのメンバーシップの合計金額は、$"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " / 月になると予想されます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "귀하의 팀원 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": "명 중 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": "명의 시트 비용이 미지급되었습니다. 시트당 $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m로 계산시, 예상 총 멤버십 비용은 $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m입니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Van de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " leden in uw team zijn "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " plaats(en) onbetaald. Voor $ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/maand per plaats bedragen de geschatte totale kosten van uw abonnement $ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/maand."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Av de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " medlemmene i teamet ditt er "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " sete(r) ubetalt. Ved $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/måned per sete er den estimerte totale kostnaden for medlemskapet ditt $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/måned."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Spośród "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " członków Twojego zespołu, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " miejsc(e) nie jest opłacane. Szacowany całkowity koszt Twojego członkostwa w liczbie $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " na miesiąc wynosi $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " na miesiąc."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dos "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " membros da sua equipa, há "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " lugar(es) sem pagamento. Por $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m por lugar, o custo total estimado dos seus membros é de $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dos "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " membros da sua equipe, há "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " assento(s) não pago(s). A $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/mês por assento, o custo total estimado da sua assinatura é de $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/mês."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Printre cei "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " (de) membri din echipa dvs., "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " (de) locuri nu sunt plătite. La "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " USD/lună/licență, costul total estimat al abonamentului dvs. este de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " USD/lună."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "В вашей команде "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " пользователей; из них не оплачено еще "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " мест. При оплате $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " в месяц за место общая сумма к оплате составляет $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " в месяц."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Od "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " članova u vašem timu, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " mesta/o nisu plaćena. Za $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/mesečno po mestu procenjena celokupna cena vašeg članstva je $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/mesečno."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " medlemmar i ditt lag är "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " plats(er) obetalda. Vid $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m per plats är den uppskattade totala kostnaden för ditt medlemskap $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/m."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ekibinizdeki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " üyeden "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " yer ücretsiz. Alan başına aylık "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " $ ile üyeliğinizin tahmini toplam maliyeti aylık "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " $'dır."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "У вас стільки неоплачених місць для учасників команди: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " із "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Одне місце коштує "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": " $ за місяць, тому загальна вартість вашого членства складатиме приблизно "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": " $ за місяць."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trong tổng "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " thành viên của nhóm bạn, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " thành viên chưa được thanh toán. Với "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "$/tháng mỗi thành viên, tổng chi phí cho nhóm bạn là "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "$/tháng."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您团队中一共 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 人, 其中 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 个位置未付费. 按 $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "/月/人 来估算您的花费为 $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "/月"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "團隊裡一共有 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "memberCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 位成員，"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unpaidCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 個座位不是付費的。每個月每個座位的費用是 $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "seatPrice"
+                },
+                {
+                    "type": "Text",
+                    "value": "，因此會員資格總共是每個月 $"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "totalCost"
+                },
+                {
+                    "type": "Text",
+                    "value": "。"
+                }
+            ]
+        }
+    ]
+}

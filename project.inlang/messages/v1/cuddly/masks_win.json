@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "payment_not_created_error",
+        "library.inlang.paraglideJs": "payment_not_created_error"
+    },
+    "id": "cuddly_masks_win",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Payment could not be created"
+                }
+            ]
+        }
+    ]
+}

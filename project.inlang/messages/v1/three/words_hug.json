@@ -1,0 +1,424 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "charge_card_dialog_body",
+        "library.inlang.paraglideJs": "charge_card_dialog_body"
+    },
+    "id": "three_words_hug",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أنت على وشك تحصيل مبلغ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " من أحد الحضور. هل أنت متأكد من أنك تريد المتابعة؟"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chystáte se účtovat účastníkovi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Opravdu chcete pokračovat?"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie sind im Begriff, dem Teilnehmer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " in Rechnung zu stellen. Sind Sie sicher, dass Sie fortfahren möchten?"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You are about to charge the attendee "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Are you sure you want to continue?"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Está a punto de cobrarle "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " al asistente. ¿Está seguro de que desea continuar?"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous êtes sur le point de facturer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " au participant. Voulez-vous vraiment continuer ?"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "את/ה עומד/ת לחייב את המשתתף/ת בסכום של "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". בטוח/ה שברצונך להמשיך?"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Stai per addebitare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " al partecipante. Confermi di voler proseguire?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "出席者に "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " を請求しようとしています。続けてもよろしいですか？"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "참석자에게 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "을 청구하려고 합니다. 계속 진행하시겠습니까?"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U staat op het punt om de deelnemer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " in rekening te brengen. Weet u zeker dat u wilt doorgaan?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zamierzasz obciążyć uczestnika kwotą "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Czy na pewno chcesz kontynuować?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Está em vias de cobrar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " ao participante. Tem a certeza que pretende continuar?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você está prestes a cobrar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " do participante. Tem certeza de que deseja continuar?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Urmează să percepeți "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " de la participant. Sigur doriți să continuați?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы собираетесь списать с участника "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Продолжить?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Upravo ćete naplatiti učesniku "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Jeste li sigurni da želite da nastavite?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du är på väg att debitera deltagaren "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Vill du verkligen fortsätta?"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Katılımcıdan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " tahsil etmek üzeresiniz. Devam etmek istediğinizden emin misiniz?"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ви збираєтеся стягнути з учасника плату в сумі "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Продовжити?"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn sắp sửa thu phí người tham gia một khoản "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Bạn có chắc chắn muốn tiếp tục?"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您即将向参与者收取费用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "。确定要继续吗？"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您即將向與會者收取 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "。確定要繼續嗎？"
+                }
+            ]
+        }
+    ]
+}

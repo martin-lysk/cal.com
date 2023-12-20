@@ -1,0 +1,420 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "summary_of_events_for_your_team_for_the_last_30_days",
+        "library.inlang.paraglideJs": "summary_of_events_for_your_team_for_the_last_30_days"
+    },
+    "id": "crazy_papayas_decide",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إليك ملخصك للأحداث الشعبية لفريقك "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " خلال آخر 30 يومًا"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zde je přehled oblíbených událostí vašeho týmu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " za posledních 30 dní"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hier ist Ihre Zusammenfassung der beliebten Termine für Ihr Team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " der letzten 30 Tage"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Here's your summary of popular events for your team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " for the last 30 days"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este es el resumen de los eventos populares de su equipo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " durante los últimos 30 días"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voici votre résumé des événements populaires pour votre équipe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " au cours des 30 derniers jours"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הנה הסיכום של האירועים הפופולריים של הצוות שלך, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", ל-30 הימים האחרונים"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ecco il riepilogo degli eventi popolari per il tuo team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " negli ultimi 30 giorni"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "こちらはこの 30 日間、チーム "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " で最も人気があったイベントのサマリーです"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "지난 30일간 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 팀의 인기 이벤트 요약은 다음과 같습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dit is uw overzicht van populaire evenementen voor uw team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " van de afgelopen 30 dagen"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oto podsumowanie popularnych wydarzeń dla Twojego zespołu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " z ostatnich 30 dni"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aqui está o seu resumo dos eventos populares da sua equipa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " para os últimos 30 dias"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aqui está seu resumo dos eventos populares da sua equipe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nos últimos 30 dias"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Iată rezumatul evenimentelor populare pentru echipa dvs. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " din ultimele 30 de zile"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Информация о популярных событиях для вашей команды "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " за последние 30 дней"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Evo preseka popularnih događaja za vaš tim "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " u poslednjih 30 dana"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Här är din sammanfattning av populära händelser för ditt team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " de senaste 30 dagarna"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibinize ait son 30 gündeki popüler etkinliklerin özetini burada bulabilirsiniz"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ось зведена інформація про популярні заходи для вашої команди «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» за останні 30 днів"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đây là tóm tắt những sự kiện phổ biến cho nhóm "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " của bạn trong 30 ngày qua"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "以下是您的团队 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 在过去 30 天的热门活动摘要"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的團隊「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "」最近 30 天的熱門活動摘要如下"
+                }
+            ]
+        }
+    ]
+}

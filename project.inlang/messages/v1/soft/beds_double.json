@@ -1,0 +1,596 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "managed_event_dialog_title_one",
+        "library.inlang.paraglideJs": "managed_event_dialog_title_one"
+    },
+    "id": "soft_beds_double",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "رابط /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " موجود بالفعل لـ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " عضو. هل تريد استبداله؟"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adresa URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " již existuje pro "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " člena. Chcete ji nahradit?"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Die URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " wird bereits von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " Mitglied genutzt. Möchten Sie sie ersetzen?"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The url /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " already exists for "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " member. Do you want to replace it?"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La url /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " ya existe para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " miembro. ¿Desea reemplazarla?"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le lien /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " existe déjà pour "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " membre. Voulez-vous le remplacer ?"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כתובת ה-URL /‏"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " כבר קיימת עבור חבר/ה "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": ". האם ברצונך להחליף אותה?"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " esiste già per "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " membro. Vuoi sostituirlo?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 人のメンバーがすでに URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " を使用しています。置き換えますか？"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "은(는) "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": "명의 회원에 대해 이미 존재합니다. 바꾸시겠습니까?"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " bestaat al voor "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " lid. Wilt u deze vervangen?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adres URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " już istnieje dla "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " członka. Czy chcesz go zastąpić?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " já existe para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " membro. Pretende substituir a mesma?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O url/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " já existe para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " membro. Deseja substituir?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL-ul /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " există deja pentru "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " membru. Doriți să îl înlocuiți?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL-адрес /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " уже используется "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " участником. Заменить?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " već postoji za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " člana. Da li želite da ga zamenite?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Webbadressen/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " finns redan för "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " medlem. Vill du ersätta den?"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " üye için zaten mevcut. Bunu değiştirmek istiyor musunuz?"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL-адреса /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " вже існує для "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " учасника. Замінити її?"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL / "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã có sẵn cho "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " thành viên. Bạn có muốn thay thế nó?"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 个成员已具有链接/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "。是否要将其替换?"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 位成員已有網址 /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "。是否要替換？"
+                }
+            ]
+        }
+    ]
+}

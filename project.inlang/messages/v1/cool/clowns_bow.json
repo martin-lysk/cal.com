@@ -1,0 +1,420 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_no_user_invite_steps_intro",
+        "library.inlang.paraglideJs": "email_no_user_invite_steps_intro"
+    },
+    "id": "cool_clowns_bow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سنرشدك خلال بضع خطوات قصيرة وستستمتع بجدول زمني خالٍ من التوتر مع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " في لمح البصر."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Provedeme vás několika krátkými kroky a za malou chvíli si budete se svým subjektem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " užívat plánování bez stresu."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wir begleiten Sie durch ein paar Schritte, danach können Sie in kürzester Zeit stressfreie Planung mit Ihrer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " genießen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We’ll walk you through a few short steps and you’ll be enjoying stress free scheduling with your "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " in no time."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lo guiaremos a través de unos pocos pasos y disfrutará de una programación sin estrés con su "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " en muy poco tiempo."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nous vous guiderons à travers quelques étapes courtes et vous profiterez d'une planification sans stress avec votre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " en un rien de temps."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נדריך אותך במספר קטן של צעדים ותוכל/י להתחיל ליהנות מקביעת מועדים עם ה-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " שלך במהירות ובלי בעיות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ti assisteremo nei passaggi iniziali e potrai rapidamente pianificare eventi per il/la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " senza fatica."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "いくつかの短い手順を踏むだけで、すぐに "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " のストレスフリーなスケジュール設定をお楽しみいただけます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "안내해 드릴 몇 가지 간단한 단계만 거치면 곧 스트레스 없이 편리하게 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " 일정을 관리할 수 있게 될 것입니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We doorlopen samen een paar korte stappen en in een mum van tijd kunt u genieten van een stressvrije planning met uw "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Przeprowadzimy Cię przez kilka krótkich kroków i wkrótce w ramach "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " zaczniesz z przyjemnością korzystać z bezstresowego planowania."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vamos ajudar com alguns pequenos passos para que você e a sua "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " possam desfrutar rapidamente de uma gestão de agendamentos sem complicações."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Orientaremos ao longo de alguns passos rápidos para que você comece logo a agendar eventos com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " sem preocupação."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vom parcurge împreună câțiva pași simpli și vă veți bucura alături de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " dvs. de programări fără probleme, în cel mai scurt timp."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Всего несколько шагов — и вы сможете оперативно и без стресса планировать встречи в рамках вашей "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Provešćemo vas u nekoliko kratkiih koraka i za tren ćete uživati u zakazivanju bez stresa sa vašim "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi guidar dig genom några korta steg och du kommer att kunna schemalägga med din/ditt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " på nolltid utan stress."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibinizle birlikte kısa sürede ve sorunsuz planlama yapmanın keyfini çıkarmanız için birkaç adımda size rehberlik edeceğiz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ми ознайомимо вас із застосунком, і вже скоро ви й ваша "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " насолоджуватиметеся плануванням без жодного клопоту."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chúng tôi sẽ hướng dẫn cho bạn qua vài bước nhỏ và bạn sẽ tận hưởng được ngay cảm giác thoải mái không căng thẳng trong việc lên lịch cùng "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " của mình."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我们将引导您完成几个简短步骤，您将立即与您的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " 一起享受无压力的日程安排。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我們會逐步引導您完成幾個簡短的步驟，然後您就能馬上與 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " 享受沒有壓力的排程預定功能。"
+                }
+            ]
+        }
+    ]
+}

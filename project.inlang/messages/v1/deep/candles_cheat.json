@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "changed_team_billing_info",
+        "library.inlang.paraglideJs": "changed_team_billing_info"
+    },
+    "id": "deep_candles_cheat",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "بدءًا من يناير 2022، أصبحنا نفرض الرسوم على مقاعد أعضاء الفريق بشكل منفرد. حاليًا، أعضاء فريقك الذين كانت لديهم خطة Pro مجانية أصبحوا في فترة تجريبية مدتها 14 يومًا. وبمجرد انتهاء الفترة التجريبية الخاصة بهم، سيجري إخفاء هؤلاء الأعضاء من فريقك ما لم تقم بالترقية الآن."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Od ledna 2022 účtujeme členy vašeho týmu podle počtu míst. Členové vašeho týmu, kteří využívali tarif Pro zdarma, nyní mají 14 denní zkušební verzi. Jakmile zkušební verze skončí, nebudou tito členové v týmu vidět, pokud nepřejdete na vyšší tarif."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fra januar 2022 opkræver vi pr. plads for teammedlemmer. Medlemmer af Deres team, der havde PRO gratis, er nu på en 14 dages prøveperiode. Når deres prøveperiode udløber, vil disse medlemmer blive skjult fra dit team, medmindre du opgraderer nu."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ab Januar 2022 berechnen wir pro Sitzplatz für Teammitglieder. Mitglieder deines Teams, die Pro kostenlos hatten, sind jetzt in einer 14 Tage Testphase. Sobald die Testversion abläuft, werden diese Mitglieder vor Ihrem Team verborgen, es sei denn, Sie upgraden jetzt."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "As of January 2022 we charge on a per-seat basis for team members. Members of your team who had PRO for free are now on a 14 day trial. Once their trial expires these members will be hidden from your team unless you upgrade now."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A partir de enero de 2022 cobramos por licencia para los miembros del equipo. Los miembros de tu equipo que tenían el plan Pro de forma gratuita están ahora en una prueba de 14 días. Una vez que caduque su prueba, estos miembros estarán ocultos para tu equipo a menos que actualices ahora."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Depuis janvier 2022, nous facturons chaque place aux membres de l'équipe. Les membres de votre équipe qui ont eu le plan Pro gratuitement disposent maintenant d'un essai de 14 jours. Une fois leur période d'essai expirée, ces membres seront masqués pour votre équipe sauf si vous mettez à niveau maintenant."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "החל מינואר 2022, התחלנו לגבות תשלום עבור כל חבר צוות שמשתתף בפגישה. חברי צוות שעבדו עם גרסת PRO בחינם, הועברו לגרסת ניסיון למשך 14 יום. ברגע שהתוקף של גרסת הניסיון יסתיים, חברי צוות אלה יוסתרו מהצוות, אלא אם תשדרג כעת."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A partire da gennaio 2022, applichiamo una tariffazione in base ai posti per i membri dei team. I membri del tuo team che utilizzavano Pro gratuitamente dispongono ora di un periodo di prova di 14 giorni. Terminata la prova, questi membri saranno nascosti dal tuo team, se non aggiornerai il piano."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "2022 年 1 月より、チームのメンバーには座席単位で料金が請求されます。Pro プランを無料でご利用いただいていたチームメンバーにつきましては、現在は 14 日間のトライアル期間中となっています。今すぐアップグレードしない限り、トライアル期間の終了とともにこれらのメンバーはあなたのチームにおいて非表示となります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "2022년 1월부터 팀원에 대해 시트별로 요금을 부과합니다. 무료로 Pro를 사용하던 팀원은 이제 14일 평가판을 사용할 수 있습니다. 평가판 기한이 만료되고 업그레이드하지 않으면 이 팀원은 팀에서 숨겨집니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vanaf januari 2022 rekenen we per plaats voor teamleden. Leden van uw team die Pro gratis hadden, hebben nu een proefperiode van 14 dagen. Zodra hun proefperiode afloopt, worden deze leden verborgen voor uw team, tenzij u nu upgradet."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fra januar 2022 tar vi betalt per sete for teammedlemmer. Medlemmer av teamet ditt som hadde PRO gratis, har nå en 14 dagers prøveversjon. Når prøveperioden deres utløper, vil disse medlemmene bli skjult for teamet ditt med mindre du oppgraderer nå."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Od stycznia 2022 r. obciążamy członków zespołu opłatami za miejsce. Członkowie zespołu, którzy mieli PRO za darmo są teraz w 14-dniowym okresie próbnym. Po wygaśnięciu okresu próbnego członkowie ci zostaną ukryci przed Twoim zespołem, chyba że ulepszysz teraz."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desde Janeiro de 2022 a cobrança é efectuada por cada lugar de membro da equipa. Os membros da sua equipa que tivessem a versão Pro gratuitamente, estão agora num período experimental de 14 dias. Assim que este período expirar, estes membros ficarão ocultos da sua equipa, a menos que actualize agora."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A partir de janeiro de 2022, a cobrança dos membros de equipe será realizada por assento. Os membros da sua equipe que tinham o plano PRO gratuito receberam um teste de 14 dias. Ao fim do teste, eles serão ocultos da sua equipe, a não ser que você atualize agora."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Începând din ianuarie 2022, se percepe un preț per licență pentru membrii echipei. Membrii echipei dvs. care au avut gratuit planul PRO sunt acum într-o perioadă de probă de 14 zile. Odată ce perioada de probă expiră, acești membri vor fi ascunși în echipa dvs. dacă nu faceți upgrade acum."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "С января 2022 года мы взимаем плату с членов команды за каждое место. Членам вашей команды, которые пользовались тарифным планом Pro бесплатно, теперь будет предоставлена 14-дневная пробная версия. Если вы не перейдете на тарифный план Pro сейчас, по истечении этого периода такие члены команды будут скрыты."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Od Januara 2022 vršimo naplatu po mestu za članove tima. Članovi vašeg tima koji su imali Pro besplatno su sada na Pro probnom periodu od 14 dana. Kad probni period istekne ovi članovi biće sakriveni od vašeg tima ukoliko se ne pretplatite na ovu uslugu."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Från och med januari 2022 tar vi betalt på plats-basis för teammedlemmar. Medlemmar i ditt team som hade Pro gratis är nu på en 14 dagars provperiod. När deras provperiod löper ut kommer dessa medlemmar att döljas från ditt team om du inte uppgraderar nu."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocak 2022'den itibaren her ekip üyesi alanı için ücret alıyoruz. Ücretsiz PRO'ya sahip olan ekip üyeleriniz şu anda 14 günlük deneme süresinde. Deneme süreleri sona erdiğinde ve yükseltme yapmadığınızda bu üyeler ekibinizden gizlenecektir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Станом на січень 2022 року оплата з учасників команди стягується за кількістю місць. Учасників вашої команди, які безкоштовно користувалися функціями Pro, тепер переведено на 14-денні пробні версії. Щойно пробний період завершиться, учасників вашої команди, для яких не придбано план Pro, буде приховано."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kể từ tháng 1 năm 2022, chúng tôi tính phí trên cơ sở từng người cho các thành viên trong nhóm. Các thành viên trong nhóm của bạn mà từng có PRO miễn phí nay sẽ chuyển sang dùng thử 14 ngày. Khi thời gian dùng thử hết hạn, các thành viên này sẽ bị ẩn khỏi nhóm của bạn trừ khi bạn nâng cấp."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "自2022年1月起，我们将按每个位置向团队成员收取费用。 您的团队中免费获得专业版的成员现在正在进行为期14天的试用。 试用期结束后，这些成员将在您的团队中隐藏，除非您现在升级到专业版。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "2022 年一月起，我們會依照團隊成員的座位數進行收費。曾經免費使用 Pro 帳號的成員現在會有 14 天試用期。試用結束之後，除非立即升級，要不然成員會在團隊中隱藏起來。"
+                }
+            ]
+        }
+    ]
+}

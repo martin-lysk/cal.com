@@ -1,0 +1,596 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "integration_meeting_id",
+        "library.inlang.paraglideJs": "integration_meeting_id"
+    },
+    "id": "floppy_times_behave",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "مُعرّف اجتماع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": ":‏ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "ca",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " Identificador de la reunió: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ID schůzky: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " møde-ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " Termin-ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ID συνάντησης "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " meeting ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ID de la reunión "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": ": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " bileraren IDa: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Identifiant du rendez-vous "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " מזהה פגישה: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ID sastanka: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ID pertemuan: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " meeting ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ミーティング ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 회의 ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " afspraak ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " møte-ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ID spotkania: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ID da reunião de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": ": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ID da reunião de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": ": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ședință ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ID встречи: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ID sastanka: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mötes-ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " சந்திப்பு ஐடி: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " toplantı kimliği: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ідентифікатор наради «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": "»: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ID buổi hẹn: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 会议 ID: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "integrationName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 會議識別碼："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "meetingId"
+                }
+            ]
+        }
+    ]
+}

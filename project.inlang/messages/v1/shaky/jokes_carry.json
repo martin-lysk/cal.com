@@ -1,0 +1,270 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "2fa_enabled_instructions",
+        "library.inlang.paraglideJs": "2fa_enabled_instructions"
+    },
+    "id": "shaky_jokes_carry",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم تمكين المصادقة من عاملين. يُرجى إدخال الرمز المكون من ستة أرقام من تطبيق المصادقة لديك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dvoufázové ověřování je povoleno. Zadejte šestimístný kód z vaší autentizační aplikace."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To-faktor autentificering aktiveret. Indtast venligst den sekscifrede kode fra din autentificeringsapp."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zwei-Faktor-Authentifizierung aktiviert. Bitte geben Sie den sechsstelligen Code aus Ihrer Authentifizierungs-App ein."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Two-factor authentication enabled. Please enter the six-digit code from your authenticator app."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Autenticación de doble factor activada. Introduzca el código de seis dígitos de su aplicación de autenticación."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La double authentification est activée. Veuillez entrer le code à six chiffres de votre application d'authentification."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אימות דו-גורמי מופעל. הזן את הקוד בן שש הספרות שמוצג באפליקציית האימות (authenticator) שלך."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dvofaktorska autentifikacija je omogućena. Unesite šesteroznamenkasti kôd iz svoje aplikacije za provjeru autentičnosti."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Autenticazione a due fattori abilitata. Inserisci il codice a sei cifre dalla tua app di autenticazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "二段階認証が有効になりました。認証アプリから6桁のコードを入力してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이중 인증이 활성화되었습니다. 인증 앱의 6자리 코드를 입력하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tweestapsverificatie ingeschakeld. Voer de zescijferige code in vanuit uw authenticatie-app."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To-faktor-autentisering aktivert. Vennligst skriv inn den seks-sifrede koden fra autentiseringsappen din."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Włączono uwierzytelnianie dwuskładnikowe. Wprowadź sześciocyfrowy kod z aplikacji uwierzytelniającej."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ativada a autenticação de dois fatores. Por favor, insira o código de seis dígitos da sua aplicação de autenticação."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A autenticação de dois fatores está ativada. Por favor, insira o código de seis dígitos do seu aplicativo autenticador."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Autentificare doi factori activată. Introduceți codul de șase cifre din aplicația dvs. de autentificare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Двухфакторная аутентификация включена. Пожалуйста, введите шестизначный код из вашего приложения-аутентификатора."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dvofaktorska autentikacija omogućena. Molimo vas unesite šestocifreni kod iz vaše aplikacije za autentikaciju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tvåfaktorsautentisering aktiverad. Ange sexsiffrig kod från din autentiseringsapp."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "İki adımlı kimlik doğrulama etkinleştirildi. Lütfen kimlik doğrulama uygulamanızdaki altı haneli kodu girin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Увімкнено двоетапну автентифікацію. Введіть шестизначний код зі свого застосунка для автентифікації."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã bật xác thực hai yếu tố. Vui lòng nhập mã sáu chữ số từ ứng dụng xác thực của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "两步验证已启用，请输入您身份验证器中的六位数字。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "兩階段認證已開啟。請輸入認證應用程式裡的六位數字密碼。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "join_by_entrypoint",
+        "library.inlang.paraglideJs": "join_by_entrypoint"
+    },
+    "id": "fuzzy_cobras_float",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "الانضمام بواسطة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Připojit se k "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deltag via "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                },
+                {
+                    "type": "Text",
+                    "value": " beitreten"
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Συμμετάσχετε από "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Join by "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Únase por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rejoindre par "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ניתן להצטרף עד "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pridruži se putem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Entra da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                },
+                {
+                    "type": "Text",
+                    "value": " に参加する"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                },
+                {
+                    "type": "Text",
+                    "value": "로 가입하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Word lid via "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bli med via "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dołącz przez "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Junte-se através de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Junte-se através de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alăturați-vă de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Присоединиться с "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pridruži se putem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Anslut med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                },
+                {
+                    "type": "Text",
+                    "value": " ile katıl"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Приєднатися через "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tham gia bằng "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "由 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                },
+                {
+                    "type": "Text",
+                    "value": " 加入"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "透過 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entryPoint"
+                },
+                {
+                    "type": "Text",
+                    "value": " 加入"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "enter_option",
+        "library.inlang.paraglideJs": "enter_option"
+    },
+    "id": "slimy_islands_find",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أدخل خيار "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zadejte možnost "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Angiv Mulighed "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Option "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                },
+                {
+                    "type": "Text",
+                    "value": " eingeben"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enter Option "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduzca la opción "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Entrer l'option "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הזנת ה-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                },
+                {
+                    "type": "Text",
+                    "value": " של האפשרות"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Immetti opzione "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "オプション "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                },
+                {
+                    "type": "Text",
+                    "value": " を入力してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "선택사항 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                },
+                {
+                    "type": "Text",
+                    "value": " 입력"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voer optie "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                },
+                {
+                    "type": "Text",
+                    "value": " in"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Angi alternativ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wprowadź opcję "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Insira a opção "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "insira a opção "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introdu opțiunea "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введите параметр "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unesite opciju "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ange alternativ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                },
+                {
+                    "type": "Text",
+                    "value": " Seçeneğini Girin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введіть варіант "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nhập vào tuỳ chọn "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "输入选项 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "輸入選項 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "index"
+                }
+            ]
+        }
+    ]
+}

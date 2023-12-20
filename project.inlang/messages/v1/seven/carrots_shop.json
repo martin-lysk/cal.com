@@ -1,0 +1,564 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "booking_confirmation",
+        "library.inlang.paraglideJs": "booking_confirmation"
+    },
+    "id": "seven_carrots_shop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بتأكيد "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " مع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Potvrďte "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " skrz účet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bekræft din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bestätigen Sie "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " mit "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirm your "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " with "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirma tu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirmez votre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " avec "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אשר את ה"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " עם "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Conferma il tuo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " の"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " を確認"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": "로 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 확인"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bevestig uw "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " met "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bekreft "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Potwierdź "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirme o seu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirme seu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirmă "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " cu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Подтвердите вашу встречу «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": "» с "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Potvrdite vaš "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bekräfta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ile "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinliğinizi onaylayın"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Підтвердьте свій захід ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": ") із користувачем "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Xác nhận "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " của bạn với "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "确认您和 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "向 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 確認"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": "。"
+                }
+            ]
+        }
+    ]
+}

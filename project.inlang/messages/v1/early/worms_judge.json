@@ -1,0 +1,368 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "published_by",
+        "library.inlang.paraglideJs": "published_by"
+    },
+    "id": "early_worms_judge",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "نُشر بواسطة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publikoval/a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publiceret af "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veröffentlicht von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Published by "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publicado por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publiée par "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "פורסם על ידי "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pubblicato da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                },
+                {
+                    "type": "Text",
+                    "value": " が公開"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "퍼블리셔 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gepubliceerd door "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publisert av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opublikowane przez "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publicado por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publicado por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publicat de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Опубликовано "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Objavio/la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publicerad av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarafınan yayınlandı"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Опублікував(-ла) "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Được xuất bản bởi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "由 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                },
+                {
+                    "type": "Text",
+                    "value": " 发布"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "由 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "author"
+                },
+                {
+                    "type": "Text",
+                    "value": " 發佈"
+                }
+            ]
+        }
+    ]
+}

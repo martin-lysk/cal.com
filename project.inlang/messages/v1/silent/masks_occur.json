@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "organization_verify_email_body",
+        "library.inlang.paraglideJs": "organization_verify_email_body"
+    },
+    "id": "silent_masks_occur",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "الرجاء استخدام الرمز أدناه لتأكيد عنوان بريدك الإلكتروني لمواصلة إعداد منظمتك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pomocí uvedeného kódu ověřte vaši e-mailovou adresu, abyste mohli pokračovat v nastavení vaší organizace."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte verwenden Sie den folgenden Code, um Ihre E-Mail-Adresse zu bestätigen, um die Einrichtung Ihrer Organization fortzusetzen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please use the code below to verify your email address to continue setting up your organization."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utilice el siguiente código para verificar su dirección de correo electrónico y continuar con la configuración de su organización."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez utiliser le code ci-dessous pour vérifier votre adresse e-mail et continuer à configurer votre organisation."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "השתמש/י בקוד שלהלן כדי לאמת את כתובת הדוא״ל שלך לצורך המשך הגדרת הארגון."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Usa il codice sottostante per verificare il tuo indirizzo e-mail e proseguire la configurazione dell'organizzazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "組織のセットアップを続行するには、以下のコードを使用してメールアドレスを確認してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "조직 설정을 계속하려면 아래 코드를 사용하여 이메일 주소를 인증하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gebruik de onderstaande code om uw e-mailadres te verifiëren en door te gaan met het instellen van uw organisatie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Użyj poniższego kodu, aby zweryfikować adres e-mail i kontynuować konfigurację swojej organizacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utilize o código abaixo para confirmar o seu endereço de e-mail para continuar a configurar a sua organização."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Use o código abaixo para verificar seu endereço de e-mail e continuar a configuração da sua organização."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utilizați codul de mai jos pentru a verifica adresa de e-mail și a continua configurarea organizației."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "С помощью кода ниже подтвердите свой адрес электронной почты, чтобы продолжить настройку организации."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Koristite kôd u nastavku da potvrdite svoju adresu e-pošte kako biste nastavili sa podešavanjem svoje organizacije."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Använd koden nedan för att verifiera din e-postadress så att du kan fortsätta att konfigurera din organisation."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kuruluşunuzu düzenlemeye devam etmek ve e-posta adresinizi doğrulamak için lütfen aşağıdaki kodu kullanın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Використайте наведений нижче код, щоб підтвердити електронну адресу, і продовжте налаштування організації."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vui lòng sử dụng mã bên dưới để xác minh địa chỉ email của bạn để tiếp tục thiết lập tổ chức của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请使用下面的代码验证您的电子邮件地址以继续设置您的组织。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請使用以下驗證碼驗證您的電子郵件地址，以便繼續設定組織。"
+                }
+            ]
+        }
+    ]
+}

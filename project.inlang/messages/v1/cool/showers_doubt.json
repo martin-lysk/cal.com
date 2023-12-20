@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "custom_input_as_variable_info",
+        "library.inlang.paraglideJs": "custom_input_as_variable_info"
+    },
+    "id": "cool_showers_doubt",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تجاهل جميع الأحرف الخاصة من تسمية الإدخال الإضافي (استخدم الأحرف والأرقام فقط)، واستخدم الحروف الكبيرة لجميع الأحرف واستبدل المساحات البيضاء بالشرط."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorujte všechny speciální znaky doplňkového vstupního štítku (používejte pouze písmena a číslice), používejte velká písmena a bílé znaky nahraďte podtržítky."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorér alle specialtegn i den ekstra input label (brug kun bogstaver og tal), brug store bogstaver for alle bogstaver og erstat blanke tegn med understregninger."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorieren Sie alle Sonderzeichen der zusätzlichen Eingabebezeichnung (verwenden Sie nur Buchstaben und Zahlen), schreiben Sie alle Buchstaben groß und ersetzen Sie Leerzeichen durch Unterstriche."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignore all special characters of the additional input label (use only letters and numbers), use uppercase for all letters and replace whitespaces with underscores."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignore todos los caracteres especiales de la etiqueta de entrada adicional (utilice solo letras y números), utilice mayúsculas para todas las letras y sustituya los espacios en blanco por guiones bajos."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorer tous les caractères spéciaux du libellé de champ supplémentaire (utiliser uniquement des lettres et des chiffres), utiliser des majuscules pour toutes les lettres et remplacer les espaces par des tirets bas."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "התעלמות מכל התווים המיוחדים של תווית הקלט הנוספת (שימוש באותיות ובספרות בלבד), שימוש באותיות רישיות עבור כל האותיות והחלפת רווחים במקפים תחתונים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignora tutti i caratteri speciali dell'etichetta del campo di input aggiuntivo (usa solo lettere e numeri), usa solo lettere maiuscole e sostituisci gli spazi con il trattino basso."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "追加の入力ラベルに含まれている特殊文字はすべて無視し (アルファベットと数字のみを使用)、アルファベットをすべて大文字に、そして空白をアンダースコアへと変換します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "추가 입력 레이블의 모든 특수 문자는 무시하고(문자와 숫자만 사용) 모든 문자에 대문자를 사용하며 공백은 밑줄로 대체합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Negeer alle speciale tekens van het label voor aanvullende invoer (gebruik alleen letters en cijfers) en gebruik hoofdletters voor alle letters en vervang spaties door onderstrepingstekens."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorer alle spesialtegn i tilleggs-input-etiketten (bruk bare bokstaver og tall), bruk store bokstaver for alle bokstaver og erstatt mellomrom med understrek."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignoruj wszystkie znaki specjalne etykiety dodatkowych danych wejściowych (używaj tylko liter i cyfr), użyj wielkich liter w przypadku wszystkich liter i zastąp spacje znakami podkreślenia."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignora todos os caracteres especiais da etiqueta de entrada adicional (utiliza apenas letras e números), utiliza maiúsculas para todas as letras e substitui espaços em branco por carateres de sublinhado."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignore todos os caracteres especiais da etiqueta de entrada adicional (use apenas letras e números), use todas as letras maiúsculas e substitua espaços em branco por sublinhados."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorați toate caracterele speciale de pe eticheta de introducere suplimentară (utilizați numai litere și cifre), utilizați majuscule pentru toate literele și înlocuiți spațiile goale cu caractere de subliniere."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Игнорировать все специальные символы в дополнительной метке ввода (использовать только буквы и цифры), использовать верхний регистр для всех букв и заменить пробелы подчеркиванием."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zanemarite sve specijalne znakove za dodatne oznake unosa (koristite samo slova i brojeve), koristite samo velika slova i zamenite razmake donjim crtama."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorera alla specialtecken i etiketten för ytterligare indata (använd endast bokstäver och siffror), använd versaler för alla bokstäver och ersätt blanktecken med understreck."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ek giriş etiketindeki tüm özel karakterleri yok sayın (yalnızca harfler ve rakamlar kullanın), tüm harfler için büyük harfleri kullanın ve boşlukları alt çizgilerle değiştirin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Усі спеціальні символи в додатковому введеному підписі пропускаються (використовуються тільки літери та цифри), використовуються лише великі літери, пробіли замінюються на підкреслення."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bỏ qua tất cả các ký tự đặc biệt của nhãn thông tin đầu vào bổ sung (chỉ dùng chữ cái và con số), dùng chữ in hoa cho tất cả các chữ cái và thay thế khoảng trắng bằng dấu gạch dưới."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "忽略附加输入标签的所有特殊字符（仅使用字母和数字），所有字母均使用大写，并将空格替换为下划线。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "忽略額外輸入標籤的所有特殊字元 (只使用字母和數字)，所有字母一律使用大寫，並以底線取代空格。"
+                }
+            ]
+        }
+    ]
+}

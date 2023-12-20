@@ -1,0 +1,360 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "multiple_duration_mins",
+        "library.inlang.paraglideJs": "multiple_duration_mins"
+    },
+    "id": "hip_animals_draw",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": "$t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t(minute_timeUnit)"
+                }
+            ]
+        }
+    ]
+}

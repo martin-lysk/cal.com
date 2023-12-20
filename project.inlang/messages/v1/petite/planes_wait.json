@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "create_your_org",
+        "library.inlang.paraglideJs": "create_your_org"
+    },
+    "id": "petite_planes_wait",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Create your Organization"
+                }
+            ]
+        }
+    ]
+}

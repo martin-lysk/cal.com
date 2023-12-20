@@ -1,0 +1,288 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "cal_provide_jitsi_meeting_url",
+        "library.inlang.paraglideJs": "cal_provide_jitsi_meeting_url"
+    },
+    "id": "better_houses_live",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سنوفر لك رابطًا للاجتماع عبر Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " poskytne URL Jitsi Meet video meetingu."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi genererer en Jitsi Meet URL til dig."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cal stellt eine Jitsi Meet URL zur Verfügung."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We will generate a Jitsi Meet URL for you."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cal proporcionará una URL de reunión de Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nous générerons un lien de réunion Jitsi Meet pour vous."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אנחנו ניצור עבורך כתובת URL לפגישת Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " fornirà un URL di riunione Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cal は Jitsi Meet の URL を提供する。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "은 Jitsi Meet 회의 URL을 제공합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zal een Jitsi Meet meeting-URL meegeven in de afspraak bevestiging."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi vil generere en Jitsi Meet URL for deg."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zapewni URL spotkania Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Será gerado um URL do Jitsi Meet para si."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O Cal fornecerá um URL de reunião do Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cal va oferi un URL pentru ședința de Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " создаст ссылку на встречу в Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mi ćemo generisati Jitsi Meet URL za vas."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi kommer att generera en Jitsi Meet URL för dig."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sizin için bir Jitsi Meet URL'si oluşturacağız."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ми згенеруємо URL-адресу Jitsi Meet."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chúng tôi sẽ tạo một URL Jitsi Meet cho bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 将提供 Jitsi Meet 视频会议链接"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我們會產生一組 Jitsi 會議網址。"
+                }
+            ]
+        }
+    ]
+}

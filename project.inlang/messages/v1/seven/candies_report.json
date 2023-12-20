@@ -1,0 +1,406 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_target",
+        "library.inlang.paraglideJs": "no_target"
+    },
+    "id": "seven_candies_report",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لا يوجد "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Žádný "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kein "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ez dago "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
+                    "type": "Text",
+                    "value": "(r)ik"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pas de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ללא "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nema "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tidak ada "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nessun "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
+                    "type": "Text",
+                    "value": " はありません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
+                    "type": "Text",
+                    "value": " 없음"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Geen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Brak "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não existe qualquer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nenhum "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fără "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Нет "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nema "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
+                    "type": "Text",
+                    "value": " yok"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
+                    "type": "Text",
+                    "value": ": немає"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Không có "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "没有 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "沒有 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        }
+    ]
+}

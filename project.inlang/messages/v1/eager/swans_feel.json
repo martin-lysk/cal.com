@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "meeting_url_not_found",
+        "library.inlang.paraglideJs": "meeting_url_not_found"
+    },
+    "id": "eager_swans_feel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Meeting URL not found"
+                }
+            ]
+        }
+    ]
+}

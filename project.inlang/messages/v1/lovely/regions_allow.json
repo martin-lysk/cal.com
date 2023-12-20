@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "error_booking_event",
+        "library.inlang.paraglideJs": "error_booking_event"
+    },
+    "id": "lovely_regions_allow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدث خطأ عند حجز الحدث، يرجى تحديث الصفحة والمحاولة ثانيةً"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při rezervaci události došlo k chybě, obnovte prosím stránku a zkuste to znovu"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bei der Buchung dieses Termins ist ein Fehler aufgetreten, bitte aktualisieren Sie die Seite und versuchen Sie es erneut"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "An error occurred when booking the event, please refresh the page and try again"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocurrió un error al reservar el evento, actualice la página e intente nuevamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une erreur s'est produite lors de la réservation de l'événement, veuillez actualiser la page et réessayer"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אירעה שגיאה בעת הזמנת האירוע. רענן/י את הדף ונסה/י שוב"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si è verificato un errore durante la prenotazione dell'evento. Aggiorna la pagina e riprova"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "イベントを予約する際にエラーが発生しました。ページを更新してからもう一度お試しください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이벤트를 예약하는 중 오류가 발생했습니다. 페이지를 새로 고치고 다시 시도하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is een fout opgetreden bij het boeken van de gebeurtenis. Vernieuw de pagina en probeer het opnieuw"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podczas rezerwacji wydarzenia wystąpił błąd, odśwież stronę i spróbuj ponownie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um erro ao reservar o evento. Atualize a página e tente novamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um erro ao reservar o evento, atualize a página e tente novamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A survenit o eroare la rezervarea evenimentului. Reîmprospătați pagina și încercați din nou"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "При бронировании события произошла ошибка. Обновите страницу и повторите попытку"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo je do greške prilikom zakazivanja događaja, osvežite stranicu i pokušajte ponovo"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ett fel inträffade när du bokade händelsen, uppdatera sidan och försök igen"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etkinlik rezervasyonu yapılırken bir hata oluştu, lütfen sayfayı yenileyerek tekrar deneyin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Сталася помилка під час бронювання заходу. Оновіть сторінку й повторіть спробу."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có lỗi khi đặt lịch sự kiện, hãy làm mới trang rồi thử lại"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "预约活动时出错，请刷新页面并重试"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "預約活動時發生錯誤，請重新整理頁面然後再試一次"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "workflow_example_5",
+        "library.inlang.paraglideJs": "workflow_example_5"
+    },
+    "id": "wide_cameras_dream",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إرسال رسالة قصيرة مخصصة للحضور عند إعادة جدولة الحدث"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Odeslat hostiteli vlastní e-mail, pokud je událost přeložena na jiný termín"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send brugerdefineret e-mail til vært når begivenheden omlægges"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Benutzerdefinierte E-Mail senden, wenn der Termin zum Moderieren neu geplant wird"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send custom email when event is rescheduled to host"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar correo electrónico personalizado al anfitrión cuando se reprograme el evento"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Envoyer un e-mail personnalisé à l'hôte lorsque l'événement est replanifié"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לשלוח דוא\"ל מותאם אישית למארח/ת כאשר המועד של אירוע משתנה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Invia all'organizzatore un'e-mail personalizzata se l'evento viene riprogrammato"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "イベントスケジュールの変更時に、ホストにカスタムメールを送信する"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이벤트 일정이 변경되면 호스트에게 사용자 정의 SMS 보내기"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aangepaste e-mail versturen naar organisator wanneer gebeurtenis wordt verplaatst"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send verten en tilpasset e-post når en hendelse får nytt tidspunkt"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wyślij do gospodarza niestandardową wiadomość e-mail, gdy wydarzenie zostanie przełożone"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar um e-mail personalizado para o participante quando o evento for reagendado"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar e-mail personalizado quando o evento for reagendado para o host"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trimiteți gazdei un e-mail personalizat atunci când evenimentul nou este reprogramat"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отправить организатору электронное письмо с пользовательским содержанием при переносе события"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pošalji prilagođeni imejl domaćinu kada je događaju promenjeno vreme"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skicka anpassat e-postmeddelande till värd när händelsen bokas om"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etkinlik yeniden planlandığında etkinlik sahibine özel e-posta gönder"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Надсилати ведучому персоналізований електронний лист у разі перенесення заходу"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gửi email tuỳ chỉnh cho chủ sự kiện khi sự kiện được sắp lịch lại"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "重新安排活动后向主持人发送自定义电子邮件"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "重新預定活動時傳送自訂電子郵件給主辦者"
+                }
+            ]
+        }
+    ]
+}

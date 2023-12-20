@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "create_calendar_event_error",
+        "library.inlang.paraglideJs": "create_calendar_event_error"
+    },
+    "id": "plain_dogs_tan",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unable to create Calendar event in Organizer's calendar"
+                }
+            ]
+        }
+    ]
+}

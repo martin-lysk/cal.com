@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "number_in_international_format",
+        "library.inlang.paraglideJs": "number_in_international_format"
+    },
+    "id": "sour_webs_poke",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please enter number in international format."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez entrer le numéro au format international."
+                }
+            ]
+        }
+    ]
+}

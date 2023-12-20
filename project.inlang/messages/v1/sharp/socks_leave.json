@@ -1,0 +1,448 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "send_sms_to_number",
+        "library.inlang.paraglideJs": "send_sms_to_number"
+    },
+    "id": "sharp_socks_leave",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هل أنت متأكد من رغبتك في إرسال رسالة قصيرة إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "؟"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opravdu chcete odeslat SMS na číslo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er du sikker på du vil sende en SMS til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sind Sie sicher, dass Sie eine SMS an "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": " senden möchten?"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Are you sure you want to send a SMS to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "¿Está seguro de que desea enviar un SMS al "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voulez-vous vraiment envoyer un SMS au "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": " ?"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בטוח שברצונך לשלוח SMS למספר "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inviare un SMS a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": " にSMSを送信してもよろしいですか？"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 SMS를 보내시겠습니까?"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Weet u zeker dat u een sms naar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": " wilt versturen?"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er du sikker på at du vil sende en SMS til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Czy na pewno chcesz wysłać SMS pod numer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem a certeza que pretende enviar um SMS para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem certeza de que deseja enviar um SMS para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sigur vreți să trimiteți un SMS către "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отправить SMS "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeste li sigurni da želite da pošaljete SMS na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Är du säker på att du vill skicka ett SMS till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": " no'lu numaraya SMS göndermek istediğinizden emin misiniz?"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Справді надіслати SMS-повідомлення на номер "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có chắc chắn muốn gửi một SMS đến "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您确定要向 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": " 发送短信吗？"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "確定要傳送簡訊到 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "number"
+                },
+                {
+                    "type": "Text",
+                    "value": " 嗎？"
+                }
+            ]
+        }
+    ]
+}

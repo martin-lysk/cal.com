@@ -1,0 +1,386 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "updated_timezone_to",
+        "library.inlang.paraglideJs": "updated_timezone_to"
+    },
+    "id": "lemon_views_brake",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم تحديث المنطقة الزمنية إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Časové pásmo bylo aktualizováno na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opdateret tidszone til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zeitzone auf "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": " aktualisiert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Updated timezone to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zona horaria actualizada a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ordu-eremua eguneratua honakora: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fuseau horaire mis à jour vers "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אזור הזמן עודכן ל-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fuso orario aggiornato a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "タイムゾーンを "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": " に更新しました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": "(으)로 시간대 업데이트됨"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tijdzone bijgewerkt naar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oppdaterte tidssone til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zmieniono strefę czasową na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fuso horário atualizado para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fuso horário atualizado para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fusul orar a fost actualizat la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Установлен часовой пояс: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vremenska zona je ažurirana na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tidszon uppdaterad till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Saat dilimi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": " olarak güncellendi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Часовий пояс оновлено на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Múi giờ được cập nhật sang "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已将时区更新为 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已將時區更新為"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                }
+            ]
+        }
+    ]
+}

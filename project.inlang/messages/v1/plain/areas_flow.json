@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "send_reminder_sms",
+        "library.inlang.paraglideJs": "send_reminder_sms"
+    },
+    "id": "plain_areas_flow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إرسال تذكيرات بالاجتماعات إلى الحاضرين بيُسر عبر الرسائل النصية القصيرة"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Snadné zasílání připomenutí schůzek účastníkům přes SMS"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Senden Sie Meeting-Erinnerungen einfach per SMS an Ihre Teilnehmer"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Easily send meeting reminders via SMS to your attendees"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Envíe fácilmente recordatorios de reuniones por SMS a sus asistentes"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Envoyez facilement des rappels de rendez-vous par SMS à vos participants"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "שלח/י למשתתפים תזכורות לפגישות ב-SMS בקלות"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Invia facilmente dei promemoria di riunioni via SMS ai partecipanti"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SMS で簡単にミーティングのリマインダーを送信します"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SMS를 통해 참석자에게 회의 알림을 쉽게 보낼 수 있습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Stuur eenvoudig vergaderherinneringen via sms naar uw deelnemers"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Łatwo wysyłaj uczestnikom przypomnienia SMS o spotkaniu"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Envie com facilidade lembretes de reunião via SMS aos seus participantes"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Envie lembretes de reuniões facilmente aos participantes por SMS"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trimiteți-le cu ușurință participanților mementouri pentru ședințe prin SMS"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отправляйте участникам напоминания о встрече по SMS"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Učesnicima lako pošaljite podsetnike za sastanak putem poruke"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skicka enkelt mötespåminnelser via SMS till dina deltagare"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Katılımcılarınıza toplantı hatırlatmalarını SMS ile kolayca gönderin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Легко відправляйте нагадування про зустріч в SMS вашим відвідувачам"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dễ dàng gửi lời nhắc họp qua SMS đến người tham dự"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "通过短信轻松向参与者发送会议提醒"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "透過簡訊輕鬆傳送會議提醒給您的與會者"
+                }
+            ]
+        }
+    ]
+}

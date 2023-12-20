@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "choose_common_schedule_team_event_description",
+        "library.inlang.paraglideJs": "choose_common_schedule_team_event_description"
+    },
+    "id": "tricky_lies_swim",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بتمكين هذا الخيار إذا كنت ترغب في استخدام جدول زمني مشترك بين المضيفين. عند تعطيل هذا الخيار، سيتم حجز كل مضيف على أساس جدوله الافتراضي."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tuto možnost povolte, pokud chcete používat společný plán mezi hostiteli. Při zakázání této možnosti bude každý hostitel rezervován na základě svého výchozího plánu."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aktivér dette hvis du ønsker at bruge en fælles tidsplan mellem værter. Når deaktiveret, vil hver vært blive booket baseret på deres standardtidsplan."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aktivieren Sie dies, wenn Sie einen gemeinsamen Zeitplan zwischen Hosts verwenden möchten. Wenn deaktiviert, ist jeder Host basierend auf seinen Standardplan buchbar."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enable this if you want to use a common schedule between hosts. When disabled, each host will be booked based on their default schedule."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Habilite esto si desea utilizar un cronograma común entre anfitriones. Cuando esté desactivado, cada anfitrión se reservará en relación a su horario predeterminado."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Activez cette option si vous souhaitez utiliser des disponibilités communes entre les hôtes. Si cette option est désactivée, chaque hôte recevra les réservations en fonction de ses disponibilités par défaut."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש להפעיל אפשרות זו אם רוצים להשתמש בלוח זמנים משותף בין המארחים. אם האפשרות הזו מבוטלת, כל מארח יוזמן לפי לוח הזמנים המשמש כברירת המחדל שלו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Abilita questa opzione se desideri utilizzare un programma comune per tutti gli organizzatori. Quando l'opzione è disabilitata, ciascun organizzatore verrà prenotato in base al proprio programma predefinito."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ホスト間で共通のスケジュールを使用する場合には、これを有効にしてください。無効にすると、各ホストに対してはデフォルトのスケジュールに基づいて予約が行われます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "호스트 간에 공통 일정을 사용하려면 이 옵션을 활성화하세요. 비활성화되면 각 호스트는 기본 일정에 따라 예약됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Schakel dit in als u een gemeenschappelijke planning tussen organisatoren wilt gebruiken. Indien uitgeschakeld, wordt elke organisator geboekt op basis van zijn standaardplanning."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aktiver dette hvis du vil bruke en felles tidsplan mellom verter. Når den er deaktivert, vil hver vert bookes basert på deres standard tidsplan."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Włącz tę opcję, jeśli chcesz używać wspólnego harmonogramu gospodarzy. Jeśli ją wyłączysz, rezerwacje u każdego gospodarza będą dokonywane na podstawie jego domyślnego harmonogramu."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ative esta opção se quiser utilizar uma agenda comum entre anfitriões. Quando desativada, cada anfitrião será reservado com base na respetiva agenda pré-definida."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ative esta opção se você quiser usar uma agenda compartilhada entre os hosts. Ao desativar esta opção, cada host será reservado conforme seu horário padrão."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Activați această opțiune dacă doriți să folosiți un program comun între gazde. Atunci când este dezactivată, fiecare gazdă va fi rezervată în funcție de programul său implicit."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Позволяет организаторам использовать общее расписание. Если общее расписание отключено, то для каждого организатора бронирование выполняется в соответствии с его индивидуальным расписанием по умолчанию."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Omogućite to ako želite da koristite zajednički raspored između domaćina. Kada je onemogućen, svaki domaćin može rezervisati na osnovu svog podrazumevanog rasporeda."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aktivera den här funktionen om du vill använda ett gemensamt schema mellan värdarna. När den är inaktiverad bokas varje värd enligt sitt standardschema."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Toplantı sahipleri arasında ortak bir plan kullanmak istiyorsanız bunu etkinleştirin. Devre dışı bırakıldığında, her toplantı sahibi varsayılan programına göre rezerve edilir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Увімкніть цей параметр, щоб використовувати спільний для двох ведучих розклад. Якщо цей параметр вимкнено, бронювання для кожного з ведучих відбуватиметься за їхніми власними графіками."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bật mục này nếu bạn muốn dùng lịch thông thường giữa các chủ sự kiện. Khi tắt đi, mỗi chủ sự kiện sẽ được đặt lịch theo lịch mặc định của họ."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果您希望在主持人之间使用通用时间表，请启用此选项。如果禁用，将根据主持人的默认时间表预约每个主持人。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "若要在多個主辦者之間使用公用行程表，請啟用此選項。停用時，會根據每個主辦者預設的行程表預約對方的時間。"
+                }
+            ]
+        }
+    ]
+}

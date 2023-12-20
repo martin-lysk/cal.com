@@ -1,0 +1,460 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "impersonating_user_warning",
+        "library.inlang.paraglideJs": "impersonating_user_warning"
+    },
+    "id": "eleven_mammals_type",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "انتحال اسم مستخدم \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zosobnění uživatelského jména „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "“."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Efterligner brugernavnet \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Imitiere den Account "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Impersonating username \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Suplantando nombre de usuario \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Emprunt du nom d'utilisateur « "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " »."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בהתחזות לשם המשתמש \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Accesso con l'identità dell'utente \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ユーザー名 \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" になりすましています。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"의 사용자 이름을 가장하는 중입니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gebruikersnaam \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" wordt geïmiteerd."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etterligner brukernavnet \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podszywanie się pod użytkownika „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "”."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Representar o nome de utilizador \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Representando o nome de usuário \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reprezentare nume de utilizator „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "”."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Олицетворение пользователя \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Predstavljanje kao korisnik „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "“."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Imiterar användarnamn \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" kullanıcı adı kimliğine bürünme."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Виконується роль користувача "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đang mạo danh tên người dùng \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "正在模拟用户名“"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "”。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "正在模擬使用者名稱「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "」。"
+                }
+            ]
+        }
+    ]
+}

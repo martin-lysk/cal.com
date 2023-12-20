@@ -1,0 +1,452 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "at_least_characters_other",
+        "library.inlang.paraglideJs": "at_least_characters_other"
+    },
+    "id": "eighty_parks_run",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يرجى إدخال "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " من الأحرف على الأقل"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zadejte prosím alespoň "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " znaků"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Indtast venligst mindst "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " tegn"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte geben Sie mindestens "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " Zeichen ein"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please enter at least "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " characters"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduce al menos "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " caracteres"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez saisir au moins "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " caractères"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש להזין לפחות "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " תווים"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Immettere almeno "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " caratteri"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "少なくとも "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 文字以上入力してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": "자 이상을 입력하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voer minimaal "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " tekens in"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skriv inn minst "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " tegn"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wprowadź co najmniej następującą liczbę znaków: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Insira pelo menos "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " caracteres"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Insira pelo menos "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " caracteres"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduceți cel puțin "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " (de) caractere"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введите не менее "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " символов"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unesite najmanje "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " znakova"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ange minst "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " tecken"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lütfen en az "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " karakter girin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введіть принаймні "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " симв."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vui lòng nhập ít nhất "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " ký tự"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请输入至少 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 个字符"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請輸入至少 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 個字元"
+                }
+            ]
+        }
+    ]
+}

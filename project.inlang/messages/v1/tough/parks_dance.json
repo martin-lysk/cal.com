@@ -1,0 +1,558 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_no_longer_attending_subject",
+        "library.inlang.paraglideJs": "event_no_longer_attending_subject"
+    },
+    "id": "tough_parks_dance",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لن يتم حضور "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " في "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Již nejste účastníky události "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " v den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nimmt nicht mehr an "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " am "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " teil"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No longer attending "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " at "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ya no asistirá a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " a las "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ne participe plus à "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " le "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא משתתף יותר ב- "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " במועד "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Non partecipa più a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " con il seguente orario: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " には出席しなくなりました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "더 이상 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 날짜에 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 참석하지 않음"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Neemt niet langer deel aan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nie bierzesz już udziału w wydarzeniu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " odbywającym się "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Já não irá participar em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não está mais participando de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " às "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nu mai participă la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " de la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы отказались от посещения мероприятия "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Više ne pohađate "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " dana "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deltar inte längre i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "இனி "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " அன்று "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " இல் கலந்து கொள்ள முடியாது"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Artık "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarihindeki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinliğine katılmıyorsunuz"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Більше не відвідує захід «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": "», запланований на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Không còn tham dự "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " vào "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "不再参加于 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 举行的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "不再參加於 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 舉辦的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                }
+            ]
+        }
+    ]
+}

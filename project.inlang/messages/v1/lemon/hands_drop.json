@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_body_slug_replacement_info",
+        "library.inlang.paraglideJs": "email_body_slug_replacement_info"
+    },
+    "id": "lemon_hands_drop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيستمر الرابط في العمل، ولكن ربما تم تغيير بعض إعداداته. يمكنك مراجعتها في أنواع الأحداث."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Váš odkaz bude dále fungovat, ale některá příslušná nastavení se mohla změnit. Můžete si je prohlédnout v části Typy událostí."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ihr Link wird weiterhin funktionieren, aber einige Einstellungen werden möglicherweise geändert. Sie können ihn bei Ereignistypen überprüfen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Your link will continue to work but some settings for it may have changed. You can review it in event types."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Su enlace seguirá funcionando, pero algunas configuraciones pueden haber cambiado. Puede revisarlo en tipos de eventos."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Votre lien continuera de fonctionner, mais certains de ses paramètres peuvent avoir changé. Vous pouvez l'examiner dans les types d'événements."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הקישור שלך ימשיך לעבוד, אבל ייתכן שחלק מההגדרות עבורו השתנו. ניתן לעיין בו בסוגי האירועים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il tuo link continuerà a funzionare, ma alcune delle sue impostazioni potrebbero essere state cambiate. Puoi verificarlo nella sezione Tipi di evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたのリンクは引き続き機能しますが、リンクの設定の一部が変更された可能性があります。変更内容はイベントの種類で確認できます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "링크는 계속 유효하지만 일부 설정이 변경될 수 있습니다. 이벤트 타입에서 이를 검토할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uw link blijft werken, maar sommige instellingen ervoor kunnen gewijzigd zijn. U kunt deze bekijken in gebeurtenistypen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Twój link nadal będzie działał, ale niektóre z jego ustawień mogły ulec zmianie. Możesz zobaczyć szczegóły w typach wydarzeń."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A sua ligação vai continuar a funcionar, mas algumas das configurações podem ter sido alteradas. Pode rever a mesma nos tipos de eventos."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seu link continuará a funcionar, mas algumas configurações podem ter sido alteradas. Você pode revisar nos tipos de evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Linkul dvs. va funcționa în continuare, dar este posibil ca unele setări să se fi schimbat. Îl puteți consulta în tipurile de evenimente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ссылка по-прежнему будет работать, но некоторые настройки могли измениться. Вы можете просмотреть их в списке типов событий."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vaš link će nastaviti da funkcioniše, ali neka od njegovih podešavanja su se možda promenila. Možete da ih pregledate u tipovima događaja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din länk fortsätter att fungera, men vissa inställningar för den kan ha ändrats. Du kan granska den i händelsetyper."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bağlantınız çalışmaya devam edecek, ancak bazı ayarları değişmiş olabilir. Bağlantıyı etkinlik kategorilerinde inceleyebilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваше посилання й надалі працювати, але деякі параметри можуть змінитися. Перегляньте їх у типах подій."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Liên kết của bạn sẽ tiếp tục hoạt động nhưng một số thiết lập cho nó có thể thay đổi. Bạn có thể xem lại nó trong những loại sự kiện."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的链接将继续有效，但其某些设置可能已更改。您可以在活动类型中进行查看。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的連結會繼續正常運作，但該連結的某些設定可能已變更。您可以在活動類型中查看。"
+                }
+            ]
+        }
+    ]
+}

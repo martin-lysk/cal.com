@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "disabled_calendar",
+        "library.inlang.paraglideJs": "disabled_calendar"
+    },
+    "id": "deep_pugs_give",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إذا كان لديك تقويم آخر مثبت، ستُضاف الحجوزات الجديدة إليه. إذا لم يكن الأمر كذلك، قم بتوصيل تقويم جديد حتى لا تفوت أي حجوزات جديدة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokud máte nainstalovaný jiný kalendář, budou do něj přidány nové rezervace. Pokud ne, připojte nový kalendář, abyste nepřišli o žádné nové rezervace."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hvis du har en anden kalender installeret vil nye bookinger blive tilføjet til den. Hvis ikke, så forbind en ny kalender, så du ikke går glip af nye bookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wenn Sie einen anderen Kalender installiert haben, werden neue Buchungen zu dem Kalender hinzugefügt. Verbinden Sie andernfalls einen neuen Kalender, damit Sie keine neuen Buchungen verpassen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "If you have another calendar installed new bookings will be added to it. If not then connect a new calendar so you do not miss any new bookings."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si tiene otro calendario instalado, las nuevas reservas se añadirán a él. De lo contrario, conecte un nuevo calendario para que no se pierda ninguna reserva nueva."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si un autre calendrier est installé, les nouvelles réservations y seront ajoutées. Si ce n'est pas le cas, connectez un nouveau calendrier pour ne pas manquer de nouvelles réservations."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אם התקנת לוח שנה אחר, ההזמנות החדשות יתווספו אליו. אם לא, קשר/י לוח שנה חדש כדי לא להחמיץ הזמנות חדשות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se hai un altro calendario installato, le nuove prenotazioni saranno aggiunte a quel calendario. Altrimenti, collega un nuovo calendario in modo da non perdere nessuna nuova prenotazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "他のカレンダーがインストールされている場合、新しい予約はそのカレンダーに追加されます。そうでない場合には、新しいカレンダーへと接続します。そのため、新しい予約を見逃すことはなくなります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "다른 캘린더를 설치한 경우 새 예약이 여기에 추가됩니다. 그렇지 않은 경우 새로운 예약을 놓치지 않도록 새 캘린더를 연결하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Als u een andere agenda heeft geïnstalleerd, worden nieuwe boekingen daaraan toegevoegd. Zo niet, koppel dan een nieuwe agenda zodat u geen nieuwe boekingen mist."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeśli masz zainstalowany inny kalendarz, nowe rezerwacje zostaną dodane do niego. Jeśli nie, podłącz nowy kalendarz, aby nie przegapić żadnych nowych rezerwacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se tiver outro calendário instalado, as novas reservas serão adicionadas ao mesmo. Se não for o caso, deve associar um novo calendário para garantir que não perde novas reservas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se você tiver outro calendário instalado, novas reservas serão adicionadas a ele. Caso contrário, conecte um novo calendário para não perder novas reservas."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dacă ai un alt calendar instalat, rezervările noi vor fi adăugate la acesta. Dacă nu ai, conectează un calendar nou, astfel încât să nu ratezi nicio rezervare nouă."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Если у вас установлен другой календарь, в него будут добавляться новые бронирования. Если у вас нет установленного календаря, подключите новый календарь, чтобы не пропускать новые бронирования."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ako imate instaliran drugi kalendar, nova zakazivanja će biti dodata na njega. Ako nemate, onda povežite novi kalendar da ne biste propustili nova zakazivanja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om du har en annan kalender installerad läggs nya bokningar till i den. Anslut annars en ny kalender så att du inte missar nya bokningar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yüklü başka bir takviminiz varsa yeni randevular bu takvime eklenir. Aksi takdirde yeni bir takvim bağlamazsanız yeni rezervasyonları kaçırabilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Якщо ви встановите інший календар, у нього буде додано нові бронювання. Якщо цього не станеться, підключіть новий календар, щоб не пропускати нові бронювання."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nếu bạn có lịch khác được cài đặt, những mục đặt hẹn mới sẽ được thêm vào đó. Nếu không thì hãy kết nối với lịch mới để bạn không bỏ lỡ bất cứ mục đặt hẹn mới nào."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果您安装了其他日历，新预约将添加至其中。如果没有，则连接一个新日历，这样就不会错过任何新预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果您安裝了其他行事曆，新的預約就會新增到該行事曆中。如果沒有，請連至新行事曆，這樣才不會錯過任何新的預約。"
+                }
+            ]
+        }
+    ]
+}

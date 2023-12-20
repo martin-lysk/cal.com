@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "verified",
+        "library.inlang.paraglideJs": "verified"
+    },
+    "id": "good_toes_smoke",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verified"
+                }
+            ]
+        }
+    ]
+}

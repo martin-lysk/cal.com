@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "warning_instant_meeting_experimental",
+        "library.inlang.paraglideJs": "warning_instant_meeting_experimental"
+    },
+    "id": "chilly_drinks_drum",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Experimental: Instant Meeting Events are currently experimental."
+                }
+            ]
+        }
+    ]
+}

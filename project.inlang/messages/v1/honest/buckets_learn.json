@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "confirm_auth_email_change",
+        "library.inlang.paraglideJs": "confirm_auth_email_change"
+    },
+    "id": "honest_buckets_learn",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيتسبب تغيير عنوان بريدك الإلكتروني في إنهاء طريقة المصادقة الحالية لتسجيل الدخول إلى Cal.com. وسنطلب منك تأكيد عنوان بريدك الإلكتروني الجديد، ثم سيتم تسجيل الخروج وسيتوجب عليك استخدام عنوان البريد الإلكتروني الجديد لتسجيل الدخول بدلاً من طريقة المصادقة الحالية بعد إعادة ضبط كلمة المرور لديك باتباع التعليمات التي ستُرسل إلى بريدك الإلكتروني."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Změnou e-mailové adresy dojde v souvislosti s přihlášením do Cal.com k odpojení vašeho současného způsobu ověřování. Budeme po vás chtít ověření nové e-mailové adresy. Následně budete odhlášeni a po nastavení hesla podle pokynů, které vám přijdou do pošty, se k přihlašování bude namísto stávajícího způsobu ověřování používat nová e-mailová adresa."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wenn Sie Ihre E-Mail-Adresse ändern, wird Ihre derzeitige Authentifizierungsmethode für die Anmeldung bei Cal.com unterbrochen. Wir werden Sie bitten, Ihre neue E-Mail-Adresse zu verifizieren. In der Folge werden Sie abgemeldet und verwenden Ihre neue E-Mail-Adresse, um sich anstelle Ihrer aktuellen Authentifizierungsmethode anzumelden, nachdem Sie Ihr Passwort anhand der Anweisungen, die Ihnen per E-Mail zugesandt werden, festgelegt haben."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Changing the email address will disconnect your current authentication method to log in to Cal.com. We will ask you to verify your new email address. Moving forward, you will be logged out and use your new email address to log in instead of your current authentication method after setting your password by following the instructions that will be sent to your mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cambiar la dirección de correo electrónico desconectará su método de autenticación actual para iniciar sesión en Cal.com. Le pediremos que verifique su nueva dirección de correo electrónico. En el futuro, se cerrará su sesión y utilizará su nueva dirección de correo electrónico para iniciar sesión en lugar de su método de autenticación actual después de configurar su contraseña siguiendo las instrucciones que se enviarán a su correo."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La modification de l'adresse e-mail déconnectera votre méthode d'authentification actuelle pour vous connecter à Cal.com. Nous vous demanderons de vérifier votre nouvelle adresse e-mail. Ensuite, vous serez déconnecté et devrez utiliser votre nouvelle adresse e-mail pour vous connecter après avoir défini votre mot de passe en suivant les instructions qui seront envoyées à votre adresse e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "שינוי כתובת הדוא\"ל ינתק את שיטת האימות הנוכחית שמשמשת אותך לכניסה אל Cal.com. נבקש ממך לאמת את כתובת הדוא\"ל החדשה שלך. מעכשיו, המערכת תנתק אותך מהחשבון ויהיה עליך להשתמש בכתובת הדוא\"ל החדשה שלך כדי להתחבר, במקום בשיטת האימות הנוכחית שלך לאחר שתגדיר/י סיסמה לפי ההוראות שיישלחו אליך בדוא\"ל."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cambiando l'indirizzo e-mail disconnetterai il tuo metodo di autenticazione attuale che utilizzi per accedere a Cal.com. Ti verrà chiesto di verificare il tuo nuovo indirizzo e-mail. Continuando, verrai disconnesso e dovrai usare il nuovo indirizzo e-mail per accedere, al posto del tuo metodo di autenticazione attuale, dopo aver impostato la password seguendo le istruzioni che ti invieremo al tuo indirizzo e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "メールアドレスを変更すると、Cal.com にログインするための現在の認証方法は解除されます。新しいメールアドレスの確認をお願いいたします。ログアウトした後は、メールに送信された手順に従ってパスワードを設定した後、現在の認証方法の代わりに新しいメールアドレスを使ってログインします。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이메일 주소를 변경하면 Cal.com에 로그인하는 기존 인증 방법이 연결 해제됩니다. 새 이메일 주소를 인증하라는 메시지가 표시됩니다. 앞으로는 메일로 전송되는 지침에 따라 비밀번호를 설정한 후 로그아웃하고 기존 인증 방법 대신 새 이메일 주소를 사용하여 로그인하게 됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Als u het e-mailadres wijzigt, wordt uw huidige verificatiemethode om in te loggen op Cal.com ontkoppeld. We vragen u om uw nieuwe e-mailadres te verifiëren. In de toekomst wordt u uitgelogd en gebruikt u uw nieuwe e-mailadres om in te loggen in plaats van uw huidige verificatiemethode nadat u uw wachtwoord heeft ingesteld door de instructies te volgen die u oer e-mail worden toegestuurd."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zmiana adresu e-mail spowoduje odłączenie bieżącej metody uwierzytelnienia używanej do logowania do Cal.com. Poprosimy Cię o zweryfikowanie nowego adresu e-mail. Następnie wylogujemy Cię, a po skonfigurowaniu hasła zgodnie z instrukcjami, które otrzymasz w wiadomości e-mail, poprosimy Cię o zalogowanie się nowym adresem e-mail zamiast bieżącej metody uwierzytelnienia."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A alteração do endereço de e-mail irá desassociar o seu método de autenticação atual para iniciar sessão no Cal.com. Vamos solicitar que confirme o seu novo endereço de e-mail. Ao continuar, a sua sessão será terminada e vai utilizar o seu novo endereço de e-mail para iniciar sessão em vez do seu método de autenticação atual, depois de definir a sua palavra-passe, de acordo com as instruções que serão enviadas para o seu e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao alterar o endereço de e-mail, seu método de autenticação atual será desconectado para entrar no Cal.com. Será solicitado que você verifique seu novo endereço de e-mail. Em seguida, você sairá e seu novo endereço de e-mail será usado para entrar em vez do seu método de autenticação atual, depois que sua senha for definida segundo as instruções enviadas por e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Schimbarea adresei de e-mail va deconecta metoda actuală de conectare la Cal.com. Vă vom solicita să vă verificați noua adresă de e-mail. În continuare, veți fi deconectat și veți folosi noua dvs. adresă de e-mail pentru a vă conecta în locul metodei actuale de autentificare după setarea parolei, urmând instrucțiunile care vor fi trimise pe adresa dvs. de e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "При изменении адреса электронной почты используемый способ авторизации для входа на Cal.com перестанет работать. Мы попросим вас подтвердить новый адрес электронной почты. Будет выполнен выход из вашего аккаунта. Затем вместо предыдущего способа авторизации вы войдете в Cal.com с помощью нового адреса электронной почты. Для этого нужно задать пароль. Инструкция о том, как это сделать, придет к вам на почту."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Promena imejl adrese će prekinuti trenutni način autentifikacije za prijavljivanje na Cal.com. Zatražićemo da verifikujete svoju novu imejl adresu. Nakon toga, bićete odjavljeni, i koristićete novu imejl adresu za prijavljivanje umesto trenutnog načina autentifikacije nakon što podesite lozinku prateći uputstva koja će vam biti poslata imejlom."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Att ändra e-postadressen kommer att koppla bort din nuvarande autentiseringsmetod för att logga in på Cal.com. Vi kommer att be dig verifiera din nya e-postadress. Framå kommer du att loggas ut och använda din nya e-postadress för att logga in istället för din nuvarande autentiseringsmetod efter att du ställt in ditt lösenord genom att följa instruktionerna som kommer att skickas till din e-post."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "E-posta adresinizi değiştirmek, Cal.com'da oturum açmak için geçerli kimlik doğrulama yönteminizin ilişkisini kesecektir. Sizden yeni e-posta adresinizi onaylamanızı isteyeceğiz. Devam ettiğinizde oturumunuz sonlandırılacak ve e-postanıza gönderilecek talimatlara göre şifrenizi belirledikten sonra mevcut kimlik doğrulama yönteminiz yerine yeni e-posta adresinizi kullanarak giriş yapacaksınız."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "У результаті зміни електронної адреси буде від’єднано ваш поточний метод автентифікації для входу на Cal.com. Ми попросимо вас підтвердити вашу нову електронну адресу. Після налаштування пароля відповідно до інструкцій надісланих вам поштою вам потрібно буде вийти із системи й увійти за допомогою нової електронної адреси замість вашого поточного методу автентифікації."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Việc thay đổi địa chỉ email sẽ gây ngắt kết nối cho phương thức xác thực hiện tại mà bạn dùng để đăng nhập Cal.com. Chúng tôi sẽ yêu cầu bạn xác minh địa chỉ email mới. Sau đó, bạn sẽ được đăng xuất và sử dụng địa chỉ email mới để đăng nhập thay cho phương thức xác thực hiện tại sau khi thiết lập mật khẩu bằng cách làm theo các chỉ dẫn được gủi đến hộp thư của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "更改电子邮件地址将断开您当前登录 Cal.com 的身份验证方法。我们将要求您验证您的新电子邮件地址。接下来，在按照发送到您邮箱的说明设置密码后，您将被注销并使用新的电子邮件地址登录，而不是当前的身份验证方法。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "變更電子郵件地址會使您目前登入 Cal.com 的驗證方式斷線。我們會要求您驗證新的電子郵件地址。接下來系統會將重設密碼的指示傳送至您的電子郵件地址，按照相關指示操作後您就會登出並使用新的電子郵件地址登入，而不是目前的驗證方法。"
+                }
+            ]
+        }
+    ]
+}

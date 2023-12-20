@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "copy_safe_api_key",
+        "library.inlang.paraglideJs": "copy_safe_api_key"
+    },
+    "id": "huge_chairs_refuse",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "انسخ مفتاح API هذا واحفظه في مكان آمن. إذا فقدت هذا المفتاح، يتوجب عليك إنشاء مفتاح جديد."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zkopírujte tento klíč API a uschovejte si ho na bezpečné místo. Pokud tento klíč ztratíte, musíte vygenerovat nový."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kopiér denne API-nøgle og gem den et sikkert sted. Hvis du mister denne nøgle, skal du generere en ny."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kopieren Sie diesen API-Schlüssel und speichern Sie ihn an einem sicheren Ort. Wenn Sie diesen Schlüssel verlieren, müssen Sie einen neuen generieren."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Copy this API key and save it somewhere safe. If you lose this key you have to generate a new one."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Copie esta clave API y guárdela en algún lugar seguro. Si pierde esta clave tendrá que generar una nueva."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Copiez cette clé API et conservez-la dans un endroit sûr. Si vous perdez cette clé, vous devrez en générer une nouvelle."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "העתק/י את מפתח ה-API הזה ושמור/י אותו במקום בטוח. אם תאבד/י אותו, יהיה עליך ליצור מפתח חדש."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Copia questa chiave API e conservala in un posto sicuro. Se perdi la chiave, dovrai generarne una nuova."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この API キーをコピーして安全な場所に保存してください。このキーを紛失した場合は、新しいキーを生成する必要があります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 API 키를 복사하여 안전한 곳에 보관하십시오. 이 키를 분실한 경우 새 키를 생성해야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kopieer deze API-sleutel en sla deze ergens veilig op. Als u deze sleutel verliest, moet u een nieuwe genereren."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kopier denne API nøkkelen og lagre den et trygt sted. Hvis du mister denne nøkkelen, må du generere en ny."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skopiuj ten klucz API i zapisz go w bezpiecznym miejscu. Jeśli stracisz ten klucz, trzeba będzie wygenerować nowy."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Copie esta chave da API e guarde-a num lugar seguro. Se perder esta chave, terá de gerar uma nova."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Copie esta chave de API e salve em um local seguro. Se perder a chave, será preciso gerar uma nova."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Copiați această cheie API și salvați-o într-un loc sigur. Dacă pierdeți această cheie, va trebui să generați una nouă."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Скопируйте этот ключ API и сохраните его в надежном месте. Если ключ потеряется, вам придется создать новый."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kopirajte ovaj API ključ i sačuvajte ga na bezbednom mestu. Ako izgubite ovaj ključ, moraćete da generište novi."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kopiera denna API-nyckel och spara den någonstans säkert. Om du förlorar denna nyckel måste du skapa en ny."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu API anahtarını kopyalayın ve güvenli bir yere kaydedin. Bu anahtarı kaybederseniz yeni bir anahtar oluşturmanız gerekir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Скопіюйте цей ключ API і збережіть його в надійному місці. Якщо ви втратите цей ключ, потрібно буде створити новий."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sao chép khoá API này và lưu nó ở nơi an toàn. Nếu bạn làm mất khoá này, bạn phải tạo khoá mới."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "复制此 API 密钥并将其保存在安全的位置。如果丢失此密钥，则必须生成新的密钥。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "複製此 API 金鑰並存在安全的地方。如果您遺失此金鑰，就必須產生新的金鑰。"
+                }
+            ]
+        }
+    ]
+}

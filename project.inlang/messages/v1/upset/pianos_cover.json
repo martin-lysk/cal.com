@@ -1,0 +1,270 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "workflow_example_1",
+        "library.inlang.paraglideJs": "workflow_example_1"
+    },
+    "id": "upset_pianos_cover",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إرسال رسائل قصيرة للحضور للتذكير قبل 24 ساعة من بدء الحدث"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Odeslat účastníkovi SMS upomínku 24 hodin před začátkem akce"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send sms-påmindelse til deltageren 24 timer før begivenheden starter"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Eine Erinnerung per Mail an die Teilnehmer verschicken, 24 Stunden bevor das Event startet"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send SMS reminder 24 hours before event starts to attendee"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar recordatorio por SMS al asistente, 24 horas antes de que el evento comience"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bidali SMS gogorarazlea gertaera hasi baino 24 ordu lehenago partaideari"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Envoyer un rappel par SMS 24 heures avant le début de l'événement"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לשלוח תזכורת באמצעות SMS למשתתף/ת 24 שעות לפני תחילת האירוע"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Invia al partecipante un promemoria via SMS 24 ore prima dell'inizio dell'evento"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "イベントの開始 24 時間前に出席者に SMS で通知を送信する"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이벤트가 시작되기 24시간 전에 참석자에게 SMS 알림 보내기"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "24 uur voor het begin van de gebeurtenis een sms-herinnering naar deelnemer versturen"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Send SMS-påminnelse til deltakeren 24 timer før hendelsen starter"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wyślij do uczestnika przypomnienie SMS na 24 godziny przed rozpoczęciem wydarzenia"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar lembrete de participação via SMS, 24 horas antes do evento começar"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviar lembrete por SMS 24 horas antes do evento começar para o participante"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trimiteți participantului un memento prin SMS cu 24 de ore înainte de începerea evenimentului"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отправить участникам напоминание по SMS за 24 часа до начала события"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pošalji SMS podsetnik učesniku 24 sata pre početka događaja"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skicka SMS-påminnelse till deltagare 24 timmar innan händelsen börjar"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etkinlik başlamadan 24 saat önce katılımcıya SMS hatırlatıcısı gönder"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Надсилати учаснику нагадування про захід через SMS за 24 години до початку"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gửi lời nhắc SMS cho người tham gia 24 giờ trước lúc bắt đầu sự kiện"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "在活动开始前 24 小时向参与者发送短信提醒"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "活動開始前 24 小時傳送簡訊提醒給與會者"
+                }
+            ]
+        }
+    ]
+}

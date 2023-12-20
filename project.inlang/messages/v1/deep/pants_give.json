@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "unified_billing",
+        "library.inlang.paraglideJs": "unified_billing"
+    },
+    "id": "deep_pants_give",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unified Billing"
+                }
+            ]
+        }
+    ]
+}

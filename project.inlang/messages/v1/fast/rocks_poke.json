@@ -1,0 +1,360 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_type_seats",
+        "library.inlang.paraglideJs": "event_type_seats"
+    },
+    "id": "fast_rocks_poke",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " من المقاعد"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Počet míst: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " pladser"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " Sitze"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " seats"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " plazas"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " places"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " מושבים"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " posti"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " 席"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": "개 시트"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " plaatsen"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Liczba stanowisk: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " lugares"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " assentos"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " (de) locuri"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Мест: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " mesta"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " platser"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " இருக்கைகள்"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " yer"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Місць: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " chỗ ngồi"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " 个位置"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "numberOfSeats"
+                },
+                {
+                    "type": "Text",
+                    "value": " 個座位"
+                }
+            ]
+        }
+    ]
+}

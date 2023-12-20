@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "bookerlayout_error_default_not_enabled",
+        "library.inlang.paraglideJs": "bookerlayout_error_default_not_enabled"
+    },
+    "id": "metal_pandas_return",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "التخطيط الذي حددته كطريقة عرض افتراضية ليس جزءًا من التخطيطات التي تم تمكينها."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rozvržení, které jste vybrali jako výchozí zobrazení, není součástí povolených rozvržení."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das Layout, das Sie als Standardansicht ausgewählt haben, ist nicht Teil der aktivierten Layouts."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The layout you selected as the default view is not part of the enabled layouts."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El diseño que seleccionó como vista predeterminada no es parte de los diseños habilitados."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lehenetsitako ikuspegi bezala hautatu duzun diseinua ez dago gaitutako diseinuen artean."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La mise en page sélectionnée comme vue par défaut ne fait pas partie des mises en page activées."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הפריסה שבחרת כתצוגת ברירת המחדל לא שייכת לפריסות המופעלות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il layout selezionato come vista predefinita non è tra quelli abilitati."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "デフォルト表示として選択したレイアウトが、有効なレイアウトに含まれていません。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "기본 보기로 선택한 레이아웃은 활성화된 레이아웃의 일부가 아닙니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De indeling die u als standaardweergave heeft geselecteerd, behoort niet tot de ingeschakelde indelingen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Układ wybrany jako widok domyślny nie należy do włączonych układów."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A disposição selecionada como vista predefinida não faz parte das disposições ativas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O layout selecionado como visualização padrão não faz parte dos layouts habilitados."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aspectul selectat ca vizualizare implicită nu se numără printre aspectele activate."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Режим отображения, который вы выбрали по умолчанию, не входит в число доступных режимов."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Izgled koji ste izabrali da bude podrazumevan nije deo omogućenih izgleda."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Layouten du valde som standard är inte en del av de aktiverade layouterna."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Varsayılan görünüm olarak seçtiğiniz düzen, etkinleştirilmiş düzenlerin bir parçası değil."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Макет, який ви вибрали як макет за замовчуванням, не ввімкнено."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bố cục mà bạn chọn làm giao diện mặc định không phải là một phần của những bố cục đã bật."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您选择作为默认视图的布局不是已启用布局的一部分。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您選為預設檢視的版面並不屬於已啟用的版面。"
+                }
+            ]
+        }
+    ]
+}

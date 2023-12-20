@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "offset_toggle_description",
+        "library.inlang.paraglideJs": "offset_toggle_description"
+    },
+    "id": "dull_nails_retire",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إزاحة الفترات الزمنية المعروضة للحاجزين بعدد محدد من الدقائق"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Posunutí časových slotů zobrazených rezervujícím osobám o zadaný počet minut"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Versetzt die den Buchern angezeigten Zeitfenster um eine bestimmte Anzahl von Minuten"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Offset timeslots shown to bookers by a specified number of minutes"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desplazar las franjas horarias que se muestran a los que reservan por un número específico de minutos"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Appliquez un décalage de durée spécifique aux créneaux horaires affichés aux utilisateurs."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הזזת חלונות הזמן המוצגים למזמינים במספר מוגדר של דקות"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sposta le fasce orarie mostrate alle persone che prenotano di un numero specificato di minuti"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約者に表示される時間帯を指定した分だけ分単位でずらします"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "지정된 시간(분)만큼 예약자에게 표시되는 시간대 오프셋"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verschuif de aan boekers weergegeven tijdslots met een opgegeven aantal minuten"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Przesuń o określoną liczbę minut przedziały czasowe wyświetlane rezerwującym"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desfasar janelas horárias por um determinado número de minutos na apresentação das mesmas aos responsáveis pela reserva"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deslocar em uma quantidade específica de minutos as alocações de horário mostradas aos reservantes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Decalați cu un număr specificat de minute intervalele de timp afișate persoanelor care rezervă"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Смещение временных интервалов, которые видит пользователь при оформлении бронирования, на указанное количество минут"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pomeranje termina prikazanih osobama koje zakazuju za određeni broj minuta"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Flytta fram tidsluckor som visas för bokare med ett angivet antal minuter"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyon yapacaklara gösterilecek zaman dilimlerini belirtilen dakika sayısına göre kaydır"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Проміжки часу для зміщення (у хвилинах), доступні користувачам, які здійснюють бронювання"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bù suất thời gian được hiển thị cho những người đặt lịch theo số phút cụ thể"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "将显示给预约者的时间段偏移指定的分钟数"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "為預約者顯示的時段偏移指定的分鐘數"
+                }
+            ]
+        }
+    ]
+}

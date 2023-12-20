@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "sender_id_error_message",
+        "library.inlang.paraglideJs": "sender_id_error_message"
+    },
+    "id": "icy_keys_listen",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يسمح بالحروف والأرقام والمسافات فقط (بحد أقصى 11 حرفًا)"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Povolena jsou pouze písmena, číslice a mezery (max. 11 znaků)"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kun bogstaver, tal og mellemrum tilladt (maks. 11 tegn)"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nur Buchstaben, Zahlen und Leerzeichen erlaubt (max. 11 Zeichen)"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Only letters, numbers and spaces allowed (max. 11 characters)"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sólo se permiten letras, números y espacios (máx. 11 caracteres)"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seules les lettres, chiffres et espaces sont autorisés (max. 11 caractères)"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מותר להשתמש רק באותיות, במספרים וברווחים (לכל היותר 11 תווים)"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sono consentiti solo lettere, numeri e spazi (massimo 11 caratteri)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "文字、数字、スペースのみが使用可能です (最大 11 文字)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "영문, 숫자, 공백만 허용(최대 11자)"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alleen letters, cijfers en spaties toegestaan (max. 11 tekens)"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kun bokstaver, tall og mellomrom er tillatt (maks. 11 tegn)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dozwolone są tylko litery, cyfry i spacje (maksymalnie 11 znaków)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Apenas são permitidas letras, números e espaços (máx. 11 caracteres)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Apenas letras, números e espaços permitidos (no máx. 11 caracteres)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sunt permise doar litere, numere și spații (maxim 11 caractere)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Только буквы, цифры и пробелы (макс. 11 символов)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dozvoljena su samo slova, brojevi i razmaci (maks. 11 znakova)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Endast bokstäver, siffror och mellanslag tillåts (maximalt 11 tecken)"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sadece harflere, sayılara ve boşluklara izin verilir (en fazla 11 karakter)"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Дозволяються тільки літери, цифри та пробіли (макс. 11 символів)"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chỉ được phép sử dụng chữ cái, số và khoảng trắng (tối đa 11 ký tự)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "只允许字母、数字和空格(最多 11 个字符)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "只能使用字母、數字和空格 (最多 11 個字元)"
+                }
+            ]
+        }
+    ]
+}

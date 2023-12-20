@@ -1,0 +1,452 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "repeats_up_to_other",
+        "library.inlang.paraglideJs": "repeats_up_to_other"
+    },
+    "id": "four_zoos_cry",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "التكرار حتى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " مرة"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opakuje se až "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": "×"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gentages op til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " gange"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wiederholt sich bis zu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " mal"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Repeats up to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " times"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se repite hasta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " veces"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Répéter jusqu'à "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " fois"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "חזרה עד "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " פעמים"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si ripete "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " volte"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "最大で "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 回繰り返す"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "최대 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": "회까지 반복"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wordt tot "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " keer herhaald"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gjentas opptil "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " ganger"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Powtarza się maks. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " razy"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Repete-se até "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " vezes"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Repete-se até "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " vezes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se repetă de maximum "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " (de) ori"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Повторяется до "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " раз(-а)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ponavlja se do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " puta"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Upprepas upp till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " gånger"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " defaya kadar tekrar eder"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Повторюється щонайбільше стільки разів: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lặp lại đến "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " lần"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "最多重复 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 次"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "最多重複 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " 次"
+                }
+            ]
+        }
+    ]
+}

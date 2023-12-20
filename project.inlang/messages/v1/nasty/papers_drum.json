@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "not_triggering_existing_bookings",
+        "library.inlang.paraglideJs": "not_triggering_existing_bookings"
+    },
+    "id": "nasty_papers_drum",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لن يتم تشغيل الحجوزات الموجودة مسبقاً حيث سيتم طلب رقم الهاتف عند حجز الحدث."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nespustí se u již existujících rezervací, protože uživatel bude při rezervaci události požádán o zadání telefonního čísla."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vil ikke udløses for allerede eksisterende bookinger, da brugeren vil blive bedt om telefonnummer, når de booker begivenheden."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wird nicht für bereits bestehende Buchungen ausgelöst, da der Benutzer bei der Buchung nach einer Telefonnummer gefragt wird."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Won't trigger for already existing bookings as user will be asked for phone number when booking the event."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No se activará para las reservas ya existentes, ya que se le pedirá al usuario un número de teléfono al reservar el evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ne se déclenchera pas pour les réservations déjà existantes car l'utilisateur sera invité à fournir un numéro de téléphone lors de la réservation de l'événement."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא יופעל עבור הזמנות קיימות מאחר שהמשתמש יתבקש למסור מספר טלפון בעת הזמנת האירוע."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Non verrà attivato per le prenotazioni già esistenti, in quanto agli utenti verrà chiesto di specificare il numero di telefono al momento della prenotazione dell'evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "イベントの予約時に電話番号の入力を求められるため、すでにある予約はトリガーされません。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이벤트 예약 시 사용자에게 전화번호를 묻기 때문에 이미 존재하는 예약에 대해서는 트리거되지 않습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wordt niet geactiveerd voor bestaande boekingen, omdat de gebruiker om zijn/haar telefoonnummer gevraagd wordt bij het boeken van de gebeurtenis."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vil ikke utløses for allerede eksisterende bookinger da brukeren vil bli bedt om telefonnummer ved booking av hendelsen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nie uruchomi się w przypadku już istniejących rezerwacji, ponieważ użytkownik zostanie poproszony o numer telefonu podczas rezerwacji wydarzenia."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não será accionado para reservas já existentes, uma vez que será pedido o número de telefone ao utilizador ao reservar o evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não será acionado para reservas já existentes, pois o usuário deverá fornecer o número de telefone ao fazer um pedido no evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nu se va declanșa pentru rezervările existente, deoarece utilizatorului i se va solicita numărul de telefon atunci când face rezervare pentru eveniment."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не работает для уже созданных бронирований, так как при бронировании события пользователь должен будет ввести номер телефона."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Neće pokrenuti za već postojeća zakazivanja jer će korisniku biti tražen broj telefona prilikom rezervacije događaja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kommer inte utlösa för redan befintliga bokningar eftersom användaren kommer att bli ombedd att uppge telefonnummer när händelsen bokas."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etkinlik rezervasyonu yapılırken kullanıcıdan bir telefon numarası belirtmesi isteneceğinden mevcut rezervasyonlar için etkinleştirilmeyecektir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не спрацьовуватиме для бронювань, що вже існують, тому що в користувача під час бронювання запитуватиметься номер телефону."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sẽ không kích hoạt đối với những lịch hẹn đã có do người dùng sẽ được yêu cầu số điện thoại khi đặt lịch hẹn cho sự kiện."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "不会针对已经存在的预约而触发，因为用户在预约活动时会被要求提供电话号码。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "不為現有預約觸發，使用者會在預約活動時收到輸入電話號碼的提示。"
+                }
+            ]
+        }
+    ]
+}

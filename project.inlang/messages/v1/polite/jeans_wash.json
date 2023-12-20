@@ -1,0 +1,270 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "reschedule_modal_description",
+        "library.inlang.paraglideJs": "reschedule_modal_description"
+    },
+    "id": "polite_jeans_wash",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيؤدي هذا إلى إلغاء الاجتماع المجدول، قم بإبلاغ صاحب الجدولة وطلب منه اختيار وقت جديد."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tímto zrušíte plánovanou schůzku, oznámíte plánovači a požádáte je o vybrání nového času."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dette vil annullere det planlagte møde, underrette planlæggeren og bede dem om at vælge en ny tid."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Damit wird das geplante Meeting abgesagt. Benachrichtigen Sie die Person, die das Meeting geplant hat, und bitten Sie sie, eine neue Zeit auszuwählen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This will cancel the scheduled meeting, notify the scheduler and ask them to pick a new time."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esto cancelará la reunión programada, notificará al planificador y te pedirá que escojas una nueva hora."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Honek programatutako bilera bertan behera utziko du, programatzaileari jakinaraziko dio eta momentu berri bat hautatzeko eskatu."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ceci annulera le rendez-vous planifié et demandera à l'invité de choisir un nouveau créneau."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "פעולה זו תבטל את הפגישה שנקבעה, תיידע את המארגן ותבקש שיבחר מועד חדש."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Questa operazione annullerà la riunione programmata, avviserà il creatore del programma e gli chiederà di scegliere una nuova ora."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "スケジュール設定済みのミーティングをキャンセルし、スケジュールの設定者に通知して新しい時間を選択するように依頼します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이렇게 하면 예약된 회의가 취소되고 스케줄러에 알림이 보내지며 새로운 시간 선택이 요청됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hierdoor wordt de geplande vergadering geannuleerd, wordt de planner geïnformeerd en wordt hem/haar gevraagd een nieuwe tijd te kiezen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dette vil avbryte det planlagte møtet, varsle planleggeren og be dem velge et nytt tidspunkt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To spowoduje anulowanie zaplanowanego spotkania, powiadomienie osoby planującej i poproszenie jej o wybranie nowego terminu."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Isto irá cancelar a reunião agendada, notificar o organizador e pedir para escolher uma nova hora."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Isso cancelará a reunião agendada, notifique quem agendou e peça que escolha outro horário."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Această acțiune va anula ședința programată, va anunța programatorul și îi va cere să aleagă o nouă oră."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Запланированная встреча будет отменена, и организатор получит уведомление с просьбой назначить новое время."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovim ćete otkazati zakazani sastanak, obavestiti podnosioca rezervacije i zatražiti da odabere drugo vreme."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Detta kommer att avbryta det planerade mötet. Meddela schemaläggaren och be hen att välja en ny tid."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu işlem, planlanan toplantıyı iptal edecek, planlayıcıyı bilgilendirecek ve sizden yeni bir zaman dilimi seçmenizi isteyecektir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Заплановану нараду буде скасовано, і користувач, який її організовував, отримає сповіщення та запит вибрати новий час."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thao tác này sẽ huỷ cuộc họp đã được xếp lịch này, báo tin cho người xếp lịch và yêu cầu họ chọn thời gian mới."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "这将取消预定的会议，通知安排人员并让他们选择一个新时间。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "這將取消已預約的會議，通知預約者，並請他們選擇新時間。"
+                }
+            ]
+        }
+    ]
+}

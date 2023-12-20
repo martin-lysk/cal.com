@@ -1,0 +1,372 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "cal_provide_video_meeting_url",
+        "library.inlang.paraglideJs": "cal_provide_video_meeting_url"
+    },
+    "id": "lucky_pandas_dig",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيوفر "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " رابطًا للاجتماع عبر الفيديو على Daily."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " poskytne URL Daily video meetingu."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " angiver en URL-adresse for videomødet."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " wird eine Video-Meeting URL zur Verfügung stellen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " will provide a video meeting URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " proporcionará una URL de la video llamada."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " fournira un lien de rendez-vous vidéo."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " יספק כתובת קישור לפגישת וידאו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " fornirà un URL di riunione Daily video."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " はビデオミーティングの URL を提供する。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "은 일일 화상 회의 URL을 제공합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zal een Daily meeting-URL meegeven in de afspraak bevestiging."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vil angi en videomøte-URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " poda adres URL spotkania wideo platformy Daily."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " irá fornecer um URL de reunião da videoconferência."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " irá fornecer um URL de reunião do Daily video."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " va oferi un URL pentru ședința de Daily."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " создаст ссылку на встречу в Daily."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " će obezbediti Daily video meeting URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " kommer att generera en URL för Daily video-möte."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", bir görüntülü toplantı URL'si sağlayacaktır."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " надасть URL-адресу наради Daily."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sẽ cung cấp URL cuộc họp video."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "将提供 Daily 视频会议链接"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "  會提供 Daily 視訊會議網址。"
+                }
+            ]
+        }
+    ]
+}

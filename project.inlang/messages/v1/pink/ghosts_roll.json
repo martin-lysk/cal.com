@@ -1,0 +1,356 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_no_user_invite_heading_team",
+        "library.inlang.paraglideJs": "email_no_user_invite_heading_team"
+    },
+    "id": "pink_ghosts_roll",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تمت دعوتك للانضمام إلى فريق "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Byli jste pozváni do týmu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie wurden eingeladen, einem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Team beizutreten"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You’ve been invited to join a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " team"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lo han invitado a unirse a un equipo en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous avez été invité à rejoindre une équipe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הוזמנת להצטרף לצוות ב-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hai ricevuto un invito a entrare a far parte del team di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " チームに参加するよう招待されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 팀에 참여 초대를 받으셨습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U bent uitgenodigd om lid te worden van een "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-team"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaproszono Cię do dołączenia do zespołu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Recebeu um convite para fazer parte de uma equipa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você recebeu um convite para ingressar em um time do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ați fost invitat să faceți parte dintr-o echipă "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вас пригласили в команду "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozvani ste da se pridružite timu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har blivit inbjuden att gå med i ett "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-team"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibine katılmaya davet edildiniz"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вас запрошено приєднатися до команди в застосунку "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn đã được mời gia nhập nhóm "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已被邀请加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 团队"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已獲邀加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 團隊"
+                }
+            ]
+        }
+    ]
+}

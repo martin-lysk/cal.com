@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_setup_multiple_duration_error",
+        "library.inlang.paraglideJs": "event_setup_multiple_duration_error"
+    },
+    "id": "gentle_sides_occur",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إعداد الحدث: تستلزم فترات متعددة خيارًا واحدًا على الأقل."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nastavení události: více dob trvání vyžaduje alespoň 1 možnost."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opsætning af begivenheder: Flere varigheder kræver mindst 1 mulighed."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Terminkonfiguration: Mehrere Laufzeiten erfordern mindestens eine Option."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Event Setup: Multiple durations requires at least 1 option."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuración de eventos: varias duraciones requieren al menos una opción."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuration de l'événement : plusieurs durées requièrent au moins une option."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדרת אירוע: משכי זמן מרובים מחייבים הגדרה של אפשרות אחת לפחות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Impostazione evento: In caso di più durate è richiesta almeno 1 opzione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "イベント設定：複数の期間には少なくとも1つのオプションが必要です。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이벤트 설정: 복수 기간에는 최소 1개의 옵션이 필요합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gebeurtenisconfiguratie: voor meerdere duren is minimaal 1 optie vereist."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hendelsesoppsett: Flere varigheter krever minst 1 alternativ."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfiguracja wydarzeń: wiele czasów trwania wymaga co najmniej 1 opcji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuração do evento: durações múltiplas requerem pelo menos 1 opção."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuração do evento: múltiplas durações requerem pelo menos uma opção."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurare eveniment: duratele multiple necesită cel puțin o opțiune."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Настройка события: чтобы выбрать несколько вариантов продолжительности, требуется как минимум 1 параметр."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podešavanje događaja: Višestruka trajanja zahteva najmanje 1 opciju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfiguration av händelse: Flera varaktigheter kräver minst 1 alternativ."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etkinlik Kurulumu: Birden çok süre için en az 1 seçenek gereklidir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Налаштування заходу: якщо мають бути доступні різні варіанти, потрібно вказати принаймні один."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thiết lập sự kiện: Nhiều khoảng thời gian cần ít nhất 1 tuỳ chọn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "活动设置: 多个时长需要至少 1 个选项。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "活動設定：多個時間長度需要至少 1 個選項。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "attendee_no_longer_attending_subtitle",
+        "library.inlang.paraglideJs": "attendee_no_longer_attending_subtitle"
+    },
+    "id": "afraid_moles_look",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم إلغاء "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": ". هذا يعني أنه تم فتح مقعد لهذه الفترة الزمنية"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uživatel "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " zrušil svou účast. V tomto časovém intervalu se tedy uvolnilo místo"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " hat abgesagt. Dies bedeutet, dass ein Platz in diesem Zeitfenster frei wurde"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " has canceled. This means a seat has opened up for this time slot"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " ha cancelado. Esto significa que está disponible una plaza para esta franja horaria"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " a annulé. Cela signifie qu'une place s'est libérée pour ce créneau horaire"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " ביטל/ה, ומשמעות הדבר היא שהתפנה מקום בחלון הזמן הזה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " ha disdetto. Di conseguenza, si è liberato un posto in questa fascia oraria"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " がキャンセルしました。これにより、この時間帯の座席が 1 つ利用可能になりました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "이(가) 취소되었습니다. 즉, 이 시간 슬롯에 좌석이 비어 있습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " heeft geannuleerd. Dit betekent dat er een plaats is vrijgekomen voor dit tijdslot"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Użytkownik "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " anulował rezerwację. To znaczy, że zwolniło się miejsce w tym przedziale czasowym"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " cancelou. Isto significa que existe uma nova disponibilidade para este horário"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " cancelou. Quer dizer que um assento foi liberado para este período de tempo"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " a anulat. Acest lucru înseamnă că s-a eliberat un loc pentru acest interval de timp"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " отказался(-ась) от посещения мероприятия. Этот промежуток времени снова свободен"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Korisnik "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " je otkazao. To znači da se otvorilo mesto za ovaj vremenski period"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " har avbokat. Detta innebär att en plats har blivit ledig för denna tid"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinlik katılımını iptal etti. Bu, bu zaman aralığı için bir yerin açıldığı anlamına gelir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " скасував(-ла) участь. Це означає, що на цей час з’явилося вільне місце."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã hủy. Điều này nghĩa là còn lại một suất cho thời điểm này"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已取消。这意味着该时段有一个位置空出来"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已取消，這代表此時段空出了一個座位"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,622 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "delete_sso_configuration_confirmation_description",
+        "library.inlang.paraglideJs": "delete_sso_configuration_confirmation_description"
+    },
+    "id": "open_pears_arrive",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هل تريد بالتأكيد حذف تكوين "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "؟ لن يتمكن أعضاء فريقك الذين يستخدمون معلومات تسجيل الدخول إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " من الوصول إلى Cal.com بعد الآن."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opravdu chcete odstranit konfiguraci "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? Členové vašeho týmu, kteří používají přihlášení "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": ", ztratí přístup k webu Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er du sikker på, at du vil slette "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " konfigurationen? Dine teammedlemmer, der bruger "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " login, vil ikke længere kunne få adgang til Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sind Sie sicher, dass Sie die "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Konfiguration löschen möchten? Ihre Teammitglieder, die sich über "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " anmelden, werden keinen Zugriff mehr auf Cal.com haben."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Are you sure you want to delete the "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " configuration? Your team members who use "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " login will no longer be able to access Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "¿Está seguro de que desea eliminar la configuración de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? Los miembros de su equipo que utilicen el inicio de sesión "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " ya no podrán acceder a Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voulez-vous vraiment supprimer la configuration "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " ? Les membres de votre équipe utilisant la connexion "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " ne pourront plus accéder à Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אתה בטוח שאתה רוצה למחוק את הגדרות "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? חברי הצוות שלך שמשתמשים ב- "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " להזדהות לא יוכלו להשתמש בו להכנס ל- Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Eliminare la configurazione "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? I membri del tuo team che utilizzano l'accesso "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " non saranno più in grado di accedere a Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " の構成を削除してもよろしいですか？"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " でのログインを使用しているチームメンバーは、Cal.com にアクセスできなくなります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 구성을 삭제하시겠습니까? "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 로그인을 사용하는 팀원은 더 이상 Cal.com에 액세스할 수 없습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Weet u zeker dat u de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-configuratie wilt verwijderen? Uw teamleden die "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-aanmelding gebruiken hebben niet langer toegang tot Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Czy na pewno chcesz usunąć konfigurację "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? Członkowie zespołu, którzy używają logowania "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " nie będą już mogli uzyskać dostępu do Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem a certeza que pretende eliminar a configuração "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? Os membros da sua equipa que utilizem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " para o início de sessão deixarão de poder aceder a Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você tem certeza que deseja remover a configuração de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? Os membros do seu time que utilizam "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " para fazer login não conseguirão acessar o Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sigur doriți să ștergeți configurația "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? Membrii echipei dvs. care utilizează conectarea prin "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " nu vor mai putea accesa Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Удалить конфигурацию "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? Участники команды, входящие в Cal.com через "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": ", больше не смогут получить к нему доступ."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da li ste sigurni da želite da izbrišete "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " konfiguraciju? Članovi vašeg tima koji koriste "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " prijavljivanje više neće moći da pristupe Cal.com-u."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vill du verkligen ta bort "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-konfigurationen? Dina teammedlemmar som använder "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-inloggning kan inte längre komma åt Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " yapılandırmasını silmek istediğinizden emin misiniz? "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " girişini kullanan ekip üyeleriniz artık Cal.com'a erişemeyecek."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Справді видалити конфігурацію "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "? Учасники вашої команди, які входять через "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": ", не зможуть ввійти в Cal.com."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có chắc chắn muốn xóa cấu hình "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " không? Các thành viên trong nhóm của bạn sử dụng thông tin đăng nhập "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " sẽ không thể truy cập vào Cal.com được nữa."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "确定要删除 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 配置吗？使用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 登录的团队成员将无法再访问 Cal.com。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "確定要刪除 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 設定？使用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 登入的團隊成員將再也無法存取 Cal.com。"
+                }
+            ]
+        }
+    ]
+}

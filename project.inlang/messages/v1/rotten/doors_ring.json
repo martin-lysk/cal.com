@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_change",
+        "library.inlang.paraglideJs": "email_change"
+    },
+    "id": "rotten_doors_ring",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سجّل الدخول ثانيةً باستخدام عنوان بريدك الإلكتروني الجديد وكلمة مرور."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Přihlaste se znovu pomocí nové e-mailové adresy a hesla."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Melden Sie sich mit Ihrer neuen E-Mail-Adresse und Ihrem Passwort wieder an."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Log back in with your new email address and password."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vuelva a iniciar sesión con su nueva dirección de correo electrónico y contraseña."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reconnectez-vous avec votre nouvelle adresse e-mail et votre nouveau mot de passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "התחבר/י שוב עם כתובת הדוא\"ל החדשה והסיסמה."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Accedi di nuovo con il nuovo indirizzo e-mail e la nuova password."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "新しいメールアドレスとパスワードを使ってログインし直します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "새 이메일 주소와 비밀번호로 다시 로그인하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Log opnieuw in met uw nieuwe e-mailadres en wachtwoord."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaloguj się ponownie za pomocą nowego adresu e-mail i hasła."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inicie sessão novamente com o seu novo endereço de e-mail e palavra-passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Volte a entrar com seu novo endereço de e-mail e senha."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Conectați-vă din nou cu noua adresă de e-mail și parolă."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Войдите, используя новый адрес электронной почты и пароль."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Prijavite se ponovo sa novom imejl adresom i lozinkom."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Logga in igen med din nya e-postadress och lösenord."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yeni e-posta adresiniz ve şifrenizle tekrar giriş yapın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Увійдіть у систему за допомогою нової електронної адреси й пароля."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đăng nhập trở lại bằng địa chỉ email và mật khẩu mới."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "使用您的新电子邮件地址和密码重新登录。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "使用您的新電子郵件地址和密碼重新登入。"
+                }
+            ]
+        }
+    ]
+}

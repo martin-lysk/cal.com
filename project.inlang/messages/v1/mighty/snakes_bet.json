@@ -1,0 +1,816 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "user_invited_you",
+        "library.inlang.paraglideJs": "user_invited_you"
+    },
+    "id": "mighty_snakes_bet",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يدعوك "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " للانضمام إلى فريق "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " على "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uživatel "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " vás pozval, abyste se připojili k "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " v aplikaci "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " hat Sie eingeladen, dem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " auf "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " beizutreten"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " invited you to join the "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " on "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " lo invitó a unirse al equipo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " vous a invité à rejoindre l'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " sur "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " הזמין/ה אותך להצטרף ל"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " ב-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " ti ha invitato a unirti a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " su "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " に参加するよう、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " が "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " であなたを招待しました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " 님께서 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "의 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 귀하를 초대하셨습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " heeft u uitgenodigd om lid te worden van het "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Użytkownik "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " zaprosił Cię do dołączenia do: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " w aplikacji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " enviou um convite para se juntar a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " convidou para ingressar na equipe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " v-a invitat să faceți parte din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " pe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " пригласил вас в команду "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " vas je pozvao/la da se pridružite "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " har bjudit in dig till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": ", sizi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " uygulamasındaki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibine katılmaya davet etti"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " запрошує вас приєднатись: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": "» в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã mời bạn để gia nhập "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " trên "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " 邀请您在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 上加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已邀請您加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 上的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "{{team}}"
+                }
+            ]
+        }
+    ]
+}

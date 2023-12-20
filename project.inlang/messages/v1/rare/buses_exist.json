@@ -1,0 +1,374 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "premium_username",
+        "library.inlang.paraglideJs": "premium_username"
+    },
+    "id": "rare_buses_exist",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هذا اسم مستخدم مميز، احصل على اسم المستخدم لك مقابل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Toto je prémiové uživatelské jméno, získejte ho za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dies ist ein Premium-Benutzername, holen Sie sich Ihren für "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This is a premium username, get yours for "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este es un nombre de usuario premium, obtenga el suyo por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il s'agit d'un nom d'utilisateur premium, obtenez-le pour "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "זהו שם משתמש פרימיום, קבל/י אחד משלך תמורת "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Questo è un nome utente premium, ottieni il tuo per "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "これはプレミアムユーザー名ですので、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                },
+                {
+                    "type": "Text",
+                    "value": " で入手してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "프리미엄 사용자 이름입니다. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 구입하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dit is een premium gebruikersnaam, koop de uwe voor "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To nazwa użytkownika premium, możesz ją mieć za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este é um nome de utilizador premium. Obtenha o seu por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este é um nome de usuário premium, obtenha o seu por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acesta este un nume de utilizator premium. Puteți obține unul pentru "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Это имя пользователя уровня premium. Такое имя пользователя можно получить за "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovo je premium korisničko ime, nabavite svoje za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Detta är ett premiumanvändarnamn, få ditt för "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "இது ஒரு பிரீமியம் பயனர்பெயர், "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                },
+                {
+                    "type": "Text",
+                    "value": " க்கு உங்களுடையதைப் பெறுங்கள்"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu premium bir kullanıcı adıdır, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                },
+                {
+                    "type": "Text",
+                    "value": " karşılığında kendi adınızı alın"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Це ім’я користувача класу преміум, отримай своє за "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đây là tên người dùng cao cấp, hãy nhận lấy một cái cho bạn với mức "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "这是高级用户名，支付 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                },
+                {
+                    "type": "Text",
+                    "value": " 即可获得您的高级用户名"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此為高級使用者名稱，支付 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "price"
+                },
+                {
+                    "type": "Text",
+                    "value": " 即可擁有"
+                }
+            ]
+        }
+    ]
+}

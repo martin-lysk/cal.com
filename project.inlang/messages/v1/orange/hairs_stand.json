@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "disable_attendees_confirmation_emails_description",
+        "library.inlang.paraglideJs": "disable_attendees_confirmation_emails_description"
+    },
+    "id": "orange_hairs_stand",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يوجد مسار عمل واحد على الأقل نشط في هذا النوع من الأحداث يقوم بإرسال رسائل إلكترونية إلى الحاضرين عند حجز الحدث."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U tohoto typu události je aktivní alespoň jeden pracovní postup, který po rezervaci události odešle účastníkům e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mindestens ein Workflow, durch den bei Buchung eine E-Mail an die Teilnehmer gesendet wird, ist für diesen Termintyp aktiv."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "At least one workflow is active on this event type that sends an email to the attendees when the event is booked."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Al menos un flujo de trabajo está activo en este tipo de evento que envía un correo electrónico a los asistentes cuando se reserva el evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Au moins un workflow est actif sur ce type d'événement qui envoie un e-mail aux participants lorsque l'événement est réservé."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בסוג האירוע הזה פעיל לפחות תהליך עבודה אחד ששולח דוא\"ל למשתתפים כשהאירוע מוזמן."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per questo tipo di evento è attivo almeno un flusso di lavoro che invia un'e-mail ai partecipanti quando l'evento viene prenotato."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "このイベントの種類では少なくとも 1 件のワークフローがアクティブとなり、イベントが予約されると出席者にメールが送信されます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 이벤트 유형에는 이벤트가 예약되었을 때 참석자들에게 이메일을 보내는 하나 이상의 워크플로가 활성화되어 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is minstens één werkstroom actief voor dit gebeurtenistype die een e-mail naar de deelnemers stuurt wanneer de gebeurtenis geboekt is."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "W tym typie wydarzenia aktywny jest co najmniej jeden przepływ pracy, który wysyła wiadomość e-mail do uczestników, gdy wydarzenie zostanie zarezerwowane."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Está ativo pelo menos um fluxo de trabalho neste tipo de evento que envia um e-mail para os participantes quando o evento é reservado."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pelo menos um fluxo de trabalho está ativo neste tipo de evento, que envia um e-mail aos participantes quando o evento for reservado."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Există cel puțin un flux de lucru activ pentru acest tip de eveniment, care le trimite un e-mail participanților la rezervarea evenimentului."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Для данного типа события активен по крайней мере один рабочий процесс, который при бронировании события отправляет участникам сообщение по электронной почте."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Najmanje jedan radni tok je aktivan na ovom tipu događaja koji šalje imejl učesnicima kada je događaj zakazan."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Minst ett arbetsflöde är aktivt i denna händelsetyp som skickar ett e-postmeddelande till deltagarna när händelsen är bokad."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu etkinlik türünde etkinlik rezerve edildiğinde katılımcılara bir e-posta gönderen en az bir iş akışı etkin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Принаймні один робочий процес активний у цьому типі заходів, який надсилає електронний лист учасникам у разі бронювання заходу."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ít nhất một tiến độ công việc đang hoạt động ở loại sự kiện này, và tiến độ này sẽ gửi email đến những người tham dự khi sự kiện này được đặt lịch."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "该活动类型中至少有一个工作流程处于活动状态，当该活动被预约时，将向参与者发送电子邮件。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此活動類型至少要啟用一個工作流程，以在預約活動時傳送電子郵件給與會者。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "problem_saving_user_profile",
+        "library.inlang.paraglideJs": "problem_saving_user_profile"
+    },
+    "id": "three_meals_read",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدثت مشكلة أثناء حفظ بياناتك. يرجى إعادة المحاولة أو التواصل مع دعم العملاء."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při ukládání vašich údajů došlo k problému. Zkuste to prosím znovu, případně se obraťte na zákaznickou podporu."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Der opstod et problem med at gemme dine data. Prøv venligst igen eller kontakt kundesupport."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beim Speichern Ihrer Daten ist ein Problem aufgetreten. Bitte versuchen Sie es erneut oder wenden Sie sich an den Support."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "There was a problem saving your data. Please try again or reach out to customer support."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se produjo un problema al guardar tus datos. Inténtalo de nuevo o ponte en contacto con el servicio de atención al cliente."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un problème est survenu lors de l'enregistrement de vos données. Veuillez réessayer ou contacter le service client."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אירעה בעיה בשמירת הנתונים שלך. נסה/י שוב או פנה/י לשירות התמיכה."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si è verificato un problema durante il salvataggio dei dati. Riprova o contatta l'assistenza clienti."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "データの保存中に問題が発生しました。もう一度試すか、カスタマーサポートにご連絡ください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "데이터를 저장하는 중 문제가 발생했습니다. 다시 시도하거나 고객 지원에 문의하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is een probleem opgetreden bij het opslaan van uw gegevens. Probeer het opnieuw of neem contact op met de klantenservice."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det oppsto et problem med å lagre dataene dine. Prøv igjen eller ta kontakt med kundestøtte."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podczas zapisywania danych wystąpił problem. Spróbuj ponownie lub skontaktuj się z obsługą klienta."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um problema ao guardar os seus dados. Tente novamente ou contacte o apoio ao cliente."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Houve um problema ao salvar seus dados. Tente novamente ou entre em contato com o suporte ao cliente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A apărut o problemă la salvarea datelor dvs. Încercați din nou sau contactați serviciul de asistență pentru clienți."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "При сохранении данных возникла проблема. Попробуйте еще раз или обратитесь в службу поддержки."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo je do problema prilikom čuvanja vaših podataka. Pokušajte ponovo ili se obratite korisničkoj podršci."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det gick inte att spara dina data. Försök igen eller kontakta kundsupport."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verileriniz kaydedilirken bir sorun oluştu. Lütfen tekrar deneyin veya müşteri desteği ile iletişime geçin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Під час збереження даних виникла проблема. Повторіть спробу або зверніться в службу підтримки."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có vấn đề khi lưu dữ liệu của bạn. Vui lòng thử lại hoặc liên hệ với bộ phận hỗ trợ khách hàng."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "保存您的数据时出现问题。请重试或联系客户支持。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "儲存您的資料時發生問題。請再試一次，或聯絡客服團隊。"
+                }
+            ]
+        }
+    ]
+}

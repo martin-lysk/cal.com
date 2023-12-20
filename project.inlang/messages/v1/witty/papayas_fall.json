@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "disable_success_page",
+        "library.inlang.paraglideJs": "disable_success_page"
+    },
+    "id": "witty_papayas_fall",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تعطيل صفحة النجاح (يعمل فقط إذا كان لديك رابط إعادة توجيه)"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zakázat stránku s informací o úspěšném provedení (funguje pouze v případě, že máte přesměrovanou adresu URL)"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deaktivér Successide (virker kun, hvis du har en omdirigerings URL)"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Erfolgsseite deaktivieren (funktioniert nur, wenn eine Weiterleitungs-URL vorhanden ist)"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disable Success Page (only works if you have a redirect URL)"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desactivar página de éxito (solo funciona si tiene una URL de redireccionamiento)"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Désactiver la page de validation (fonctionne uniquement si vous avez un lien de redirection)"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "השבתת דף 'הפעולה הצליחה' (עובד רק אם יש לך כתובת URL להפניה אוטומטית)"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disabilita pagina di conferma dell'esito (funziona solo se si dispone di un URL di reindirizzamento)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約完了ページを無効化する (リダイレクト URL がある場合にのみ有効)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약 성공 페이지 비활성화(리디렉션 URL이 있는 경우에만 작동)"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Succespagina uitschakelen (werkt alleen als u een omleidings-URL heeft)"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deaktiver Suksess-side (fungerer bare hvis du har en omdirigerings-URL)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wyłącz stronę powodzenia (działa tylko wtedy, gdy masz adres URL przekierowania)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desativar a Página de sucesso (só funciona se tiver um URL de redirecionamento)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desativar página de reserva bem-sucedida (funciona apenas se você tiver uma URL de redirecionamento)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dezactivează pagina cu mesajul de succes (funcționează numai dacă ai un URL de redirecționare)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отключить страницу успешного бронирования (работает, только если у вас есть URL-адрес перенаправления)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Onemogući stranicu Uspeh (radi samo ako imate URL za preusmeravanje)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inaktivera framgångssida (fungerar bara om du har en omdirigerings-URL)"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Başarılı Sayfasını Devre Dışı Bırak (yalnızca yönlendirme URL'niz varsa çalışır)"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вимкнути сторінку, де показано результат бронювання (працює тільки з URL-адресою перенаправлення)"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tắt trang báo hiệu đặt lịch thành công (chỉ hoạt động nếu bạn có URL chuyển hướng)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "禁用“成功”页面 (仅当有重定向链接时才有效)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "停用「成功」頁面 (只適用於您有重新導向網址時)"
+                }
+            ]
+        }
+    ]
+}

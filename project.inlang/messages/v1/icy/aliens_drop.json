@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "new_schedule_description",
+        "library.inlang.paraglideJs": "new_schedule_description"
+    },
+    "id": "icy_aliens_drop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إن إنشاء جداول الأوقات المتاحة يتيح لك إدارة الأوقات المتاحة عبر أنواع الأحداث. يمكن تطبيقها على نوع أو أكثر من أنواع الأحداث."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vytvoření plánů dostupnosti vám umožní spravovat dostupnost mezi typy událostí. Mohou být použity pro jeden nebo více typů událostí."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oprettelse af tilgængelighedsplaner giver dig mulighed for at administrere tilgængelighed på tværs af begivenhedstyper. De kan anvendes på en eller flere begivenhedstyper."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das Erstellen eines Verfügbarkeitsplan sorgt dafür, dass Ihre Verfügbarkeit bei mehreren Termintypen genutzt werden kann."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Creating availability schedules allows you to manage availability across event types. They can be applied to one or more event types."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Crear horarios de disponibilidad le permite gestionar la disponibilidad a través de tipos de eventos. Pueden aplicarse a uno o más tipos de eventos."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La création de plannings de disponibilité vous permet de gérer la disponibilité pour tous les types d'événements. Ils peuvent être appliqués à un ou plusieurs types d'événements."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יצירת לוחות זמנים להצגת זמינות מאפשרת לנהל את הזמינות של סוגי אירועים שונים. ניתן להחיל אותם על סוג אירוע אחד או יותר."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La creazione di programmi di disponibilità consente di gestire la disponibilità per i diversi tipi di eventi. I programmi possono essere applicati a uno o più tipi di evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "空き状況のスケジュールを作成すると、各イベントタイプの空き状況を管理できます。空き状況のスケジュールは、イベントの複数のタイプに適用できます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "가용성 일정을 생성하면 이벤트 유형 전반에 걸쳐 가용성을 관리할 수 있습니다. 하나 이상의 이벤트 유형에 적용할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Door beschikbaarheidsschema's te maken kunt u de beschikbaarheid beheren voor verschillende gebeurteenistypes. Ze kunnen worden toegepast op één of meer gebeurtenistypes."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ved å lage tidsplaner for tilgjengelighet kan du administrere tilgjengeligheten på tvers av hendelsestyper. De kan brukes på én eller flere hendelsestyper."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tworzenie harmonogramów dostępności pozwala zarządzać dostępnością w różnych typach zdarzeń. Można je zastosować do jednego lub kilku typów zdarzeń."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Criar horários de disponibilidade permite-lhe gerir a disponibilidade de todos os tipos de eventos. Podem ser aplicados a um ou mais tipos de eventos."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A criação de agendas de disponibilidade permite gerenciar a disponibilidade em tipos de evento. Podem ser aplicadas a um ou mais tipos de evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Crearea programelor de disponibilitate vă permite să gestionați disponibilitatea în toate tipurile de evenimente. Acestea pot fi aplicate la unul sau mai multe tipuri de evenimente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Расписания доступности позволяют управлять доступностью для различных типов событий. Их можно применять к одному или нескольким типам событий."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kreiranje rasporeda dostupnosti vam omogućava da upravljate dostupnošću za različite tipove događaja. Mogu se primeniti na jedan ili više tipova događaja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Genom att skapa tillgänglighetsscheman kan du hantera tillgänglighet för olika händelsetyper. De kan tillämpas på en eller flera händelsetyper."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Müsaitlik planları oluşturmak, farklı etkinlik türleri için müsaitlik durumunuzu yönetmenize olanak tanır. Planlar bir veya daha fazla etkinlik türüne uygulanabilir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Розклад доступності дає змогу керувати своєю доступністю для участі в заходах різних типів. Його можна застосовувати як до одного, так і до кількох різних типів заходів."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tạo lịch khả dụng cho phép bạn quản lý tình trạng \bkhả dụng trên các loại sự kiện. Chúng có thể được áp dụng cho một hoặc nhiều loại sự kiện."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "通过创建可预约的时间表，可以管理不同活动类型的可预约时间。这些时间表可以应用于一个或多个活动类型。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "新增開放時間行程表，就可以管理每個活動類型的開放時間。可以用在單一或多個活動類型。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "appearance_org_description",
+        "library.inlang.paraglideJs": "appearance_org_description"
+    },
+    "id": "green_months_rule",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Manage settings for your organization's booking appearance"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,532 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "offset_start_description",
+        "library.inlang.paraglideJs": "offset_start_description"
+    },
+    "id": "twenty_numbers_heal",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "على سبيل المثال، هذا سيُظهر الفترات الزمنية لمن يقوم بالحجز لديك "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " في بدلاً من "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "například v tomto případě se vašim rezervujícím zobrazí časové sloty v "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " namísto "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "z.B. wird dies Zeitfenster für Ihre Bucher um "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " statt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " anzeigen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "e.g. this will show time slots to your bookers at "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " instead of "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "por ejemplo, esto mostrará las franjas horarias a quienes reservan a las "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " en lugar de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p. ex. cela affichera les créneaux à vos utilisateurs à "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " au lieu de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לדוגמה, הבחירה באפשרות זו תציג למזמינים את חלונות הזמן כ-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " במקום כ-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ad es., le persone che prenotano vedranno le fasce orarie alle "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " anziché alle "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "これにより、たとえば "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " ではなく "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " として予約者に対して時間帯が表示されます"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예: 이렇게 하면 예약자에게 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " 대신 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": "에 시간대가 표시됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "dit geeft bijvoorbeeld tijdslots aan uw boekers weer op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " in plaats van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "np. przedziały czasowe do rezerwacji będą dostępne o "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": ", zamiast o "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "por exemplo, irá mostrar as janelas horárias aos responsáveis pelas reservas às "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " em vez de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ex.: serão mostradas aos seus reservantes alocações de horário à(s) "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " em vez de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "de ex., se vor afișa intervalele de timp persoanelor care rezervă ca fiind "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " în loc de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Например, пользователь, оформляющий бронирование, вместо "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " будет видеть "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "npr. ovo će prikazati termine vašim korisnicima u "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " umesto "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "detta visar t.ex. tidsluckor för dina bokare kl. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " istället för kl. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ör. bu işlem, rezervasyon yapan kişilere zaman aralıklarını "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " yerine "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " olarak gösterir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "наприклад, користувачі, які здійснюють бронювання, бачитимуть часові проміжки о "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " замість "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ví dụ cái này sẽ hiển thị những suất thời gian cho người đặt lịch vào lúc "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " thay vì "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "例如，这将向您的预约者显示时间段 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": "，而非 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "例如，這將會向您的預約者顯示 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " adjustedTime "
+                },
+                {
+                    "type": "Text",
+                    "value": " 的時段，而非 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": " originalTime "
+                }
+            ]
+        }
+    ]
+}

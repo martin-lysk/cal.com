@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "unlimited_teams_description",
+        "library.inlang.paraglideJs": "unlimited_teams_description"
+    },
+    "id": "soft_brooms_tickle",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Add as many subteams as you need to your organization"
+                }
+            ]
+        }
+    ]
+}

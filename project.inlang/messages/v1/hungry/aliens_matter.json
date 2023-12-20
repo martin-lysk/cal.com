@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "insights_no_data_found_for_filter",
+        "library.inlang.paraglideJs": "insights_no_data_found_for_filter"
+    },
+    "id": "hungry_aliens_matter",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لم يتم العثور على بيانات لعامل التصفية المحدد أو التواريخ المحددة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pro vybraný filtr nebo vybraná data nebyla nalezena žádná data."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Keine Daten für den ausgewählten Filter oder das ausgewählte Datum gefunden."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No data found for the selected filter or selected dates."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No se encontraron datos para el filtro seleccionado o las fechas seleccionadas."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aucune donnée trouvée pour le filtre ou les dates sélectionnés."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא נמצאו נתונים עבור המסנן שנבחר או התאריכים שנבחרו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nessun dato trovato per il filtro selezionato o le date selezionate."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "選択したフィルターまたは日付のデータが見つかりませんでした。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "선택한 필터 또는 날짜에 대한 데이터를 찾을 수 없습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Geen gegevens gevonden voor het geselecteerde filter of de geselecteerde datums."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nie znaleziono danych dotyczących wybranego filtru lub wskazanych dat."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não foram encontrados dados para as datas ou filtros selecionados."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nenhum dado encontrado para o filtro ou dados selecionados."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nu s-au găsit date pentru filtrul selectat sau pentru datele selectate."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Данные, соответствующие выбранному фильтру или диапазону дат, не найдены."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nisu pronađeni podaci za izabrani filter ili izabrane datume."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inga data hittades för valt filter eller valda datum."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seçili filtre veya tarihler için veri bulunamadı."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не знайдено жодних даних для вибраного фільтра або вибраних дат."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Không tìm thấy dữ liệu cho bộ lọc hay ngày đã chọn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "未找到所选筛选器或所选日期的数据。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "找不到所選篩選條件或日期的資料。"
+                }
+            ]
+        }
+    ]
+}

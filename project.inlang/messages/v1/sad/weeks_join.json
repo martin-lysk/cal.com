@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "offer_seats_description",
+        "library.inlang.paraglideJs": "offer_seats_description"
+    },
+    "id": "sad_weeks_join",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "عرض مقاعد للحجز. هذا يعطل تلقائياً حجز الضيوف وحجز الاشتراك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nabídnout místa k rezervaci. Tím se vypnou rezervace hostů a volitelné rezervace."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tilbyd pladser til booking. Dette deaktiverer automatisk gæste- og tilvalgs bookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bieten Sie Plätze für Buchungen an (dies deaktiviert Gäste & Opt-in-Buchungen)"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Offer seats for booking. This automatically disables guest & opt-in bookings."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ofrecer plazas para las reservas (desactiva las reservas de invitados y las optativas)"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Proposez des places de réservation. Cela désactive automatiquement les réservations d'invités et d'opt-in."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הצעת מקומות להזמנות (אפשרות זו משביתה באופן אוטומטי אישורי הזמנות ואורחים)."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Indica i posti disponibili (ciò disabiliterà le prenotazioni ospite e le prenotazioni opt-in)."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約可能な座席を設定します。これにより、ゲストおよびオプトイン予約は自動的に無効化されます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약에 좌석 제공(게스트를 비활성화하고 예약을 선택함)"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bied beschikbare plaatsen aan voor boekingen. Hiermee worden gastboekingen en aanmeldingsboekingen automatisch uitgeschakeld."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tilby seter for booking. Dette deaktiverer automatisk gjeste- og påmeldings-bookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaoferuj miejsca do zarezerwowania. To automatycznie wyłącza rezerwacje gości i rezerwacje wstępne."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oferecer lugares para reservas (isto desactiva os convidados e confirmações nas reservas)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oferecer assentos para reserva. Isto desativa automaticamente reservas de convidados e confirmações."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opțiunea oferă locuri pentru rezervare și dezactivează automat rezervările pentru oaspeți și cele la alegere."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Предлагать места при бронировании (данная настройка автоматически отключает гостевой режим и бронирование с подтверждением)."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ponudite mesta za zakazivanje. Ovo automatski onemogućava gostujuća i opciona zakazivanja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Erbjud platser till bokningar. Detta inaktiverar gäster och bokningar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyonlar için yer teklif edin. Bu işlem, misafirleri ve rezervasyon onaylarını devre dışı bırakır."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пропонуйте місця під час бронювання (при цьому вимикається гостьовий режим і бронювання з підтвердженням)."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cung cấp ghế để đặt lịch. Việc này sẽ tự động vô hiệu hoá đặt lịch của khách & đặt lịch tham gia."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "提供位置以供预约 (这将自动禁止访客和选择加入预约)。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "為預約提供座位 (這將停用賓客和選擇加入的預約)"
+                }
+            ]
+        }
+    ]
+}

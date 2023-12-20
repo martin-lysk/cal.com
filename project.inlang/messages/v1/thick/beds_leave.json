@@ -1,0 +1,608 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "managed_event_dialog_information_other",
+        "library.inlang.paraglideJs": "managed_event_dialog_information_other"
+    },
+    "id": "thick_beds_leave",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>يستخدمون الرابط <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> بالفعل."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> již používají adresu URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> verwenden bereits die URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>-."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> are already using the <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> url."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> ya usan la url <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> utilisent déjà l'URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> כבר משתמשים בכתובת ה-URL ‏<strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> utilizzano già l'URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> はすでに <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> の URL を使用しています。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 님이 이미 <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> url을 사용하는 중입니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> gebruiken de URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> al."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> używają już adresu URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> já estão a utilizar o URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> já estão usando o url <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> folosesc deja adresa URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> уже используют URL-адрес <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> već koriste <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> url."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> använder redan webbadressen <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> zaten <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> URL'sini kullanıyor."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> вже використовують URL-адресу <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> đã dùng URL <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> rồi."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 已经在使用 <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 链接。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "names"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 已在使用 <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 網址。"
+                }
+            ]
+        }
+    ]
+}

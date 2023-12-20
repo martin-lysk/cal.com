@@ -1,0 +1,400 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "create_booking_link_with_calcom",
+        "library.inlang.paraglideJs": "create_booking_link_with_calcom"
+    },
+    "id": "plenty_apes_switch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أنشئ رابط الحجز الخاص بك باستخدام "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vytvořte si vlastní rezervační odkaz s "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opret dit eget booking link med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Erstellen Sie Ihren eigenen Buchungslink mit "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Create your own booking link with "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Crea tu propio enlace de reserva con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sor ezazu zeure erreserba-esteka "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)kin"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Créez votre propre lien de réservation avec "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "צור קישור תזמון משלך עם "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Izradite vlastiti link za rezervaciju sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Crea il tuo link di prenotazione con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " で独自の予約リンクを作成する"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "에서 예약 링크를 만들어보세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Maak uw eigen boekingslink met "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lag din egen booking lenke med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utwórz własny link do rezerwacji z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Crie a sua própria ligação de reservas com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Crie o seu próprio link para reservas com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Creați-vă propriul link de rezervare pe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Создайте свою собственную ссылку бронирования на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Napravite vaš lični link za rezervaciju sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skapa din egen bokningslänk med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ile kendi rezervasyon bağlantınızı oluşturun"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Створіть власне посилання на бронювання в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tạo liên kết đặt lịch hẹn của riêng bạn với "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 创建您自己的预约链接"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "以 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 建立自己的預約連結"
+                }
+            ]
+        }
+    ]
+}

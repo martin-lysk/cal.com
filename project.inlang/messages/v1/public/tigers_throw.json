@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "update_calendar_event_error",
+        "library.inlang.paraglideJs": "update_calendar_event_error"
+    },
+    "id": "public_tigers_throw",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unable to update Calendar event."
+                }
+            ]
+        }
+    ]
+}

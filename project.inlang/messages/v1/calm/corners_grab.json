@@ -1,0 +1,420 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "remove_users_from_org_confirm",
+        "library.inlang.paraglideJs": "remove_users_from_org_confirm"
+    },
+    "id": "calm_corners_grab",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هل أنت متأكد من أنك تريد إزالة هذا العدد من المستخدمين "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " من هذه المؤسسة؟"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opravdu chcete odebrat uživatele ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": ") z této organizace?"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sind Sie sicher, dass Sie "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " Benutzer aus dieser Organisation entfernen möchten?"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Are you sure you want to remove "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " users from this organization?"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "¿Está seguro de que desea eliminar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " usuarios de esta organización?"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voulez-vous vraiment supprimer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " utilisateurs de cette organisation ?"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בטוח שברצונך להסיר "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " משתמשים מהארגון הזה?"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rimuovere "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " utenti da questa organizzazione?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この組織から "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 人のユーザーを削除しますか？"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 조직에서 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": "명의 사용자를 제거하시겠습니까?"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Weet u zeker dat u "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " gebruikers uit deze organisatie wilt verwijderen?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Czy na pewno chcesz usunąć "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " użytkowników z tej organizacji?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem a certeza de que deseja remover "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " utilizadores desta organização?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem certeza de que deseja remover "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " usuários desta organização?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sigur doriți să eliminați "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " utilizatori din această organizație?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Удалить "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " пользователей из этой организации?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da li ste sigurni da želite da uklonite "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " korisnika iz organizacije?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Är du säker på att du vill ta bort "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " användare från denna organisation?"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " kullanıcıyı bu gruptan kaldırmak istediğinizden emin misiniz?"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Справді видалити користувачів ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": ") із цієї організації?"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có chắc chắn muốn xoá bỏ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " người dùng khỏi tổ chức này?"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您确定要从该组织中移除 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 个用户吗？"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "確定要從此組織移除 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 使用者嗎？"
+                }
+            ]
+        }
+    ]
+}

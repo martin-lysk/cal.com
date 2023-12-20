@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "scheduling_for_your_team_description",
+        "library.inlang.paraglideJs": "scheduling_for_your_team_description"
+    },
+    "id": "five_parks_talk",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Schedule for your team with collective and round-robin scheduling"
+                }
+            ]
+        }
+    ]
+}

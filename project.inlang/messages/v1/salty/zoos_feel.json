@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "error_charging_card",
+        "library.inlang.paraglideJs": "error_charging_card"
+    },
+    "id": "salty_zoos_feel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدثت مشكلة في خصم رسوم عدم الحضور. يرجى المحاولة مرة أخرى لاحقًا."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při strhávání poplatku za nedostavení se došlo k chybě. Zkuste to později."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beim Berechnen der Nichterscheinungsgebühr ist etwas schiefgelaufen. Bitte versuchen Sie es später erneut."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Something went wrong charging the no-show fee. Please try again later."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Algo salió mal al cobrar la tarifa por no presentarse. Inténtelo de nuevo más tarde."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une erreur s'est produite lors de la facturation des frais d'absence. Veuillez réessayer plus tard."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "משהו השתבש בעת גביית דמי אי-הגעה. אפשר לנסות שוב מאוחר יותר."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'addebito della penale per mancata presentazione non è andato a buon fine. Riprovare più tardi."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "不参加費用の請求時にエラーが発生しました。後でもう一度お試しください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "노쇼 수수료를 부과하는 중 문제가 발생했습니다. 나중에 다시 시도해주세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is iets misgegaan met het in rekening brengen van de afwezigheidsvergoeding. Probeer het later opnieuw."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Coś poszło nie tak podczas pobierania opłaty za niestawienie się. Spróbuj ponownie później."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Algo não correu bem no débito da taxa de não-comparência. Por favor, tente novamente mais tarde."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Algo deu errado ao cobrar a taxa de não comparecimento. Tente novamente mais tarde."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A survenit o eroare la perceperea taxei de neprezentare. Încercați din nou mai târziu."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не удалось списать комиссию за неявку. Повторите попытку позже."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo je do greške prilikom naplate naknade za izostanak. Pokušajte ponovo kasnije."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Något gick fel när avgiften för utebliven närvaro debiterades. Försök igen senare."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Katılmama ücreti alınırken bir sorun oluştu. Lütfen daha sonra tekrar deneyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Сталася помилка під час стягнення плати за відсутність. Спробуйте пізніше."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có sự cố khi tính phí vắng mặt. Vui lòng thử lại sau."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "收取失约费时出错。请稍后再试。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "收取缺席費時發生問題。請稍後再試一次。"
+                }
+            ]
+        }
+    ]
+}

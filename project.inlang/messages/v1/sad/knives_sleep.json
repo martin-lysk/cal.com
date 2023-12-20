@@ -1,0 +1,280 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "error_during_login",
+        "library.inlang.paraglideJs": "error_during_login"
+    },
+    "id": "sad_knives_sleep",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدث خطأ ما أثناء تسجيل الدخول. ارجع إلى شاشة تسجيل الدخول وحاول مجددًا."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při přihlašování došlo k chybě. Přejděte zpět na přihlašovací obrazovku a zkuste to znovu."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Der opstod en fejl under indlogning. Gå tilbage til login-skærmen og prøv igen."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beim Anmelden ist ein Fehler aufgetreten. Gehen Sie zurück zum Anmeldebildschirm und versuchen Sie es erneut."
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Παρουσιάστηκε σφάλμα κατά τη σύνδεσή σας. Επιστρέψτε στην οθόνη σύνδεσης και προσπαθήστε ξανά."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "An error occurred when logging you in. Head back to the login screen and try again."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se ha producido un error al iniciar sesión. Vuelve a la pantalla de inicio de sesión e inténtalo de nuevo."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une erreur s'est produite lors de votre connexion. Retournez à l'écran de connexion et réessayez."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אירעה שגיאה בעת הכניסה. נא לחזור אל מסך הכניסה ולנסות שוב."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo je do pogreške prilikom prijave. Vratite se na stranicu za prijavu i pokušajte ponovno."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si è verificato un errore durante il login. Torna alla schermata di accesso e riprova."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ログイン時にエラーが発生しました。ログイン画面に戻って再度お試し下さい。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "로그인하는 과정에서 오류가 발생했습니다. 로그인 화면으로 돌아가서 다시 한 번 시도해 보세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is een fout opgetreden tijdens het inloggen. Ga terug naar de inlogpagina en probeer het opnieuw."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det oppstod en feil ved pålogging. Gå tilbake til påloggingsskjermen og prøv igjen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wystąpił błąd podczas logowania. Wróć do ekranu logowania i spróbuj ponownie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um erro ao iniciar sessão. Volte ao ecrã de início de sessão e tente de novo."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um erro ao iniciar sessão. Volte a tela de login e tente novamente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A apărut o eroare la autentificare. Mergi înapoi la ecranul de autentificare și încearcă din nou."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Произошла ошибка при входе в систему. Вернитесь на экран входа и повторите попытку."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo je do greške pri prijavi. Idite nazad na stranicu za prijavu i pokušajte ponovo."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ett fel inträffade när du loggade in. Gå tillbaka till inloggningsskärmen och försök igen."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Giriş yapılırken bir hata oluştu. Giriş ekranına geri dönün ve tekrar deneyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Сталася помилка під час входу в систему. Поверніться на екран входу та повторіть спробу."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã xảy ra lỗi khi đăng nhập. Bạn hãy quay lại màn hình đăng nhập và thử lại."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "登录时发生错误，请返回登录界面，然后重试。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "登入的時候發生錯誤。請回到登入畫面，再試一次。"
+                }
+            ]
+        }
+    ]
+}

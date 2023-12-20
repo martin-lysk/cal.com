@@ -1,0 +1,406 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "oauth_access_information",
+        "library.inlang.paraglideJs": "oauth_access_information"
+    },
+    "id": "stale_olives_attend",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "عبر نقرك على السماح، ستسمح لهذا التطبيق باستخدام معلوماتك وفقاً لشروط الخدمة وسياسة الخصوصية لديه. يمكنك إزالة هذا الوصول من متجر التطبيقات "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kliknutím na tlačítko Povolit této aplikaci umožníte používat vaše údaje v souladu s podmínkami služby a zásadami ochrany osobních údajů. Přístup k aplikaci "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " můžete odebrat přes App Store."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Indem Sie auf „Erlauben“ klicken, erlauben Sie dieser App, Ihre Informationen gemäß ihrer Nutzungsbedingungen und Datenschutzrichtlinien zu verwenden. Sie können den Zugriff im "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store aufheben."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "By clicking allow, you allow this app to use your information in accordance with their terms of service and privacy policy. You can remove access in the "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Al hacer clic en permitir, permite que esta aplicación utilice su información de acuerdo con sus términos de servicio y política de privacidad. Puede eliminar el acceso en la App Store de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לחיצה על 'אפשר' מהווה מתן הרשאה מצידך ליישום זה להשתמש במידע שלך בהתאם לתנאי השירות ולמדיניות הפרטיות שלו. ניתן לשלול את הגישה בחנות האפליקציות של "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Facendo clic su Consenti, consentirai a questa applicazione di usare i tuoi dati in conformità ai suoi termini di servizio e informativa sulla privacy. Puoi revocare l'accesso nelle impostazioni di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nell'App Store."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "「許可」をクリックすると、このアプリのサービス利用規約とプライバシーポリシーに従って、アプリにあなたの個人情報の使用を許可することになります。"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " の App Store でアクセスを削除できます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "허용을 클릭하면 이 앱이 서비스 약관 및 개인정보 보호정책에 따라 귀하의 정보를 사용할 수 있도록 허용하게 됩니다. 액세스 권한은 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store에서 삭제할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Door op Toestaan te klikken, geeft u deze app toestemming om uw gegevens te gebruiken in overeenstemming met hun gebruiksvoorwaarden en privacybeleid. U kunt de toegang verwijderen in de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Klikając „Zezwól”, pozwolisz tej aplikacji na korzystanie z Twoich danych zgodnie z jej regulaminem i polityką prywatności. Możesz odwołać pozwolenie na dostęp w ustawieniach sklepu aplikacji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao clicar em Permitir, você permite que esta aplicação utilize as suas informações, de acordo com os termos do serviço e a política de privacidade. Pode remover o acesso na App Store do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao clicar em Permitir, você autoriza que este aplicativo use suas informações, de acordo com os termos de serviço e política de privacidade. Você pode remover o acesso na App Store do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dacă faceți clic pe „Permiteți”, înseamnă că permiteți acestei aplicații să utilizeze informațiile dvs. în conformitate cu condițiile de utilizare și politica de confidențialitate ale acesteia. Puteți elimina accesul din Magazinul de aplicații "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Нажимая кнопку «Разрешить», вы разрешаете этому приложению использовать информацию о вас в соответствии с условиями предоставления услуг и политикой конфиденциальности. Можно запретить доступ в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Klikom na „Dozvoli”, dozvoljavate ovoj aplikaciji da koristi vaše informacije u skladu sa njihovim Uslovima usluge i Politikom privatnosti. Možete da uklonite pristup u "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " prodavnici aplikacija."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Genom att klicka på tillåt tillåter du denna app att använda dina uppgifter i enlighet med deras användarvillkor och integritetspolicy. Du kan ta bort åtkomst i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "İzin ver'i tıklayarak, bu uygulamanın bilgilerinizi hizmet şartlarına ve gizlilik politikasına uygun şekilde kullanmasına izin vermiş olursunuz. Bu erişim iznini "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " Uygulama Mağazası'ndan kaldırabilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Натискаючи кнопку «Дозволити», ви дозволяєте цьому застосунку використовувати вашу інформацію відповідно до його умов використання і політики конфіденційності. Ви можете видалити доступ в магазині застосунків "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bằng cách nhấn vào cho phép, bạn cho phép ứng dụng này sử dụng thông tin của bạn theo các điều khoản dịch vụ và chính sách quyền riêng tư. Bạn có thể xoá bỏ quyền truy cập trong App Store của "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "点击“允许”，即表示您允许本应用根据服务条款和隐私政策使用您的信息。您可以在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 应用商店中删除访问权限。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "按一下「允許」後，即表示此應用程式可根據他們的服務和隱私政策使用您的資訊。您可在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store 中移除存取權限。"
+                }
+            ]
+        }
+    ]
+}

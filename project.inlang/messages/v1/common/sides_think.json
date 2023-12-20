@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "installed_app_payment_description",
+        "library.inlang.paraglideJs": "installed_app_payment_description"
+    },
+    "id": "common_sides_think",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بإعداد أي خدمات معالجة دفع تود استخدامها عند التحصيل من العملاء."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nakonfigurujte služby zpracování plateb, které se mají používat při strhávání plateb od klientů."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Indstil hvilke betalingsbehandlingstjenester der skal bruges, når du opkræver betaling fra dine kunder."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurieren Sie die Zahlungsdienstleister, welcher bei der Belastung Ihrer Kunden verwendet werden sollen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure which payment processing services to use when charging your clients."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configura los servicios de procesamiento de pagos que vas a utilizar para cobrar a tus clientes."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurez les services de traitement de paiement à utiliser lors de la facturation de vos clients."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדר/הגידירי את השירותים לעיבוד תשלומים שבהם יש להשתמש לחיוב הלקוחות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configura quale servizio di elaborazione dei pagamenti usare per addebitare i clienti."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "顧客に請求をする際に使用する決済処理サービスを設定しましょう。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "고객에게 요금 청구 시 사용할 결제 처리 서비스를 구성합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configureer welke betalingsverwerkingsdiensten u wilt gebruiken bij het factureren aan uw klanten."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurer hvilke betalingstjenester som skal brukes når du tar betalt fra kundene dine."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skonfiguruj usługi przetwarzania płatności, których chcesz używać do pobierania opłat od klientów."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure os serviços de processamento de pagamentos que serão utilizados nas cobranças aos seus clientes."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure quais serviços de processamento de pagamento serão usados no carregamento de seus clientes."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurați serviciile de procesare a plăților care vor fi utilizate la taxarea clienților."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Выберите службы обработки платежей для получения оплаты от клиентов."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurišite koju vrstu servisa za obradu plaćanja želite da koristite prilikom naplate od vaših klijenata."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurera vilka betalningstjänster som ska användas när du debiterar dina kunder."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Müşterilerinizden ücret alırken hangi ödeme işleme hizmetlerinin kullanılacağını yapılandırın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Укажіть, які служби обробки платежів використовувати, коли клієнти вам платять."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cấu hình loại dịch vụ xử lí thanh toán nào sẽ được dùng đến khi thu phí khách hàng."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "配置向客户收费时要使用的支付处理服务。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "設定向客戶收費時要使用的付款處理服務。"
+                }
+            ]
+        }
+    ]
+}

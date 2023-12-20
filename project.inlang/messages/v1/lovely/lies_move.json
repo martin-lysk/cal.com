@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "availabilty_schedules",
+        "library.inlang.paraglideJs": "availabilty_schedules"
+    },
+    "id": "lovely_lies_move",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Availability schedules"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Horaires de disponibilité"
+                }
+            ]
+        }
+    ]
+}

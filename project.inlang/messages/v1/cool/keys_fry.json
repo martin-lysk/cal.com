@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "request_body_end_time_internal_error",
+        "library.inlang.paraglideJs": "request_body_end_time_internal_error"
+    },
+    "id": "cool_keys_fry",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Internal Error. Request body does not contain end time"
+                }
+            ]
+        }
+    ]
+}

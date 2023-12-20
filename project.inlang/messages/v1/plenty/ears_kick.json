@@ -1,0 +1,346 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "requires_app",
+        "library.inlang.paraglideJs": "requires_app"
+    },
+    "id": "plenty_ears_kick",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يتطلب "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vyžaduje "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Benötigt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requires "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requiere "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requiert "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " נדרש"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Richiede "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " が必要です"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 필요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vereist "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wymaga aplikacji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Necesită "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Требуется "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zahteva "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kräver "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " தேவை"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " gerektirir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Потрібно підключити "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cần có "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "需要 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "需要 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        }
+    ]
+}

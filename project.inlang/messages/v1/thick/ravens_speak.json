@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "image_size_limit_exceed",
+        "library.inlang.paraglideJs": "image_size_limit_exceed"
+    },
+    "id": "thick_ravens_speak",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يجب ألا يتجاوز حجم الصورة التي تم تحميلها 5 ميغابايت"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Velikost nahraného obrázku by neměla překročit limit 5 MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das hochgeladene Bild sollte die maximale Größe von 5 MB nicht überschreiten"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uploaded image shouldn't exceed 5mb size limit"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La imagen cargada no debe exceder el límite de tamaño de 5 Mb"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'image téléchargée ne doit pas dépasser 5 Mo"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "גודל התמונה המרבי שניתן להעלות הוא 5MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le dimensioni dell'immagine caricata non devono superare il limite di 5 MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "アップロードする画像のサイズは 5 MB 以下にする必要があります"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "업로드되는 이미지의 크기는 5MB를 초과하면 안 됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De geüploade afbeelding mag niet groter zijn dan 5 MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rozmiar przesyłanego obrazu nie powinien przekraczać limitu 5 MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A imagem enviada não deve exceder o limite de tamanho de 5MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A imagem carregada não deve ultrapassar o limite de 5 MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Imaginea încărcată nu trebuie să depășească dimensiunea limită de 5 MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Размер загружаемого изображения не должен превышать 5 МБ"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Otpremljena slika ne sme da prevazilazi ograničenje od 5mb"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uppladdad bild får inte överstiga 5 MB"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yüklenen resim boyutu 5 MB boyut limitini aşmamalıdır"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Розмір переданого зображення не може перевищувати 5 МБ"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ảnh tải lên không được vượt quá giới hạn kích cỡ 5mb"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "上传的图像不应超过 5MB 大小限制"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "上傳的圖片大小不得超過 5MB 限制"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1006 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "refund_failed",
+        "library.inlang.paraglideJs": "refund_failed"
+    },
+    "id": "legal_lines_jam",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "فشل استرداد مقابل الحدث "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " مع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " في "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vrácení peněz za událost "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " pro "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " během "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " selhalo."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tilbagebetalingen for begivenheden "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " mislykkedes."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Die Rückerstattung für den Termin "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " mit "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " am "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " ist fehlgeschlagen."
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Η επιστροφή χρημάτων για την εκδήλωση "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " με "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " στις "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " απέτυχε."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The refund for the event "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " with "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " on "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " failed."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El reembolso del evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " falló."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Huts egin du itzulketak "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " gertaerarako, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": "(r)ekin "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)an."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le remboursement de l'événement "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " avec "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " le "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " a échoué."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ההחזר הכספי עבור האירוע "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " עם "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " בתאריך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " נכשל."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Povrat novca za događaj "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " u "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " nije uspio."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pengembalian dana untuk acara "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " dengan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " pada "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " gagal."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il rimborso per l'evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " del "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " non è riuscito."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " における "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " の返金に失敗しました。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 의 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 이벤트에 대한 환불이 이루어지지 않았습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De terugbetaling voor het evenement "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " met "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " is mislukt."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tilbakebetalingen for hendelsen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " mislyktes."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zwrot środków za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " w "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " nie powiódł się."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Falhou o reembolso do evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O reembolso do evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " falhou."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rambursarea pentru eveniment "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " cu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " în "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " a eșuat."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Возврат за встречу "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " с "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " не удался."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Povraćaj novca za dogadjaj "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " datuma "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " je neuspešan."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Återbetalningen för bokningen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " misslyckades."
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " அன்று "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " உடன் நடந்த "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " நிகழ்விற்கான பணத்தைத் திரும்பி அனுப்ப இயலவில்லை."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarihindeki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ile "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinliğinin iadesi başarısız oldu."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не вдалося повернути кошти за захід «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": "» із користувачем «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": ")."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hoàn tiền cho sự kiện "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " với "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tại "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã thất bại."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": "在"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "的"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": "活动退款失败"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 與 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 活動退款失敗了。"
+                }
+            ]
+        }
+    ]
+}

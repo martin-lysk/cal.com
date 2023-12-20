@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "you_will_need_to_generate",
+        "library.inlang.paraglideJs": "you_will_need_to_generate"
+    },
+    "id": "nasty_birds_speak",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ستحتاج إلى إنشاء access token من أداة الجدولة القديمة لديك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Budete muset vygenerovat přístupový token ve vašem dřívějším plánovacím nástroji."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du skal generere et adgangs token fra dit gamle planlægningsværktøj."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie müssen ein Zugriffstoken in ihrem alten Kalender-Tool erzeugen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You will need to generate an access token from your old scheduling tool."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Necesitarás generar un token de acceso desde tu antigua herramienta de programación."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous devrez générer un token d'accès à partir de votre ancien outil de planification."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "תצטרך ליצור טוקן גישה מהכלי הישן שבו השתמשת לקביעת מועדים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dovrai generare un token di accesso con il tuo vecchio strumento di pianificazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "従来のスケジュールツールからアクセストークンを生成する必要があります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이전 일정 관리 도구에서 액세스 토큰을 생성해야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U moet een toegangstoken genereren van uw oude planningstool."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du må generere et tilgangstoken fra ditt gamle planleggingsverktøy."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Będziesz musiał wygenerować token dostępu ze strony integracji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Precisará de gerar um token de acesso na página das integrações."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você precisa gerar um token de acesso na ferramenta de agendamento antiga."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Va trebui să generați un token de acces din vechiul instrument de programare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вам нужно сгенерировать токен доступа на странице интеграции."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Morate generisati token pristupnosti iz svog prošlog softvera za zakazivanje."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du måste generera en åtkomsttoken från ditt gamla schemaläggningsverktyg."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Entegrasyon sayfasında bir erişim token'ı oluşturmanız gerekir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вам потрібно буде згенерувати токен доступу зі старого інструменту планування."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn sẽ cần tạo mã access token từ công cụ lập lịch cũ của mình."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您需要从从您的旧工具上生成访问令牌"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "得要從先前的預定工具產生連結 Token。"
+                }
+            ]
+        }
+    ]
+}

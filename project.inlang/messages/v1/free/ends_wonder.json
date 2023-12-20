@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "bookerlayout_override_global_settings",
+        "library.inlang.paraglideJs": "bookerlayout_override_global_settings"
+    },
+    "id": "free_ends_wonder",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يمكنك إدارة هذا لجميع أنواع الأحداث لديك في <2>الإعدادات/المظهر</2> أو <6>التجاوز لهذا الحدث فقط</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Toto lze nastavit pro všechny typy událostí v <2>nastavení / vzhled</2> nebo <6>nadefinovat pouze pro tuto událost</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie können dies für alle Ihre Termintypen über <2>Einstellungen / Darstellung </2> oder <6>nur für diesen Termin überschreiben</6> einstellen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You can manage this for all your event types in Settings -> <2>Appearance</2> or <6>Override</6> for this event only."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puede gestionar esto para todos sus tipos de eventos en <2>configuración / apariencia</2> o <6>anular solo para este evento</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous pouvez gérer cela pour tous vos types d'événements dans <2>Paramètres / Apparence</2> ou <6>l'appliquer uniquement à cet événement</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ניתן לנהל זאת עבור כל סוגי האירועים שלך ב<2>הגדרות / מראה</2> או <6>לעקוף עבור אירוע זה בלבד</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puoi definire questa impostazione per tutti i tipi di evento in <2>impostazioni / aspetto</2> oppure <6>solo per questo evento</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "「<2>設定/外観</2>」または「<6>このイベントのみ上書き</6>」で、すべてのイベントの種類を管理できます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<2>설정/모양</2> 또는 <6>이 이벤트에 대해서만 재정의</6>에서 모든 이벤트 유형에 대해 이를 관리할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U kunt dit voor al uw gebeurtenistypen beheren in <2>Instellingen > Weergave</2> of <6>overschrijven voor alleen deze gebeurtenis</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Możesz zarządzać tym ustawieniem w odniesieniu do wszystkich typów wydarzeń w sekcji <2>Ustawienia / Wygląd</2> lub <6>zastąpić je tylko w przypadku tego wydarzenia</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pode gerir isto para todos os seus tipos de eventos em <2>definições / aparência</2> ou <6>sobrepor apenas para este evento</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você pode gerenciar isso para todos os seus tipos de evento em <2>Configurações/Aparência</2> ou <6>sobrescrever apenas para este evento</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puteți gestiona acest parametru pentru toate tipurile de evenimente din <2>setări/aspect</2> sau <6>puteți suprascrie doar pentru acest eveniment</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы можете выбрать режим для всех типов событий (раздел <2>Настройки / Внешний вид</2>) или <6>только для этого типа события</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Možete da upravljate ovim za sve tipove događaja u <2>podešavanja / izgled</2> ili <6>zameni samo za ovaj događaj</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du kan hantera detta för alla dina händelsetyper i <2>inställningar/utseende</2> eller <6>åsidosätt endast för denna händelse</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bunu tüm etkinlik türleriniz için <2>ayarlar / görünüm</2> veya <6>yalnızca bu etkinlik için geçersiz kıl</6> adımlarını izleyerek yönetebilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ви можете налаштувати цей параметр для всіх типів заходів у розділі <2>«Параметри» / «Вигляд»</2> або <6>перевизначити його лише для цього заходу</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có thể quản lý cái này cho tất cả những loại sự kiện của bạn, trong phần <2>cài đặt / giao diện</2> hoặc <6>ghi đè chỉ cho sự kiện này</6>."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您可以在<2>设置/外观</2>或<6>仅针对此事件替代</6>中管理所有事件类型的布局。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您可以在<2>設定/外觀</2>中針對所有活動類型管理此設定，或<6>只針對此活動進行覆寫</6>。"
+                }
+            ]
+        }
+    ]
+}

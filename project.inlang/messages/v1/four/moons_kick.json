@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "org_insights",
+        "library.inlang.paraglideJs": "org_insights"
+    },
+    "id": "four_moons_kick",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organization-wide Insights"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "form_modifications_warning",
+        "library.inlang.paraglideJs": "form_modifications_warning"
+    },
+    "id": "huge_pens_tease",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ستتأثر النماذج التالية عند تعديل الحقول أو المسارات هنا."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Úprava polí a tras na tomto místě by se dotkla následujících formulářů."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Følgende formularer vil blive påvirket, når du ændrer felter eller ruter her."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Folgende Formulare wären betroffen, wenn Sie hier Felder oder Weiterleitungen ändern."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Following forms would be affected when you modify fields or routes here."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Los siguientes formularios se verían afectados cuando modifique campos o rutas aquí."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les formulaires suivants seraient affectés lorsque vous modifieriez des champs ou des routes ici."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הטפסים הבאים יושפעו כשאתה משנה שדות או ניתובים כאן."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le modifiche qui apportate a campi e percorsi si rifletteranno nei seguenti moduli."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ここでフィールドまたはルートを変更すると、以下のフォームが影響を受けます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "여기에서 필드 또는 경로를 수정하면 다음 양식이 영향을 받습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De volgende formulieren worden beïnvloed wanneer u hier velden of routes wijzigt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dokonane tutaj zmiany w polach i przekierowaniach będą miały wpływ na następujące formularze."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seguintes formulários serão afetados quando modificar campos ou rotas aqui."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Os formulários a seguir serão afetados ao modificar os campos e rotas aqui."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Următoarele formulare vor fi afectate dacă modificați aici câmpuri sau parcursuri."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Изменение этих полей или маршрутов повлияет на следующие формы."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Na sledeće formulare će uticati kada ovde izmenite polja ili usmeravanja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Följande formulär påverkas om du ändrar fält eller omdirigeringar här."
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "நீங்கள் இங்குப் புலங்கள் அல்லது வழிகளை மாற்றும்போது பின்வரும் படிவங்கள் பாதிக்கப்படும்."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Buradaki alanları veya yönlendirmeleri değiştirdiğinizde aşağıdaki formlar etkilenir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Зміни цих полів або переспрямувань вплинуть на наведені нижче форми."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Các biểu mẫu sau sẽ chịu tác động khi bạn sửa các trường hay định hướng tại đây."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "在此处修改字段或途径时，以下表格将受到影响。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您在此處修改欄位或引導路由時，以下表單也會受到影響。"
+                }
+            ]
+        }
+    ]
+}

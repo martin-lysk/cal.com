@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "manage_calendars",
+        "library.inlang.paraglideJs": "manage_calendars"
+    },
+    "id": "evil_clubs_spend",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Manage calendars"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gérer les calendriers"
+                }
+            ]
+        }
+    ]
+}

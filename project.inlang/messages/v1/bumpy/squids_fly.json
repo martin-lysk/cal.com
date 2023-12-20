@@ -1,0 +1,278 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "delete_account_confirmation_message",
+        "library.inlang.paraglideJs": "delete_account_confirmation_message"
+    },
+    "id": "bumpy_squids_fly",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أي شخص شاركت رابط حسابك معه لن يستطيع بعد الآن الحجز باستخدامه، وستفقد أي تفضيلات حفظتها."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Všichni, se kterými jste sdíleli odkaz na účet, přijdou o možnost vytvářet rezervace a vy přijdete o uložené předvolby."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alle, som du har delt dit konto-link med, vil ikke længere kunne booke ved hjælp af det, og eventuelle præferencer du har gemt, vil gå tabt."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie können dann nicht mehr über Ihre geteilten Links gebucht werden und alle Einstellungen werden gelöscht."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Anyone who you've shared your account link with will no longer be able to book using it and any preferences you have saved will be lost."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cualquier persona con la que hayas compartido el enlace de tu cuenta ya no podrá agendar con ella y cualquier preferencia que hayas guardado se perderá."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Toute personne avec qui vous avez partagé le lien de votre compte ne pourra plus réserver en utilisant ce lien et toutes les préférences que vous avez sauvegardées seront perdues."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כל מי ששיתפת איתו את הקישור לחשבון לא יוכל יותר להזמין באמצעותו, וכל ההעדפות ששמרת יאבדו."
+                }
+            ]
+        },
+        {
+            "languageTag": "hu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Senki akinek elküldted a fiókod linkjét nem fog tudni időpontot foglalni, az eddig elmentett beállításaid is el fognak veszni."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chiunque abbia il link del tuo account non potrà più utilizzarlo per prenotare e le preferenze che hai salvato andranno perse."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたのアカウントリンクを共有しているユーザーは、そのアカウントを使用して予約を行うことができなくなり、保存していた設定も失われます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "계정 링크를 공유한 사람은 더 이상 이 링크를 사용하여 예약할 수 없으며 저장한 모든 기본 설정이 손실됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Iedereen met wie u uw accountlink gedeeld heeft, kan er niet meer mee boeken en alle voorkeuren die u opgeslagen heeft gaan verloren."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alle du har delt konto-lenken med, vil ikke lenger kunne booke ved å bruke den, og eventuelle innstillinger du har lagret vil gå tapt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Każdy, kto udostępnił link do Twojego konta, nie będzie już mógł zarezerwować za jego pomocą i wszystkie zapisane preferencje zostaną utracone."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Qualquer pessoa com quem tenha partilhado esta ligação de equipa deixará de poder fazer reservas através da respetiva ligação, e quaisquer preferências que tenha guardado serão perdidas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Qualquer pessoa que você compartilhou seu link de reservas não poderá mais utilizá-lo para agendar novos eventos e todas as suas preferências serão perdidas."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Persoanele cărora le-ați transmis linkul contului dvs. nu vor mai putea rezerva folosindu-l și orice preferințe pe care le-ați salvat se vor pierde."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Любой, кто имеет ссылку на вашу учетную запись, больше не сможет забронировать встречу, и сохраненные настройки будут потеряны."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "S kim god ste podelili link ovog naloga više neće moći da ga koristi za rezervacije i sva podešavanja koja imate neće biti sačuvana."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alla som du har delat din kontolänk med kommer inte längre att kunna boka med hjälp av den och eventuella inställningar du har sparat kommer att gå förlorade."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hesap bağlantısı paylaştığınız herkes artık bu bağlantıyı kullanarak rezervasyon yapamayacak ve kaydettiğiniz tüm tercihler kaybolacak."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Усі, кому ви надавали посилання на свій обліковий запис, більше не зможуть бронювати ваш час за його допомогою. Усі збережені налаштування буде втрачено."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có chắc chắn muốn xóa tài khoản "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " của mình không? Bất kỳ ai mà bạn đã chia sẻ liên kết tài khoản của mình sẽ không thể đặt trước bằng liên kết đó nữa và mọi tùy chọn bạn đã lưu sẽ bị mất."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "任何曾通过您的账户链接与您预约过的人都将无法再使用它和您预约，您保存的任何偏好设置都将丢失。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "任何分享過帳號連結的人再也無法以此進行預約，而且任何儲存過的偏好設定都會消失。"
+                }
+            ]
+        }
+    ]
+}

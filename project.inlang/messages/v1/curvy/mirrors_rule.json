@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "unified_billing_description",
+        "library.inlang.paraglideJs": "unified_billing_description"
+    },
+    "id": "curvy_mirrors_rule",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Add a single credit card to pay for all your team's subscriptions"
+                }
+            ]
+        }
+    ]
+}

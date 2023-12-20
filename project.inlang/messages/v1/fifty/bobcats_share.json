@@ -1,0 +1,514 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "remove_banner_instructions",
+        "library.inlang.paraglideJs": "remove_banner_instructions"
+    },
+    "id": "fifty_bobcats_share",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لإزالة هذا الشعار، يُرجى فتح ملف ‎.env وتغيير المتغير <1>NEXT_PUBLIC_LICENSE_CONSENT</1> إلى '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chcete-li tento banner odstranit, otevřete prosím váš .env soubor a změňte <1>NEXT_PUBLIC_LICENSE_CONSENT</1> proměnnou na '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "For at fjerne dette banner, skal du åbne filen .env og ændre variablen <1>NEXT_PUBLIC_LICENSE_CONSENT</1> til '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um diesen Banner zu entfernen, öffnen Sie bitte Ihre .env-Datei und ändern Sie die <1>NEXT_PUBLIC_LICENSE_CONSENT</1> Variable auf '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To remove this banner, please open your .env file and change the <1>NEXT_PUBLIC_LICENSE_CONSENT</1> variable to '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para eliminar este banner, abra su archivo .env y cambie la variable <1>NEXT_PUBLIC_LICENSE_CONSENT</1> a '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Baner hau ezabatzeko, mesedez zabaldu zure .env fitxategia eta aldatu <1>NEXT_PUBLIC_LICENSE_CONSENT</1> aldagaia honakora: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pour supprimer cette bannière, veuillez ouvrir votre fichier .env et changer la variable <1>NEXT_PUBLIC_LICENSE_CONSENT</1> en « "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": " »."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "להסרת הבאנר, יש לפתוח את קובץ ה-‎.env ולשנות את המשתנה <1>NEXT_PUBLIC_LICENSE_CONSENT</1> ל-'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da bi uklonili baner, molimo otvorite vašu .env datoteku i promijenite <1>NEXT_PUBLIC_LICENSE_CONSENT</1> varijablu u '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Untuk menghilangkan spanduk ini, buka file .env kamu dan ganti variabel <1>NEXT_PUBLIC_LICENSE_CONSENT</1> menjadi '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per rimuovere questo banner, apri il tuo file .env e cambia la variabile <1>NEXT_PUBLIC_LICENSE_CONSENT</1> in '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "このバナーを削除するには、.envファイルを開き、<1>NEXT_PUBLIC_LICENSE_CONSENT</1> 変数を「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "」に変更してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 배너를 제거하려면 env. 파일을 열고 <1>NEXT_PUBLIC_LICENSE_CONSENT</1>를 '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'.로 바꾸어 주십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om deze banner te verwijderen, opent u het .env bestand en verandert <1>NEXT_PUBLIC_LICENSE_CONSENT</1> in '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "For å fjerne dette banneret, vennligst åpne din .env fil og endre <1>NEXT_PUBLIC_LICENSE_CONSENT</1> variabel til '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aby usunąć ten baner, otwórz plik .env i zmień zmienną <1>NEXT_PUBLIC_LICENSE_CONSENT</1> na '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para remover este banner, por favor abra seu ficheiro .env e altere a variável <1>NEXT_PUBLIC_LICENSE_CONSENT</1> para '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para remover este banner, por favor abra seu arquivo .env e altere a variável <1>NEXT_PUBLIC_LICENSE_CONSENT</1> para '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pentru a elimina acest banner, deschideți fișierul .env și modificați variabila <1>URMĂTOAREA_LICENȚĂ_PUBLICĂ</1> în „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "”."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Чтобы удалить этот баннер, откройте файл .env и измените <1>NEXT_PUBLIC_LICENSE_CONSENT</1> на '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da uklonite baner, molim vas da otvorite vaš .env file i promenite <1>NEXT_PUBLIC_LICENSE_CONSENT</1> varijablu u '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "För att ta bort denna banner, vänligen öppna din .env fil och ändra <1>NEXT_PUBLIC_LICENSE_CONSENT</1> variabeln till '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu banner'ı kaldırmak için lütfen .env dosyanızı açın ve <1>NEXT_PUBLIC_LICENSE_CONSENT</1> değişkenini '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "' olarak değiştirin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Щоб прибрати цей банер, відкрийте файл .env і змініть значення змінної <1>NEXT_PUBLIC_LICENSE_CONSENT</1> на «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "»."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Để xóa banner này, vui lòng mở tệp .env của bạn và thay đổi biến <1> NEXT_PUBLIC_LICENSE_CONSENT </1> thành '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "若希望不再提示, 请更改您的.env 文件下的 <1>NEXT_PUBLIC_LICENSE_CONSENT</1> 变量为 '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果要移除此橫幅訊息，請打開 .env 檔案，把.env 變數 <1>NEXT_PUBLIC_LICENSE_CONSENT</1> 為 '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'。"
+                }
+            ]
+        }
+    ]
+}

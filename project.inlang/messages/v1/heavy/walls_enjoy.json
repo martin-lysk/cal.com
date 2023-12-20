@@ -1,0 +1,584 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "workflow_turned_on_successfully",
+        "library.inlang.paraglideJs": "workflow_turned_on_successfully"
+    },
+    "id": "heavy_walls_enjoy",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم تشغيل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " سير العمل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pracovní postup "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " byl "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " workflow er nu slået "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " Workflow erfolgreich "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": "geschaltet"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " workflow turned "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El flujo de trabajo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " se ha activado "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " con éxito"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le workflow "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " a été "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "תהליך העבודה "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " הועבר למצב "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il flusso di lavoro "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " è stato impostato come "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ワークフローが正常に "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " になりました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 워크플로 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " 설정 완료"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De werkstroom "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " is "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Arbeidsflyten for "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ble "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " slått av"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Przepływ pracy "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " został "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fluxo de trabalho "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fluxo de trabalho "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " atualizado para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fluxul de lucru "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " a fost "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Состояние рабочего процесса «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» изменено на «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " radni tok je "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Arbetsflödet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " är "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " iş akışı başarıyla "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " hale getirildi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Робочий процес «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                },
+                {
+                    "type": "Text",
+                    "value": " thành công dòng công việc "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 工作流程已成功"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": "」工作流程已成功"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "offOn"
+                }
+            ]
+        }
+    ]
+}

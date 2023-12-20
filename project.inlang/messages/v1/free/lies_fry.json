@@ -1,0 +1,394 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "user_needs_to_confirm_or_reject_booking_recurring",
+        "library.inlang.paraglideJs": "user_needs_to_confirm_or_reject_booking_recurring"
+    },
+    "id": "free_lies_fry",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لا يزال "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " بحاجة إلى تأكيد كل حجز للاجتماع المتكرر أو رفضه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uživatel "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " ještě nepotvrdil ani neodmítl jednotlivé rezervace opakované schůzky."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " mangler stadig at bekræfte eller afvise hver booking af det tilbagevendende møde."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " muss noch die Terminreihe des wiederkehrenden Termins bestätigen oder ablehnen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " still needs to confirm or reject each booking of the recurring meeting."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " todavía necesita confirmar o rechazar cada reserva de la reunión recurrente."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " doit encore confirmer ou refuser chaque réservation du rendez-vous récurrent."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כל הזמנה לפגישה החוזרת צריכה לקבל אישור או דחייה מ-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " i dalje treba potvrditi ili odbiti svaki od zakazanih ponavljajućih sastanaka."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " deve ancora confermare o rifiutare ciascuna prenotazione della riunione ricorrente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " は、まだ繰り返しミーティングの各予約を確認または拒否する必要があります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "님은 여전히 각 되풀이 회의 예약을 확인 또는 거부해야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " moet nog steeds elke boeking van de terugkerende afspraak bevestigen of weigeren."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " må fortsatt bekrefte eller avvise hver booking av det gjentakende møtet."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Użytkownik "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " nadal musi potwierdzić lub odrzucić każdą rezerwację spotkania cyklicznego."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " ainda precisa de confirmar ou rejeitar cada reserva da reunião recorrente."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " ainda precisa confirmar ou recusar cada reserva da reunião recorrente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " încă trebuie să confirme sau să respingă fiecare rezervare a întâlnirii recurente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " по-прежнему должен(-на) будет подтвердить или отклонить бронирование каждой повторяющейся встречи."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " i dalje mora da potvrdi ili odbije svaki od zakazanih ponavljajućih sastanaka."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " måste fortfarande bekräfta eller avvisa varje bokning av det återkommande mötet."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " isimli kullanıcının yinelenen toplantıyla ilgili her rezervasyonu onaylaması veya reddetmesi gerekiyor."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " усе одно має підтверджувати або відхиляти кожне бронювання періодичної наради."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " vẫn cần xác nhận hoặc từ chối mỗi cuộc đặt hẹn cho cuộc họp định kỳ."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " 仍然需要确认或拒绝每个定期会议预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " 仍需確認或拒絕定期會議的每個預約。"
+                }
+            ]
+        }
+    ]
+}

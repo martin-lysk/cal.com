@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "user_away_description",
+        "library.inlang.paraglideJs": "user_away_description"
+    },
+    "id": "loud_toys_fetch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حالة الشخص الذي تحاول حجز خدماته \"ليس موجودًا\"، ولذا فهو لا يقبل عمليات حجز جديدة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Osoba, kterou se snažíte rezervovat, má nastavený status \"pryč\" a nepřijímá tak nové rezervace."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Den person du forsøger at booke har sat sig til væk, og accepterer derfor ikke nye bookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Die Person, mit der Sie einen Termin buchen wollen, ist zur Zeit abwesend und akzeptiert daher keine neuen Buchungen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The person you are trying to book has set themselves to away, and therefore is not accepting new bookings."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La persona a la que estás intentando reservar se ha marcado a sí misma como Ausente, por lo tanto, no acepta nuevas reservas por ahora."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La personne avec qui vous essayez de prendre rendez-vous est absente et n'accepte donc pas de nouvelles réservations."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "האדם שניסית לשריין איתו חלון זמן הגדיר את עצמו כ'לא נמצא/ת', ולכן הוא אינו מקבל הזמנות חדשות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La persona che stai cercando di prenotare si è segnalata assente, quindi non accetta nuove prenotazioni."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたが予約しようとしているユーザーは離席中です。そのため、新しい予約を承認することができません。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약하려는 사람이 자신을 공석으로 설정했기 때문에 새 예약을 받고 있지 않습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De persoon die u probeert te boeken heeft zichzelf op afwezig gezet en accepteert dus geen nieuwe boekingen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Personen du prøver å booke har satt seg selv som borte, og aksepterer derfor ikke nye bookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Osoba, którą próbujesz zarezerwować, jest teraz nieobecna i dlatego nie akceptuje nowych rezerwacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A pessoa com quem está a tentar fazer uma reserva está ausente, pelo que não está a aceitar novas reservas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A pessoa que você está tentando realizar uma reserva está indisponível no momento e, portanto, não está aceitando novas reservas."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Persoana pentru care încercați să efectuați rezervare și-a setat starea la Plecat, prin urmare, nu acceptă rezervări noi."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Человек, с которым вы пытаетесь забронировать встречу - недоступен, поэтому он не принимает новых записей."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Osoba sa kojom želite da rezervišete sastanak je postavila status da nije prisutna, tako da ne prihvata nove rezervacije."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Personen du försöker boka har satt sig som inte tillgänglig och accepterar därför inte nya bokningar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyon yapmaya çalıştığınız kişi kendisini \"Uzakta\" olarak ayarladığı için şu anda yeni rezervasyon kabul etmiyor."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Користувач, час якого ви намагаєтеся забронювати, указав, що він зараз не на місці. Через це він не приймає нові бронювання."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Người mà bạn đang cố gắng đặt lịch hẹn đã đặt trạng thái đi vắng, và do đó không chấp nhận các lịch hẹn mới."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您试图预约的人已将自己置于离开状态，因此不接受新预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "試圖預約的人已經設定為離開狀態，因此不接受新預約。"
+                }
+            ]
+        }
+    ]
+}

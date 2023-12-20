@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "ignore_special_characters_booking_questions",
+        "library.inlang.paraglideJs": "ignore_special_characters_booking_questions"
+    },
+    "id": "brave_bushes_warn",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تجاهل الأحرف الخاصة في معرف سؤال الحجز لديك. استخدم الأحرف والأرقام فقط"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorujte speciální znaky v identifikátoru rezervační otázky. Používejte pouze písmena a číslice"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorieren Sie Sonderzeichen in Ihrem Buchungsfragenbezeichner. Verwenden Sie nur Buchstaben und Zahlen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignore special characters in your booking question identifier. Use only letters and numbers"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignore los caracteres especiales en su identificador de pregunta de reserva. Use solo letras y números"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorez les caractères spéciaux dans l'identifiant de votre question de réservation, utilisez uniquement des lettres et des chiffres."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "להתעלם מתווים מיוחדים במזהה שאלת ההזמנה. להשתמש באותיות ובספרות בלבד"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignora i caratteri speciali nell'identificatore della domanda posta in fase di prenotazione. Usa solo lettere e numeri"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約時質問識別子に含まれている特殊文字はすべて無視し、アルファベットと数字のみを使用してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약 질문 ID의 특수 문자는 무시합니다. 문자와 숫자만 사용하십시오"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Negeer speciale tekens in uw boekingsvraag-ID. Gebruik alleen letters en cijfers"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignoruj znaki specjalne w identyfikatorze pytania dotyczącego rezerwacji. Używaj tylko liter i cyfr"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorar caracteres especiais no seu identificador de questões sobre a reserva. Utilizar apenas letras e números"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignore caracteres especiais no seu identificador de pergunta de reserva. Use apenas letras e números"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorați caracterele speciale în identificatorul întrebării despre rezervare. Utilizați doar litere și cifre"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не используйте в идентификаторе вопроса о бронировании специальные символы. Используйте только буквы и цифры"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorišite specijalne znakove u vašim identifikatorima pitanja o zakazivanju. Koristite samo slova i brojeve"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ignorera specialtecken i din bokningsfrågeidentifierare. Använd endast bokstäver och siffror"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyon sorusu tanımlayıcınızdaki özel karakterleri yok sayın. Yalnızca harf ve sayıları kullanın"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пропускайте спеціальні символи в ідентифікаторі запитання про бронювання та використовуйте лише літери й цифри"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bỏ qua những ký tự đặc biệt trong mã định danh câu hỏi lịch hẹn. Chỉ dùng chữ cái và số"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "忽略您的预约问题标识符中的特殊字符。仅使用字母和数字"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "忽略預約問題識別項中的特殊字元。只使用字母和數字"
+                }
+            ]
+        }
+    ]
+}

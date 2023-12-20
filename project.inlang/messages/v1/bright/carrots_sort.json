@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "date_overrides_subtitle",
+        "library.inlang.paraglideJs": "date_overrides_subtitle"
+    },
+    "id": "bright_carrots_sort",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أضف التواريخ التي تكون متاحًا فيها خارج ساعات الإتاحة اليومية."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Přidejte dny, kdy se změní vaše dostupnost oproti vaší každodenní době."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tilføj datoer, når din tilgængelighed skifter fra dine daglige timer."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fügen Sie Termine hinzu, an denen Ihre Verfügbarkeit von Ihren üblichen Geschäftszeiten abweicht."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Add dates when your availability changes from your daily hours."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Agregue fechas cuando su disponibilidad difiera de su horario diario."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ajoutez les dates où vos disponibilités changent de vos heures quotidiennes."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הוסף/י תאריכים שבהם הזמינות שלך שונה משעות העבודה הרגילות שלך מדי יום."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aggiungi le date in cui la tua disponibilità differisce dall'orario giornaliero."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "1 日の予定が変更になる日付を追加します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "가용성이 일일 시간에서 변경되면 날짜를 추가합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voeg datums toe wanneer uw beschikbaarheid afwijkt van uw dagelijkse tijden."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Legg til datoer når tilgjengeligheten endres fra de daglige åpningstidene dine."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dodaj daty, gdy Twoja dostępność zmieni się w stosunku do Twoich codziennych godzin."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adicione datas de quando a sua disponibilidade mudar em relação às suas horas diárias."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adicione datas quando sua disponibilidade mudar em relação às suas horas diárias."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adaugă date la care disponibilitatea ta se schimbă în programul zilnic."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Добавляйте даты, в которые вы свободны не как обычно."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dodajte datume kada se raspoloživost promeni u odnosu na radno vreme."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lägg till datum när din tillgänglighet ändras från dina dagliga timmar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Müsaitlik durumunuzun günlük saatlerinizden farklı olduğu tarihler ekleyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Додайте дати, коли ваша доступність не така, як в інші дні."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thêm các ngày mà trong đó tình trạng sẵn sàng của bạn khác với giờ làm việc hằng ngày."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "添加您的可预约时间与日常时间发生变化的日期。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "當您的日常時段改變時新增日期。"
+                }
+            ]
+        }
+    ]
+}

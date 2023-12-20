@@ -1,0 +1,344 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_subject_slug_replacement",
+        "library.inlang.paraglideJs": "email_subject_slug_replacement"
+    },
+    "id": "tidy_years_wink",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "استبدل مشرف في فريق الحدث لديك /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Správce týmu nahradil vaši událost /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ein Teamadministrator hat Ihr Ereignis ersetzt /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A team administrator has replaced your event /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un administrador del equipo ha reemplazado su evento /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un administrateur d'équipe a remplacé votre événement /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מנהל/ת צוות החליף/ה את האירוע שלך /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un amministratore di team ha sostituito il tuo evento /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "チームの管理者があなたのイベント /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " を置き換えました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "팀 관리자가 귀하의 이벤트 /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "를 교체했습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Een teambeheerder heeft uw gebeurtenis vervangen /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administrator zespołu zastąpił Twoje wydarzenie /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um administrador da equipa substituiu o seu evento /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um administrador de equipe substituiu seu evento /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un administrator al echipei v-a înlocuit evenimentul /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Администратор команды заменил ваше событие /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administrator tima je zamenio vaš događaj /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En teamadministratör har ersatt din händelse /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bir ekip yöneticisi, etkinliğinizi /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " değiştirdi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Адміністратор команди замінив ваш захід /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Một quản trị viên của nhóm đã thay thế sự kiện của bạn /"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "一位团队管理员已替换您的活动/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "團隊管理員已取代您的活動/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        }
+    ]
+}

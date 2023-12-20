@@ -1,0 +1,310 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "check_bookings_page_to_confirm_or_reject",
+        "library.inlang.paraglideJs": "check_bookings_page_to_confirm_or_reject"
+    },
+    "id": "quiet_olives_think",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تحقق من صفحة عمليات الحجز لديك لتأكيد الحجز أو رفضه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokračujte na stránku s rezervacemi a potvrďte nebo odmítněte rezervaci."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tjek din bookingside for at bekræfte eller afvise bookingen."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Überprüfen Sie Ihre Buchungsseite, um die Buchung zu bestätigen oder abzulehnen."
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ελέγξτε τη σελίδα κρατήσεων για να επιβεβαιώσετε ή να απορρίψετε την κράτηση."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Check your bookings page to confirm or reject the booking."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consulta la página de reservas para confirmar o rechazar la reserva."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Begiratu zure erreserba-orrialdea erreserba baieztatu edo errefusatzeko."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consultez votre page de réservation pour confirmer ou refuser la réservation."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כדי לאשר או לדחות את ההזמנה, יש לעבור לדף ההזמנות."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Provjerite stranicu rezervacija kako biste potvrdili ili odbili rezervaciju."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Periksa halaman penjadwalan untuk mengkonfirmasi atau menolak."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Controlla la pagina delle prenotazioni per confermare o rifiutare la prenotazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約ページを開いて、予約を確認または拒否してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약 확인 및 거절을 위해 예약 상세 페이지를 확인하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Controleer uw boekingen om de boeking te bevestigen of te verwerpen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sjekk bookingsiden din for å bekrefte eller avvise bookingen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sprawdź swoją stronę rezerwacji, aby potwierdzić lub odrzucić rezerwację."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consulte a sua página de reservas para confirmar ou rejeitar a reserva."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consulte a sua página de reservas para confirmar ou recusar a reserva."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verificați pagina de rezervări pentru a confirma sau a respinge rezervarea."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Проверьте страницу мероприятий, чтобы подтвердить или отклонить запись."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Proverite stranicu rezervacija da potvrdite ili odbijete rezervaciju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kontrollera din bokningssida för att bekräfta eller avvisa bokningen."
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "முன்பதிவை உறுதிப்படுத்த அல்லது நிராகரிக்க உங்கள் முன்பதிவு பக்கத்தைப் பார்க்கவும்."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyonu onaylamak veya reddetmek için rezervasyon sayfanızı kontrol edin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Перегляньте сторінку бронювань, щоб підтвердити бронювання або відмовити в ньому."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kiểm tra trang đặt lịch của bạn để chấp nhận hoặc từ chối lời mời đặt lịch hẹn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "前往您的预约页面以确认或拒绝预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "到預約列表頁面確認或拒絕預約。"
+                }
+            ]
+        }
+    ]
+}

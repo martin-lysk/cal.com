@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "sender_id_info",
+        "library.inlang.paraglideJs": "sender_id_info"
+    },
+    "id": "twenty_wings_cut",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "الاسم أو الرقم الظاهر على أنه مرسل الرسالة النصية القصيرة (بعض البلدان لا تسمح بمعرفات المرسل الأبجدية الرقمية)"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jméno nebo číslo zobrazené jako odesílatel SMS (některé země nepovolují alfanumerické ID odesílatele)"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Name oder Nummer, welcher bzw. welche als Absender einer SMS angezeigt wird (einige Länder erlauben keine alphanumerischen Absender-IDs)"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Name or number shown as the sender of an SMS (some countries do not allow alphanumeric sender IDs)"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nombre o número que se muestra como el remitente de un SMS (algunos países no permiten ID de remitente alfanumérico)"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nom ou numéro affiché comme expéditeur d'un SMS (certains pays n'autorisent pas les ID d'expéditeur alphanumériques)"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "השם או המספר שמוצגים כשולח של הודעת SMS (חלק מהמדינות אינן מתירות שימוש במזהי שולח אלפאנומריים)"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nome o numero mostrato come mittente di un SMS (alcuni paesi non consentono ID alfanumerici dei mittenti)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SMS の送信者として表示される名前または番号 (国によっては英数字の送信者 ID が許可されない場合もあります)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SMS 발신자로 표시되는 이름 또는 번호(일부 국가에서는 영숫자 발신자 ID를 허용하지 않음)"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Naam of nummer weergegeven als de afzender van een sms (sommige landen staan geen alfanumerieke afzender-ID's toe)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nazwa lub numer wyświetlany jako nadawca wiadomości SMS (niektóre kraje nie zezwalają na alfanumeryczne identyfikatory nadawcy)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nome ou número mostrado como remetente de um SMS (alguns países não permitem identificadores alfanuméricos de remetentes)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nome ou número mostrado como remetente do SMS (alguns países não permitem IDs de remetentes com caracteres alfanuméricos)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Numele sau numărul afișat ca expeditor al unui SMS (unele țări nu permit ID-uri alfanumerice ale expeditorilor)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Имя или номер, отображаемые как отправитель SMS-сообщения (в некоторых странах не допускаются буквенно-цифровые идентификаторы)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ime ili broj koji će biti prikazani kao pošiljalac SMS-a (neke zemlje ne dozvoljavaju alfanumeričke ID-ove pošiljaoca)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Namn eller nummer som visas som avsändare av ett SMS (vissa länder tillåter inte alfanumeriska avsändar-ID:n)"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SMS'i gönderen alanında gösterilen ad veya numara (bazı ülkeler alfasayısal gönderen kimliklerine izin vermez)"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ім’я або число, яке вказано в полі «Відправник SMS» (для деяких країн не можна використовувати буквено-цифрові ідентифікатори відправників)"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tên hoặc số hiển thị ở chỗ người gửi SMS (một số quốc gia không cho phép ID người gửi dạng chữ lẫn số)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "显示为短信发件人的姓名或号码（某些国家/地区不允许使用字母数字发件人 ID）"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "顯示為簡訊傳送者的名稱或電話號碼 (部分國家/地區不允許英數字元的傳送者 ID)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_event_types_description",
+        "library.inlang.paraglideJs": "no_event_types_description"
+    },
+    "id": "great_clowns_attend",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لم يتم إعداد أي نوع من الأحداث لك من قِبل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uživatel "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " nenastavil žádné typy událostí, které byste mohli rezervovat."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " har ikke opsat nogen begivenhedstyper som du kan booke."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " hat keine für Sie buchbaren Termintypen eingerichtet."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " has not setup any event types for you to book."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " no ha configurado ningún tipo de evento para que usted reserve."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)k ez du erreserbatu dezakezun gertaera motarik ezarri."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " n'a pas configuré de type d'événement que vous pouvez réserver."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא הוגדר על ידי "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " אף סוג אירוע שבאפשרותך להזמין."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " non ha impostato alcun tipo di evento che puoi prenotare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "はあなたが予約するイベントのタイプを設定していません。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "은(는) 귀하가 예약할 이벤트 유형을 설정하지 않았습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " heeft geen gebeurtenistypen ingesteld die u kunt boeken."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " har ikke konfigurert noen hendelsestyper du kan booke."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " nie ma określonych żadnych typów zdarzeń do rezerwacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " não configurou quaisquer tipos de eventos que possa reservar."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " não configurou nenhum tipo de evento para você reservar."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " nu a configurat niciun tip de eveniment pe care să îl rezervați."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " не установил(а) для вас типы событий, которые вы можете бронировать."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " još uvek nije podesio(la) bilo koju vrstu događaja za bukiranje."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " har inte ställt in några evenemangstyper som du kan boka."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": ", rezervasyon yapabileceğiniz herhangi bir etkinlik türü oluşturmadı."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " не налаштував(-ла) жодних типів заходів, які можна було б забронювати."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã không thiết lập bất kỳ loại sự kiện nào cho bạn để đặt lịch hẹn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " 尚未设置任何活动类型供您预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " 尚未設定任何活動類型供您預約。"
+                }
+            ]
+        }
+    ]
+}

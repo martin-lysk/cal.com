@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "requires_confirmation_description",
+        "library.inlang.paraglideJs": "requires_confirmation_description"
+    },
+    "id": "crazy_flies_warn",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يجب تأكيد الحجز يدويًا قبل نقله إلى التكاملات وإرسال رسالة تأكيد عبر البريد الإلكتروني."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervace musí být ručně potvrzena, než bude odeslána do integrovaných systémů a dojde k odeslání e-mailu s potvrzením."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bookingen skal bekræftes manuelt, før den skubbes til integrationerne og en bekræftelsesmail sendes."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Die Buchung muss manuell bestätigt werden, bevor die Buchungsinformationen an die Integrationen weitergeleitet werden und eine Bestätigungsmail gesendet wird."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The booking needs to be manually confirmed before it is pushed to the integrations and a confirmation mail is sent."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La reserva debe confirmarse manualmente antes de que se envíe a las integraciones y se genere un correo de confirmación."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La réservation doit être confirmée manuellement avant d'être poussée vers les intégrations et qu'un e-mail de confirmation soit envoyé."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש לאשר את ההזמנה באופן ידני כדי שניתן יהיה להעביר אותה אל השילובים ולשלוח הודעת אישור בדוא״ל."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La prenotazione deve essere confermata manualmente prima di essere inviata alle integrazioni e che venga inviata una e-mail di conferma."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "連携にプッシュされて確認メールが送信される前に、手動で予約を確認する必要があります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "통합에 푸시하고 확인 메일을 전송하기 전에 예약을 수동으로 확인해야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De boeking moet handmatig bevestigd worden voordat deze naar de integraties wordt gepusht en een bevestigings-e-mail wordt verzonden."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bookingen må bekreftes manuelt før den blir videresendt til integrasjonene og en e-post med bekreftelse sendes."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezerwację trzeba potwierdzić ręcznie, aby można było skierować ją do integracji i wysłać wiadomość z potwierdzeniem."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A reserva precisa ser confirmada manualmente antes de ser enviada para as integrações e ser enviada uma mensagem de confirmação."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A reserva precisa ser confirmada manualmente antes de ser enviada para as integrações e ser enviado um email de confirmação."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervarea trebuie să fie confirmată manual înainte de a fi înaintată către integrări și înainte de trimiterea unui e-mail de confirmare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Необходимо подвердить бронирование вручную, прежде чем оно будет передано интеграциям и будет отправлено письмо с подтверждением."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervaciju je potrebno ručno potvrditi pre nego što se prebaci u integracije i pošalje potvrdni imejl."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bokningen måste bekräftas manuellt innan den flyttas till integrationerna och ett bekräftelsemail skickas."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyon, entegrasyonlara iletilmeden ve bir onay e-postası gönderilmeden önce manuel olarak onaylanmalıdır."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Бронювання потрібно підтвердити вручну, перш ніж його буде надіслано в інтеграції. Ви отримаєте підтвердження електронною поштою."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lịch hẹn cần được xác nhận thủ công trước khi nó được chuyển sang ứng dụng tích hợp và thư xác nhận sẽ được gửi."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "将预约推送至集成和发送确认邮件之前，需要先手动确认预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "在推播此預約至整合服務及送出電子郵件前，需手動確認此預約。"
+                }
+            ]
+        }
+    ]
+}

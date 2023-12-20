@@ -1,0 +1,40 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "start_paid_trial",
+        "library.inlang.paraglideJs": "start_paid_trial"
+    },
+    "id": "curvy_apples_march",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Start free Trial"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Démarrer l'essai gratuit"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "开始免费试用"
+                }
+            ]
+        }
+    ]
+}

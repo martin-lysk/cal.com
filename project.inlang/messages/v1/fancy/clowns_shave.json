@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "google_meet_warning",
+        "library.inlang.paraglideJs": "google_meet_warning"
+    },
+    "id": "fancy_clowns_shave",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "من أجل استخدام Google Meet، يجب عليك تعيين تقويم وجهتك على تقويم Google"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Abyste mohli používat službu Google Meet, musíte jako cílový kalendář nastavit Kalendář Google"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "For at kunne bruge Google Meet skal du indstille din destinationskalender til en Google-kalender"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um Google Meet nutzen zu können, müssen Sie Ihren Zielkalender zu einem Google Calendar ändern"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "In order to use Google Meet you must set your destination calendar to a Google Calendar"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para usar Google Meet, debe establecer un Google Calendar como calendario de destino"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pour utiliser Google Meet, vous devez définir votre calendrier de destination sur un calendrier Google"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כדי להשתמש ב-Google Meet, יש להגדיר את Google Calendar כלוח השנה של המארח"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per usare Google Meet, è necessario impostare Google Calendar come calendario di destinazione"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Google Meet を使用するには、目的のカレンダーを Google カレンダーに設定する必要があります"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Google Meet을 사용하려면 대상 캘린더를 Google Calendar로 설정해야 합니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om Google Meet te kunnen gebruiken, moet u uw bestemmingsagenda instellen op een Google-agenda"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aby korzystać z usługi Google Meet, musisz wybrać Kalendarz Google jako kalendarz docelowy."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para utilizar o Google Meet, deve definir um Google Calendar como o seu calendário de destino"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para usar o Google Meet, é preciso definir seu calendário de destino para o Google Calendar"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pentru a utiliza Google Meet, trebuie să setezi calendarul tău de destinație la un cont Google Calendar"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Чтобы использовать Google Meet, необходимо установить в качестве целевого календаря Google Календарь"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da biste koristili Google Meet morate da podesite Google Calendar kao odredišni kalendar"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "För att använda Google Meet måste du ställa in din målkalender till en Google Kalender"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Google Meet'i kullanmak için hedef takviminizi Google Takvimi olarak ayarlamanız gerekir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Щоб використовувати Google Meet, необхідно додати свій календар у Google Календар"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Để dùng Google Meet, bạn phải đặt lịch đích là một Google Calendar"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "要使用 Google Meet，您必须将目标日历设置为 Google 日历"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如要使用 Google Meet，您必須將目標行事曆設為 Google 日曆"
+                }
+            ]
+        }
+    ]
+}

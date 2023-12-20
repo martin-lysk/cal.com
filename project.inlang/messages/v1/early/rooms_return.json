@@ -1,0 +1,392 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "signup_requires_description",
+        "library.inlang.paraglideJs": "signup_requires_description"
+    },
+    "id": "early_rooms_return",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لا تقدم شركة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " حاليًا إصدارًا مجانيًا مفتوح المصدر لصفحة التسجيل. للحصول على حق الوصول الكامل إلى مكونات التسجيل، يجب أن تحصل على ترخيص تجاري. للاستخدام الشخصي، نوصي باستخدام منصة Prisma Data أو أي واجهة أخرى من واجهات Postgres لإنشاء الحسابات."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " v současné době nenabízí bezplatnou open source verzi stránky registrace. Chcete-li získat plný přístup ke komponentám registrace, musíte získat komerční licenci. Pro osobní použití doporučujeme Prisma Data Platform nebo jakékoli jiné Postgres rozhraní pro vytváření účtů."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tilbyder i øjeblikket ikke en gratis open source version af tilmeldingssiden. For at modtage fuld adgang til tilmeldingskomponenterne skal du erhverve en kommerciel licens. Til personligt brug anbefaler vi Prisma Dataplatformen eller enhver anden Postgres-grænseflade for at oprette konti."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " bietet zur Zeit keine kostenlose Open-Source-Version der Anmeldeseite an. Um vollen Zugriff auf die Registrierungskomponenten zu erhalten, müssen Sie eine kommerzielle Lizenz erwerben. Für den persönlichen Gebrauch empfehlen wir die Prisma Data Platform oder jede andere Postgres-Schnittstelle zur Erstellung von Accounts."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " currently does not offer a free open source version of the sign up page. To receive full access to the signup components you need to acquire a commercial license. For personal use we recommend the Prisma Data Platform or any other Postgres interface to create accounts."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Actualmente, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " no ofrece una versión gratuita de código abierto de la página de registro. Para recibir acceso completo a los componentes de registro es necesario adquirir una licencia comercial. Para uso personal, recomendamos la Plataforma de Datos Prisma o cualquier otra interfaz Postgres para crear cuentas."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ne propose actuellement pas de version open source gratuite de la page d'inscription. Pour recevoir un accès complet aux composants d'inscription, vous devez acquérir une licence commerciale. Pour un usage personnel, nous recommandons la plateforme de données Prisma ou toute autre interface Postgres pour créer des comptes."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בשלב זה, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " אינה מציעה גרסת קוד פתוח חינמית של דף ההרשמה. לקבלת גישה מלאה לרכיבי ההרשמה, תצטרך לקנות רישיון לשימוש מסחרי. לצרכים אישיים אנו ממליצים על Prisma Data Platform או כל ממשק Postgres אחר ליצירת חשבונות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " attualmente non offre una versione open source gratuita della pagina di registrazione. Per avere accesso completo ai componenti di registrazione è necessario acquisire una licenza commerciale. Per un uso personale consigliamo Prisma Data Platform o qualsiasi altra interfaccia Postgres per creare account."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " は、現時点ではサインアップページの無料のオープンソース版を提供しておりません。サインアップコンポーネントへのフルアクセスをご利用いただくためには、商用ライセンスを取得する必要があります。個人での利用につきましては、Prisma Data Platform またはその他の Postgres インターフェースを使用してアカウントの作成を行うことをお勧めしております。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "지금은 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": "에서 가입 페이지의 무료 오픈 소스 버전을 제공하지 않습니다. 가입 구성 요소에 대한 정식 액세스 권한을 받으려면 상용 라이선스를 취득해야 합니다. 개인 용도의 경우 Prisma Data Platform 또는 기타 Postgres 인터페이스를 사용하여 계정을 생성하는 것이 좋습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " biedt momenteel geen gratis opensourceversie van de registratiepagina aan. Om volledige toegang te krijgen tot de registratieonderdelen moet u een commerciële licentie verkrijgen. Voor persoonlijk gebruik raden we aan om accounts aan te maken op het Prisma Data Platform of een andere Postgres-interface."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tilbyr for øyeblikket ikke en gratis åpen kildekode-versjon av registreringssiden. For å få full tilgang til registreringskomponentene må du anskaffe en kommersiell lisens. For personlig bruk anbefaler vi Prisma Data Platform eller et annet Postgres-grensesnitt for å opprette kontoer."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " obecnie nie oferuje darmowej otwartej wersji strony rejestracji. Aby uzyskać pełny dostęp do komponentów rejestracji, musisz zdobyć licencję komercyjną. Do użytku osobistego zalecamy platformę danych Prisma lub jakikolwiek inny interfejs Postgres do tworzenia kont."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De momento a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " não oferece uma versão gratuita de código aberto da página de registo. Para aceder completamente aos componentes de registo tem de adquirir uma licença comercial. Para uso pessoal, recomendamos a Prisma Data Platform ou qualquer outra interface Postgres para criar contas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Atualmente a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " não oferece nenhuma versão gratuita de código aberto da página de inscrição. Para obter acesso completo aos componentes da inscrição, você precisa adquirir uma licença comercial. Para uso pessoal, recomendamos o Prisma Data Platform ou outras interfaces em Postgres para criação de contas."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "În prezent, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nu oferă o versiune open-source gratuită a paginii de înscriere. Pentru a primi acces deplin la componentele de înscriere, trebuie să obțineți o licență comercială. Pentru uz personal, recomandăm Prisma Data Platform sau orice altă interfață Postgres pentru a crea conturi."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "В настоящее время компания "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " не предлагает бесплатную версию страницы регистрации с открытым исходным кодом. Чтобы получить полный доступ к компонентам входа в систему, необходимо приобрести коммерческую лицензию. Для личного пользования мы рекомендуем Prisma Data Platform или любой другой интерфейс Postgres для создания учетных записей."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " trenutno ne nudi besplatnu verziju otvorenog koda od stranice za prijavu. Da bi dobili potpuni pristup kompenentama za prijavu, neophodno je da ste vlasnik komercijalne licence. Za ličnu upotrebu preporučujemo Prisma Data Platformu ili bilo koji drugi Postgres interfejs za pravljenje naloga."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " erbjuder för närvarande inte en gratis open source-version av registreringssidan. För att få full tillgång till de registreringskomponenter du behöver för att skaffa en kommersiell licens. För personligt bruk rekommenderar vi Prisma Data Platform eller något annat Postgres-gränssnitt för att skapa konton."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " şu anda kayıt sayfasının ücretsiz, açık kaynaklı bir sürümünü sunmamaktadır. Kayıt bileşenlerine tam erişim elde etmek için ticari bir lisans almanız gerekiyor. Kişisel kullanım için hesap oluşturmak üzere Prisma Data veya başka bir Postgres arayüzü öneriyoruz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " зараз не надає безкоштовну версію сторінки реєстрації з відкритим кодом. Щоб отримати повний доступ до складових функціоналу реєстрації, потрібно придбати комерційну ліцензію. Для особистого використання та створення облікових записів радимо Prisma Data Platform або будь-який інший інтерфейс Postgres."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " hiện không cung cấp phiên bản nguồn mở miễn phí của trang đăng ký. Để nhận toàn quyền truy cập vào các thành phần đăng ký, bạn cần có giấy phép thương mại. Đối với mục đích sử dụng cá nhân, chúng tôi khuyên bạn nên sử dụng Nền tảng dữ liệu Prisma hoặc bất kỳ giao diện Postgres nào khác để tạo tài khoản."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 免费开源版目前不提供的注册页面。 要获得对注册页面组件的完全访问权，您需要获得商业许可证。 对于个人使用用途，我们推荐使用Prisma 数据平台或任何其他Postgres接口创建账户。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 目前不提供註冊頁面的免費開源版本。如果要完整獲得註冊元件，就得要取得商業授權。個人使用的情況，我們推薦 Prisma Data Platform 或其它 Postgres 介面來建立帳號。"
+                }
+            ]
+        }
+    ]
+}

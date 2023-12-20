@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "please_install_a_calendar",
+        "library.inlang.paraglideJs": "please_install_a_calendar"
+    },
+    "id": "plain_shoes_stop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please install a calendar"
+                }
+            ]
+        }
+    ]
+}

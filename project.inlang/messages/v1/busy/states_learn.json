@@ -1,0 +1,356 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_no_user_invite_heading_org",
+        "library.inlang.paraglideJs": "email_no_user_invite_heading_org"
+    },
+    "id": "busy_states_learn",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تمت دعوتك للانضمام إلى منظمة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Byli jste pozváni do organizace "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie wurden eingeladen, einer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Organisation beizutreten"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You’ve been invited to join a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " organization"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lo han invitado a unirse a una organización en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous avez été invité à rejoindre une organisation "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הוזמנת להצטרף לארגון ב-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hai ricevuto un invito a entrare a far parte dell'organizzazione "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 組織に参加するよう招待されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 조직에 참여 초대를 받으셨습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U bent uitgenodigd om lid te worden van de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-organisatie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaproszono Cię do dołączenia do organizacji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Recebeu um convite para fazer parte de uma organização "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você recebeu um convite para ingressar em uma organização do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ați fost invitat să faceți parte dintr-o organizație "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вас пригласили в организацию "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozvani ste da se pridružite organizaciji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har blivit inbjuden att gå med i en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-organisation"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " grubuna katılmaya davet edildiniz"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вас запрошено приєднатися до організації в застосунку "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn đã được mời gia nhập tổ chức "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已被邀请加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 组织"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已獲邀加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 組織"
+                }
+            ]
+        }
+    ]
+}

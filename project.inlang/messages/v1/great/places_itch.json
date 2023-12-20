@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "password_reset_email_sent",
+        "library.inlang.paraglideJs": "password_reset_email_sent"
+    },
+    "id": "great_places_itch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يجب أن تتلقى رسالة إلكترونية حول إعادة التعيين على هذا البريد الإلكتروني إذا كان موجوداً في نظامنا."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokud tento e-mail v našem systému existuje, měli byste obdržet obnovovací e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wenn diese E-Mail-Adresse in unserem System existiert, sollten Sie eine Zurücksetzungs-E-Mail erhalten."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "If this email exists in our system, you should receive a reset email."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si este correo electrónico existe en nuestro sistema, debería recibir un correo electrónico de restablecimiento."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Email helbide hau gure sisteman baldin badago, berrezartzeko email mezu bat jaso behar zenuke."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si cette adresse e-mail existe dans notre système, vous devriez recevoir un e-mail de réinitialisation."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אם כתובת הדוא\"ל הזו קיימת במערכת שלנו, אמור להישלח אליך דוא\"ל לאיפוס."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se questo indirizzo e-mail esiste nel nostro sistema, riceverai un'e-mail per la reimpostazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "このメールがシステムに存在する場合は、リセットメールを受け取るはずです。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 이메일이 당사 시스템에 존재하는 경우, 재설정 이메일을 받게 됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Als dit e-mailadres in ons systeem bestaat, zou u een e-mail voor het opnieuw instellen van uw wachtwoord moeten ontvangen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeśli ten adres e-mail istnieje w naszym systemie, otrzymasz wiadomość e-mail do zresetowania hasła."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se este e-mail existir no nosso sistema, deverá receber uma mensagem de redefinição."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se estee-mail existir em nosso sistema, você receberá um e-mail de redefinição."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dacă această adresă există în sistemul nostru, ar trebui să primiți un e-mail de resetare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Если этот адрес электронной почты зарегистрирован в нашей системе, вы получите письмо с инструкциями для сброса пароля."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ako ovaj imejl postoji našem sistemu, trebalo bi da primite imejl za resetovanje."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om denna e-postadress finns i vårt system bör du få ett återställningsmeddelande."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu e-posta sistemimizde mevcutsa bir sıfırlama e-postası almanız gerekir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Якщо ця електронна адреса є в нашій системі, ви отримаєте електронний лист для скидання."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nếu email này tồn tại trong hệ thống của bạn, bạn nên nhận một email đặt lại."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果我们的系统中存在此邮箱，您应该会收到一封重置电子邮件。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "若我們的系統也登錄了此電子郵件地址，您應該就會收到重設電子郵件。"
+                }
+            ]
+        }
+    ]
+}

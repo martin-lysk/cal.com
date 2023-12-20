@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "delete_event_type_description",
+        "library.inlang.paraglideJs": "delete_event_type_description"
+    },
+    "id": "ripe_schools_smoke",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لن يتمكن أي شخص قمت بمشاركة الرابط معه الججز باستخدامه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Každý, komu jste tento odkaz nasdíleli, pomocí něj již nebude moci provádět rezervace."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jede Person, mit der Sie diesen Link geteilt haben, kann nicht mehr über den Link buchen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Anyone who you've shared this link with will no longer be able to book using it."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cualquier persona con la que haya compartido este enlace ya no podrá reservar con él."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Toute personne avec qui vous avez partagé ce lien ne pourra plus réserver avec."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כל מי ששיתפת איתו את הקישור הזה לא יוכל יותר להזמין באמצעותו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gli utenti con cui hai condiviso il link non saranno più in grado di usarlo per prenotare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "これまでにこのリンクを共有したことがあるユーザーは、このリンクを使用して予約することができなくなります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 링크를 공유한 회원이 더 이상 링크를 사용하여 예약할 수 없게 됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Iedereen met wie u deze link hebt gedeeld, kan niet meer boeken via deze link."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Osoby, którym udostępniono ten link, nie będą już mogły dokonać rezerwacji za jego pomocą."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Qualquer pessoa com quem tiver partilhado a ligação deixará de poder fazer reservas com a mesma."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este link não poderá mais ser usado para fazer reserva por qualquer pessoa com quem tenha sido compartilhado."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nicio persoană căreia i-ați transmis acest link nu va mai putea efectua rezervări prin intermediul lui."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пользователи, с которыми вы поделились этой ссылкой, больше не смогут оформлять бронирование с ее помощью."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Niko sa kime ste podelili link neće više moći da rezerviše pomoću njega."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alla som du delat den här länken med kan inte längre boka med den."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bağlantıyı paylaştığınız kullanıcıların hiçbiri artık rezervasyon yapmak için bu bağlantıyı kullanamayacak."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Користувачі, з якими ви поділилися цим посиланням, більше не зможуть скористатися ним, щоб створити бронювання."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đối với những người mà bạn chia sẻ liên kết này, họ sẽ không thể đặt lịch hẹn bằng liên kết đó được nữa."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您将此链接共享给的任何人都将无法再使用它进行预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "和您共用此連結的任何使用者都無法再使用此連結預約。"
+                }
+            ]
+        }
+    ]
+}

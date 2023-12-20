@@ -1,0 +1,484 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "error_with_status_code_occured",
+        "library.inlang.paraglideJs": "error_with_status_code_occured"
+    },
+    "id": "huge_keys_ring",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدث خطأ برمز الحالة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo k chybě se stavovým kódem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Der opstod en fejl med statuskoden "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ein Fehler mit dem Statuscode "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " ist aufgetreten."
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Παρουσιάστηκε ένα σφάλμα με κωδικό κατάστασης "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "An error with status code "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " occurred."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se produjo un error con el código de estado "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une erreur avec le code de statut "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " est survenue."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אירעה שגיאה עם קוד הסטטוס "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo je do pogreške sa statusnim kodom "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si è verificato un errore con il codice di stato "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ステータスコード "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " に関するエラーが発生しました。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "상태 코드가 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "인 오류가 발생했습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is een fout opgetreden met de code "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det oppstod en feil med statuskoden "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wystąpił błąd z kodem statusu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um erro com o código de estado "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um erro com o status code "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A apărut o eroare la codul de stare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Произошла ошибка с кодом состояния "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo je do greške sa kodom statusa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ett fel med statuskoden "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " inträffade."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " durum koduyla ilgili bir hata oluştu."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Сталася помилка з кодом стану: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã xảy ra lỗi với mã trạng thái "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "发生错误，状态码 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "發生代號是 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的錯誤。"
+                }
+            ]
+        }
+    ]
+}

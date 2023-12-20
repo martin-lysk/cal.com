@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_setup_duration_limits_error",
+        "library.inlang.paraglideJs": "event_setup_duration_limits_error"
+    },
+    "id": "all_hornets_swim",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يجب أن تكون حدود المدة بترتيب تصاعدي. [يوم، أسبوع، شهر، سنة]"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Limity doby trvání musí být seřazeny vzestupně. [den, týden, měsíc, rok]"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Die Zeitlimits müssen aufsteigend sortiert sein. [Tag, Woche, Monat, Jahr]"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Duration limits must be in ascending order. [day, week, month, year]"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Los límites de duración deben estar en orden ascendente. [día, semana, mes, año]"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les limites de durée doivent être dans l'ordre croissant. [jour, semaine, mois, année]"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מגבלות על משך חייבים להיות מוגדרים בסדר עולה. [יום, שבוע, חודש, שנה]"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "I limiti di durata devono essere specificati in ordine crescente [giorno, settimana, mese, anno]"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "期間の上限は昇順にする必要があります。[日、週、月、年]"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "기간 한도는 오름차순이어야 합니다. [일, 주, 월, 년]"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Duurlimieten moeten in oplopende volgorde zijn. [dag, week, maand, jaar]"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Limity czasu trwania muszą być podane w kolejności rosnącej. [dzień, tydzień, miesiąc, rok]"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Os limites de duração devem estar ordenados de forma ascendente. [dia, semana, mês, ano]"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Limites de duração devem estar em ordem crescente. [dia, semana, mês, ano,]"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Limitele de durată trebuie să fie în ordine ascendentă. [zi, săptămână, lună, an]"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Продолжительность бронирования должна указываться от меньшей единицы к большей [день, неделя, месяц, год]"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ograničenja trajanja moraju da budu u rastućem nizu. [dan, nedelja, mesec, godina]"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tidsgränserna måste vara i stigande ordning. [dag, vecka, månad, år]"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Süre limitleri artan sırada olmalıdır. [gün, hafta, ay, yıl]"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ліміти тривалості мають бути впорядковані за зростанням. [день, тиждень, місяць, рік]"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Giới hạn thời gian phải được đặt theo thứ tự tăng dần. [ngày, tuần, tháng, năm]"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "时长限制必须按升序排列。[日, 周, 月, 年]"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "時間長度限制必須以遞增順序填寫。[日、週、月、年]"
+                }
+            ]
+        }
+    ]
+}

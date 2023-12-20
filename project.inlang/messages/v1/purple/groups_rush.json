@@ -1,0 +1,460 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "broken_video_action",
+        "library.inlang.paraglideJs": "broken_video_action"
+    },
+    "id": "purple_groups_rush",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لم نتمكن من إضافة رابط <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> الاجتماع إلى الحدث المجدول. يرجى الاتصال بالمدعوين أو تحديث حدث التقويم الخاص بك لإضافة التفاصيل. يمكنك إما <3> تغيير موقعك في نوع الحدث </3> أو محاولة <5>إزالة التطبيق وتثبيته مرة أخرى.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nelze přidat odkaz na schůzku <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> k vaší plánované události. Kontaktujte pozvané nebo aktualizujte událost ve svém kalendáři a přidejte podrobnosti. Můžete buď <3>změnit místo u typu události</3>, nebo zkusit <5>aplikaci odstranit a znovu přidat.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi kunne ikke tilføje <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> mødelinket til din planlagte begivenhed. Kontakt dine inviterede eller opdater din kalenderbegivenhed for at tilføje detaljerne. Du kan enten <3> ændre din placering på begivenhedstypen </3> eller prøve <5>at fjerne og tilføje appen igen.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wir konnten den <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> Meeting-Link nicht zu Ihrem geplanten Ereignis hinzufügen. Kontaktieren Sie Ihre Eingeladenen oder aktualisieren Sie Ihr Kalenderereignis, um die Einzelheiten hinzuzufügen. Sie können entweder <3> Ihren Standort im Ereignistyp ändern</3> oder <5>die App entfernen und erneut hinzufügen.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We could not add the <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> meeting link to your scheduled event. Contact your invitees or update your calendar event to add the details. You can either <3> change your location on the event type </3> or try <5>removing and adding the app again.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No pudimos agregar el enlace de <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> a tu evento agendado. Contacta a tus invitados o actualiza tu calendario para agregar los detalles. Puedes <3>cambiar la ubicación de tu tipo de evento</3> o <5>remover la App y agregarla de nuevo.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nous n'avons pas pu ajouter le lien <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> à votre événement planifié. Contactez vos invités ou mettez à jour votre événement de calendrier pour ajouter les détails. Vous pouvez <3> changer le lieu sur le type d'événement</3> ou essayer <5>de supprimer et d'ajouter à nouveau l'application.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא יכולנו להוסיף את הקישור <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> פגישה שלך לארוע שתוזמן. צור קשר עם המוזמנים שלך או עדכן את הארוע בלוח השנה שלך כדי להוסיף את הפרטים. אתה יכול <3> לשנות את המיקום בסוג הארוע </3> או לנסות <5>להסיר ואז להוסיף את היישום מחדש.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Non è stato possibile aggiungere il link della riunione di <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> al tuo evento programmato. Contatta gli invitati o aggiorna l'evento sul tuo calendario per aggiungere i dettagli. È possibile <3> cambiare il luogo del tipo di evento </3> oppure provare a <5>rimuovere l'app e aggiungerla nuovamente.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "スケジュールされたイベントに<1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>ミーティングへのリンクを追加できませんでした。招待者に連絡するか、カレンダーのイベントを更新して詳細を追加してください。 <3>イベントタイプで場所を変更するか</3>、<5>アプリを削除して再度追加</5>してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약된 이벤트에 <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> 회의 링크를 추가할 수 없습니다. 초대받은 사람에게 연락하거나 캘린더 일정을 업데이트하여 세부 정보를 추가하세요. <3> 이벤트 유형에서 위치를 변경</3>하거나 <5>앱을 제거했다가 다시 추가</5>할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We konden de vergaderlink voor <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> niet aan uw geplande evenement toevoegen. Neem contact op met uw genodigden of werk uw agenda-evenement bij om de details toe te voegen. U kunt <3>uw locatie op het eventementtype wijzigen</3> of proberen <5>de app opnieuw toe te voegen.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi kunne ikke legge til <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> møte lenken til den planlagte hendelsen. Kontakt dine inviterte eller oppdater kalenderhendelsen din for å legge til detaljene. Du kan enten <3> endre sted for hendelsestypen </3> eller prøve å <5>fjerne og legge til appen på nytt.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Do zaplanowanego wydarzenia nie można dodać linku do spotkania <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. Skontaktuj się z zaproszonymi osobami lub zaktualizuj wydarzenie w kalendarzu, aby dodać szczegóły. Możesz albo <3>zmienić lokalizację w typie wydarzenia</3>, albo spróbować <5>usunąć aplikację i ponownie ją dodać</5>."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não foi possível adicionar a ligação da reunião em <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> no seu evento agendado. Contacte os seus convidados ou atualize o evento do calendário para adicionar detalhes. Pode <3> alterar a localização no seu tipo de evento</3> ou tentar <5>remover e adicionar de novo a aplicação.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não foi possível adicionar o link da reunião de <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> ao seu evento agendado. Entre em contato com seus convidados ou atualize o evento no seu calendário para acrescentar detalhes. Você poderá <3>alterar sua localização no tipo de evento</3> ou tentar <5>remover e adicionar o app novamente.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nu am reușit să adăugăm linkul pentru întâlnirea <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> la evenimentul programat. Contactați-vă invitații sau actualizați-vă evenimentul din calendar pentru a adăuga detalii. Puteți fie <3> să modificați locul pentru tipul de eveniment, </3> fie să încercați să <5>ștergeți și să adăugați din nou aplicația.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не удалось добавить в ваше запланированное событие ссылку на встречу на <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. Свяжитесь с участниками или обновите событие в календаре, добавив нужную информацию. Вы можете <3> изменить место проведения для типа события </3> или попробовать <5>удалить и снова добавить приложение.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nismo mogli da dodamo <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> vezu za sastanak vašem zakazanom događaju. Obratite se osobama koje su vas pozvale ili ažurirajte svoj kalendar događaja da dodate podatke. Možete da <3> promenite svoju lokaciju na tipu događaja </3> ili da pokušate da <5>uklonite i ponovo dodate aplikaciju.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det gick inte att lägga till möteslänken <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> i din planerade händelse. Kontakta personerna du bjudit in eller uppdatera din kalenderhändelse för att lägga till informationen. Du kan antingen <3>ändra din plats i händelsetypen </3> eller prova <5>att ta bort och lägga till appen igen.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Planlı etkinliğinize <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> toplantı bağlantısını ekleyemedik. Ayrıntıları eklemek için davetlilerinizle iletişime geçin veya takvim etkinliğinizi güncelleyin. <3>Etkinlik türündeki konumunuzu değiştirebilir</3> veya <5>uygulamayı kaldırıp yeniden eklemeyi</5> deneyebilirsiniz"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не вдалося додати посилання на нараду в розташуванні <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> у ваш запланований захід. Зв’яжіться із запрошеними користувачами або додайте відомості в захід у календарі. Ви можете або <3>змінити розташування в типі заходу</3> або спробувати <5>вилучити цей додаток і повернути його.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chúng tôi không thể thêm liên kết cuộc họp ở <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> vào sự kiện đã lên lịch của bạn. Hãy liên hệ người được mời hoặc cập nhật sự kiện lịch để thêm chi tiết. Bạn có thể <3>thay đổi vị trí của bạn trên loại sự kiện</3> hoặc thử <5>gỡ và cài lại ứng dụng.</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我们无法将 <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> 会议链接添加至您的预约活动。请联系您的受邀者或更新日历活动以添加详细信息。您可以<3>更改活动类型的位置</3>，或尝试<5>删除应用再重新添加应用</5>。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我們無法將 <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "location"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> 會議連結新增至您已預定的活動。請聯絡您的受邀者或更新行事曆活動來新增詳細資料。您可以<3>變更活動類型的地點</3>，或試著<5>移除應用程式，然後再次重新安裝。</5>"
+                }
+            ]
+        }
+    ]
+}

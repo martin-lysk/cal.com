@@ -1,0 +1,608 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "payment_app_commission",
+        "library.inlang.paraglideJs": "payment_app_commission"
+    },
+    "id": "tasty_toes_wait",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يتطلب دفع ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " عمولة لكل معاملة)"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vyžadujte platbu ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": " % + provizi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " za transakci)"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zahlung erfordern ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": " % + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " Provision pro Transaktion)"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Require payment ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " commission per transaction)"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Solicitar pago ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " comisión por transacción)"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Exiger un paiement ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": " % + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " de commission par transaction)"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "דרישת תשלום (‎"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "%‎ + ‏"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " עמלה על העסקה)"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Richiedi un pagamento ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " di commissione per transazione)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "お支払いが必要です (取引ごとに "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " の手数料が発生します)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "결제가 필요합니다(건당 수수료 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ")"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Betaling vereisen ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " commissie per transactie)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wymagaj płatności ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " prowizji od transakcji)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Exigir pagamento ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " de comissão por transação)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Solicitar pagamento ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " de comissão a cada transação)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Solicitare plată ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " comision per tranzacție)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Требовать оплату ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + комиссия за операцию "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ")"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zahtevajte plaćanje ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " provizija po transakciji)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kräv betalning ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": " % + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " provision per transaktion)"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ödeme talep edin (işlem başına %"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": " + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " komisyon)"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вимагати оплату в сумі ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + комісія за трансакцію в розмірі "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ")"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yêu cầu thanh toán ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " hoa hồng cho mỗi giao dịch)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "需要付款（"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + 每笔交易 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " 佣金）"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "需付款 ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "paymentFeePercentage"
+                },
+                {
+                    "type": "Text",
+                    "value": "% + "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "fee, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " 每筆交易佣金)"
+                }
+            ]
+        }
+    ]
+}

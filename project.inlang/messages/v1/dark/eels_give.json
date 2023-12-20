@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "date_overrides_info",
+        "library.inlang.paraglideJs": "date_overrides_info"
+    },
+    "id": "dark_eels_give",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يتم أرشفة التواريخ السابقة التي تم تجاوزها تلقائياً بعد مرور التاريخ"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Změna dnů se po uplynutí daného data automaticky archivuje."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Overskrivninger af dato arkiveres automatisk efter datoen er passeret"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Überschreibungsdaten werden automatisch nach Überschreitung des Datums archiviert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Date overrides are archived automatically after the date has passed"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Las anulaciones de fecha se archivan automáticamente después de que haya pasado la fecha"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les superpositions de dates sont archivées automatiquement une fois la date passée"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "תאריכים שסומנו למעקף מועברים לארכיון באופן אוטומטי לאחר שהתאריך חולף"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le configurazioni valide per date specifiche vengono archiviate automaticamente dopo tali date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "その日が過ぎると日付の上書きは自動的にアーカイブに保存されます"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "날짜 재정의는 날짜가 지나면 자동으로 보관됩니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Datumoverschrijvingen worden automatisch gearchiveerd nadat de datum is verstreken"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Datooverstyringer arkiveres automatisk etter at datoen har passert"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zastąpione daty są archiwizowane automatycznie po upływie danej daty"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Substituições de datas são arquivadas automaticamente após a data ter passado"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Substituições de data são realizadas automaticamente quando uma data tiver passado"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Datele suprascrise sunt arhivate automat după ce au trecut"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Переопределения дат автоматически архивируются по прошествии даты"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zamena datuma se automatski arhivira nakon što datum prođe"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Åsidosättningar av datum arkiveras automatiskt efter att datumet har passerat"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Üzerine yazılan tarihler, geçtikten sonra otomatik olarak arşivlenir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Перевизначені дати, які минають, автоматично архівуються"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tự động lưu trữ Ngày ghi đè khi nó đã qua"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "日期替代会在日期过后自动存档"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "在該日期過後自動封存日期覆寫"
+                }
+            ]
+        }
+    ]
+}

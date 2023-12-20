@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "instant_meeting_created",
+        "library.inlang.paraglideJs": "instant_meeting_created"
+    },
+    "id": "silly_sloths_post",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Instant Meeting Created"
+                }
+            ]
+        }
+    ]
+}

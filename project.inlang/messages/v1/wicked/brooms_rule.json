@@ -1,0 +1,412 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "organization_admin_invited_body",
+        "library.inlang.paraglideJs": "organization_admin_invited_body"
+    },
+    "id": "wicked_brooms_rule",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "انضم إلى فريقك في "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " وابدأ الانشغال بالاجتماعاتك، وليس بكيفية الإعداد لها!"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Připojte se k týmu organizace "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " a začněte se soustředit na samotné schůzky, ne na vytváření schůzek!"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Schließen Sie sich Ihrem Team bei "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " an und konzentrieren Sie sich auf Ihre Meetings, nicht auf das Planen von Meetings!"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Join your team at "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " and start focusing on meeting, not making meetings!"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Únase a su equipo en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " y comience a concentrarse en las reuniones, no en hacer reuniones."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rejoignez votre équipe à "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " et commencez à vous concentrer sur les rendez-vous, pas sur leur préparation !"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מצטרפים לצוות ב-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ומתחילים להתמקד בפגישות, ולא בפרטים הטכניים שלהן!"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unisciti al tuo team su "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", per concentrarti sulle riunioni e non sulla loro pianificazione!"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " のチームに参加し、ミーティングの手配ではなくミーティングそのものに集中しましょう！"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": "에서 팀에 합류하여 회의 준비보다 회의 자체에 집중하세요!"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Word lid van uw team bij "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " en begin met het richten op afspraken, niet op het maken van afspraken!"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dołącz do Twojego zespołu w organizacji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " i zacznij skupiać się na spotkaniu, zamiast na tworzeniu spotkań!"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Junte-se à sua equipa em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " e comece a concentrar-se nas reuniões, não em fazer reuniões!"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingresse na sua equipe em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " e comece a focar na reunião, não em fazer reuniões!"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Faceți parte din echipa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " și începeți să vă concentrați pe întâlniri, nu pe organizarea acestora!"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Присоединитесь к своей команде в организации "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " — и вы сможете сосредоточиться на самих встречах, а не на их планировании!"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pridružite se svom timu u organizaciji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " i usredsredite se na sastanak, a ne na kreiranje sastanaka!"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gå med i ditt team på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " och börja fokusera på att mötas istället för att skapa möten!"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibine katılın ve toplantıları planlamaya değil, toplantılarınıza odaklanın!"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Приєднайтеся до своєї команди в організації "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " і зосереджуйтеся на нарадах, а не на підготовці до них!"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gia nhập nhóm của bạn tại "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " và bắt đầu tập trung vào cuộc họp, chứ không còn lo tạo ra cuộc họp!"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "加入您在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的团队，开始专注于会议本身，而不是会议的安排上！"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "加入您在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的團隊，開始專注於會議本身，不必費心於會議的前置作業！"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "check_here",
+        "library.inlang.paraglideJs": "check_here"
+    },
+    "id": "grumpy_books_roll",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Check here"
+                }
+            ]
+        }
+    ]
+}

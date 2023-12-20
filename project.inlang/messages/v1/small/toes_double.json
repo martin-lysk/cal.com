@@ -1,0 +1,468 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "user_from_team",
+        "library.inlang.paraglideJs": "user_from_team"
+    },
+    "id": "small_toes_double",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " من "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " fra "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " from "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " מצוות "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": "의 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " fra "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " из "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " iz "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " från "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibinden "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " із команди «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " từ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "来自 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                }
+            ]
+        }
+    ]
+}

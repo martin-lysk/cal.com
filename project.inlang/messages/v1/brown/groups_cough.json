@@ -1,0 +1,432 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "you_have_been_invited",
+        "library.inlang.paraglideJs": "you_have_been_invited"
+    },
+    "id": "brown_groups_cough",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم دعوتك للانضمام إلى الفريق "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Byli jste pozváni do týmu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du er blevet inviteret til at deltage i teamet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie wurden eingeladen, dem Team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " beizutreten"
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Έχετε προσκληθεί να γίνετε μέλος της ομάδας "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You have been invited to join the team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Has sido invitado a unirte al equipo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " taldera batzeko gonbidatua izan zara"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous avez été invité à rejoindre l'équipe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הוזמנת להצטרף לצוות "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozvani ste da se pridružite timu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kamu telah diundang untuk bergabung ke tim "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sei stato invitato ad unirti al team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "チーム "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " への参加を招待されました。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 팀에 초대되셨습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U bent uitgenodigd om lid te worden van het team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har blitt invitert til å bli med i teamet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zostałeś zaproszony do dołączenia do zespołu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Recebeu um convite para juntar-se à equipa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você recebeu um convite para se juntar ao time "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ați fost invitat să vă alăturați echipei "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вас пригласили присоединиться к команде "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozvani ste da se pridružite timu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har blivit inbjuden till teamet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibine katılmaya davet edildiniz"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вас запрошено приєднатися до команди «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn đã được mời để gia nhập nhóm "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已被邀请加入团队 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "收到加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 團隊的邀請"
+                }
+            ]
+        }
+    ]
+}

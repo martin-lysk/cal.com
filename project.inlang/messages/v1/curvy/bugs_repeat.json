@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "plan_upgrade",
+        "library.inlang.paraglideJs": "plan_upgrade"
+    },
+    "id": "curvy_bugs_repeat",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تحتاج إلى ترقية خطتك للحصول على أكثر من نوع حدث نشط."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Je potřeba přejít na vyšší tarif, abyste mohli mít víc jak jeden aktivní typ události."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du skal opgradere dit abonnement for at have mere end én aktiv begivenhedstype."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie müssen Ihr Paket upgraden, um mehr als einen aktiven Ereignistyp zu haben."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You need to upgrade your plan to have more than one active event type."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Necesitas actualizar tu plan para tener más de un tipo de evento activo."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous devez mettre à niveau votre plan pour avoir plus d'un type d'événement actif."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כדי שיהיה לך יותר מסוג אירוע פעיל אחד, עליך לשדרג את החבילה."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "È necessario aggiornare il piano per avere più di un tipo di evento attivo."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "複数の有効なイベントタイプを持つには、プランをアップグレードする必要があります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "활성 이벤트 타입이 두 개 이상 있도록 요금제를 업그레이드해야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U moet uw abonnement upgraden om meer dan één actief afspraaktype te hebben."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du må oppgradere planen din for å ha mer enn én aktiv hendelses-type."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Musisz ulepszyć swój plan, aby mieć więcej niż jeden aktywny typ zdarzeń."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem de atualizar o seu plano para ter mais de um tipo de evento ativo."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você precisa fazer um upgrade do seu plano para ter mais de um tipo de evento ativo."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trebuie actualizat planul pentru a avea mai mult de un tip de eveniment activ."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Необходимо обновить тарифный план, чтобы иметь более одного активного типа события."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Morate da se pretplatite da bi imali više od jednog tipa događaja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du måste uppgradera din plan för att ha mer än en aktiv händelsetyp."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Birden fazla aktif etkinlik türüne sahip olmak için planınızı yükseltmeniz gerekiyor."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Щоб мати кілька активних типів заходів, потрібно перейти на план вищого рівня."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn cần nâng cấp gói của mình để có nhiều loại sự kiện đang hoạt động."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您需要升级您的套餐才能有多个活动类型。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "要升級方案，才可以有 1 種以上活動類型。"
+                }
+            ]
+        }
+    ]
+}

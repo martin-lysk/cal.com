@@ -1,0 +1,366 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "app_is_connected",
+        "library.inlang.paraglideJs": "app_is_connected"
+    },
+    "id": "crazy_berries_serve",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " متصل"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplikace "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " je připojena"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ist verbunden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " is connected"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " está conectada"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " est connectée"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " מחובר"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " è connesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " が接続されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 연결됨"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " is gekoppeld"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplikacja "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " jest podłączona"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A aplicação "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " está associada"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " se conectou"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplicația "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " este conectată"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Приложение "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " подключено"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " je povezana"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " är ansluten"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " இணைக்கப்பட்டுள்ளது"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " bağlandı"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " підключено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã được kết nối"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已连接"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已連結 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        }
+    ]
+}

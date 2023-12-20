@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "load_inline_content",
+        "library.inlang.paraglideJs": "load_inline_content"
+    },
+    "id": "puny_regions_burn",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تحميل نوع الحدث مع محتوى آخر من موقعكبشكل مباشر."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Načte váš typ události přímo do řádků s ostatním obsahem webu."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Laden Sie Ihren Termintyp direkt inline mit Ihren anderen Website-Inhalten."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Loads your event type directly inline with your other website content."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Carga su tipo de evento directamente en línea con otro contenido de su sitio web."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Charge votre type d'événement directement dans le contenu de votre site web."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "סוג האירוע נטען ישירות בתוך שאר תוכן האתר שלך."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Carica il tuo tipo di evento direttamente nella pagina con gli altri contenuti del sito web."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "イベントの種類を他のウェブサイト内コンテンツにインラインで直接読み込みます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "다른 웹 사이트 콘텐츠와 함께 이벤트 유형을 인라인으로 직접 로드합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Laadt uw gebeurtenistype rechtstreeks inline met uw andere websitecontent."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wczytuje typ wydarzenia bezpośrednio w treści Twojej strony internetowej."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Carrega o seu tipo de evento diretamente e em linha, em conjunto com os conteúdos do seu outro site."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Carrega seu tipo de evento embutido diretamente no conteúdo restante do site."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Încarcă tipul dvs. de eveniment direct în linie, cu restul conținutului de pe site-ul dvs."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отображение события вместе с другим содержимым сайта."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Direktno učitava vaš tip događaja neposredno sa vašim ostalim sadržajem na veb sajtu."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Laddar din händelsetyp direkt infogad med ditt övriga webbplatsinnehåll."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etkinlik türünüzü doğrudan diğer web sitesi içeriğinizle birlikte yükler."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Завантажує ваш тип заходу, безпосередньо вбудовуючи його у ваш інший контент на вебсайті."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tải trực tiếp loại sự kiện của bạn ở dạng nội tuyến với nội dung khác trên website của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "将您的活动类型直接与您的其他网站内容内联加载。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "直接載入您的活動類型及內嵌在其他網站的內容。"
+                }
+            ]
+        }
+    ]
+}

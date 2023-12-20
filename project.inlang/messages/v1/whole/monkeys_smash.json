@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "cannot_be_used_with_paid_event_types",
+        "library.inlang.paraglideJs": "cannot_be_used_with_paid_event_types"
+    },
+    "id": "whole_monkeys_smash",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "It cannot be used with paid event types"
+                }
+            ]
+        }
+    ]
+}

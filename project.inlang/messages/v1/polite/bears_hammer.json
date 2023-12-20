@@ -1,0 +1,900 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_user_invite_subheading_org",
+        "library.inlang.paraglideJs": "email_user_invite_subheading_org"
+    },
+    "id": "polite_bears_hammer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لقد دعاك "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " للانضمام إلى فريق "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " التابع لمنظمتهم على "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". إن "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " هو برنامج جدولة للفعاليات يمنحك القدرة أنت ومؤسستك على جدولة الاجتماعات من دون الحاجة إلى التراسل الكثيف عبر البريد الإلكتروني."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uživatel "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " vás pozval, abyste se připojili k týmu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " jeho organizace v aplikaci "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " je plánovač událostí, který vám a vaší organizaci umožňuje plánovat schůzky bez e-mailového pingpongu."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " hat Sie eingeladen, ihrer Organisation „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "“ in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " beizutreten. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ist der Terminplaner, der es Ihnen und Ihrer Organisation ermöglicht, Meetings ohne ständiges hin und her zu planen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " has invited you to join their organization `"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "` on "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " is the event-juggling scheduler that enables you and your organization to schedule meetings without the email tennis."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " lo ha invitado a unirse a su organización \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " es el programador de eventos que le permite a usted y a su organización programar reuniones sin el tenis del correo electrónico."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " vous a invité à rejoindre son organisation « "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " » sur "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " est le planificateur d'événements qui vous permet à vous et à votre organisation d'organiser des rendez-vous sans échanges d'e-mails."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " הזמין/ה אותך להצטרף לארגון שלו/ה בשם ״"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "״ באפליקציה "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". אפליקציית "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " היא כלי לקביעת מועדים לאירועים שמאפשר לך ולארגון שלך לתזמן פגישות בלי הצורך לנהל התכתבויות ארוכות בדוא״ל."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " ti ha invitato a unirti alla sua organizzazione `"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "` su "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " è uno strumento di pianificazione di eventi che permette a te e alla tua organizzazione di pianificare le riunioni senza scambiare decine di e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " は "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " の組織の「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "」に参加するようあなたを招待しました。"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " はイベント調整スケジューラーで、組織内で延々とメールのやりとりをすることなく、ミーティングのスケジュールを設定できます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " 님이 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "에서 자신의 조직의 `"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "`에 귀하의 참여를 초대했습니다. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "은(는) 사용자와 조직이 이메일을 주고 받지 않고도 회의 일정을 잡을 수 있게 해주는 이벤트 조정 스케줄러입니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " heeft u uitgenodigd om lid te worden van zijn organisatie '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "' op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " is de gebeurtenissenplanner die u en uw organisatie in staat stelt afspraken te plannen zonder heen en weer te e-mailen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " zaprasza Cię do dołączenia do organizacji „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "” w aplikacji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Aplikacja "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " to terminarz do planowania wydarzeń, który umożliwi Tobie i Twojej organizacji planowanie spotkań bez czasochłonnej wymiany wiadomości e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Recebeu um convite de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " para fazer parte de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " da sua organização em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " é a solução de agendamento de eventos que lhe permite a si e à sua organização agendar reuniões sem o pingue-pongue de e-mails."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você recebeu um convite de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " para ingressar na organização \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " é um agendador que concilia eventos e permite que sua organização agende reuniões sem precisar trocar e-mails."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " v-a invitat să faceți parte din organizația sa „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "” de pe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " este un instrument de planificare a evenimentelor, prin care dvs. și organizația dvs. puteți să programați ședințe fără a face ping-pong prin e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " пригласил(а) вас в организацию `"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "` в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " — это гибкий планировщик событий, с помощью которого вы и ваша организация можете планировать встречи без утомительной переписки по электронной почте."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " vas je pozvao da se pridružite njihovoj organizaciji „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "” na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " je planer za zakazivanje događaja koji omogućava vama i vašoj organizaciji da zakažete sastanke bez dopisivanja imejlom."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " har bjudit in dig att gå med i deras organisation \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " är schemaläggaren som gör det möjligt för dig och din organisation att schemalägga möten utan e-posttennis."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": ", sizi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " uygulamasındaki `"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "` grubuna katılmaya davet etti. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", size ve grubunuza e-posta iletişimine ihtiyaç duymadan toplantı planlama yapma olanağı sağlayan bir etkinlik planlayıcıdır."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " запрошує вас приєднатися до організації «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» в застосунку "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " — планувальник подій, завдяки якому ви й ваша організація можете планувати наради без довгого листування."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã mời bạn gia nhập tổ chức '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "' của họ trên "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " là công cụ lên lịch sắp xếp sự kiện cho phép bạn và tổ chức của bạn lên lịch các cuộc gặp mà không cần trao đổi email nhiều."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已邀请您加入他们在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 上的组织“"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "”。"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 是一个活动日程安排程序，让您和您的组织无需通过电子邮件沟通即可安排会议。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "invitedBy"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已邀請您加入對方在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 上的「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "」團隊。"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 為一款活動多功能排程工具，可讓您和組織無須透過繁複的電子郵件往來，就能輕鬆預定會議。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "or_continue_with",
+        "library.inlang.paraglideJs": "or_continue_with"
+    },
+    "id": "new_rabbits_sip",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Or continue with"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ou continuez avec"
+                }
+            ]
+        }
+    ]
+}

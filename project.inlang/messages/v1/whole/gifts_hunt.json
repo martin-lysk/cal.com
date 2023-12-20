@@ -1,0 +1,656 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "requires_confirmation_threshold",
+        "library.inlang.paraglideJs": "requires_confirmation_threshold"
+    },
+    "id": "whole_gifts_hunt",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يتطلب تأكيد إذا تم حجزه بإشعار أقل من "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) "
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokud je rezervace provedena s předstihem < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit), je nutné potvrzení"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kræver bekræftelse hvis booket med < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) meddelelse"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Erfordert eine Bestätigung bei Buchung mit < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) Vorlauf"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requires confirmation if booked with < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) notice"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requiere confirmación si se reservó con < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) de aviso"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une confirmation est requise si réservé avec un préavis de moins de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מחייב אישור אם ההזמנה בוצעה פחות מ-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) מראש"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Richiede conferma se si prenota con un preavviso di < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "< "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) の通知で予約した場合には確認が必要です"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "< "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) 알림으로 예약한 경우 확인이 필요합니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vereist bevestiging indien geboekt met < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) kennisgeving"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Krever bekreftelse hvis booket med < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) varsel"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wymaga potwierdzenia w przypadku rezerwacji z wyprzedzeniem < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requer confirmação se reservado com um aviso prévio inferior a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requer confirmação caso a reserva seja feita com menos de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) de antecedência"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Necesită confirmare dacă este rezervat cu aviz de < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Требуется подтверждение, если бронирование оформляется с уведомлением < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zahteva potvrdu ako je rezervisano sa rokom < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": "$t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kräver bekräftelse om bokad med < "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) förvarning"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) bildiriminden daha az süre ile rezervasyon yapıldığında onay gerekir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вимагати підтвердження, якщо бронювання створено менше ніж за "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) до заходу"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cần xác nhận nếu đặt hẹn với thông báo trước chưa đầy "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果预约通知提前时间少于 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": "$t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)，则需要确认"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "預約的提前通知時間短於 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "time"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit) 時，就需要確認"
+                }
+            ]
+        }
+    ]
+}

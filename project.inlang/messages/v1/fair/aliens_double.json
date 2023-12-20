@@ -1,0 +1,516 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "complete_your_booking_subject",
+        "library.inlang.paraglideJs": "complete_your_booking_subject"
+    },
+    "id": "fair_aliens_double",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أكمل الحجز: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " في "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dokončete svou rezervaci: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " dne "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Schließen Sie Ihre Buchung ab: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " am "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Complete your booking: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " on "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Complete su reserva: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " el "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Terminez votre réservation : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " le "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש להשלים את ההזמנה: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " ב-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Completa la prenotazione: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " del "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "次の予約を完了する: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약 완료: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 날짜 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voltooi uw boeking: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ukończ rezerwację: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " dnia "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Concluir a sua reserva: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Conclua sua reserva: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " à(s) "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Finalizați rezervarea: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ", pe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Завершите бронирование: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Završite svoje zakazivanje: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " dana "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Slutför din bokning: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyonunuzu tamamlayın: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Завершіть бронювання: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " від "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hoàn thành lịch hẹn của bạn: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " vào "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "完成您的预约: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "完成您的預約："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,944 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "confirmed_event_type_subject",
+        "library.inlang.paraglideJs": "confirmed_event_type_subject"
+    },
+    "id": "open_houses_punch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم التأكيد: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " مع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " في "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ca",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirmat: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " amb "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " el "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Potvrzeno: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " s "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " během "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bekræftet: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bestätigt: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " mit "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " am "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Επιβεβαίωση: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " με "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " στις "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirmed: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " with "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " at "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirma: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Baieztatua: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "(r)ekin "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)an"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirmé : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " avec "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " le "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אושר: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " עם "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " בתאריך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Potvrđeno: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " u "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Terkonfirmasi: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " dengan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " pada "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confermato: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " il "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "確認済: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " との "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "확인됨: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " 의 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bevestigd: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " met "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bekreftet: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " kl. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Potwierdzono: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " w "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirmado: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirmado: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confirmat: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " cu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " pe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Подтверждено: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " с "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Potvrdjeno: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " datuma "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bekräftad: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " vid "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "உறுதிப்படுத்தப்பட்டது: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " அன்று "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " உடன் "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Onaylandı: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarihinde "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " ile "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Підтверджено: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "», "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã chấp nhận: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " với "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " tại "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已确认: 和 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " 在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已確認："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 與 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        }
+    ]
+}

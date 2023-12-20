@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "bookerlayout_user_settings_description",
+        "library.inlang.paraglideJs": "bookerlayout_user_settings_description"
+    },
+    "id": "free_hornets_cheer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يمكنك تحديد خيارات متعددة ويمكن لمن يقومون بالحجز لديك تبديل طرق العرض. يمكن تجاوز هذا على أساس كل حدث."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Můžete si jich vybrat více a vaši rezervující si mohou zobrazení přepínat. Lze nadefinovat pro každou událost zvlášť."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie können mehrere auswählen und Bucher können anschließend die Ansicht wechseln. Dies kann pro Termin überschrieben werden."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You can select multiple and bookers can switch views. This can be overridden on a per event basis."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puede seleccionar varios y quienes le reservan pueden cambiar de vista. Esto se puede anular por evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous pouvez en sélectionner plusieurs, les utilisateurs peuvent basculer entre les vues. Cela peut être remplacé individuellement pour événement."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אפשר לבחור אפשרויות תצוגה מרובות והמזמינים יוכלו להחליף ביניהן. ניתן לעקוף זאת עבור כל אירוע נפרד."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puoi selezionarne diverse e le persone che prenotano possono cambiare visualizzazione. È possibile definire impostazioni specifiche per ciascun evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "複数のものを選択することができ、予約者は表示を切り替えることができます。これはイベントごとに上書きが可能です。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "여러 개를 선택하고 예약자가 보기를 전환할 수 있습니다. 이벤트별로 재정의할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U kunt er meerdere selecteren en boekers kunnen van weergave wisselen. Dit kan per gebeurtenis worden aangepast."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Możesz wybrać wiele układów, a osoby rezerwujące mogą zmieniać widoki. To ustawienie można zastąpić w poszczególnych wydarzeniach."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pode selecionar várias e os clientes podem alternar entre vistas. Isto pode ser sobreposto para cada evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você pode selecionar várias opções, e os reservantes podem alternar entre as visualizações. Pode ser sobrescrito a cada evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puteți selecta mai multe vizualizări, iar persoanele care fac rezervări cu dvs. le pot alterna. Această setare poate fi suprascrisă în funcție de eveniment."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы можете выбрать несколько представлений, чтобы пользователи могли переключаться между ними при бронировании. Эту настройку можно переопределять для отдельных событий."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Možete da izaberete više njih, a učesnici mogu da menjaju prikaz. Ovo se može zameniti za svaki događaj."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du kan välja flera och bokare kan byta vy. Detta kan åsidosättas för varje enskild händelse."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Birden fazla seçim yapabilirsiniz ve rezervasyon yaptıran kullanıcılar görünümler arasında geçiş yapabilir. Bu seçenek, her etkinlik için geçersiz kılınabilir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Виберіть кілька макетів, і користувачі, які здійснюють бронювання, зможуть перемикатися між ними. Цей параметр можна змінити для кожного заходу."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có thể chọn nhiều dạng và người đặt lịch hẹn có thể chuyển đổi qua lại các giao diện. Dạng này có thể được thay thế tuỳ theo loại sự kiện."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您可以选择多个布局，这样预约者可以切换视图。可针对每个事件进行替换。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您可以選取多個版面，以便預約者切換檢視。您可根據不同活動來覆寫此設定。"
+                }
+            ]
+        }
+    ]
+}

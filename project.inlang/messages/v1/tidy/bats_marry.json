@@ -1,0 +1,424 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "hi_user_name",
+        "library.inlang.paraglideJs": "hi_user_name"
+    },
+    "id": "tidy_bats_marry",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "مرحبا "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hezký den, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hej "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hallo, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hola "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kaixo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bonjour "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "שלום "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozdrav "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "hu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Szia "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ciao "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "こんにちは、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " さん"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "안녕하세요 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hallo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hei "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cześć "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Olá "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Olá "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Salut "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Привет "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zdravo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hej "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "வணக்கம் "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Merhaba "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Привіт, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "!"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Xin chào "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您好 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "哈囉 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        }
+    ]
+}

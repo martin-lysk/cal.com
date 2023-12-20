@@ -1,0 +1,778 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "new_seat_subject",
+        "library.inlang.paraglideJs": "new_seat_subject"
+    },
+    "id": "long_mugs_clean",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حضور جديد "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " لـ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " في "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nový účastník "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " události "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " dne "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ny Deltager "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Neuer Teilnehmer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " beim "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " am "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "New Attendee "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " on "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " at "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nuevo asistente "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " el "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " parte-hartzaile berria "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)n "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)an"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nouveau participant : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " pour "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " le "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "משתתף/ת חדש/ה "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " ב"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " בתאריך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nuovo partecipante "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " il "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " への新規参加者 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "신규 참석자 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": "님이 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 참석"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nieuwe deelnemer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " om "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ny Deltaker "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " kl. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nowy uczestnik ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": ") wydarzenia "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " odbywającego się "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Novo participante "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Novo participante "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " no "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Participant nou, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": ", la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " de pe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": ": новый участник "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Novi učesnik "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " dana "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ny deltagare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarihindeki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinliği için Yeni Katılımcı ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": ")"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Новий учасник: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " – "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Người tham gia mới tên "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                },
+                {
+                    "type": "Text",
+                    "value": " ở "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " vào "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 有新参与者 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 有新與會者 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        }
+    ]
+}

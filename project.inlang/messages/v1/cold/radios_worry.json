@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "managed_event_dialog_clarification",
+        "library.inlang.paraglideJs": "managed_event_dialog_clarification"
+    },
+    "id": "cold_radios_worry",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إذا اخترت استبداله، فسنخطرهم بذلك. ارجع وقم بإزالتهم إذا كنت لا تريد استبداله."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokud se rozhodnete ji nahradit, pošleme jim upozornění. Pokud ji nechcete přepsat, vraťte se a odstraňte ji."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wenn Sie die URL ersetzen, werden wir sie benachrichtigen. Gehen Sie zurück und entfernen Sie sie, wenn Sie sie nicht überschreiben möchten."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "If you choose to replace it, we will notify them. Go back and remove them if you don't want to overwrite it."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si elige reemplazarlo, se lo notificaremos. Regrese y elimínelos si no desea sobrescribirlo."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si vous choisissez de le remplacer, nous les en informerons. Revenez en arrière et supprimez-les si vous ne souhaitez pas l'écraser."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אם תבחר/י להחליף את כתובת ה-URL, אנו נודיע על כך לחברים. אם אינך רוצה להחליף אותה, חזור/י והסר/י את החברים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se decidi di sostituirlo, i membri ne saranno avvisati. Torna indietro e rimuovili se non desideri sovrascriverlo."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "置き換えを選択すると、通知が送られます。上書きしたくない場合には、戻って削除してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL 바꾸기를 선택하면 회원에게 알려드립니다. 덮어쓰지 않으려면 돌아가서 제거하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Als u ervoor kiest om de URL te vervangen, informeren wij de leden daarover. Ga terug en verwijder ze als u de URL niet wilt overschrijven."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeśli zdecydujesz się go zastąpić, powiadomimy te osoby. Wróć i usuń je, jeśli nie chcesz zastępować adresu."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se optar pela substituição, iremos notificá-los. Retroceda e remova-os se não quiser substituir."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se você escolher substituir, serão enviadas notificações. Volte e remova caso não queira sobrescrever."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Îi vom anunța dacă alegeți să îl înlocuiți. Reveniți și ștergeți-i dacă nu doriți să îl suprascrieți."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "В случае замены мы уведомим пользователей. Если вы не хотите выполнять перезапись, вернитесь назад и удалите типы событий."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ako izaberete da ga zamenite, obavestićemo ih. Vratite se i uklonite ih ako ne želite da zamenite postojeće."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi meddelar dem om du byter ut den. Gå tillbaka och ta bort dem om du inte vill skriva över den."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Değiştirmeyi seçmeniz durumunda onları bilgilendiririz. Üzerine yazmak istemiyorsanız geri dönerek onları kaldırın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Якщо ви захочете замінити її, ми повідомимо учасників. Поверніться і вилучіть їх, замість того щоб перезаписувати."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nếu bạn chọn phương án thay thế nó, chúng tôi sẽ thông báo cho họ biết. Hãy quay lại và xóa bỏ họ nếu bạn không muốn ghi đè nó."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果您选择将其替换，我们会通知他们。如果您不想将其覆盖，请返回并移除。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果您選擇取代，我們會通知他們；如果不想覆寫既有網址，請返回並移除。"
+                }
+            ]
+        }
+    ]
+}

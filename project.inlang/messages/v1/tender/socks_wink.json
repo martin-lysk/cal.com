@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "troubleshooter_tooltip",
+        "library.inlang.paraglideJs": "troubleshooter_tooltip"
+    },
+    "id": "tender_socks_wink",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Open the troubleshooter and figure out what is wrong with your schedule"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ouvrez l'outil de dépannage et déterminez ce qui ne va pas avec votre planning"
+                }
+            ]
+        }
+    ]
+}

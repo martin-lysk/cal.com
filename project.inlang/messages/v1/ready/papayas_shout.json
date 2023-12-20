@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "problem_registering_domain",
+        "library.inlang.paraglideJs": "problem_registering_domain"
+    },
+    "id": "ready_papayas_shout",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدثت مشكلة في تسجيل المجال الفرعي، يُرجى المحاولة لاحقاً أو الاتصال بالمشرف"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při registraci subdomény došlo k problému, zkuste to prosím znovu nebo kontaktujte správce"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Es gab ein Problem bei der Registrierung der Subdomain, bitte versuchen Sie es erneut oder kontaktieren Sie einen Administrator"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "There was a problem with registering the subdomain, please try again or contact an administrator"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hubo un problema con el registro del subdominio, intente nuevamente o comuníquese con un administrador"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un problème est survenu lors de l'enregistrement du sous-domaine, veuillez réessayer ou contacter un administrateur"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הייתה בעיה ברישום תת-הדומיין; אפשר לנסות שוב או לפנות למנהל/ת מערכת"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si è verificato un problema durante la registrazione del sottodominio, riprova o contatta un amministratore"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "サブドメインの登録時に問題が発生しました。もう一度お試しいただくか、管理者までお問い合せください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "하위 도메인 등록에 문제가 있습니다. 다시 시도하거나 관리자에게 문의하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is een probleem opgetreden bij het registreren van het subdomein. Probeer het opnieuw of neem contact op met een beheerder"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wystąpił problem z zarejestrowaniem subdomeny, spróbuj ponownie lub skontaktuj się z administratorem"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Houve um problema ao registar o subdomínio. Tente novamente ou contacte um administrador"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Houve um problema ao registrar o subdomínio, tente novamente ou fale com o administrador"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A survenit o problemă la înregistrarea subdomeniului. Încercați din nou sau contactați un administrator"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "При регистрации поддомена возникла проблема. Попробуйте еще раз или свяжитесь с администратором"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Postoji problem sa registracijom poddomena, pokušajte ponovo ili se obratite administratoru"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ett problem inträffade när underdomänen registrerades, försök igen eller kontakta en administratör"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alt alan adı kaydıyla ilgili bir sorun oluştu, lütfen tekrar deneyin veya bir yöneticiyle iletişime geçin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Сталася помилка під час реєстрації піддомену. Повторіть спробу або зверніться до адміністратора."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có vấn đề với việc đăng ký tên miền phụ, vui lòng thử lại hoặc liên lạc với quản trị viên"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "注册子域时出现问题，请重试或与管理员联系"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "註冊子網域時發生問題，請再試一次或聯絡管理員"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "org_insights_description",
+        "library.inlang.paraglideJs": "org_insights_description"
+    },
+    "id": "smart_adults_attack",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Understand how your entire organization is spending time"
+                }
+            ]
+        }
+    ]
+}

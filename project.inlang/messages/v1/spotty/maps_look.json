@@ -1,0 +1,372 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "cal_provide_teams_meeting_url",
+        "library.inlang.paraglideJs": "cal_provide_teams_meeting_url"
+    },
+    "id": "spotty_maps_look",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيوفر "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " عنوان URL لاجتماعات MS Teams. ملاحظة: يجب أن يكون لديك حساب عمل أو حساب مدرسة"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " poskytne URL schůzky aplikace MS Teams. POZNÁMKA: MUSÍ SE JEDNAT O PRACOVNÍ NEBO ŠKOLNÍ ÚČET"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vil levere en MS Teams møde URL. BEMÆRK: SKAL HA EN ARBEJDS- ELLER SKOLE KONTO"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " wird eine MS Teams Meeting-URL zur Verfügung stellen. HINWEIS: SIE BRAUCHEN EIN BERUFS- ODER SCHULKONTO"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " will provide a MS Teams meeting URL. NOTE: MUST HAVE A WORK OR SCHOOL ACCOUNT"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " proporcionará una URL de reunión de MS Teams. NOTA: DEBE TENER UNA CUENTA DE TRABAJO O INSTITUCIÓN"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " fournira un lien de rendez-vous MS Teams. NOTE : IL FAUT AVOIR UN COMPTE PROFESSIONNEL OU SCOLAIRE"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " יספק כתובת קישור לפגישת MS Teams. הערה: חייב להיות חשבון של מקום עבודה או בית ספר"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " fornirà un URL per la riunione MS Teams. NOTA: È NECESSARIO POSSEDERE UN ACCOUNT LAVORATIVO O SCOLASTICO"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " は、MS Teams のミーティングの URL を提供する。注: 職場や学校のアカウントが必要です。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "은 MS Teams 회의 URL을 제공합니다. 참고: 직장 또는 학교 계정이 있어야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " geeft een vergaderings-URL voor MS Teams. OPMERKING: MOET EEN WERK- OF SCHOOLACCOUNT HEBBEN"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vil angi en URL for MS Teams møte. MERK: MÅ HA EN ARBEIDS- ELLER SKOLEKONTO"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zapewni adres URL do spotkania na MS Teams. UWAGA: MOŻE POBIERAĆ RACHUNEK PRACY LUB SCHOOLU"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " fornecerá um URL de reunião para MS Teams. ATENÇÃO: TEM DE TER UMA CONTA DE TRABALHO OU ESCOLAR"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " enviará um URL da reunião para o MS Teams. OBSERVAÇÃO: É PRECISO TER UMA CONTA ESCOLAR OU CORPORATIVA"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " va pune la dispoziție un URL pentru ședința prin MS Teams. OBSERVAȚIE: TREBUIE SĂ AVEȚI UN CONT PROFESIONAL SAU ȘCOLAR"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " предоставит URL-адрес встречи в MS Teams. ПРИМЕЧАНИЕ: У ВАС ДОЛЖЕН БЫТЬ КОРПОРАТИВНЫЙ ИЛИ СТУДЕНЧЕСКИЙ АККАУНТ"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " će dostaviti URL adresu MS Teams sastanka. NAPOMENA: NEOPHODAN JE POSLOVNI ILI ŠKOLSKI NALOG"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " kommer att tillhandahålla en mötes-URL för MS Teams. OBS! MÅSTE HA ETT ARBETS- ELLER SKOLKONTO"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", bir MS Teams toplantı URL'si sağlayacaktır. NOT: İŞ VEYA OKUL HESABINIZIN OLMASI GEREKİR"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " надасть URL-адресу наради в MS Teams. ПРИМІТКА: ПОТРІБЕН РОБОЧИЙ АБО НАВЧАЛЬНИЙ ОБЛІКОВИЙ ЗАПИС"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sẽ cung cấp URL cuộc họp MS Teams. LƯU Ý: PHẢI CÓ TÀI KHOẢN CÔNG VIỆC HOẶC TRƯỜNG HỌC"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 将提供 MS Teams 会议 URL。注意: 须拥有工作或学校帐户"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "  會提供 Microsoft Teams 會議網址。提醒您：需擁有工作或學校帳號"
+                }
+            ]
+        }
+    ]
+}

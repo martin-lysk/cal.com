@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "dns_configured",
+        "library.inlang.paraglideJs": "dns_configured"
+    },
+    "id": "beige_falcons_hunt",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "DNS Configured"
+                }
+            ]
+        }
+    ]
+}

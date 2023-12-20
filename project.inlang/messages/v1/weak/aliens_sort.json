@@ -1,0 +1,270 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "select_calendars",
+        "library.inlang.paraglideJs": "select_calendars"
+    },
+    "id": "weak_aliens_sort",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدد الرزنامات التي تريد التحقق منها بحثًا عن تضاربات لمنع الحجوزات المزدوجة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vyberte kalendáře, u kterých chcete kontrolovat konflikty v zájmu prevence dvojích rezervací."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vælg hvilke kalendere du vil tjekke for konflikter for at forhindre dobbeltbookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wählen Sie aus, in welchen Kalendern Sie nach Konflikten suchen wollen, um Doppelbuchungen zu vermeiden."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Select which calendars you want to check for conflicts to prevent double bookings."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seleccione los calendarios en los que desee comprobar conflictos para evitar reservas dobles."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hautatu zein egutegitan egiaztatu nahi duzun talkarik ote dagoen, erreserba bikoitzak saihesteko."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sélectionnez les calendriers dont vous souhaitez vérifier les conflits afin d'éviter les doubles réservations."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בחר את לוחות השנה שבהם ברצונך לבדוק אם יש התנגשויות, כדי למנוע כפל הזמנות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seleziona su quali calendari desideri controllare i conflitti per evitare doppie prenotazioni."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ダブルブッキングを防ぐために、スケジュールの重なりをチェックするカレンダーを選択してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "중복 예약을 방지하기 위해 충돌을 확인하려는 캘린더를 선택합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Selecteer de agenda's die u wilt controleren op conflicten om dubbele boekingen te voorkomen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Velg hvilke kalendere du vil sjekke for konflikter for å forhindre dobbeltbookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wybierz kalendarze, które chcesz sprawdzić pod kątem konfliktów, aby uniknąć podwójnych rezerwacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Selecione os calendários nos quais pretende procurar por conflitos para evitar sobreposição de reservas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Selecionar em quais calendários você deseja verificar se há conflitos para evitar dupla reserva."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Selectați pe ce calendare vreți să verificați dacă există conflicte pentru a preveni rezervările suprapuse."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Выберите, в каких календарях нужно проверить наличие конфликтов и дублированного бронирования."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Izaberite kalendare koje želite da proverite da li imaju konflikta da biste sprečili dvostruka zakazivanja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Välj vilka kalendrar du vill kontrollera för konflikter för att förhindra dubbelbokningar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Çifte rezervasyonu önlemek için çakışmaları kontrol etmek istediğiniz takvimleri seçin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Виберіть, які календарі потрібно перевірити на наявність конфліктів, щоб уникнути подвійних бронювань."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chọn lịch nào mà bạn muốn kiểm tra xung đột nhằm tránh đặt lịch hẹn trùng."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "选择要检查冲突的日历，以防止重复预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "選擇您想要檢查衝突的行事曆來避免重複預約。"
+                }
+            ]
+        }
+    ]
+}

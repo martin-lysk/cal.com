@@ -1,0 +1,280 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "change_start_end_buffer",
+        "library.inlang.paraglideJs": "change_start_end_buffer"
+    },
+    "id": "smooth_sides_kneel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بتعيين وقت البدء ووقت الانتهاء ليومك والحد الأدنى للفترة بين اجتماعاتك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nastavte si začátek a konec vašeho dne a minimální rozestupy mezi schůzkami."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Angiv start- og sluttidspunkt for din dag, og en minimumsbuffer mellem dine møder."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Legen Sie die Anfangs- und Endzeit Ihres Tages und einen Puffer zwischen Ihren Meetings fest."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Set the start and end time of your day and a minimum buffer between your meetings."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Establezca la hora de inicio y finalización de su día y un búfer mínimo entre sus reuniones."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ezarri zure egunaren hasiera- eta amaiera-ordua eta gutxieneko denbora tarte bat zure bileren artean."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Définissez l'heure de début et de fin de votre journée ainsi qu'une marge minimum entre vos rendez-vous."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדר את שעות ההתחלה והסיום של היום שלך, וזמן המתנה מינימלי בין פגישות."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Postavite vrijeme početka i završetka dana i minimalno međuvrijeme između sastanaka."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Imposta l'ora di inizio e di fine della giornata e un buffer minimo tra le riunioni."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "1日の開始時刻と終了時刻を設定し、ミーティング間の最小バッファを設定します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "하루의 시작 및 종료 시간과 회의 사이의 최소 버퍼를 설정합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Stel de begin- en eindtijd van uw dag in en een minimale buffer tussen uw afspraken."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Angi start- og sluttid for dagen din og en minimumsbuffer mellom møtene."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ustaw czas rozpoczęcia i zakończenia dnia oraz minimalną przerwę pomiędzy spotkaniami."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Defina a hora de início e fim do seu dia e um intervalo mínimo entre as suas reuniões."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Defina a hora de início e término do seu dia e um intervalo mínimo entre as suas reuniões."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Setați ora de început și de sfârșit a zilei și un buffer minim între întâlniri."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Установите время начала и окончания дня, а также минимальный буфер между встречами."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Postavi vreme početka i završetka svog dana i minimum vreme između sastanaka."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ange start- och sluttid för din dag samt en minimibuffert mellan dina möten."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gününüzün başlangıç ​​ve bitiş saatini ve toplantılarınız arasında minimum bir süre belirleyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Укажіть час початку й завершення свого дня, а також мінімальний буфер між зустрічами."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đặt thời gian bắt đầu và kết thúc trong ngày của bạn, và thời gian đệm tối thiểu giữa các cuộc họp của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "设置您日的开始和结束时间以及您会议之间的最小缓冲期。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "設定一天開始與結束的時間，以及會議之間的最小緩衝。"
+                }
+            ]
+        }
+    ]
+}

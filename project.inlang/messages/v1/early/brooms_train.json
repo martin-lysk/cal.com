@@ -1,0 +1,496 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "delete_webhook_confirmation_message",
+        "library.inlang.paraglideJs": "delete_webhook_confirmation_message"
+    },
+    "id": "early_brooms_train",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هل أنت متأكد أنك تريد حذف الويب هوك هذا؟ لن تتلقى بعد الآن بيانات اجتماعات "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " على عنوان URL محدد، وفي الوقت الفعلي، عندما تتم جدولة حدث أو يتم إلغاؤه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opravdu chcete smazat tento webhook? Přestanete v reálném čase dostávat "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " data o schůzce na dané URL, pokud bude událost naplánována nebo zrušena."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er du sikker på, at du vil slette denne webhook? Du vil ikke længere modtage "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mødedata på en specificeret URL, i realtid, når en begivenhed bliver planlagt eller annulleret."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sind Sie sicher, dass Sie diesen Webhook löschen möchten? Sie werden keine "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Meetingdaten mehr unter einer bestimmten URL, in Echtzeit erhalten, wenn ein Ereignis geplant oder abgesagt wird."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Are you sure you want to delete this webhook? You will no longer receive "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " meeting data at a specified URL, in real-time, when an event is scheduled or canceled."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "¿Está seguro de que desea eliminar este webhook? Ya no recibirá datos de reuniones de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " en una URL específica, en tiempo real, cuando se programe o cancele un evento."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voulez-vous vraiment supprimer ce webhook ? Vous ne recevrez plus les données de rendez-vous de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " à un lien spécifié, en temps réel, lorsqu'un événement est planifié ou annulé."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בטוח שברצונך למחוק את ה-Webhook הזה? אם אירוע יבוטל או שייקבע עבורו מועד, לא תקבל יותר נתוני פגישות מ-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " בזמן אמת או בכתובת ה-URL שציינת."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeste li sigurni da želite izbrisati ovaj webhook? Nećete više primati "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " podatke o sastancima preko naznačenog URL-a, u stvarnom vremenu kad je događaj zakazan ili otkazan."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Apakah kamu yakin untuk menghapus webhook ini? Kamu tidak akan lagi menerima data pertemuan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " di URL tersebut secara langsung, pada saat acara terjadwal atau dibatalkan."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sei sicuro di voler eliminare questo webhook? Non riceverai più "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " dati di riunione in un URL specificato, in tempo reale, quando un evento è programmato o annullato."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この Webhook を削除してもよろしいですか? イベントがスケジュールまたはキャンセルされた場合、指定された URL で "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ミーティング データをリアルタイムで受信しなくなります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "웹훅을 정말로 삭제하시겠습니까? 이벤트 일정이 잡혔거나 취소되었을 때 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "의 회의 정보를 더 이상 실시간으로 받아보실 수 없게 됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Weet u zeker dat u deze webhook wilt verwijderen? U ontvangt dan niet langer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vergadergegevens op een opgegeven URL, in real-time, wanneer een evenement is geboekt of geannuleerd."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er du sikker på at du vil slette denne webhooken? Du vil ikke lenger motta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " møtedata på en spesifisert URL, i sanntid, når en hendelse er planlagt eller avlyst."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Czy na pewno chcesz usunąć ten webhook? Nie będziesz już otrzymywać danych o spotkaniach w "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " w określonym URL, w czasie rzeczywistym, gdy zdarzenie jest zaplanowane lub anulowane."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De certeza que quer eliminar este Webhook? Não receberá mais dados de reuniões de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " do URL especificado, em tempo real, quando um evento for agendado ou cancelado."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você tem certeza que quer remover este Webhook? Você não receberá mais dados de reuniões de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " na URL especificada, em tempo real, quando um evento for agendado ou cancelado."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ești sigur că vrei să ștergi acest webhook? Nu vei mai primi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " date de întâlnire la un URL specificat, în timp real, atunci când un eveniment este programat sau anulat."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы уверены, что хотите удалить этот вебхук? Вы больше не будете получать от "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " данные о новых или отменённых встречах по указанному URL в реальном времени."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da li ste sigurni da želite da obrišete ovaj webhook? Nećete više dobijati "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " podatke o sastancima preko naznačenog URL, istovremeno kad je dogadjaj zakazan ili otkazan."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Är du säker på att du vill ta bort denna webhook? Du kommer inte längre att få "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mötesdata på en angiven webbadress, i realtid, när en händelse är schemalagd eller inställd."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu web kancasını silmek istediğinizden emin misiniz? Bir etkinlik planlandığında veya iptal edildiğinde, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " toplantı verilerini gerçek zamanlı olarak belirli bir URL'de almazsınız."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Справді видалити цей вебгук? Ви більше не отримуватимете дані про нараду "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " за вказаною URL-адресою: у реальному часі, а також під час планування та скасування."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có chắc bạn muốn xoá webhook này? Bạn sẽ không còn nhận dữ liệu cuộc họp "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tại đường URL này, trong thời gian thực, khi một sự kiện được lên lịch hoặc huỷ."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您确定要删除此Webhook吗？当活动被安排或取消时，您将不再会在指定的链接收到 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 实时提供的会议数据。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您確定要刪除這組 Webhook 嗎？之後活動預定或取消的時候，您就不會即時經特定連結收到 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的會議資料。"
+                }
+            ]
+        }
+    ]
+}

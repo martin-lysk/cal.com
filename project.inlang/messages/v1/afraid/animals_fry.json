@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "additional_input_description",
+        "library.inlang.paraglideJs": "additional_input_description"
+    },
+    "id": "afraid_animals_fry",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يتطلب من المجدول إدخال مدخلات إضافية قبل تأكيد الحجز"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Před potvrzením rezervace vyžadovat od plánující osoby zadání dalších vstupů"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kræv at planlæggeren indtaster yderligere input, før bookingen bekræftes"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Erfordert die Eingabe zusätzlicher Eingaben durch den Planer vor der Terminbestätigung"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Require scheduler to input additional inputs prior the booking is confirmed"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se requiere que el planificador introduzca entradas adicionales antes de confirmar la reserva"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Exiger que le planificateur saisisse des champs supplémentaires avant la confirmation de la réservation."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "דרוש מהמתזמן להזין נתונים נוספים לפני אישור התזמון"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chiedi al creatore del programma di inserire dei campi di input aggiuntivi prima che la prenotazione sia confermata"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約確認前にスケジュール設定者の追加入力が必要です"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약이 확정되기 전 스케줄러가 추가 입력을 해야 합니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Planner vereist om extra gegevens in te voeren voordat de boeking wordt bevestigd"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Krev at planleggeren legger inn flere input før bookingen bekreftes"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wymagaj od osoby układającej harmonogram wprowadzania dodatkowych danych przed potwierdzeniem rezerwacji"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Requerer que o responsável pelo agendamento especifique entradas complementares antes do pedido ser confirmado"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Solicitar que o agendador insira entradas adicionais antes que o pedido seja confirmado"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Solicitați planificatorului să introducă intrări suplimentare înainte ca rezervarea să fie confirmată"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Необходимо ввести в планировщик дополнительную информацию до подтверждения бронирования"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zahtevaj od planera da unese dodatne unose pre potvrde rezervacije"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kräv schemaläggaren att mata in ytterligare ingångar innan bokningen bekräftas"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyon onaylanmadan önce planlayıcının ek veri girişi yapması gereklidir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вимагати від особи, що хоче створити бронювання, надавати додаткові відомості"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yêu cầu người đặt lịch hãy nhập thông tin đầu vào bổ sung trước khi lịch hẹn được xác nhận"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "在确认预约之前，需要预约者输入额外的信息"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "確認預約前，預約者需先輸入額外的內容"
+                }
+            ]
+        }
+    ]
+}

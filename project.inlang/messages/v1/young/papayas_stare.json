@@ -1,0 +1,372 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_availability_in_month",
+        "library.inlang.paraglideJs": "no_availability_in_month"
+    },
+    "id": "young_papayas_stare",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "غير متاح في شهر "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Žádná dostupnost pro "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen tilgængelighed i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Keine Verfügbarkeit im "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No availability in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sin disponibilidad en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aucune disponibilité en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אין זמינות ב"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nessuna disponibilità in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                },
+                {
+                    "type": "Text",
+                    "value": " は参加できません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 이용 불가"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Geen beschikbaarheid in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen tilgjengelighet i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Brak dostępności w danym miesiącu ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                },
+                {
+                    "type": "Text",
+                    "value": ")"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sem disponibilidade em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sem disponibilidade em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nicio disponibilitate în "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "В этом месяце ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                },
+                {
+                    "type": "Text",
+                    "value": ") нет свободных мест"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nije raspoloživo za mesec "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen tillgänglighet i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                },
+                {
+                    "type": "Text",
+                    "value": " ayında müsaitlik yok"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Недоступний(-а) у такому місяці: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Không còn giờ sẵn sàng làm việc trong "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                },
+                {
+                    "type": "Text",
+                    "value": "不可预约"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "month"
+                },
+                {
+                    "type": "Text",
+                    "value": "不開放預約"
+                }
+            ]
+        }
+    ]
+}

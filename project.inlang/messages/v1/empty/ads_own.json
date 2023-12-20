@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "enter_email",
+        "library.inlang.paraglideJs": "enter_email"
+    },
+    "id": "empty_ads_own",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enter an email"
+                }
+            ]
+        }
+    ]
+}

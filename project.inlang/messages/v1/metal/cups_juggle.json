@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "user_cannot_found_db",
+        "library.inlang.paraglideJs": "user_cannot_found_db"
+    },
+    "id": "metal_cups_juggle",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يبدو أن المستخدم قد سجل الدخول ولكن لا يمكن العثور عليه في قاعدة البيانات"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zdá se, že uživatel je přihlášen, ale nelze najít v databázi"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bruger ser ud til at være logget ind, men kan ikke findes i db"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Benutzer scheint eingeloggt zu sein, kann aber nicht in der Datenbank gefunden werden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "User seems logged in but cannot be found in the db"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El usuario parece haber iniciado sesión pero no se puede encontrar en la base de datos"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'utilisateur semble connecté, mais est introuvable dans la base de données."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נראה שהמשתמש התחבר אבל לא ניתן למצוא אותו במסד הנתונים"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'utente sembra loggato ma non può essere trovato nel database"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ユーザーはログインしているようですが、データベースに見つかりません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "사용자가 로그인한 것 같지만 db에서 찾을 수 없습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gebruiker lijkt ingelogd maar kan niet gevonden worden in de db"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Brukeren ser ut til å være innlogget, men den blir ikke funnet i db"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Użytkownik wydaje się zalogowany, ale nie może zostać znaleziony w bazie danych"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O utilizador parece estar ligado, mas não pode ser encontrado na base de dados"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O usuário parece estar logado, mas não foi encontrado no banco de dados"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utilizatorul pare logat dar nu poate fi găsit în db"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пользователь авторизован, но не найден в базе данных"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Korisnik je izgleda ulogovan ali nije pronađen u bazi podataka"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Användaren verkar vara loggad men kan inte hittas i databasen"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kullanıcı oturum açmış olarak görünüyor ancak veri tabanında bulunamadı"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Схоже, користувач увійшов, але його не вдається знайти в базі даних"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Người dùng dường như đã đăng nhập nhưng không thể tìm thấy trong cơ sở dữ liệu"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "用户似乎已登录，但无法在数据库中找到"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "使用者看起來是登入了，但在資料庫裡找不到"
+                }
+            ]
+        }
+    ]
+}

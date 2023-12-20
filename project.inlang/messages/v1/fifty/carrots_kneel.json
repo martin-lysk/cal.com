@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "please_do_not_close_this_tab",
+        "library.inlang.paraglideJs": "please_do_not_close_this_tab"
+    },
+    "id": "fifty_carrots_kneel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please do not close this tab"
+                }
+            ]
+        }
+    ]
+}

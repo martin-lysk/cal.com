@@ -1,0 +1,332 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "insights_user_filter",
+        "library.inlang.paraglideJs": "insights_user_filter"
+    },
+    "id": "old_snails_write",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "المستخدم: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uživatel: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Benutzer: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "User: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Usuario: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utilisateur : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "משתמש: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utente: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ユーザー: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "사용자: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gebruiker: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Użytkownik: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utilizador: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Usuário: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utilizator: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пользователь: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Korisnik: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Användare: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kullanıcı: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Користувач: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Người dùng: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "用户："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "使用者："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                }
+            ]
+        }
+    ]
+}

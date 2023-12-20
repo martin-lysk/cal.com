@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "meeting_started",
+        "library.inlang.paraglideJs": "meeting_started"
+    },
+    "id": "huge_cobras_thank",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Meeting Started"
+                }
+            ]
+        }
+    ]
+}

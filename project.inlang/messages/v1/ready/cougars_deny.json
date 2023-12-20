@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "install_calendar",
+        "library.inlang.paraglideJs": "install_calendar"
+    },
+    "id": "ready_cougars_deny",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Install Calendar"
+                }
+            ]
+        }
+    ]
+}

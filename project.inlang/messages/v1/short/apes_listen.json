@@ -1,0 +1,576 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "team_is_unpublished_description",
+        "library.inlang.paraglideJs": "team_is_unpublished_description"
+    },
+    "id": "short_apes_listen",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "رابط هذا "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " غير متاح حاليًا. يرجى الاتصال بمالك "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " أو طلب نشره منه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tento odkaz subjektu ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": ") není v současné době k dispozici. Kontaktujte prosím vlastníka subjektu ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": ") nebo ho požádejte o jeho zveřejnění."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dieser "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Link ist derzeit nicht verfügbar. Bitte kontaktieren Sie den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Besitzer oder fragen Sie ihn, ob er ihn veröffentlicht."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This team link is currently not available. Please contact the team owner or ask them to publish it."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este enlace de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " no está disponible actualmente. Póngase en contacto con el propietario de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " o pídale que lo publique."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ce lien d'équipe n'est actuellement pas disponible. Veuillez contacter le propriétaire de l'équipe ou lui demander de le publier."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "קישור ה-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " הזה אינו זמין כעת. יש ליצור קשר עם הבעלים של ה-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " או לבקש מהם לפרסם אותו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Questo link di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " non è attualmente disponibile. Contatta il proprietario di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " o chiedigli di pubblicarlo."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " のリンクは現在利用できません。"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " の所有者に問い合わせるか、リンクを公開するように依頼してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " 링크는 현재 사용할 수 없습니다. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " 소유자에게 연락하거나 게시하라고 요청하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deze "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "-link is momenteel niet beschikbaar. Neem contact op met de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "-eigenaar of vraag hem het te publiceren."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Link jednostki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " jest obecnie niedostępny. Skontaktuj się z właścicielem jednostki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " lub poproś o jego opublikowanie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esta ligação de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " não está disponível neste momento. Por favor, entre em contacto com o responsável por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " ou solicite-lhe a respetiva publicação."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O link de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " não está disponível por enquanto. Fale com o proprietário de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " ou peça que seja publicado."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acest link de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " nu este disponibil momentan. Contactați proprietarul "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " sau rugați-l să îl publice."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Эта ссылка на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " в настоящее время недоступна. Свяжитесь с владельцем "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " и попросите его опубликовать ее."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovaj link "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " više nije dostupan. Obratite se vlasniku "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " i zamolite ga da objavi."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Den här "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "-länken är för närvarande inte tillgänglig. Kontakta ägaren till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " eller be vederbörande att publicera den."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " bağlantısı şu anda kullanılamıyor. Lütfen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " sahibiyle iletişime geçin veya ondan bir bağlantı paylaşmasını isteyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Посилання на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " зараз недоступне. Зверніться до власника "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " або попросіть його опублікувати посилання."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Liên kết "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " này hiện không khả dụng. Hãy liên lạc với chủ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " hoặc yêu cầu họ công bố liên kết đó."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "该"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "链接当前不可用。请联系"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": "所有者或请他们发布。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " 連結目前無法使用。請聯絡 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "entity"
+                },
+                {
+                    "type": "Text",
+                    "value": " 擁有者，或請對方發佈。"
+                }
+            ]
+        }
+    ]
+}

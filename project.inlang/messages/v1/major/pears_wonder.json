@@ -1,0 +1,700 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "awaiting_payment_subject",
+        "library.inlang.paraglideJs": "awaiting_payment_subject"
+    },
+    "id": "major_pears_wonder",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "في انتظار الدفع: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " في "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ca",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esperant el pagament: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " el "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Čekám na platbu: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " během "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Afventer Betaling: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Warte auf Zahlung: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " am "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Σε αναμονή Πληρωμής: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " στις "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Awaiting Payment: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " on "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esperando pago: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ordainketaren zain: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)an"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En attente de paiement : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " le "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ממתין לתשלום: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " ב- "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Čeka se uplata: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " u "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Menunggu Pembayaran: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " pada "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "In attesa del pagamento: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " il "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "支払い待ち: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": "、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "결제를 기다리고 있습니다: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "In afwachting van betaling: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " op "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Venter på betaling: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " kl. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oczekiwanie na płatność: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " w "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A aguardar pagamento: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aguardando pagamento: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se așteaptă plata: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " în "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ожидание оплаты: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Čekanje na uplatu: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " datuma "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Väntar på betalning: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "பணம் செலுத்த காத்திருக்கிறது: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " அன்று "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ödeme Bekleniyor: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarihinde"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Очікування платежу: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chờ đợi thanh toán: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " tại "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "等待付款："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 于 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "等待付款："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 與 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                }
+            ]
+        }
+    ]
+}

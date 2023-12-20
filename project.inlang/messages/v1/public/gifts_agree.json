@@ -1,0 +1,398 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "sso_connection_created_successfully",
+        "library.inlang.paraglideJs": "sso_connection_created_successfully"
+    },
+    "id": "public_gifts_agree",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم إنشاء تكوين "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurace "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " vytvořena"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " konfiguration blev oprettet"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Konfiguration erfolgreich erstellt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " configuration created successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuración de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " creada con éxito"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuration "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " créée avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדרות "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " נוצרו בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurazione "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " creata correttamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " の構成が正常に作成されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 구성이 생성되었습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-configuratie gemaakt"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfiguracja "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " została utworzona"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuração "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " criada com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuração de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " criada com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurația "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " a fost creată cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Конфигурация "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " создана"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " konfiguracija je uspešno kreirana"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-konfiguration har skapats"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " yapılandırması başarıyla oluşturuldu"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Конфігурацію "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " створено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã tạo thành công cấu hình "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 配置已成功创建"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已成功建立 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 設定"
+                }
+            ]
+        }
+    ]
+}

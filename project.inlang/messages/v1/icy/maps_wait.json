@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "locked_workflows_description",
+        "library.inlang.paraglideJs": "locked_workflows_description"
+    },
+    "id": "icy_maps_wait",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيكون الأعضاء قادرين على رؤية مسارات العمل النشطة، ولكن من دون القدرة على تعديل أي إعدادات لمسار العمل"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Členové uvidí aktivní pracovní postupy, ale nastavení pracovních postupů upravovat nemohou"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mitglieder können die aktiven Workflows sehen, können aber keine Workflow-Einstellungen anpassen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Members will be able to see the active workflows but will not be able to edit any workflow settings"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Los miembros podrán ver los flujos de trabajo activos, pero no podrán editar ninguna configuración de flujo de trabajo"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les membres pourront voir les workflows actifs, mais ne pourront pas modifier leurs paramètres."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "החברים יוכלו לראות את תהליכי העבודה הפעילים, אבל לא יוכלו לערוך הגדרות של תהליכי עבודה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "I membri potranno vedere i flussi di lavoro attivi, ma non potranno modificare le impostazioni dei flussi di lavoro"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "メンバーは有効なワークフローを確認できますが、ワークフローの設定を編集することはできません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "회원은 활성 워크플로를 볼 수 있지만 워크플로 설정을 편집할 수는 없습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Leden kunnen de actieve werkstromen zien, maar kunnen geen werkstroominstellingen bewerken"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Członkowie będą mogli sprawdzić aktywne przepływy pracy, ale nie będą mogli edytować ich ustawień"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Os membros poderão ver os fluxos de trabalho ativos, mas não poderão editar quaisquer configurações dos fluxos de trabalho"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Os membros poderão ver os fluxos de trabalho ativos, mas não poderão editar as configurações"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Membrii vor putea vedea fluxurile de lucru active, însă nu le vor putea modifica deloc setările"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Участники смогут видеть активные рабочие процессы, но не смогут редактировать их настройки"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Članovi će moći da vide aktivne radne tokove, ali neće moći da uređuju podešavanja radnih tokova"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Medlemmarna kan se aktiva arbetsflöden men kan inte ändra några arbetsflödesinställningar"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Üyeler aktif iş akışlarını görebilir, ancak hiçbir iş akışı ayarını düzenleyemez"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Учасники бачитимуть активні робочі процеси, але не зможуть змінювати їх налаштування"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Các thành viên có thể thấy được những tiến độ công việc đang hoạt động nhưng không thể sửa bất kỳ thiết lập nào của tiến độ công việc"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "成员将能够查看活动的工作流程，但不能编辑任何工作流程设置"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "成員將能查看啟用的工作流程，但無法編輯任何工作流程設定"
+                }
+            ]
+        }
+    ]
+}

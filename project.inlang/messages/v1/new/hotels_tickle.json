@@ -1,0 +1,568 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "trial_days_left",
+        "library.inlang.paraglideJs": "trial_days_left"
+    },
+    "id": "new_hotels_tickle",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يتبقى لديك $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) في الفترة التجريبية من PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "V PRO verzi na zkoušku vám zbývají $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " })"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) tilbage af din PRO prøveperiode"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie haben noch $t(Tage, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) im Testzeitraum der PRO-Version"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You have $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) left on your PRO trial"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tienes $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) restantes en tu prueba PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "$t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) geratzen zaizkizu zure PRO frogan"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il vous reste $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) pour votre essai Pro"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נותרו לך $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) לשימוש בגרסת הניסיון של רישוי PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Preostalo vam je $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) vašeg PRO probnog perioda"
+                }
+            ]
+        },
+        {
+            "languageTag": "hu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Még $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) maradt a PRO próbaidőszakodból"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tersisa $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) di akun PRO kamu"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ti rimangono $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) di prova con il piano PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "PRO トライアル版は残り $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) です"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "PRO 평가판의 남은 기한 $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " })"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U heeft nog $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) over van uw PRO-proefperiode"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) igjen av PRO-prøveperioden"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozostało Ci $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) w wersji próbnej PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Restam $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) da sua avaliação da versão PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você tem $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) restantes no seu período de testes da versão PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aveți $t(zi, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) rămase din perioada de probă PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "У вас осталось $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) пробной версии PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "sk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "V PRO verzii na skúšku vám zostávajú $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " })"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Preostalo vam je $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) na vašem probnom PRO nalogu"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) kvar på din PRO-provperiod"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "உங்கள் மேம்படுத்தப்பட்ட பயன்பாட்டு சோதனையில் $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) மீதமுள்ளது"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "PRO denemenizde $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) gün kaldı"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "У вас ще $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) користування пробною PRO-версією"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) còn lại trên bản thử nghiệm PRO"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的 PRO 试用还有 $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) 到期"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的 PRO 試用期還有 $t(day, {\"count\": "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "days"
+                },
+                {
+                    "type": "Text",
+                    "value": " }) 到期"
+                }
+            ]
+        }
+    ]
+}

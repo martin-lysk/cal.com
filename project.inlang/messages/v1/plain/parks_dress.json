@@ -1,0 +1,564 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "booking_reschedule_confirmation",
+        "library.inlang.paraglideJs": "booking_reschedule_confirmation"
+    },
+    "id": "plain_parks_dress",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أعد جدولة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " مع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Přesunout "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " na jindy skrz účet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Omlæg din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Planen Sie Ihr "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " mit "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " um"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reschedule your "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " with "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reprogramar tu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Replanifiez votre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " avec "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "שנה את המועד של ה"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " עם "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Riprogramma il tuo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " をスケジュール変更する"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": "을 사용하여 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 일정을 변경하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opnieuw plannen van uw "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " met "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Endre tidspunkt for "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Przełóż Twój "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reagende o seu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reagende seu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reprogramează "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " cu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Перенесите вашу встречу «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": "» с "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Odložite vaš "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Omboka "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ile "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinliğinizi yeniden planlayın"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Перенесіть свій захід ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": ") із користувачем "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lên lịch lại "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " của bạn với "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "重新安排您和 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "向 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "profileName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 重新預定"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        }
+    ]
+}

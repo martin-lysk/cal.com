@@ -1,0 +1,280 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "check_email_reset_password",
+        "library.inlang.paraglideJs": "check_email_reset_password"
+    },
+    "id": "new_bats_accept",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تحقق من البريد الإلكتروني. لقد أرسلنا رابطًا لإعادة تعيين كلمة المرور."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podívejte se do e-mailu. Poslali jsme vám odkaz pro obnovení hesla."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tjek din e-mail. Vi har sendt dig et link til at nulstille din adgangskode."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Überprüfen Sie Ihre E-Mail. Wir haben Ihnen einen Link zum Zurücksetzen Ihres Passworts gesendet."
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ελέγξτε το email σας. Σας στείλαμε ένα σύνδεσμο για να επαναφέρετε τον κωδικό πρόσβασής σας."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Check your email. We sent you a link to reset your password."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Revisa tu email. Te hemos enviado un enlace para restablecer tu contraseña."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vérifiez vos e-mails. Nous vous avons envoyé un lien pour réinitialiser votre mot de passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בדוק/י בתיבת הדוא\"ל – שלחנו לך קישור לאיפוס הסיסמה."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Provjerite svoju e-poštu. Poslali smo vam link za resetiranje lozinke."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Controlla la tua email. Ti abbiamo inviato un link per reimpostare la password."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "メールをご確認ください。パスワードをリセットするためのリンクを送信しました。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이메일을 확인하세요. 비밀번호 재설정을 위한 링크를 보냈습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Controleer uw e-mail. We hebben u een link gestuurd om uw wachtwoord opnieuw in te stellen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sjekk e-posten din. Vi har sendt deg en lenke for å tilbakestille passordet ditt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sprawdź swój e-mail. Wysłaliśmy Ci link do zresetowania hasła."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifique o seu email. Enviámos uma ligação para redefinir a sua senha."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifique o seu email. Enviamos um link para redefinir a sua senha."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verificați adresa de e-mail. V-am trimis un link pentru resetarea parolei."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Проверьте вашу электронную почту, мы отправили вам ссылку для сброса пароля."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Proverite vašu e-poštu. Poslali smo vam link za resetovanje lozinke."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kolla din e-post. Vi har skickat en länk till dig för att återställa ditt lösenord."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "E-posta adresinizi kontrol edin. Size şifrenizi sıfırlamanız için bir bağlantı göndereceğiz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Перевірте електронну пошту. Ми надіслали вам посилання для скидання пароля."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kiểm tra hộp thư điện tử của bạn. Chúng tôi đã gửi cho bạn một liên kết để đặt lại mật khẩu của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请检查您的邮箱，我们向您发送了一个重置密码的链接。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請檢查信箱。已經把重設密碼的連結寄出。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "some_other_host_already_accepted_the_meeting",
+        "library.inlang.paraglideJs": "some_other_host_already_accepted_the_meeting"
+    },
+    "id": "sixty_stars_admire",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Some other host already accepted the meeting. Do you still want to join? <1>Continue to Meeting Url</1>"
+                }
+            ]
+        }
+    ]
+}

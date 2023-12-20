@@ -1,0 +1,740 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_type_has_been_rescheduled_on_time_date",
+        "library.inlang.paraglideJs": "event_type_has_been_rescheduled_on_time_date"
+    },
+    "id": "chubby_falcons_heal",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم إعادة جدولة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Váš "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " byl přeplánován na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " er blevet flyttet til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ihr "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " wurde auf den "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " verschoben."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Your "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " has been rescheduled to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " ha sido reprogramado para el "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zure "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " getaeraren programazioa aldatu egin da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)ra."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Votre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " a été replanifié le "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " תוזמן מחדש לתאריך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vaš "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " je odgođen za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " kamu telah dijadwalkan ulang menjadi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il tuo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " è stato riprogrammato per il "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたの "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " は "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " に再スケジュールされました。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "귀하의 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 일정이 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "로 변경되었습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uw "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " is verplaatst naar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " har blitt flyttet til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Twój "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " został przełożony na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " foi remarcado para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " foi remarcado para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " dvs. a fost reprogramat la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваше "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " было перенесено на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваш "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "титле"
+                },
+                {
+                    "type": "Text",
+                    "value": " је померен за "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "дате"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " har ändrats till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "உங்கள் "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " க்கு மாற்றியமைக்கப்பட்டுள்ளது."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " olarak yeniden planlandı."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваш "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " перенесено на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " của bạn đã được chuyển sang ngày "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已改期至 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已改期至 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "。"
+                }
+            ]
+        }
+    ]
+}

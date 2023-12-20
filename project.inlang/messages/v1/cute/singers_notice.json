@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "publish",
+        "library.inlang.paraglideJs": "publish"
+    },
+    "id": "cute_singers_notice",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publish"
+                }
+            ]
+        }
+    ]
+}

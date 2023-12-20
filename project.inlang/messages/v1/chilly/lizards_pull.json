@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "set_a_password_description",
+        "library.inlang.paraglideJs": "set_a_password_description"
+    },
+    "id": "chilly_lizards_pull",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيؤدي هذا إلى إنشاء حساب مستخدم جديد بالبريد الإلكتروني لمنظمتك وكلمة المرور هذه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tím se vytvoří nový uživatelský účet s e-mailem vaší organizace a tímto heslem."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dies wird ein neues Benutzerkonto mit Ihrer Organization-Mailadresse und diesem Passwort erstellen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This will create a new user account with your organization email and this password."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esto creará una nueva cuenta de usuario con el correo electrónico de su organización y esta contraseña."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cela créera un nouveau compte utilisateur avec l'adresse e-mail de votre organisation et ce mot de passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "פעולה זו תיצור חשבון משתמש חדש עם כתובת הדוא״ל של הארגון ועם הסיסמה הזו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verrà creato un nuovo account utente con l'indirizzo e-mail della tua organizzazione e questa password."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "これにより、組織のメールアドレスとこのパスワードを用いて新しいユーザーアカウントが作成されます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이렇게 하면 조직 이메일과 이 비밀번호를 사용하여 새 사용자 계정이 생성됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hierdoor wordt een nieuwe gebruikersaccount gemaakt met het e-mailadres van uw organisatie en dit wachtwoord."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Spowoduje to utworzenie nowego konta użytkownika z adresem e-mail w Twojej organizacji i wybranym hasłem."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Isto irá criar uma conta de utilizador com o e-mail da sua organização e esta palavra-passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Será criada uma nova conta de usuário com o e-mail da sua organização e esta senha."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se va crea astfel un nou cont de utilizator cu e-mailul organizației dvs. și această parolă."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Будет создан новый пользовательский аккаунт с адресом электронной почты вашей организации и указанным паролем."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovim ćete kreirati novi korisnički nalog sa adresom e-pošte vaše organizacije i ovom lozinkom."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Detta skapar ett nytt användarkonto med din organisations e-postadress och det här lösenordet."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu işlem, kuruluşunuzun e-posta adresi ve bu şifre ile yeni bir kullanıcı hesabı oluşturur."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Буде створено новий обліковий запис з електронною адресою вашої організації і цим паролем."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thao tác này sẽ tạo một tài khoản người dùng mới với email của tổ chức và mật khẩu này."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "这将使用您的组织电子邮件和此密码创建一个新的用户账户。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "這麼做會使用您的組織電子郵件和此密碼建立新的使用者帳戶。"
+                }
+            ]
+        }
+    ]
+}

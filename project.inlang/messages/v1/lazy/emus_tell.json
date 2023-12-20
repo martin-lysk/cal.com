@@ -1,0 +1,516 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "accept_our_license",
+        "library.inlang.paraglideJs": "accept_our_license"
+    },
+    "id": "lazy_emus_tell",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "اقبل ترخيصنا من خلال تغيير متغير ‎.env المسمى <1>NEXT_PUBLIC_LICENSE_CONSENT</1> إلى '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Přijměte naši licenci změnou proměnné .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> na '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acceptér vores licens ved at ændre .env variablen <1>NEXT_PUBLIC_LICENSE_CONSENT</1> til '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Akzeptieren Sie unsere Lizenz, indem Sie die .env-Variable <1>NEXT_PUBLIC_LICENSE_CONSENT</1> auf '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": " ' ändern."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Accept our license by changing the .env variable <1>NEXT_PUBLIC_LICENSE_CONSENT</1> to '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acepte nuestra licencia cambiando la variable .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> a '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Onartu gure lizentzia <1>NEXT_PUBLIC_LICENSE_CONSENT</1> .env aldagaia aldatuz honakora: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acceptez notre licence en changeant la variable .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> en « "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": " »."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש לאשר את תנאי הרישיון שלנו על ידי שינוי המשתנה מסוג ‎.env בשם <1>NEXT_PUBLIC_LICENSE_CONSENT</1> ל-'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Prihvatite našu licencu tako što ćete promijeniti .env varijablu <1>NEXT_PUBLIC_LICENSE_CONSENT</1> u '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Setujui lisensi dengan mengganti variabel .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> menjadi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Accetta la nostra licenza cambiando la variabile .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> a '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": ".env 変数 <1>NEXT_PUBLIC_LICENSE_CONSENT</1> を '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": " ' に変更することで、ライセンスに同意してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<1>NEXT_PUBLIC_LICENSE_CONSENT</1> 환경 변수를 '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'로 바꾸어 라이선스를 허용해주십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Accepteer onze licentie door de variable .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> te veranderen in '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Godta lisensen vår ved å endre .env variabelen <1>NEXT_PUBLIC_LICENSE_CONSENT</1> til '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaakceptuj naszą licencję, zmieniając zmienną .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> na '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aceite a nossa licença, através de alterar a variável de .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> para '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aceite a nossa licença alterando a variável no arquivo .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> para '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acceptați licența noastră schimbând variabila .env <1>URMĂTOAREA_LICENȚĂ_PUBLICĂ</1> în."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Примите нашу лицензию, изменив переменную окружения <1>NEXT_PUBLIC_LICENSE_CONSENT</1> на '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Prihvatite našu dozvolu tako što ćete promeniti .env varijablu <1>NEXT_PUBLIC_LICENSE_CONSENT</1> u '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acceptera vår licens genom att ändra .env variabeln <1>NEXT_PUBLIC_LICENSE_CONSENT</1> till '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": ".env மாறியை மாற்றுவதன் மூலம் எங்கள் உரிமத்தை ஏற்கவும்\n<1>NEXT_PUBLIC_LICENSE_CONSENT</1> to '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<1>NEXT_PUBLIC_LICENSE_CONSENT</1> .env değişkenini '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "' olarak değiştirerek lisansımızı kabul edin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Прийміть нашу ліцензію, змінивши значення змінної .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> на «{agree}}»."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chấp nhận giấy phép của chúng tôi bằng cách thay đổi biến .env <1>NEXT_PUBLIC_LICENSE_CONSENT</1> thành '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请更改 .env 文件下的变量 <1>NEXT_PUBLIC_LICENSE_CONSENT</1> 为 '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "' 以接受我们的许可协议。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "接受授權的方式是修改 .env 變數 <1>NEXT_PUBLIC_LICENSE_CONSENT</1> 為 '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "agree"
+                },
+                {
+                    "type": "Text",
+                    "value": "'。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "connect_app",
+        "library.inlang.paraglideJs": "connect_app"
+    },
+    "id": "tasty_dots_find",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "اتصال "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Připojit aplikaci "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " verbinden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Connect "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Conectar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Connecter "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "חבר את "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Connetti "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " に接続する"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 연결"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " koppelen"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podłącz "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Associar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Conectar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Conectare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Подключить "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Povežite "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Anslut "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ஐ இணைக்கவும்"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " hesabını bağla"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Підключити "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kết nối "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "连接 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "連結 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        }
+    ]
+}

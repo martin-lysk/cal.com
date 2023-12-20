@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "warning_payment_instant_meeting_event",
+        "library.inlang.paraglideJs": "warning_payment_instant_meeting_event"
+    },
+    "id": "brown_cars_hope",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Instant Meetings are not supported with recurring events and payment apps yet"
+                }
+            ]
+        }
+    ]
+}

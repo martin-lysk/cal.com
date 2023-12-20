@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "members_default_schedule_description",
+        "library.inlang.paraglideJs": "members_default_schedule_description"
+    },
+    "id": "late_paths_show",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سنستخدم جدول الإتاحة الافتراضي لكل عضو، وسيكون بإمكانه تعديله أو تغييره."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Použijeme výchozí rozvrh dostupnosti každého člena. Bude ho moci upravovat nebo měnit."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wir werden den Standardverfügbarkeitsplan jedes Mitglieds verwenden. Sie können ihn bearbeiten oder ändern."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We will use each members default availability schedule. They will be able to edit or change it."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Usaremos el horario de disponibilidad predeterminado de cada miembro. Este se podrá editar o cambiar."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nous utiliserons le calendrier de disponibilité par défaut de chaque membre. Ils pourront le modifier ou le changer."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אנחנו נשתמש בלוח הזמנים והזמינות שמוגדר כברירת מחדל עבור כל חבר/ה. החברים יוכלו לערוך או לשנות את הנתונים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Useremo il programma di disponibilità predefinito di ciascun membro. I membri potranno modificarlo."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "各メンバーのデフォルトの空きスケジュールを使用します。メンバーはこのスケジュールを編集したり、変更したりできます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "각 회원의 기본 가용성 일정을 사용합니다. 편집 또는 변경할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wij gebruiken de standaard beschikbaarheidsplanning van elk lid. Leden kunnen dit bewerken of wijzigen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Będziemy używać domyślnego harmonogramu dostępności każdego członka. Każdy z nich będzie mógł go edytować lub zmienić."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vamos utilizar a agenda de disponibilidades predefinida de cada membro. Eles poderão editar ou alterar a mesma."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Usaremos a agenda de disponibilidade padrão de cada membro. Não será possível editar ou alterar."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vom utiliza programul implicit de disponibilitate al fiecărui membru. Aceștia îl vor putea edita sau schimba."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Для каждого участника будет использоваться его график доступности по умолчанию. Участники смогут редактировать или менять его."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Koristićemo podrazumevani raspored dostupnosti za svakog člana. Oni će moći da ga uređuju ili promene."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi kommer att använda varje medlems standardschema för tillgänglighet. De kan redigera eller ändra det."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Her üyenin varsayılan uygunluk planını kullanacağız. Bunu düzenleyebilir veya değiştirebilir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ми використовуватимемо розклад кожного учасника за замовчуванням. Вони зможуть редагувати або змінювати його."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chúng tôi sẽ dùng trạng thái trống lịch mặc định của mỗi thành viên. Họ sẽ có thể sửa hoặc thay đổi trạng thái này."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我们将使用每位成员的默认可用日程安排。他们可对其进行编辑或更改。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我們會使用每位成員的預設開放時間行程表。他們可以編輯或變更該行程表。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "set_availbility_description",
+        "library.inlang.paraglideJs": "set_availbility_description"
+    },
+    "id": "rich_symbols_sniff",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Set schedules for the times you want to be booked."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Définissez des horaires pour les périodes où vous souhaitez être réservé."
+                }
+            ]
+        }
+    ]
+}

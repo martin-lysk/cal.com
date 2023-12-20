@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "create_your_calcom_account",
+        "library.inlang.paraglideJs": "create_your_calcom_account"
+    },
+    "id": "shaggy_phones_sit",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Create your Cal.com account"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Créez votre compte Cal.com"
+                }
+            ]
+        }
+    ]
+}

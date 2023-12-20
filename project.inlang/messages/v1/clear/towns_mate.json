@@ -1,0 +1,332 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "unauthorized_workflow_error_message",
+        "library.inlang.paraglideJs": "unauthorized_workflow_error_message"
+    },
+    "id": "clear_towns_mate",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": غير مصرح لك بتمكين سير العمل هذا أو تعطيله"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": Nejste oprávněni zapnout nebo vypnout tento pracovní postup"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": Sie sind nicht berechtigt, diesen Workflow zu aktivieren oder zu deaktivieren"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": You are not authorized to enable or disable this workflow"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": No está autorizado para habilitar o deshabilitar este flujo de trabajo"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": " : Vous n'êtes pas autorisé à activer ou désactiver ce workflow"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": אין לך הרשאה להפעיל או להשבית את תהליך העבודה הזה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": Non hai l'autorizzazione ad abilitare o disabilitare questo flusso di lavoro"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": このワークフローの有効/無効を切り替える権限がありません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": 이 워크플로를 활성화 또는 비활성화할 권한이 없습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": u bent niet geautoriseerd om deze werkstroom in of uit te schakelen"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": nie masz uprawnień do włączenia lub wyłączenia tego przepływu pracy"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": Não tem autorização para ativar ou desativar este fluxo de trabalho"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": você não tem autorização para habilidar ou desabilitar este fluxo de trabalho"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": nu sunteți autorizat să activați sau să dezactivați acest flux de lucru"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": у вас недостаточно разрешений для включения или отключения этого рабочего процесса"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": Niste ovlašćeni da omogućite ili onemogućite ovaj radni tok"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": Du har inte behörighet att aktivera eller inaktivera detta arbetsflöde"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": Bu iş akışını etkinleştirme veya devre dışı bırakma yetkiniz yok"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": авторизуйтеся, щоб вмикати або вимикати цей робочий процес"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": ": Bạn không được ủy quyền để bật hoặc tắt tiến độ công việc này"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": "：您无权启用或禁用此工作流程"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "errorCode"
+                },
+                {
+                    "type": "Text",
+                    "value": "：您未獲得授權，無法啟用或停用此工作流程"
+                }
+            ]
+        }
+    ]
+}

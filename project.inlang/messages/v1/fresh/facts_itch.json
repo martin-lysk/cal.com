@@ -1,0 +1,382 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "allow_client_to",
+        "library.inlang.paraglideJs": "allow_client_to"
+    },
+    "id": "fresh_facts_itch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيمنح هذا "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " القدرة على"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To umožní klientovi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dies wird "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " erlauben"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This will allow "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " to"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esto permitirá que "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הדבר יאפשר ל-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": ":"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ciò consentirà a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " di"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "これにより "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " は"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이것으로 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 님이 다음 작업을 수행할 수 있습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hierdoor kan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dzięki temu klient ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": ") będzie mógł"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Isto irá autorizar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " a"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Isso permitirá ao "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acest lucru va permite ca "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Это позволит "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovo će dozvoliti "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " da"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Detta tillåter "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " att"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu işlem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " adlı kullanıcıya şu izinleri verecektir:"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Це дозволить клієнту "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " робити таке:"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thao tác này sẽ cho phép "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " thực hiện"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "这将使 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 能够"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "這麼做，"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 即可"
+                }
+            ]
+        }
+    ]
+}

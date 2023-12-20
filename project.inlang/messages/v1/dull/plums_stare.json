@@ -1,0 +1,346 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_type_duplicate_copy_text",
+        "library.inlang.paraglideJs": "event_type_duplicate_copy_text"
+    },
+    "id": "dull_plums_stare",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-نسخ"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " – kopie"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-kopi"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Kopie"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-copy"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-copia"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-copie"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-עותק"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-copia"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-copy"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-카피"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-kopie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-kopia"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "cópia de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cópia de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-copie"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-копия"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-kopija"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-kopia"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-kopya"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": " (копія)"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-bansao"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-复制"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "-複製"
+                }
+            ]
+        }
+    ]
+}

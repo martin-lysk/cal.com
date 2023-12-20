@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "sso_oidc_configuration_description",
+        "library.inlang.paraglideJs": "sso_oidc_configuration_description"
+    },
+    "id": "common_numbers_peel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بتكوين اتصال OIDC بموفر الهوية الخاص بك. يمكنك العثور على المعلومات المطلوبة في موفر هويتك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurace připojení OIDC k poskytovateli identity. Potřebné informace najdete u svého poskytovatele identity."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurér OIDC forbindelse til din identitetsudbyder. Du kan finde den påkrævede information hos din identitetsudbyder."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurieren Sie die OIDC-Verbindung zu Ihrem Identitätsanbieter. Sie finden die erforderlichen Informationen in Ihrem Identitätsanbieter."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure OIDC connection to your identity provider. You can find the required information in your identity provider."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure la conexión OIDC a su proveedor de identidad. Puede encontrar la información requerida en su proveedor de identidad."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurez la connexion OIDC à votre fournisseur d'identité. Vous pouvez trouver les informations requises dans votre fournisseur d'identité."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדרת חיבור OIDC לספק ההזדהות שלך. אתה יכול למצוא את כל המידע הדרוש אצל ספק ההזדהות שלך."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configura la connessione OIDC al tuo provider di identità. Puoi trovare le informazioni necessarie presso il tuo provider di identità."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ID プロバイダーへの OIDC 接続を構成します。必要な情報は ID プロバイダーで確認することができます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ID 공급자에 대한 OIDC 연결을 구성합니다. ID 공급자로부터 필요한 정보를 얻을 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configureer de OIDC-verbinding met uw identiteitsprovider. U kunt de vereiste informatie vinden bij uw identiteitsprovider."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skonfiguruj połączenie OIDC z dostawcą tożsamości. Wymagane informacje znajdziesz u dostawcy tożsamości."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurar a ligação OIDC com o seu fornecedor de identidades. Pode encontrar as informações necessárias no seu fornecedor de identidades."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure a conexão do OIDC com seu provedor de identidade. Confira as informações necessárias nele."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurați conexiunea OIDC la furnizorul dvs. de identitate. Puteți găsi informațiile necesare la furnizorul dvs. de identitate."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Настройте подключение OIDC к поставщику удостоверений. Необходимую информацию можно получить у поставщика."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurišite OIDC konekciju sa vašim provajderom identiteta. Možete pronaći tražene informacije kod svog provajdera identiteta."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurera OIDC-anslutningen till din identitetsleverantör. Du hittar nödvändig information i din identitetsprovider."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kimlik sağlayıcınızla OIDC bağlantısını yapılandırın. Gerekli bilgileri kimlik sağlayıcınızdan bulabilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Налаштуйте підключення OIDC до свого постачальника посвідчень. Потрібну інформацію можна знайти в постачальника посвідчень."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cấu hình kết nối OIDC với nhà cung cấp danh tính của bạn. Bạn có thể tìm thấy thông tin theo yêu cầu ở nhà cung cấp danh tính của mình."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "配置与您的身份提供程序的 OIDC 连接。您可以在您的身份提供程序中找到所需信息。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "設定 OIDC 連線至您的身分提供者。您可以在身分提供者中找到必要的資訊。"
+                }
+            ]
+        }
+    ]
+}

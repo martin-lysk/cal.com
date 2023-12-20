@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "api_key_modal_subtitle",
+        "library.inlang.paraglideJs": "api_key_modal_subtitle"
+    },
+    "id": "tired_plants_brush",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تتيح لك مفاتيح API إجراء مكالمات API لحسابك الخاص."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Klíče API vám umožňují provádět volání API pro váš vlastní účet."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "API-nøgler giver dig mulighed for at foretage API-opkald for din egen konto."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mit API-Schlüsseln können Sie API-Aufrufe für Ihren eigenen Account durchführen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "API keys allow you to make API calls for your own account."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Las claves API le permiten realizar llamadas API para su propia cuenta."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les clés API vous permettent d'effectuer des appels API pour votre propre compte."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מפתחות ממשק תכנות יישומים (API) מאפשרים לבצע קריאות לממשק תכנות יישומים עבור החשבון שלך."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le chiavi API consentono di effettuare chiamate API per il proprio account."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "API キーを使用すると、自分のアカウントを API で呼び出すことができます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "API 키를 사용하면 자신의 계정에 대해 API를 호출할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Met API-sleutels kunt API-aanroepen naar uw eigen account doen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "API nøkler lar deg foreta API anrop for kontoen din."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Klucze API umożliwiają wykonywanie wywołań API dla Twojego konta."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "As chaves de API permitem que invoque métodos da API para a sua própria conta."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chaves de API permitem criar chamadas de API para a sua própria conta."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cheile API vă permit să efectuați apeluri API pentru propriul dvs. cont."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ключи API позволяют совершать API-вызовы для вашего аккаунта."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "API ključevi vam omogućavaju da vršite API pozive za svoj nalog."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Med API-nycklar kan du göra API-samtal för ditt eget konto."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "API anahtarları, kendi hesabınız için API aramaları yapmanızı sağlar."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ключі API дають змогу здійснювати виклики API для вашого облікового запису."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Khoá API cho phép bạn thực hiện những cuộc gọi API cho tài khoản của chính mình."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "通过 API 密钥可以为您自己的帐户进行 API 调用。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "API 金鑰讓您能夠對自己的帳號進行 API 呼叫。"
+                }
+            ]
+        }
+    ]
+}

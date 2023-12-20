@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "calendar_error",
+        "library.inlang.paraglideJs": "calendar_error"
+    },
+    "id": "moody_bars_doubt",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "جرب إعادة توصيل التقويم بجميع الأذونات اللازمة"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zkuste znovu připojit kalendář se všemi nezbytnými oprávněními"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Prøv at genforbinde din kalender med alle nødvendige tilladelser"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etwas ist schiefgelaufen. Versuche deinen Kalender mit allen notwendigen Berechtigungen erneut zu verbinden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Try reconnecting your calendar with all necessary permissions"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Intenta volver a conectar tu calendario con todos los permisos necesarios"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une erreur est survenue, essayez de reconnecter votre calendrier avec toutes les autorisations nécessaires"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "משהו השתבש, נסה/י לחבר מחדש את לוח השנה עם כל ההרשאות הנחוצות"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Prova a riconnettere il calendario con tutti i permessi necessari"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "必要となるすべてのアクセス許可を用いてカレンダーをもう一度接続してみてください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "필요한 모든 권한으로 캘린더를 다시 연결해 보세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Probeer uw agenda opnieuw te verbinden met alle benodigde machtigingen"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Prøv å koble til kalenderen på nytt med alle nødvendige tillatelser"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Spróbuj ponownie połączyć swój kalendarz ze wszystkimi niezbędnymi uprawnieniami"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tente ligar novamente o seu calendário com todas as permissões necessárias"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Algo deu errado, tente reconectar seu calendário com todas as permissões necessárias"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Încercați să reconectați calendarul cu toate permisiunile necesare"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Попробуйте снова подключить календарь со всеми необходимыми разрешениями"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nešto nije kako treba. Pokušajte da se ponovo povežete sa kalendarom sa svim potrebnim dozvolama"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Försök att återansluta din kalender med alla nödvändiga behörigheter"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Takviminizi gerekli tüm izinlerle yeniden bağlamayı deneyin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Спробуйте знову підключитися до свого календаря з усіма необхідними дозволами."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có sự cố, hãy thử kết nối lại lịch của bạn với tất cả các quyền cần thiết"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "尝试使用所有必要的权限重新连接到您的日历"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "發生錯誤，請嘗試使用所有必要權限重新連至您的行事曆"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "charge_attendee",
+        "library.inlang.paraglideJs": "charge_attendee"
+    },
+    "id": "slimy_mammals_travel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تحصيل مبلغ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " من أحد الحضور"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Naúčtovat účastníkovi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Teilnehmer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " berechnen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Charge attendee "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cobrar al asistente "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Facturer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " au participant"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לחייב את המשתתף/ת ב-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Addebita "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " al partecipante"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "出席者に "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " を請求"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "참석자에게 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " 청구"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deelnemer "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " in rekening brengen"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Obciąż uczestnika kwotą "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cobrar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " ao participante"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cobrar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " do participante"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Percepeți "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " de la participant"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Списать с участника "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Naplatite učesniku "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Debitera deltagare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Katılımcıdan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " tahsil edin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Стягнути з учасника "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thu phí người tham gia một khoản "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "向参与者收取费用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "向與會者收取 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        }
+    ]
+}

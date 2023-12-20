@@ -1,0 +1,28 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "too_many_invites",
+        "library.inlang.paraglideJs": "too_many_invites"
+    },
+    "id": "easy_lines_learn",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You are limited to inviting a maximum of "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "nbUsers"
+                },
+                {
+                    "type": "Text",
+                    "value": " users at once."
+                }
+            ]
+        }
+    ]
+}

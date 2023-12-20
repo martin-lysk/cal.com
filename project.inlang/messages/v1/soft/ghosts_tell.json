@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "published",
+        "library.inlang.paraglideJs": "published"
+    },
+    "id": "soft_ghosts_tell",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Published"
+                }
+            ]
+        }
+    ]
+}

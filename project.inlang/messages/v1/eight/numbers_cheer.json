@@ -1,0 +1,24 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "join_event_location",
+        "library.inlang.paraglideJs": "join_event_location"
+    },
+    "id": "eight_numbers_cheer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Join "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventLocationType"
+                }
+            ]
+        }
+    ]
+}

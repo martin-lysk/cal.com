@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "sso_oidc_description",
+        "library.inlang.paraglideJs": "sso_oidc_description"
+    },
+    "id": "lucky_horses_build",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بتكوين OIDC SSO مع موفر الهوية الذي تختاره."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurace OIDC SSO s poskytovatelem identity podle vlastního výběru."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurér OIDC SSO med Identitetsudbyder efter eget valg."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurieren Sie OIDC SSO mit einem Identitätsanbieter Ihrer Wahl."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure OIDC SSO with Identity Provider of your choice."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure OIDC SSO con el proveedor de identidad de su elección."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurez le SSO OIDC avec le fournisseur d'identité de votre choix."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדר SSO מסוג OIDC עם ספק ההזדהות שאתה רוצה."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configura accesso SSO tramite OIDC con un provider di identità di tua scelta."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "お好みの ID プロバイダーを使用して OIDC を利用した SSO を構成します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "선택한 ID 공급자로 OIDC SSO를 구성합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configureer OIDC SSO met de identiteitsprovider van uw keuze."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skonfiguruj logowanie jednokrotne OIDC przy użyciu wybranego dostawcy tożsamości."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurar o SSO OIDC com o fornecedor de identidades à sua escolha."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure o OIDC SSO com o provedor de identidade de sua escolha."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurați SSO cu OIDC, apelând la furnizorul de identitate dorit."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Настройте единый вход на основе OIDC с использованием поставщика удостоверений на ваш выбор."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurišite OIDC SSO sa provajderom identiteta po vašem izboru."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurera OIDC SSO med önskad identitetsprovider."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seçtiğiniz Kimlik Sağlayıcı ile OIDC SSO'yu yapılandırın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Налаштуйте єдиний вхід через OIDC із вибраним постачальником посвідчень."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cấu hình OIDC SSO với Nhà cung cấp danh tính mà bạn chọn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "使用您选择的身份提供程序配置 OIDC SSO。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "使用自選的 Identity Provider 設定 OIDC SSO。"
+                }
+            ]
+        }
+    ]
+}

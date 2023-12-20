@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "view_overlay_calendar_events",
+        "library.inlang.paraglideJs": "view_overlay_calendar_events"
+    },
+    "id": "brave_maps_enter",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "طالع أحداث تقويمك لمنع التضارب بين الحجوزات."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zobrazení událostí v kalendáři, aby se zabránilo kolidujícím rezervacím."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sehen Sie sich Ihre Kalendertermine an, um Buchungskonflikte zu vermeiden."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "View your calendar events to prevent clashed booking."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consulte los eventos de su calendario para evitar el conflicto de reservas."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consultez les événements de votre calendrier afin d'éviter les réservations incompatibles."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ראה/י את האירועים שלך בלוח השנה כדי למנוע התנגשות בהזמנות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Visualizza gli eventi del tuo calendario per prevenire prenotazioni in conflitto."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "カレンダーのイベントを表示して予約が重ならないようにします。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약 충돌을 방지하려면 캘린더 이벤트를 확인하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bekijk uw agendagebeurtenissen om dubbele boekingen te voorkomen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zobacz wydarzenia kalendarza, aby zapobiec kolidującym rezerwacjom."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consulte os eventos do seu calendário para evitar agendamentos conflituantes."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veja seus eventos do calendário para evitar conflito nos agendamentos."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vizualizați evenimentele din calendar pentru a preveni conflictele între rezervări."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Просматривайте события календаря, чтобы не допустить накладок по времени при бронировании."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pregledajte događaje u vašem kalendaru da biste sprečili dvostruka zakazivanja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se dina kalenderhändelser för att förhindra krockade bokningar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyonların çakışmasını önlemek için takvim etkinliklerinizi görüntüleyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Переглядайте заходи у своєму календарі, щоб уникнути накладання бронювань."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Xem những sự kiện trong lịch để ngăn việc đặt lịch xung đột."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "查看您的日历活动以防止预约冲突。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "查看您的行事曆活動，避免預約發生衝突。"
+                }
+            ]
+        }
+    ]
+}

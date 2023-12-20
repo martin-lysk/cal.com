@@ -1,0 +1,336 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "duplicated_slugs_warning",
+        "library.inlang.paraglideJs": "duplicated_slugs_warning"
+    },
+    "id": "new_donuts_travel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لا يمكن إنشاء الفرق التالية بسبب تكرار الكلمات اللطيفة (Slug): "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Následující týmy nemohly být vytvořeny kvůli duplicitním slugům: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Die folgenden Teams konnten aufgrund von doppelten Slugs nicht erstellt werden: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The following teams couldn't be created due to duplicated slugs: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No se pudieron crear los siguientes equipos debido a slugs duplicados: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les équipes suivantes n'ont pas pu être créées en raison de slugs identiques : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא ניתן היה ליצור את הצוותים הבאים עקב רכיבי slug כפולים: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Non è stato possibile creare i seguenti team a causa di slug duplicati: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "以下のチームについては、スラッグ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                },
+                {
+                    "type": "Text",
+                    "value": " が重複しているため作成できませんでした。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "중복된 슬러그로 인해 다음 팀을 생성할 수 없습니다: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De volgende teams konden niet worden gemaakt vanwege dubbele slugs: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Następujących zespołów nie można było utworzyć z powodu zduplikowanych slugów: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "As seguintes equipas não puderam ser criadas devido à duplicação de slugs: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não foi possível criar as equipes a seguir devido a campos de dados dinâmicos: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Următoarele echipe nu au putut fi create ca urmare a unor sluguri duplicat: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не удалось создать следующие команды из-за дублирующихся слагов: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sledeći timovi se ne mogu kreirati zbog dupliranih slug-ova: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Följande team kunde inte skapas på grund av dubblerade sluggar: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aşağıdaki ekipler, yinelenen slug'lar nedeniyle oluşturulamadı: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не вдалося створити такі команди через дубльовані адреси: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Những nhóm sau không thể tạo do có slug trùng lặp: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "由于 slug 重复，无法创建以下团队："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "由於 slug 重複，無法建立下列團隊："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slugs"
+                }
+            ]
+        }
+    ]
+}

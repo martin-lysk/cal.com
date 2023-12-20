@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "admin_delete_organization_title",
+        "library.inlang.paraglideJs": "admin_delete_organization_title"
+    },
+    "id": "mean_walls_agree",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Delete organization?"
+                }
+            ]
+        }
+    ]
+}

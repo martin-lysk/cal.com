@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "enterprise_description",
+        "library.inlang.paraglideJs": "enterprise_description"
+    },
+    "id": "four_snakes_jog",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Upgrade to Enterprise to create your Organization"
+                }
+            ]
+        }
+    ]
+}

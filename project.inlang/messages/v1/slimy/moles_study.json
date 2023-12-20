@@ -1,0 +1,514 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "team_upgrade_banner_description",
+        "library.inlang.paraglideJs": "team_upgrade_banner_description"
+    },
+    "id": "slimy_moles_study",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "شكراً لك على تجربة خطة الفريق الجديدة التي نقدمها. لقد لاحظنا أن فريقك \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" بحاجة إلى الترقية."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Děkujeme vám za vyzkoušení našeho nového týmového plánu. Všimli jsme si, že váš tým „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "“ je nutné upgradovat."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tak fordi du har prøvet vores nye teamplan. Vi har bemærket at dit team \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" skal opgraderes."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vielen Dank, dass Sie unseren neuen Teamplan getestet haben. Wir haben festgestellt, dass Ihr Team „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "“ aktualisiert werden muss."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You haven't finished your team setup. Your team \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" needs to be upgraded."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gracias por probar nuestro nuevo plan de equipo. Notamos que su equipo \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" necesita actualizarse."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ez duzu taldea konfiguratzen bukatu. Zure \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" taldea bertsio-berritu behar duzu."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous n'avez pas terminé la configuration de votre équipe. Votre équipe « "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " » doit être mise à niveau."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אנחנו מודים לך על כך שניסית את החבילה החדשה שלנו לצוותים. שמנו לב שהצוות שלך, \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\", זקוק לשדרוג."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hvala vam što isprobavate naš novi plan za timove. Primijetili smo da se vaš tim „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "“ treba nadograditi."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Terimakasih telah mencoba paket tim kami. Kami perhatikan tim kamu \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" perlu diupgrade."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Grazie per aver provato il nostro piano team. Abbiamo notato che è necessario effettuare l'upgrade del tuo team \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "新しいチームプランをお試しいただき、ありがとうございます。あなたのチーム「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "」には、アップグレードが必要なようです。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "당사의 새로운 팀 플랜을 사용해 주셔서 감사합니다. 귀하의 \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" 팀에 업그레이드가 필요한 것으로 확인되었습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bedankt voor het testen van ons nieuwe teamabonnement. We hebben geconstateerd dat uw team \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" moet worden geüpgraded."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Takk for at du prøvde vår nye team-plan. Vi la merke til at teamet ditt \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" må oppgraderes."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dziękujemy za wypróbowanie naszego nowego planu zespołowego. Zauważyliśmy, że Twój zespół „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "” trzeba ulepszyć."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Obrigado por experimentar o nosso novo plano de equipa. Verificámos que a sua equipa \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" necessita de ser atualizada."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Agradecemos por testar nosso novo plano de equipe. Notamos que a sua equipe \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" precisa ser atualizada."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vă mulțumim că ați încercat noul nostru plan pentru echipe. Am observat că planul echipei dvs. „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "” necesită un upgrade."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Спасибо, что попробовали наш новый тариф Team. Для работы с командой «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» необходимо изменить тариф."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hvala vam što isprobavate naš novi plan za timove. Primetili smo da vaš tim „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "“ treba da se nadogradi."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tack för att du testade vår nya teamplan. Vi märkte att ditt team \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" måste uppgraderas."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yeni ekip planımızı denediğiniz için teşekkür ederiz. \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" adlı ekibinizin yükseltilmesi gerektiğini fark ettik."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Дякуємо, що спробували наш новий план для команд! Ми помітили, що вашу команду «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» потрібно перевести на план вищого рівня."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cám ơn bạn đã dùng thử gói kế hoạch mới dành cho nhóm. Chúng tôi để ý thấy nhóm \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" của bạn cần được nâng cấp."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "感谢您试用我们的新团队计划。我们注意到您的团队“"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "”需要升级。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "謝謝您試用我們新的團隊方案。我們注意到您的團隊「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "」需要升級。"
+                }
+            ]
+        }
+    ]
+}

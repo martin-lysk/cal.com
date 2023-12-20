@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "connecting_you_to_someone",
+        "library.inlang.paraglideJs": "connecting_you_to_someone"
+    },
+    "id": "better_flies_help",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We are connecting you to someone."
+                }
+            ]
+        }
+    ]
+}

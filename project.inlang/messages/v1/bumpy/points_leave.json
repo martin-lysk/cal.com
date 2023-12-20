@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "saml_email_required",
+        "library.inlang.paraglideJs": "saml_email_required"
+    },
+    "id": "bumpy_points_leave",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يُرجى إدخال بريد إلكتروني حتى نتمكن من العثور على مزود هوية SAML الخاص بك"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zadejte prosím e-mail, abychom mohli určit vašeho SAML Identity Providera"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Indtast venligst en e-mail, så vi kan finde din SAML Identity Provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte geben Sie eine E-Mail ein, damit wir Ihren SAML Anbieter finden können"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please enter an email so we can find your SAML Identity Provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por favor, introduce un correo electrónico para que podamos encontrar tu Proveedor de Identidad SAML"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez saisir une adresse e-mail pour que nous puissions trouver votre fournisseur d'identité SAML"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הזן כתובת דוא\"ל כדי שנוכל למצוא את ספק זהויות SAML שלך"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inserisci un indirizzo email che consenta di individuare il tuo provider di identità SAML"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SAML ID プロバイダーを見つけるために、メールアドレスを入力してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SAML ID 제공자를 찾을 수 있도록 이메일을 입력하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voer een e-mailadres in zodat we uw SAML-identiteitsprovider kunnen vinden"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skriv inn en e-post slik at vi kan finne SAML Identitetsleverandøren din"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wprowadź e-mail, abyśmy mogli znaleźć dostawcę tożsamości SAML"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por favor insira um email para que seja possível encontrar o seu fornecedor de identidade de SAML"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por favor insira um endereço de e-mail para que possamos encontrar o seu Provedor de Identidade"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduceți un e-mail pentru a vă putea găsi furnizorul de identitate SAML"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пожалуйста, введите адрес электронной почты, чтобы мы могли найти ваш SAML идентификатор провайдера"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Molimo vas, unesite vašu e-poštu da bismo našli vaš SAML Identity Provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ange en e-postadress så att vi kan hitta din SAML identitetsleverantör"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SAML Kimlik Sağlayıcınızı bulabilmemiz için lütfen bir e-posta girin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введіть електронну адресу, щоб ми могли знайти вашого постачальника посвідчень SAML"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vui lòng nhập email để chúng tôi có thể tìm thấy Nhà cung cấp danh tính SAML của bạn"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请输入您的邮箱，以便我们找到您的 SAML 身份提供方"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請輸入讓我們可以找到 SAML 身分提供者的電子郵件"
+                }
+            ]
+        }
+    ]
+}

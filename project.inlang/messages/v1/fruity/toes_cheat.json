@@ -1,0 +1,380 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_type_updated_successfully",
+        "library.inlang.paraglideJs": "event_type_updated_successfully"
+    },
+    "id": "fruity_toes_cheat",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم تحديث نوع الحدث "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Typ události "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " byl úspěšně aktualizován"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " begivenhedstype blev opdateret"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " Termintyp erfolgreich aktualisiert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " event type updated successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tipo de evento actualizado con éxito"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " type d'événement mis à jour avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "עדכון האירוע מסוג "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " בוצע בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tipo di evento aggiornato con successo"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " イベント種別が正常に更新されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 이벤트 타입이 성공적으로 업데이트되었습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Evenement is bijgewerkt"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " hendelsestype ble oppdatert"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " typ wydarzenia został pomyślnie zaktualizowany"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tipo de evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " atualizado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tipo de evento atualizado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tip de eveniment actualizat cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Тип события "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " успешно обновлен"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tip događaja uspešno ažuriran"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " har uppdaterats"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinlik türü başarıyla güncellendi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Тип заходу «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": "» оновлено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã cập nhật thành công loại sự kiện "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 活动类型更新成功"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "成功更新活動類型 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        }
+    ]
+}

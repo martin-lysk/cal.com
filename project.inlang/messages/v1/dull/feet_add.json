@@ -1,0 +1,424 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "admin_org_notification_email_body_part1",
+        "library.inlang.paraglideJs": "admin_org_notification_email_body_part1"
+    },
+    "id": "dull_feet_add",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم إنشاء منظمة بعيار \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\".<br /><br />يرجى التأكد من تكوين سجل DNS الخاص بك لتحديد النطاق الفرعي المقابل للمنظمة الجديدة إلى حيث يعمل التطبيق الرئيسي. وإلا فلن تعمل المنظمة.<br /><br />هنا لديك فقط الخيارات الأساسية لتكوين نطاق فرعي للإشارة إلى تطبيقهم حتى يُحمّل صفحة الملف الشخصي للمنظمة.<br /><br />يمكنك القيام بذلك إما بواسطة السجل A:"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Byla vytvořena organizace se slugem „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "“.<br /><br />Zkontrolujte prosím, zda máte nakonfigurovaný registr DNS tak, aby subdoména odpovídající nové organizaci směřovala na místo, kde je spuštěna hlavní aplikace. Jinak organizace nebude fungovat.<br /><br />Tady jsou jen zcela základní možnosti, jak nakonfigurovat subdoménu tak, aby směřovala na příslušnou aplikaci a načítala profilovou stránku organizace.<br /><br />Můžete to udělat buď pomocí záznamu typu A:"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Eine Organisation mit slug \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" wurde erstellt.<br /><br />Bitte konfigurieren Sie Ihre DNS-Registry so, dass die Subdomain der neuen Organisation auf die Hauptanwendung verweist. Andernfalls wird die Organisation nicht funktionieren.<br /><br />Hier sind nur die grundlegenden Optionen, um eine Subdomain so zu konfigurieren, dass sie auf ihre App verweist, so dass sie die Organisationsprofilseite lädt.<br /><br />SIe können es entweder mit dem A Record machen:"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "An organization with slug \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" was created.<br /><br />Please be sure to configure your DNS registry to point the subdomain corresponding to the new organization to where the main app is running. Otherwise the organization will not work.<br /><br />Here are just the very basic options to configure a subdomain to point to their app so it loads the organization profile page.<br /><br />You can do it either with the A Record:"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se creó una organización con slug \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\".<br /><br />Asegúrese de configurar su registro DNS para que apunte el subdominio correspondiente a la nueva organización hacia donde se ejecuta la aplicación principal. De lo contrario, la organización no funcionará.<br /><br />Estas son solo las opciones muy básicas para configurar un subdominio para que apunte a su aplicación para que cargue la página de perfil de la organización.<br /><br />Puede hacerlo ya sea con el Registro A:"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une organisation avec le slug « "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": " » a été créée.<br /><br />Assurez-vous de configurer votre registre DNS pour pointer le sous-domaine correspondant à la nouvelle organisation où l'application principale est en cours d'exécution. Autrement, l'organisation ne fonctionnera pas.<br /><br />Voici les options de base pour configurer un sous-domaine pour qu'il pointe vers son application afin qu'il charge la page de profil de l'organisation.<br /><br />Vous pouvez le faire soit avec l'enregistrement A :"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נוצר ארגון עם רכיב ה-slug ‏\""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\".<br /><br />חשוב להקפיד להגדיר את רשם ה-DNS כך שיפנה את התת-דומיין המקביל לארגון החדש למיקום שבו האפליקציה הראשית פועלת. אחרת, הארגון לא יוכל לפעול.<br /><br />לפניך פירוט של האפשרויות הבסיסיות ממש להגדרת תת-דומיין כך שיפנה לאפליקציה שלו על מנת שדף הפרופיל של הארגון ייטען.<br /><br />אפשר לעשות את זה עם רשומת A:"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "È stata creata un'organizzazione con lo slug \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\".<br /><br />Assicurati di configurare il registro DNS in modo che il sottodominio corrispondente alla nuova organizzazione punti verso dov'è eseguita l'applicazione principale, altrimenti l'organizzazione non funzionerà.<br /><br />Ecco solo alcune opzioni molto basilari per configurare un sottodominio in modo che punti alla propria app e carichi la pagina del profilo dell'organizzazione.<br /><br />È possibile farlo utilizzando il record A:"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "スラッグ「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "」を持つ組織が作成されました。<br /><br />新しい組織に対応するサブドメインが必ずメインアプリを実行する場所を指すように DNS 登録を設定してください。そうでなければ、組織は機能しません。<br /><br />こちらはサブドメインが組織のアプリを指し示し、組織のプロフィールページを読み込むように設定するためのごく基本的なオプションです。<br /><br />これは次のいずれかで設定できます。A レコード："
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "슬러그 \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" 있는 조직이 생성되었습니다.<br /><br />새 조직에 해당하는 하위 도메인이 기본 앱이 실행되는 위치를 가리키도록 DNS 레지스트리를 구성하십시오. 구성하지 않으면 조직은 작동하지 않습니다.<br /><br />다음은 하위 도메인이 앱을 가리키도록 구성하여 조직 프로필 페이지를 로드하는 매우 기본적인 옵션입니다.<br /><br />할 수 있는 작업은 A 레코드를 사용하는 것입니다:"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Een organisatie met de slug \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" is gemaakt.<br /><br />Zorg ervoor dat u uw DNS-register configureert om het subdomein dat overeenkomt met de nieuwe organisatie te verwijzen naar waar de hoofd-app draait. Anders werkt de organisatie niet.<br /><br />Hier zijn slechts de basisopties om een subdomein te laten verwijzen naar de app, zodat de organisatieprofielpagina wordt geladen.<br /><br />U kunt dit doen met het A-record:"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utworzono organizację ze slugiem „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "”.<br /><br />Pamiętaj o skonfigurowaniu rejestru DNS, aby wskazać subdomenę nowej organizacji, na górej jest uruchomiona główna aplikacja. W przeciwnym wypadku organizacja nie będzie działać.<br /><br />Poniżej podano kilka najbardziej podstawowych opcji do skonfigurowania subdomeny, by kierowała do aplikacji, która wczyta stronę profilową organizacji.<br /><br />Możesz zrobić to albo za pomocą rekordu A:"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Foi criada uma organização com o slug \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\".<br /><br />Certifique-se que configura o seu registo de DNS, para apontar o subdomínio correspondente à nova organização para onde a aplicação principal está a funcionar. Caso contrário, a organização não vai funcionar.<br /><br />Aqui estão apenas as opções muito básicas para configurar um subdomínio, para que o mesmo aponte para a sua aplicação e para que esta carregue a página de perfil da organização.<br /><br />Pode fazer isto com o A Record:"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Foi criada uma organização com um campo de dados dinâmicos \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\".<br /><br />Configure seu registro de DNS para apontar o subdomínio correspondente da nova organização para onde o aplicativo principal está sendo executado. Se não fizer isso, a organização não funcionará.<br /><br />Confira algumas opções muito básicas de configuração para que o subdomínio aponte para seu aplicativo e a página do perfil da organização seja carregada.<br /><br />É possível fazer isso com um registro de endereço:"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A fost creată o organizație cu slugul „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "”.<br /><br />Aveți grijă să vă configurați registrul DNS astfel încât să indice subdomeniul aferent noii organizații pe care rulează aplicația principală. În caz contrar, organizația nu va funcționa.<br /><br />Aici găsiți doar opțiunile de bază pentru a configura unui subdomeniu să direcționeze către aplicația sa astfel încât să încarce pagina de profil a organizației.<br /><br />Puteți realiza acest lucru fie cu înregistrarea A:"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Создана организация со слагом \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\".<br /><br />Обязательно настройте реестр DNS, указав поддомен, соответствующий новой организации, в котором выполняется основное приложение. В противном случае организация не сможет работать.<br /><br />Вот несколько базовых параметров для настройки поддомена, указывающих на приложение и позволяющих ему загрузить страницу профиля организации.<br /><br />Это также можно сделать с помощью записи A:"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizacija sa slug-om „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "” je kreirana. <br /><br />Uverite se da je konfigurisan DNS registar koji vodi ka poddomenu koji odgovara novoj organizaciji kada je pokrenuta glavna aplikacija. U suprotnom organizacija neće raditi.<br /><br /> Ovo su osnovne mogućnosti za konfigurisanje poddomena koji vodi ka njihovoj aplikaciji da bi se učitala profilna strana organizacije.<br /><br />To možete takođe da uradite sa A zapisom:"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En organisation med slug \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" skapades.<br /><br />Se till att konfigurera ditt DNS-register så att underdomänen motsvarar den nya organisationen där huvudappen körs. Annars kommer organisationen inte att fungera.<br /><br />Här är bara de allra grundläggande alternativen för att konfigurera en underdomän för att peka på deras app så den laddar organisationens profilsida.<br /><br />Du kan göra det antingen med A-posten:"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" kısa adres adıyla bir kuruluş oluşturuldu.<br /><br />Lütfen DNS kaydınızı yeni kuruluşa karşılık gelen alt alan adını ana uygulamanın çalıştığı yere yönlendirecek şekilde yapılandırdığınızdan emin olun. Aksi halde kuruluş çalışmayacaktır.<br /><br />Bir alt alan adını, kuruluş profil sayfasını yükleyecek şekilde uygulamalarına işaret edecek şekilde yapılandırmaya yönelik en temel seçenekleri burada bulabilirsiniz.<br />< br />Bunu A Record ile de yapabilirsiniz:"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Створено організацію з URL-адресою «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "».<br /><br />Налаштуйте реєстр DNS, щоб піддомен, який відповідає новій організації, указував на те місце, де запущено основний застосунок. Інакше організація не працюватиме.<br /><br />Ось кілька базових варіантів того, як налаштувати, щоб піддомен вказував на відповідний застосунок і завантажував сторінку профілю організації.<br /><br />Це можна зробити за допомогою запису А:"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Một tổ chức kèm slug \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "\" đã được tạo.<br /><br />Hãy bảo đảm cấu hình registry DNS để cho tên miền phụ tương ứng với tổ chức mới được trỏ đến chỗ chạy ứng dụng chính. Không thì tổ chức sẽ không vận hành được.<br /><br />Đây chỉ là một số tuỳ chọn rất cơ bản để cấu hình tên miền phụ để trỏ đến ứng dụng của họ sao cho nó tải được trang hồ sơ của tổ chức.<br /><br />Bạn có thể làm việc này bằng A Record:"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已创建一个具有“"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "”slug 的组织。<br /><br />请确保将 DNS 注册表配置为将与新组织对应的子域指向正在运行主应用的位置。否则组织将无法运作。<br /><br />以下是几个非常基本的选项，用于将一个子域配置为指向其应用，以便加载组织资料页面。<br /><br />您可以使用 A 记录执行此操作："
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已建立 slug 為「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgSlug"
+                },
+                {
+                    "type": "Text",
+                    "value": "」的組織。<br /><br />請務必設定您的 DNS 登錄，以指向對應至主要應用程式運作位置的新組織子網域，否則組織將無法運作。<br /><br />以下是指向應用程式的子網域基本設定選項，如此一來系統才能載入組織設定檔案頁面。<br /><br />您可以也可以使用 A 記錄完成："
+                }
+            ]
+        }
+    ]
+}

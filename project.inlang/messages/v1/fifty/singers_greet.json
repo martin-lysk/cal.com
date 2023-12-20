@@ -1,0 +1,392 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "availability_updated_successfully",
+        "library.inlang.paraglideJs": "availability_updated_successfully"
+    },
+    "id": "fifty_singers_greet",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم تحديث جدول "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Plán "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " byl úspěšně aktualizován"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tidsplan blev opdateret"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " Zeitplan erfolgreich aktualisiert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " schedule updated successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El horario de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " se actualizó correctamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Planning "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mis à jour avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "עדכון התזמון "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " בוצע בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disponibilità aggiornata con successo"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " スケジュールが正常に更新されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 일정이 성공적으로 업데이트되었습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beschikbaarheid bijgewerkt"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tidsplan er oppdatert"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pomyślnie zaktualizowano harmonogram "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Horário "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " actualizado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Agenda "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " criada com êxito"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Disponibilitatea actualizată cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Расписание "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " успешно обновлено"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Распоред "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " је успешно ажуриран"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Schemat för "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " har uppdaterats"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " planı başarıyla güncellendi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Розклад «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» оновлено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã cập nhật thành công lịch "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 日程更新成功"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 日程更新成功"
+                }
+            ]
+        }
+    ]
+}

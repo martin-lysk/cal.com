@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "seats_and_no_show_fee_error",
+        "library.inlang.paraglideJs": "seats_and_no_show_fee_error"
+    },
+    "id": "tame_lizards_enter",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لا يمكن حاليًا تمكين المقاعد وفرض رسوم عدم الحضور"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "V současné době nelze povolit místa a strhnout poplatek za nedostavení se"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aktuell können keine Plätze aktiviert oder eine Gebühr für das Nichterscheinen berechnet werden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Currently cannot enable seats and charge a no-show fee"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Actualmente, no se pueden habilitar cupos ni cobrar una tarifa por no presentarse"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il n'est pas possible d'activer les places et de facturer des frais d'absence pour le moment"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נכון לעכשיו, אי אפשר להפעיל מקומות ולחייב דמי אי-הגעה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Attualmente non è possibile abilitare i posti e addebitare la penale per mancata presentazione"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "現在、座席の有効化と不参加費用の請求はできません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "현재 좌석을 활성화할 수 없으므로 노쇼 수수료를 부과할 수 없습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kan op dit moment geen plaatsen inschakelen en afwezigheidsvergoeding in rekening brengen"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Obecnie nie można udostępnić miejsc ani naliczyć opłaty za niestawienie się."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Atualmente, não é possível ativar lugares e cobrar uma taxa de não-comparência"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Neste momento, não é possível habilitar assentos e cobrar taxa de não comparecimento"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Momentan, nu se pot elibera locuri și nici nu se poate percepe o taxă de neprezentare"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Списание платы за неявку при использовании выбора места в настоящее время не поддерживается"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trenutno nije moguće aktiviranje mesta i naplata naknade za izostanak"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "För närvarande går det inte att aktivera platser och ta ut en avgift för utebliven närvaro"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Şu anda koltuklar etkinleştirilemiyor ve katılmama ücreti tahsil edilemiyor"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Зараз неможливо активувати місця і стягнути плату за відсутність"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hiện không thể kích hoạt chỗ ngồi và tính khoản phí vắng mặt"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "当前无法启用位置和收取失约费"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "目前無法啟用座位並收取缺席費"
+                }
+            ]
+        }
+    ]
+}

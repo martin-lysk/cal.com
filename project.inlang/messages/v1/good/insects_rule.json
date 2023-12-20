@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_type_not_found",
+        "library.inlang.paraglideJs": "event_type_not_found"
+    },
+    "id": "good_insects_rule",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "EventType not Found"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "fetching_calendars_error",
+        "library.inlang.paraglideJs": "fetching_calendars_error"
+    },
+    "id": "cold_rice_camp",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدثت مشكلة أثناء جلب التقويمات الخاصة بك. يرجى <1>إعادة المحاولة</1> أو الاتصال بدعم العملاء."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při ukládání vašich údajů došlo k problému. Zkuste to znovu, <1>případně</1> se obraťte na zákaznickou podporu."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Der opstod et problem med at hente dine kalendere. Venligst <1>prøv igen</1> eller kontakt kundeservice."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beim Abrufen Ihrer Kalender ist ein Problem aufgetreten. Bitte <1>versuchen Sie es erneut</1> oder wenden Sie sich an den Support."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "There was a problem fetching your calendars. Please <1>try again</1> or reach out to customer support."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se produjo un problema al recuperar sus calendarios. <1>Inténtelo de nuevo</1> o contacte con el servicio de atención al cliente."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un problème est survenu lors de la récupération de vos calendriers. Veuillez <1>réessayer</1> ou contacter le service client."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אירעה בעיה בטעינת לוחות השנה שלך. <1>נסה/י שוב</1> או פנה/י למחלקת תמיכת הלקוחות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si è verificato un problema durante il recupero dei calendari. <1>Riprova</1> o contatta l'assistenza clienti."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "カレンダーの取得中にエラーが発生しました。<1>もう一度お試しいただく</1>か、カスタマーサポートまでお問い合わせください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "캘린더를 가져오는 중 문제가 발생했습니다. <1>다시 시도</1>하거나 고객 지원에 문의하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is een probleem opgetreden bij het ophalen van uw agenda's. <1>Probeer het opnieuw</1> of neem contact op met de klantenservice."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det oppsto et problem med å hente kalenderne dine. Vennligst <1>prøv igjen</1> eller ta kontakt med kundeservice."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podczas pobierania kalendarzy wystąpił problem. <1>Spróbuj ponownie</1> lub skontaktuj się z pomocą techniczną."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um problema ao obter os seus calendários. Por favor, <1>tente novamente</1> ou contacte o apoio ao cliente."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Houve um problema ao buscar suas agendas. <1>Tente novamente</1> ou entre em contato com o suporte ao cliente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A survenit o problemă legată de recuperarea calendarelor dvs. <1>Încercați din nou</1> sau contactați serviciul de asistență pentru clienți."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ошибка при загрузке календарей. <1>Попробуйте еще раз</1> или обратитесь в службу поддержки."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Došlo je do problema prilikom dobavljanja vaših kalendara. <1>Pokušajte ponovo</1> ili se obratite korisničkoj podršci."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det gick inte att hämta dina kalendrar. <1>Försök igen</1> eller kontakta kundtjänst."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Takvimleriniz alınırken bir sorun oluştu. Lütfen <1>tekrar deneyin</1> veya müşteri destek ekibiyle iletişme geçin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Під час отримання календарів виникла проблема. <1>Повторіть спробу</1> або зверніться в службу підтримки."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có vấn đề khi tìm dữ liệu của bạn. Vui lòng <1>thử lại</1> hoặc liên hệ với bộ phận hỗ trợ khách hàng."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "获取您的日历时出现问题。请<1>重试</1>或联系客户支持。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "擷取行事曆時發生問題。請<1>再試一次</1>，或聯絡客服支援團隊。"
+                }
+            ]
+        }
+    ]
+}

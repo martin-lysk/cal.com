@@ -1,0 +1,550 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "error_message",
+        "library.inlang.paraglideJs": "error_message"
+    },
+    "id": "upset_bobcats_sit",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "كانت رسالة الخطأ: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chybová zpráva: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fejlmeddelelsen var: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Die Fehlermeldung war: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Το μήνυμα σφάλματος ήταν: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The error message was: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El mensaje de error fue: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Errore-mezua honakoa ian da: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le message d'erreur était : « "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": " »"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הודעת השגיאה הייתה: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Poruka o grešci je bila: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pesan kesalahannya adalah: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il messaggio di errore era: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "エラーメッセージ: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "오류 메시지는: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De foutmelding was: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Feilmeldingen var: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Błąd: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A mensagem de erro: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A mensagem de erro: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mesajul de eroare a fost: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Сообщение об ошибке: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Poruka o grešci je bila: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Felmeddelandet var: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "பிழை செய்தி: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hata mesajı: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Повідомлення про помилку: «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thông báo lỗi là: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "错误消息：'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "錯誤訊息是：'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "errorMessage"
+                },
+                {
+                    "type": "Text",
+                    "value": "'"
+                }
+            ]
+        }
+    ]
+}

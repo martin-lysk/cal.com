@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "installed_app_calendar_description",
+        "library.inlang.paraglideJs": "installed_app_calendar_description"
+    },
+    "id": "gentle_poets_see",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بتعيين التقويمات للتحقق من وجود تعارضات لمنع الحجوزات المزدوجة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nastavte si kalendáře, ať můžete kontrolovat konflikty a zabránit tak dvojím rezervacím."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Indstil kalenderne til at tjekke for konflikter, for at forhindre dobbeltbookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Legen Sie den/die Kalender in denen nach Konflikten gesucht werden sollen fest, um Doppelbuchungen zu vermeiden."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Set the calendars to check for conflicts to prevent double bookings."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure el(los) calendario(s) para comprobar conflictos y evitar reservas duplicadas."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Définissez les calendriers pour vérifier les conflits afin d'éviter les doubles réservations."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדר/הגדירח את לוחות השנה כדי לבדוק אם יש התנגשויות על מנת למנוע כפל הזמנות."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Imposta uno o più calendari per controllare i conflitti ed evitare doppie prenotazioni."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ダブルブッキングを防ぐために、カレンダーの重複をチェックするように設定します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "중복 예약을 방지하기 위해 충돌을 확인하도록 캘린더를 설정합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Stel de agenda('s) in om te controleren op conflicten om dubbele boekingen te voorkomen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Still inn kalenderene for å se etter konflikter for å forhindre dobbelt-bookinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ustaw kalendarze, aby wykrywać konflikty i unikać podwójnych rezerwacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Defina o(s) calendário(s) para verificar se existem conflitos e assim evitar marcações sobrepostas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Defina o(s) calendário(s) para verificar se há conflitos e evitar reservas duplas."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pentru a evita rezervările suprapuse, configurează calendarele astfel încât să poată verifica existența conflictelor."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Настройте проверку календарей на предмет конфликтов для избежания двойного бронирования."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podesite kalendar(e) da biste proverili da li postoje konflikti i time sprečili dvostruka zakazivanja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ställ in kalendrar att söka efter konflikter för att undvika dubbelbokningar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Çifte rezervasyonları önlemek amacıyla çakışmaları kontrol etmek için takvimleri ayarlayın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Налаштуйте календарі, щоб перевіряти, чи немає конфліктів у розкладі, і уникати подвійних бронювань."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đặt (các) lịch làm nhiệm vụ kiểm tra xung đột nhằm ngăn tình trạng đặt lịch trùng."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "设置日历以检查冲突，防止重复预约。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "設定行事曆來檢查衝突，以避免重複預約。"
+                }
+            ]
+        }
+    ]
+}

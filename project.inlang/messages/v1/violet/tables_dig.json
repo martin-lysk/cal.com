@@ -1,0 +1,530 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "this_app_requires_connected_account",
+        "library.inlang.paraglideJs": "this_app_requires_connected_account"
+    },
+    "id": "violet_tables_dig",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " يتطلب حساب "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " متصل"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vyžaduje připojený účet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " benötigt ein verbundenes "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Konto"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " requires a connected "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " account"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " requiere una cuenta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " conectada"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " requiert un compte "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " connecté"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " דורש חשבון "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " מחובר"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " richiede un account di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " connesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " には接続された "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " アカウントが必要です"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 연결된 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 계정이 필요합니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vereist een gekoppeld "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-account"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplikacja "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " wymaga podłączonego konta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " requer a associação de uma conta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " requer uma conta de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " conectada"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " necesită un cont "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " conectat"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Для "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " требуется подключенный аккаунт "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zahteva povezani "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nalog"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " kräver ett anslutet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-konto"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " க்கு இணைக்கப்பட்ட "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " கணக்குத் தேவை"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " bağlı bir "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " hesabı gerektirir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Щоб використовувати "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", потрібно підключити обліковий запис "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " cần có một tài khoản "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã kết nối"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 需要已连接的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 账户"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 需要已連結的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "dependencyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 帳號"
+                }
+            ]
+        }
+    ]
+}

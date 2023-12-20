@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "saml_sp_description",
+        "library.inlang.paraglideJs": "saml_sp_description"
+    },
+    "id": "hungry_paws_brake",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيطلب منك موفر الهوية (IdP) التفاصيل التالية لإكمال تهيئة تطبيق SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Váš poskytovatel identity (IdP) vás požádá, abyste dokončili konfiguraci SAML aplikace."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din identitetsudbyder (IdP) vil bede dig om følgende oplysninger for at fuldføre SAML-programmets konfiguration."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ihr Identitätsanbieter (IdP) bittet Sie um die folgenden Details, um die Konfiguration der SAML Anwendung abzuschließen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Your Identity Provider (IdP) will ask you for the following details to complete the SAML application configuration."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Su proveedor de identidad (IdP) le pedirá los siguientes detalles para completar la configuración de la aplicación SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Votre fournisseur d'identité (IdP) vous demandera les détails suivants pour compléter la configuration de l'application SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ספק הזהויות (IdP) שלך יבקש את הפרטים הבאים כדי להשלים את ההגדרה של אפליקציית SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il tuo provider di identità (IdP) ti chiederà le seguenti informazioni per completare la configurazione dell'applicazione SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ID プロバイダー (IdP) は、SAML アプリケーションの構成を完了するために以下の詳細情報を要求します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "IdP(Identity Provider)가 SAML 애플리케이션 구성을 완료하기 위해 다음 정보를 요청합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uw identiteitsprovider (IdP) zal u om de volgende gegevens vragen om de configuratie van de SAML-applicatie te voltooien."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Identitetsleverandøren din (IdP) vil be deg om følgende detaljer for å fullføre konfigurasjonen av SAML applikasjonen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Twój dostawca tożsamości poprosi Cię o podanie następujących danych w celu dokończenia konfiguracji aplikacji SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O seu Fornecedor de identidade (IdP) irá solicitar os seguintes detalhes para concluir a configuração da aplicação SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seu Provedor de Identidade (IdP) solicitará os seguintes detalhes para concluir a configuração da aplicação SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Furnizorul dvs. de identitate (IdP) vă va solicita următoarele detalii pentru a finaliza configurarea aplicației SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Для того чтобы завершить настройку SAML-приложения, ваш поставщик удостоверений (IdP) запросит у вас следующую информацию."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vaš Dobavljač identiteta (IdP) će od vas tražiti sledeće informacije da biste dovršili konfiguraciju SAML aplikacije."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din identitetsleverantör (IdP) kommer att be dig om följande uppgifter för att slutföra SAML-programkonfigurationen."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kimlik Sağlayıcınız (IdP), SAML uygulama yapılandırmasını tamamlamak için sizden aşağıdaki bilgileri isteyecektir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваш постачальник посвідчень (IdP) попросить вас надати наведені нижче дані, щоб завершити налаштування додатка SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nhà cung cấp danh tính (IdP) của bạn sẽ hỏi bạn một số chi tiết sau để hoàn thành việc cấu hình ứng dụng SAML."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的身份提供程序 (IdP) 将要求您提供以下详细信息以完成 SAML 应用程序配置。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的 Identity Provider (IdP) 會要求您提供下列詳細資料，以完成 SAML 應用程式設定。"
+                }
+            ]
+        }
+    ]
+}

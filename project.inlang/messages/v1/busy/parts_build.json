@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "sso_configuration_description",
+        "library.inlang.paraglideJs": "sso_configuration_description"
+    },
+    "id": "busy_parts_build",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بتهيئة SAML/OIDC SSO والسماح لأعضاء الفريق بتسجيل الدخول باستخدام موفر الهوية"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurace SAML/OIDC SSO a umožnění členům týmu přihlašování prostřednictvím poskytovatele identity"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurer SAML/OIDC SSO og tillad teammedlemmer at logge ind ved hjælp af en Identitetsudbyder"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SAML/OIDC SSO konfigurieren und Teammitgliedern erlauben, sich mit einem Identitätsanbieter anzumelden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure SAML/OIDC SSO and allow team members to login using an Identity Provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure SAML/OIDC SSO y permita que los miembros del equipo inicien sesión con un proveedor de identidad"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurez le SSO SAML/OIDC et autorisez les membres d'équipe à se connecter à l'aide d'un fournisseur d'identité."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדר SSO מסוג SAML/OIDC ואפשר לחברי הצוות לבצע כניסה עם ספק הזדהות"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configura accesso SSO tramite SAML/OIDC e consenti ai membri del team di accedere utilizzando un provider di identità"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SAML/OIDC SSO を構成し、チームメンバーが ID プロバイダーを使用してログインできるようにします"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SAML/OIDC SSO를 구성하고 팀원이 ID 공급자를 사용하여 로그인하도록 허용"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SAML/OIDC SSO configureren en teamleden laten inloggen met behulp van een identiteitsprovider"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skonfiguruj logowanie jednokrotne SAML/OIDC i zezwól członkom zespołu na logowanie się przy użyciu dostawcy tożsamości"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurar o SSO SAML/OIDC e permitir que os membros da equipa se autentiquem utilizando um fornecedor de identidades"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure o SAML/OIDC SSO e permita que membros da equipe façam login com um provedor de identidade"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurați SSO cu SAML/OIDC și permiteți membrilor echipei să se conecteze folosind un furnizor de identitate"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Настройте единый вход на основе SAML или OIDC и разрешите участникам команды входить с помощью поставщика удостоверений"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurišite SAML/OIDC SSO i omogućite članovima tima da se prijave korišćenjem Identity Provider-a"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurera SAML/OIDC SSO och tillåt teammedlemmar att logga in med en identitetsprovider"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SAML/OIDC SSO'yu yapılandırın ve ekip üyelerinin bir Kimlik Sağlayıcı kullanarak oturum açmasına izin verin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Налаштуйте єдиний вхід через SAML/OIDC і дайте змогу учасникам команди входити за допомогою постачальника посвідчень"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cấu hình SAML/OIDC SSO và cho phép thành viên nhóm đăng nhập bằng cách dùng một Nhà cung cấp danh tính"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "配置 SAML/OIDC SSO 并允许团队成员使用身份提供程序登录"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "設定 SAML/OIDC SSO，並允許團隊成員使用 Identity Provider 登入"
+                }
+            ]
+        }
+    ]
+}

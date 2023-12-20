@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "filters",
+        "library.inlang.paraglideJs": "filters"
+    },
+    "id": "chatty_radios_matter",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Filters"
+                }
+            ]
+        }
+    ]
+}

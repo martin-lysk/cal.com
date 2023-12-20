@@ -1,0 +1,364 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_invite_team_bulk",
+        "library.inlang.paraglideJs": "email_invite_team_bulk"
+    },
+    "id": "short_webs_hear",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم دعوة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " من المستخدمين"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Počet pozvaných uživatelů: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " Benutzer wurden eingeladen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " users have been invited"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se han invitado "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " usuarios"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " utilisateurs ont été invités"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " משתמשים הוזמנו"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " utenti sono stati invitati"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 人のユーザーが招待されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "사용자 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": "명이 초대됨"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " gebruikers zijn uitgenodigd"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaproszono "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " użytkowników"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Foram convidados "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " utilizadores"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " usuários foram convidados"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " (de) utilizatori au fost invitați"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Приглашено пользователей: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozvano je "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " korisnika"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " användare har bjudits in"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " kullanıcı davet edildi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Запрошено стільки користувачів: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " người dùng đã được mời"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已邀请 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 名用户"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已邀請 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 位使用者"
+                }
+            ]
+        }
+    ]
+}

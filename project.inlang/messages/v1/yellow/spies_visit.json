@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "please_book_a_time_sometime_later",
+        "library.inlang.paraglideJs": "please_book_a_time_sometime_later"
+    },
+    "id": "yellow_spies_visit",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No one was available at the moment. Please book for sometime later"
+                }
+            ]
+        }
+    ]
+}

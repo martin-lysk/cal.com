@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "delete_calendar_event_error",
+        "library.inlang.paraglideJs": "delete_calendar_event_error"
+    },
+    "id": "polite_fans_crash",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unable to delete Calendar event."
+                }
+            ]
+        }
+    ]
+}

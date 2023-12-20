@@ -1,0 +1,840 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "every_app_published",
+        "library.inlang.paraglideJs": "every_app_published"
+    },
+    "id": "pink_windows_take",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "كل تطبيق منشور على App Store "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " مفتوح المصدر ويتم اختباره بدقة من خلال مراجعات الأقران. ومع ذلك، فإن شركة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " لا تدعم هذه التطبيقات أو تصرح بها ما لم يتم نشرها بواسطة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". إذا واجهت محتوى أو سلوكًا غير لائق، فيرجى الإبلاغ عنه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Každá aplikace zveřejněná v obchodě s aplikacemi na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " má otevřený zdrojový kód a je důkladně testována prostřednictvím vzájemného hodnocení. Společnost "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nicméně tyto aplikace neschvaluje ani necertifikuje, pokud nejsou zveřejněny přímo společností "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Pokud se setkáte s nevhodným obsahem nebo chováním, nahlaste to."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hver app, der offentliggøres i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store, er open source og grundigt testet via peer reviews. Ikke desto mindre godkender eller bekræfter "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ikke disse apps, medmindre de offentliggøres af "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Hvis du støder på upassende indhold eller adfærd, bedes du rapportere det."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jede App, die im "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store veröffentlicht wird, ist Open Source und gründlich durch Peer Reviews getestet. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " unterstützt oder zertifiziert diese Apps jedoch nicht, es sei denn, sie werden von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " selbst veröffentlicht. Wenn Sie auf unangemessene Inhalte oder Verhaltensweisen stoßen, melden Sie diese bitte."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Every app published on the "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store is open source and thoroughly tested via peer reviews. Nevertheless, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " does not endorse or certify these apps unless they are published by "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". If you encounter inappropriate content or behaviour please report it."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Todas las aplicaciones publicadas en la tienda de aplicaciones de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " son de código abierto y han sido probadas exhaustivamente mediante revisiones por parte de los usuarios. Sin embargo, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " no respalda ni certifica estas aplicaciones a menos que sean publicadas por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Si encuentras contenidos o comportamientos inapropiados, notifícalos."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chaque application publiée sur l'App Store de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " est open source et soigneusement testée via des évaluations par les pairs. Néanmoins, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " n'approuve ni ne certifie ces applications à moins qu'elles ne soient publiées par "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Si vous rencontrez un contenu ou comportement inapproprié, veuillez le signaler."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כל אפליקציה שמתפרסמת ב-App Store של "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " היא בעלת קוד מקור פתוח. כל אפליקציה כזו נבדקת בקפידה על ידי עמיתים. עם זאת, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " אינה מעודדת את השימוש באף אפליקציה כזו ואינה מעניקה אישור לאפליקציות כאלה, אלא אם מדובר באפליקציות שפורסמו על ידי "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". אם נתקלת בהתנהגות או בתכנים בלתי הולמים, עליך לדווח על כך."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tutte le applicazioni pubblicate nell'App store di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sono open source e sono state testate in modo approfondito attraverso una valutazione tra pari. Tuttavia, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " non promuove né certifica tali applicazioni, a meno che siano pubblicate da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Se noti contenuti o comportamenti inappropriati, ti invitiamo a segnalarceli."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " の App Store で公開されているすべてのアプリはオープンソースであり、ピアレビューを介して入念なテストが実施されています。しかしながら、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " はこれらのアプリが "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " で公開されていない限りは推奨または認証を行っていません。不適切なコンテンツまたは行為を発見した場合には、ぜひご一報ください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store에 게시된 모든 앱은 오픈 소스이며 피어 리뷰를 통해 철저한 테스트를 거쳤습니다. 그럼에도 불구하고 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": "는 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "에서 게시하지 않는 한 이 앱을 보증 또는 인증하지 않습니다. 부적절한 콘텐츠나 활동을 발견하면 신고해 주시기 바랍니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Elke app die in de App Store van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " wordt gepubliceerd is open source en grondig getest via collegiale beoordelingen. Desondanks onderschrijft of certificeert "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " deze apps niet, tenzij ze zijn gepubliceerd door "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Meld het als u ongepaste inhoud of gedrag tegenkomt."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hver app publisert på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Butikken er åpen kildekode og grundig testet via fagfellevurderinger. Uansett, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " godkjenner eller sertifiserer likevel ikke disse appene med mindre de er publisert av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Hvis du møter upassende innhold eller oppførsel, vennligst rapporter det."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Każda aplikacja opublikowana w sklepie App Store serwisu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " jest otwartym oprogramowaniem i jest dokładnie testowana przez innych użytkowników. Niemniej jednak, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nie odpowiada za aplikacje ani nie certyfikuje ich, chyba że są one publikowane przez "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Jeśli natrafisz na nieodpowiednie treści lub zachowanie, zgłoś je."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Todas as aplicações publicadas na loja de aplicações "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " são de código aberto e minuciosamente testadas através da avaliação por pares. No entanto, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " não apoia ou certifica estas aplicações a não ser que sejam publicadas pela "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Se encontrar conteúdos ou comportamentos inadequados, por favor, reporte a situação."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Todos os aplicativos publicados na App Store da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " são de código aberto e testados minuciosamente por meio de avaliações por pares. No entanto, a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " não endossa ou certifica esses aplicativos a não ser que sejam publicados pela "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Se você encontrar conteúdo ou comportamento inadequado, denuncie."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fiecare aplicație publicată în magazinul de aplicații "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " este open-source și testată temeinic prin evaluări inter pares. Cu toate acestea, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nu susține sau certifică aceste aplicații decât dacă sunt publicate de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Dacă descoperiți conținut sau comportament necorespunzător, vă încurajăm să îl raportați."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Все приложения на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store имеют открытый исходный код и тщательно тестируются другими разработчиками. Тем не менее "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " не дает гарантий в отношении приложений, которые не опубликованы "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Если вы обнаружите неприемлемое содержание или поведение, просим сообщать о нем."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Svaka aplikacija objavljena na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " prodavnici je otvorenog tipa i detaljno je testirana kroz recenzije saradnika. Bez obzira na to, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ne podržava niti sertifikuje ove aplikacije osim ako ih nije objavio "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Ako naiđete na neprikladan sardžaj ili ponašanje, molimo vas da to prijavite."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alla appar som publiceras i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store har öppen källkod och är noggrant testade genom referentgranskningar. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " stöder eller certifierar dock inte dessa appar om de inte publiceras av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Om du stöter på olämpligt innehåll eller beteende ber vi dig att rapportera det."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " Uygulama Mağazası'nda yayınlanan her uygulama açık kaynaklıdır ve uzman incelemeleriyle kapsamlı bir şekilde test edilmiştir. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarafından yayınlanmadıkça bu uygulamaları desteklemez veya onaylamaz. Uygunsuz içerik veya davranışla karşılaşırsanız lütfen bildirin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Усі додатки, опубліковані в магазині "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", мають відкритий код і ретельно перевіряються учасниками спільноти. Утім "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " рекомендує та сертифікує лише додатки, опубліковані компанією "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Якщо ви натрапили на неприйнятний вміст або поведінку, надішліть нам скаргу."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mọi ứng dụng được công bố trên "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store là dạng mã nguồn mở và được kiểm nghiệm kĩ càng thông qua khâu bình duyệt ngang hàng. Dẫu vậy, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " không công nhận hay chứng nhận những ứng dụng nếu chúng không do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " công bố. Nếu bạn gặp nội dụng hay hành vi không đúng mực nào, vui lòng báo cáo vụ việc."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 应用商店上发布的每个应用都是开源的，并通过同行评审进行了全面测试。尽管如此，除非应用是由 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 发布，否则 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 不认可或认证这些应用。如果您遇到不当内容或行为，请举报。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " App Store 上發佈的每個應用程式皆為開放原始碼，並經過同業審查仔細測試過。不過除了 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 發佈的應用程式外，"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 無法為其他應用程式背書或提出擔保。若您發現這些應用程式有不當內容或行為，請立即回報。"
+                }
+            ]
+        }
+    ]
+}

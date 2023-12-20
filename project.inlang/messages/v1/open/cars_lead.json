@@ -1,0 +1,230 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "view_only_edit_availability_not_onboarded",
+        "library.inlang.paraglideJs": "view_only_edit_availability_not_onboarded"
+    },
+    "id": "open_cars_lead",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لم يكمل هذا المستخدم عملية الانضمام. لن تتمكن من تعيين توافره حتى يكتمل انضمامه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tento uživatel ještě nedokončil onboarding. Dokud nedokončí onboarding, dostupnost nebude možné nastavit."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dieser Benutzer hat das Onboarding noch nicht abgeschlossen. Sie können seine Verfügbarkeit erst festlegen, wenn er das Onboarding abgeschlossen hat."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This user has not completed onboarding. You will not be able to set their availability until they have completed onboarding."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este usuario no ha completado la incorporación. No podrá establecer su disponibilidad hasta que haya completado la incorporación."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "משתמש זה לא השלים תהליך הטמעה. לא תהיה לך אפשרות להגדיר את הזמינות שלו עד שהוא יעשה זאת."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Questo utente non ha completato l'onboarding. Non sarai in grado di impostare la sua disponibilità fino a quando non avrà completato l'onboarding."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "このユーザーはオンボーディングを完了していません。オンボーディングを完了するまで、ユーザーの空き状況は設定できません。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 사용자는 온보딩을 완료하지 않았습니다. 온보딩이 완료될 때까지는 가용성을 설정할 수 없습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deze gebruiker heeft de onboarding nog niet voltooid. U kunt diens beschikbaarheid pas instellen nadat ze men de onboarding heeft voltooid."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ten użytkownik nie zakończył procesu wdrażania. Ustawienie jego dostępności będzie niedostępne, póki nie zakończy wdrażania."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este utilizador ainda não completou o processo de integração. Não poderá definir a respetiva disponibilidade até que este procedimento esteja concluído para este utilizador."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este usuário não concluiu a integração. Não será possível definir a disponibilidade antes de concluir a integração."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acest utilizator nu a finalizat integrarea. Nu-i veți putea seta disponibilitatea până când nu finalizează integrarea."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Этот пользователь не прошел онбординг. Вы сможете настроить для него информацию о доступность, только когда он пройдет онбординг."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovaj korisnik nije završio uvodnu obuku. Nećete moći da podesite dostupnost dok ne dovrši uvodnu obuku."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Den här användaren har inte slutfört introduktionen. Du kommer inte att kunna ange deras tillgänglighet förrän de har slutfört introduktionen."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu kullanıcı katılımı tamamlamadı. Katılımı tamamlayana kadar uygunluk durumlarını ayarlayamazsınız."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Цей користувач не завершив ознайомлення. Доки він не зробить цього, ви не зможете налаштувати доступність для нього."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Người dùng chưa hoàn thành việc gia nhập. Bạn sẽ không thể đặt tình trạng lịch trống cho đến khi họ hoàn thành việc gia nhập."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此用户尚未完成入门流程。在他们完成入门流程之前，您将无法设置他们的可预约时间。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此使用者尚未完成入門導覽。在對方完成入門導覽前，您將無法設定對方的可預約時間。"
+                }
+            ]
+        }
+    ]
+}

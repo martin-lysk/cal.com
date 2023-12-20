@@ -1,0 +1,376 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "workflow_created_successfully",
+        "library.inlang.paraglideJs": "workflow_created_successfully"
+    },
+    "id": "pink_states_try",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم إنشاء "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pracovní postup "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " byl vytvořen"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " blev oprettet"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " erfolgreich erstellt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " created successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " creado exitosamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " créé avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "תהליך העבודה "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " נוצר בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " creato correttamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " が正常に作成されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 생성 완료"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " aangemaakt"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ble opprettet"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utworzono przepływ pracy "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " criado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " criado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " creat cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " создан"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " je uspešno keiran"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " skapades framgångsrikt"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " başarıyla oluşturuldu"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "«"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» створено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " được tạo thành công"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已成功创建"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已成功建立 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                }
+            ]
+        }
+    ]
+}

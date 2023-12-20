@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "delete_managed_event_type_description",
+        "library.inlang.paraglideJs": "delete_managed_event_type_description"
+    },
+    "id": "slow_camels_dream",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>سيتم أيضًا حذف أنواع الأحداث الخاصة بالأعضاء المعينين في هذا النوع من الأحداث.</li><li>لن يتمكن أي شخص شاركوا الرابط معه من الحجز باستخدامه.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Členům přiřazeným k tomuto typu události budou odstraněny i příslušné typy událostí.</li><li>Každý, komu jste tento odkaz nasdíleli, pomocí něj již nebude moci moci provádět rezervace.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Die Ereignistypen der diesem Ereignistypen zugewiesenen Mitglieder werden ebenfalls gelöscht.</li><li>Jeder, mit dem sie ihren Link geteilt haben, wird nicht mehr über diesen Link buchen können.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Members assigned to this event type will also have their event types deleted.</li><li>Anyone who they've shared their link with will no longer be able to book using it.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Los miembros asignados a este tipo de evento también verán eliminados sus tipos de evento.</li><li>Cualquier persona con la que hayan compartido su enlace ya no podrá reservar con él.</li> </ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Les membres affectés à ce type d'événement verront également leurs types d'événement supprimés.</li><li>Toute personne avec qui ils ont partagé leur lien ne pourra plus réserver en l'utilisant.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>סוגי האירועים האלה יימחקו גם אצל חברים שהוקצו לסוגי האירועים האלה.</li><li>כל מי שהם שיתפו איתו את הקישור שלהם לא יוכל יותר להזמין באמצעותו.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Verranno eliminati anche i tipi di evento dei membri assegnati a questo evento.</li><li>Gli utenti con cui hanno condiviso il link non saranno più in grado di usarlo per prenotare.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>このイベントの種類に割り当てられているメンバーは、そのイベントの種類も削除されます。</li><li>リンクを共有したことがあるユーザーは、そのリンクを使用して予約することができなくなります。</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>이 이벤트 타입에 할당된 회원은 이벤트 타입도 삭제됩니다.</li><li>이 링크를 공유한 회원이 더 이상 링크를 사용하여 예약할 수 없게 됩니다.</li> </ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>De gebeurtenistypen van leden die aan dit gebeurtenistype zijn toegewezen, worden ook verwijderd.</li><li>Iedereen met wie zij hun link hebben gedeeld, kan niet meer boeken via deze link.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Typy wydarzeń należące do członków przypisanych do tego typu wydarzenia również zostaną usunięte.</li><li>Osoby, którym udostępniono linki, nie będą już mogły dokonać rezerwacji za ich pomocą.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Também serão eliminados os tipos de eventos dos membros atribuídos a este tipo de evento.</li><li>Quaisquer pessoas com quem estes membros tenham partilhado as respetivas ligações deixarão de poder fazer reservas recorrendo às mesmas.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Membros atribuídos a este tipo de evento também terão seus tipos de evento excluídos.</li><li>Este link não poderá mais ser usado para fazer reserva por qualquer pessoa com quem tenha sido compartilhado.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Pentru membrii alocați la acest tip de eveniment vor fi șterse și tipurile de evenimente.</li><li>Nicio persoană căreia i-au transmis linkul nu va mai putea efectua rezervări prin intermediul lui.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>После того как вы назначите участникам данный тип события, их прежние типы событий будут удалены.</li><li>Пользователи, с которыми участники поделились своей ссылкой, больше не смогут оформлять бронирование с ее помощью.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Članovima dodeljenim ovom tipu događaja će takođe biti izbrisani njihovi tipovi događaja.</li><li>Niko sa kim su podelili svoj link neće više moći da rezerviše pomoću njega.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Händelsetyper raderas även för medlemmar som tilldelats denna händelsetyp.</li><li>Alla som de delat sin länk med kan inte längre boka med den.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Bu etkinlik türüne atanan üyelerin etkinlik türleri de silinecek.</li><li>Bağlantıyı paylaşan üyelerin hiçbiri artık rezervasyon yapmak için bu bağlantıyı kullanamayacak.</li> </ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Типи заходів учасників, призначених для цього типу заходу, також буде видалено.</li><li> Користувачі, з якими вони поділилися своїм посиланням, більше не зможуть скористатися ним, щоб створити бронювання.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Những thành viên được phân công cho loại sự kiện này cũng sẽ khiến cho loại sự kiện của họ được xóa đi.</li><li>Đối với những người mà bạn chia sẻ liên kết này, họ sẽ không thể đặt lịch hẹn bằng liên kết đó được nữa.</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>分配给此活动类型的成员其活动类型也将被删除。</li><li>如果他们将自己的链接共享给其他人，这些人也都将无法再使用该链接进行预约。</li></ul>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>對於獲指派此活動類型的成員，其活動類型也將被刪除。</li><li>和他們共用此連結的任何使用者都無法再使用此連結預約。</li></ul>"
+                }
+            ]
+        }
+    ]
+}

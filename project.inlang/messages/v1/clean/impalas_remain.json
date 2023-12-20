@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "invite_new_member_description",
+        "library.inlang.paraglideJs": "invite_new_member_description"
+    },
+    "id": "clean_impalas_remain",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ملاحظة: سيكلّف هذا <1>مقعداً إضافياً (15 دولاراً شهرياً)</1> زيادةً على اشتراكك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Poznámka: Ve vašem předplatném to bude <1>stát místo navíc (15 USD/měs.)</1> ."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bemærk: Dette vil <1>koste en ekstra plads ($15/m)</1> på dit abonnement."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hinweis: Dies wird <1>einen zusätzlichen Platz(15 $/m)</1> in Ihrem Abonnement kosten."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Note: This will <1>cost an extra seat ($15/m)</1> on your subscription."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nota: Esto costará <1>una plaza adicional ($15/m)</1> en su suscripción."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Remarque : cela <1>coûtera une place supplémentaire (15 $/mois)</1> sur votre abonnement."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הערה: פעולה זו <1>תחייב את המינוי שלך במקום נוסף ($15 לחודש)</1>."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nota: Sul tuo abbonamento verrà addebitato <1>un posto aggiuntivo (15$/m)</1>."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "注: これにより、サブスクリプションに<1>追加の座席料金 (15 米ドル/メンバー) が加算されます。</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "참고: 이로 인해 해당 구독에 <1>추가 시트 비용($15/m)</1>이 발생합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opmerking: dit <1>kost een extra plaats ($ 15/maand)</1> op uw abonnement."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Merk: Dette vil <1>koste et ekstra sete ($15/m)</1> på abonnementet ditt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uwaga: będzie to <1>kosztowało dodatkowe miejsce (15 USD/miesiąc)</1>, które doliczymy do Twojej subskrypcji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nota: isto vai ter o <1>custo de um lugar adicional ($15/m)</1> na sua subscrição."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Observação: isso <1>custará um lugar extra ($15/m)</1> na sua assinatura."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Notă: acest lucru va <1>adăuga un loc suplimentar (15 USD/lună)</1> la abonamentul dvs."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Примечание: стоимость подписки увеличится на <1>15 $/месяц за дополнительное место</1>."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "</1>Napomena: Ovo će <1>povećati vašu pretplatu za dodatno mesto (15 $/mesečno)</1>."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Obs! Detta kommer att <1>kosta en extra plats (150 kr/mån)</1> i din prenumeration."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Not: Bu, aboneliğiniz için <1>ekstra yer ücretine (15 $/ay)</1> mal olacak."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Зверніть увагу: у вашій підписці потрібно буде оплатити <1>одне додаткове місце (15 дол. США)</1>."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lưu ý: Việc này sẽ <1>mất phí bổ sung chỗ ngồi (15$/tháng)</1> cho gói đăng ký của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "注意：这将在您订阅的基础上<1>收取一个额外位置的费用(15 美元/月)</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "注意：您的訂閱會因此<1>加收一個座位費 ($15 美元/月)</1>。"
+                }
+            ]
+        }
+    ]
+}

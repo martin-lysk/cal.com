@@ -1,0 +1,24 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "instant_meeting_with_title",
+        "library.inlang.paraglideJs": "instant_meeting_with_title"
+    },
+    "id": "fruity_plants_feel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Instant Meeting with "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "name"
+                }
+            ]
+        }
+    ]
+}

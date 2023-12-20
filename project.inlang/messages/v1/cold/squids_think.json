@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "workflow_automation_description",
+        "library.inlang.paraglideJs": "workflow_automation_description"
+    },
+    "id": "cold_squids_think",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Personalise your scheduling experience with workflows"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Personnalisez votre expérience de planification avec les workflows"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "account_managed_by_identity_provider_description",
+        "library.inlang.paraglideJs": "account_managed_by_identity_provider_description"
+    },
+    "id": "proud_fans_play",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لتغيير بريدك الإلكتروني وكلمة المرور وتمكين المصادقة من عاملين والمزيد، يُرجى زيارة إعدادات حساب "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " لديك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pro změnu e-mailu, hesla, dvoufázového ověřování apod. prosím přejděte do nastavení účtu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "For at ændre din e-mail, adgangskode, aktivere to-faktor autentificering og mere, besøg venligst dine "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " kontoindstillinger."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um Ihre E-Mail-Adresse, Ihr Passwort, die Zwei-Faktor-Authentifizierung und sonstiges zu ändern, besuchen Sie bitte Ihre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " -Kontoeinstellungen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To change your email, password, enable two-factor authentication and more, please visit your "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " account settings."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para cambiar tu correo electrónico, contraseña, habilitar la autenticación de doble factor y más, por favor visita la configuración de tu cuenta de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pour modifier votre adresse e-mail et/ou votre mot de passe, activez l'authentification à deux facteurs et plus, veuillez consulter les paramètres de votre compte "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כדי לשנות את כתובת הדוא\"ל ואת הסיסמה, לאפשר אימות דו-גורמי ועוד, יש לעבור אל הגדרות החשבון אצל "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per modificare la tua email o la tua password, per abilitare l'autenticazione a due fattori e altro ancora, consulta le impostazioni del tuo account "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "メールアドレスやパスワードを変更したり、二段階認証を有効にしたりするには、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " のアカウント設定をご確認ください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이메일, 비밀번호를 변경하고 이중 인증을 활성화하려면 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " 계정 설정을 방문하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ga naar uw accountinstellingen bij "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " om uw e-mailadres en wachtwoord te wijzigen, tweestapsverificatie in te schakelen en meer."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "For å endre e-post, passord, aktivere to-faktor autentisering og mer, gå til kontoinnstillingene dine hos "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aby zmienić swój adres e-mail, hasło, włącz uwierzytelnianie dwuetapowe i więcej, odwiedź swoje ustawienia konta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para alterar o seu email ou a sua senha, para ativar a autenticação de dois fatores ou outras opções, vá às definições da sua conta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para alterar o seu endereço de email, senha, ativar a autenticação de dois fatores e outras alterações, por favor utilize as configurações de seu provedor de identidade "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pentru a vă schimba adresa de e-mail sau parola, a activa autentificarea în doi pași și multe altele, accesați setările contului "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Чтобы изменить адрес электронной почты, пароль, включить двухфакторную авторизацию, пожалуйста, посетите настройки учетной записи "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da biste promenili svoju adresu e-pošte, lozinku, omogućili dvofaktorsku autentifikaciju itd., molimo vas posetite vaša "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " podešavanja naloga."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Besök dina "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " -kontoinställningar för att ändra din e-post, lösenord, aktivera tvåfaktorsautentisering mm."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "E-posta adresinizi ve şifrenizi değiştirmek, iki adımlı kimlik doğrulamayı etkinleştirmek ve daha fazlası için lütfen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " hesap ayarlarınızı ziyaret edin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Щоб змінити електронну адресу чи пароль, увімкнути двоетапну автентифікацію тощо, перейдіть до налаштувань свого облікового запису "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Để thay đổi email, mật khẩu, bật xác thực hai yếu tố và những thứ khác, vui lòng truy cập cài đặt tài khoản "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "要更改您的电子邮件，密码，启用两步验证及更多功能，请访问您的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " 账户设置。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "要更改電子郵件、密碼、兩階段認證⋯⋯等，請造訪 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的帳號設定。"
+                }
+            ]
+        }
+    ]
+}

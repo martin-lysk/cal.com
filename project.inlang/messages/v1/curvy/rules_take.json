@@ -1,0 +1,368 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "category_apps",
+        "library.inlang.paraglideJs": "category_apps"
+    },
+    "id": "curvy_rules_take",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تطبيقات "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplikace v kategorii "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " apps"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " Apps"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " apps"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplicaciones "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Applications "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אפליקציות בקטגוריה "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "App "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " アプリ"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " 앱"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "apps voor "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " apper"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplikacje z kategorii "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplicações de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aplicativos de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": " Aplicații "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Приложения в категории «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " aplikacije"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "-appar"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " uygulamaları"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Додатки з категорії «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ứng dụng "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "应用"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "應用程式"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "testing_workflow_info_message",
+        "library.inlang.paraglideJs": "testing_workflow_info_message"
+    },
+    "id": "tough_donuts_occur",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "عند اختبار سير العمل هذا، يجب أن تدرك أنه لا يمكن جدولة رسائل البريد الإلكتروني والرسائل القصيرة إلا قبل ساعة واحدة على الأقل"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při testování tohoto pracovního postupu mějte na paměti, že e-maily a SMS lze naplánovat pouze nejméně 1 hodinu předem."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte beachten Sie beim Testen dieses Workflows, dass E-Mails und SMS spätestens 1 Stunde im Voraus geplant werden können"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "When testing this workflow, be aware that Emails and SMS can only be scheduled at least 1 hour in advance"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Al probar este flujo de trabajo, tenga en cuenta que los correos electrónicos y los SMS solo se pueden programar con al menos 1 hora de anticipación"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lors du test de ce workflow, sachez que les e-mails et les SMS ne peuvent être programmés qu'au moins 1 heure à l'avance"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "במהלך בדיקת תהליך העבודה הזה, קח/י בחשבון שניתן לתזמן הודעות דוא\"ל ו-SMS לפחות שעה אחת מראש"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Durante il test di questo flusso di lavoro, tieni presente che le e-mail e i messaggi SMS devono essere programmati con almeno 1 ora di anticipo"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "このワークフローをテストする場合、少なくとも 1 時間前でなければメールと SMS のスケジュール設定ができないことにご注意ください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 워크플로를 테스트할 때 이메일 및 SMS는 최소 1시간 전에만 예약할 수 있다는 점에 유의하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Let er bij het testen van deze werkstroom op dat e-mails en sms minimaal 1 uur van tevoren kunnen gepland moeten worden"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podczas testowania tego przepływu pracy pamiętaj, że wiadomości e-mail i SMS można zaplanować jedynie z co najmniej 1-godzinnym wyprzedzeniem"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao testar este fluxo de trabalho tenha em consideração que e-mails e SMS só podem ser agendados com, pelo menos, 1 hora de antecedência"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao testar este fluxo de trabalho, não se esqueça de que e-mails e SMS só podem ser reprogramados com pelo menos uma hora de antecedência"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La testarea acestui flux de lucru, țineți cont de faptul că e-mailurile și SMS-urile pot fi programate doar cu cel puțin o oră în prealabil"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "При тестировании этого рабочего процесса помните, что отправку писем и SMS можно запланировать не менее чем за 1 час до начала"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kada testirate ovaj radni tok, imajte na umu da imejlovi i SMS-ovi mogu da budu zakazani najmanje 1 sat unapred"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "När det här arbetsflödet testas ska du vara medveten om att e-postmeddelanden och SMS endast kan schemaläggas minst en timme i förväg"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu iş akışını test ederken, E-postaların ve SMS'lerin yalnızca en az 1 saat önceden planlanabileceğini unutmayın"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Тестуючи цей робочий процес, зважайте на те, що надсилання електронних листів і SMS-повідомлень можна запланувати щонайменше за 1 годину"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Khi kiểm tra tiến độ công việc này, hãy để ý rằng Email và SMS chỉ có thể được đặt lịch trước ít nhất 1 giờ"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "测试此工作流程时请注意，电子邮件和短信必须提前至少 1 小时安排"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "測試此工作流程時，請注意電子郵件和簡訊只能提前至少 1 小時預定"
+                }
+            ]
+        }
+    ]
+}

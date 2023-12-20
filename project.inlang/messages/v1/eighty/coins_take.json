@@ -1,0 +1,460 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "plan_description",
+        "library.inlang.paraglideJs": "plan_description"
+    },
+    "id": "eighty_coins_take",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أنت حاليًا على خطة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Momentálně používáte tarif "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du er i øjeblikket på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " planen."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie haben gerade den Tarif: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You're currently on the "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " plan."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Actualmente estás en el plan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous êtes actuellement sur le plan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כרגע אתה משתמש בחבילת "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Al momento sei nel piano "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "現在あなたは "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " プランを利用しています。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "현재 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " 요금제를 사용 중입니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U heeft momenteel het "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "-abonnement."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du er nå på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "-planen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jesteś obecnie na planie "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O seu plano é o "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Atualmente você está no plano "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aveți momentan planul "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "В настоящее время вы используете план "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trenutno ste na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " planu."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du är för närvarande på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " planen."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Şu anda "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " planındasınız."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Зараз ви використовуєте план "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn hiện đang sử dụng gói "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您目前正在使用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " 套餐。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "目前是 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "plan"
+                },
+                {
+                    "type": "Text",
+                    "value": " 方案。"
+                }
+            ]
+        }
+    ]
+}

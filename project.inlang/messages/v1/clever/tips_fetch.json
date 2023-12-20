@@ -1,0 +1,460 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "broken_calendar_action",
+        "library.inlang.paraglideJs": "broken_calendar_action"
+    },
+    "id": "clever_tips_fetch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لم نتمكن من تحديث <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> يرجى التحقق من إعدادات التقويم أو إزالة التقويم وإضافته مرة أخرى</2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aktualizace vašeho kalendáře <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> se nezdařila. <2> Zkontrolujte si nastavení kalendáře nebo kalendář odeberte a zase přidejte </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi kunne ikke opdatere din <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Tjek venligst dine kalenderindstillinger eller fjern og tilføj din kalender igen </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wir konnten Ihren <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> nicht aktualisieren. <2> Bitte überprüfen Sie die Kalendereinstellungen oder entfernen Sie Ihren Kalender und fügen Sie Ihren Kalender erneut hinzu </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We could not update your <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Please check your calendar settings or remove and add your calendar again </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No pudimos actualizar tu <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Comprueba la configuración de tu calendario o elimina y añade tu calendario de nuevo </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nous n'avons pas pu mettre à jour votre <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Veuillez vérifier les paramètres de votre calendrier ou supprimer et ajouter votre calendrier à nouveau </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא הצלחנו לעדכן את <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> נא לבדוק את הגדרות לוח השנה שלך או להסיר את לוח השנה ולהוסיף אותו שוב </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Non è stato possibile aggiornare il tuo <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Controlla le impostazioni del tuo calendario oppure rimuovi il calendario e aggiungilo nuovamente </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>を更新できませんでした。<2>カレンダーの設定を確認するか、カレンダーを削除してもう一度追加してください</2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>을(를) 업데이트를 할 수 없습니다. <2> 캘린더 설정을 확인하거나 캘린더를 제거했다가 다시 추가하세요.</2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We konden uw <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> niet bijwerken. <2>Controleer uw agenda-instellingen of verwijder uw agenda en voeg uw agenda opnieuw toe </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi kunne ikke oppdatere <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Kontroller kalenderinnstillingene eller fjern og legg til kalenderen på nytt </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nie udało nam się zaktualizować Twojego kalendarza <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Sprawdź ustawienia kalendarza lub usuń swój kalendarz i dodaj go ponownie </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não foi possível atualizar o seu <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Verifique as opções do calendário ou remova e adicione de novo o calendário</2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não foi possível atualizar seu <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Confira as configurações do seu calendário ou remova e adicione seu calendário novamente </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nu am reușit să vă actualizăm <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Verificați setările calendarului sau ștergeți-l și adăugați-l din nou </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не удалось обновить ваш <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Проверьте настройки календаря или удалите и пересоздайте его </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nismo mogli da ažuriramo vaš <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Proverite podešavanja kalendara ili uklonite i ponovo dodajte kalendar </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det gick inte att uppdatera din <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2> Kontrollera dina kalenderinställningar eller ta bort och lägg till din kalender igen </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1> takviminizi güncelleyemedik. <2> Lütfen takvim ayarlarınızı kontrol edin veya takviminizi kaldırıp yeniden ekleyin </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не вдалось оновити відомості в календарі <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2>Перевірте параметри календаря або вилучіть календар і додайте його знову</2>."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chúng tôi không thể cập nhật <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>. <2>Vui lòng kiểm tra thiết lập lịch hoặc gỡ và cài lại lịch </2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我们无法更新您的 <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>。<2>请检查您的日历设置或删除日历再重新添加日历</2>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我們無法更新您的 <1>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "calendar"
+                },
+                {
+                    "type": "Text",
+                    "value": "</1>。<2>請檢查您的行事曆設定，或移除您的行事曆然後再次新增</2>"
+                }
+            ]
+        }
+    ]
+}

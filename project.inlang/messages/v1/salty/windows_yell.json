@@ -1,0 +1,568 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "current_step_of_total",
+        "library.inlang.paraglideJs": "current_step_of_total"
+    },
+    "id": "salty_windows_yell",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "الخطوة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " من "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Krok "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " / "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trin "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " af "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Schritt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Step "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " of "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Paso "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Étape "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " sur "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "שלב "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " מתוך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Passo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ステップ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": "/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                },
+                {
+                    "type": "Text",
+                    "value": " 중 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " 단계"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Stap "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trinn "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Krok "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Passo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Passo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pasul "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Шаг "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " из "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Korak "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " od "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Steg "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " / "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Adım"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Крок "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " із "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bước "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": "/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "第 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " 步，共 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                },
+                {
+                    "type": "Text",
+                    "value": " 步"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "第 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "currentStep"
+                },
+                {
+                    "type": "Text",
+                    "value": " 步，共 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxSteps"
+                },
+                {
+                    "type": "Text",
+                    "value": " 步"
+                }
+            ]
+        }
+    ]
+}

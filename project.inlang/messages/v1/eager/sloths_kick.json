@@ -1,0 +1,442 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "request_reschedule_subtitle_organizer",
+        "library.inlang.paraglideJs": "request_reschedule_subtitle_organizer"
+    },
+    "id": "eager_sloths_kick",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لقد ألغيت الحجز، ويجب أن يختار "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " وقتًا جديدًا للحجز معك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zrušili jste rezervaci a účastník "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " by si s vámi měl zarezervovat nový čas."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie haben die Buchung storniert und "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " muss eine neue Buchungszeit mit Ihnen vereinbaren."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You have canceled the booking and "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " should pick a new booking time with you."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Usted ha cancelado la reserva y "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " deberá seleccionar una nueva hora de reserva con usted."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Erreserba bertan behera utzi duzu eta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)k erreserba-ordu berri bat hautatu beharko du."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous avez annulé la réservation et "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " doit choisir un nouveau créneau de réservation."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ביטלת את ההזמנה ו-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " צריך/ה לתאם איתך מועד חדש."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hai cancellato la prenotazione e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " deve selezionare un nuovo orario per la prenotazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約をキャンセルしたので、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " はあなたと共に新しい予約時間を選ぶ必要があります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약을 취소하셨기 때문에 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " 님이 새 예약 시간을 선택해야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U heeft de boeking geannuleerd en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " moet samen met u een nieuwe boekingstijd kiezen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezerwacja została przez Ciebie anulowana i uczestnik ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": ") powinien wybrać z nowy termin rezerwacji u Ciebie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cancelou a reserva e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " deve escolher um novo horário para a reserva consigo."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você cancelou a reserva e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " escolherá um novo horário."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ați anulat rezervarea și "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " trebuie să aleagă o nouă dată pentru rezervarea cu dvs."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы отменили бронирование; теперь вы и "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " должны выбрать новое время."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Otkazali ste rezervaciju i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " treba da odabere novo vreme rezervacije sa vama."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har avbokat bokningen och "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " måste välja en ny bokningstid med dig."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyonu iptal ettiniz ve "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " adlı kişinin sizinle yeni bir rezervasyon saati seçmesi gerekiyor."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ви скасували бронювання. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " має забронювати інший час."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn đã hủy đặt lịch này và "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " nên chọn thời gian đặt lịch mới với bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已取消预约，"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " 应该与您选择新的预约时间。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已取消預約，"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " 應和您重新挑選預約時間。"
+                }
+            ]
+        }
+    ]
+}

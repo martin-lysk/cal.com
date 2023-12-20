@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "invalid_credential",
+        "library.inlang.paraglideJs": "invalid_credential"
+    },
+    "id": "slow_views_try",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لا! يبدو أن الصلاحية انتهت أو تم إلغاؤها. يرجى إعادة التثبيت مرة أخرى."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ale ne! Zdá se, že platnost oprávnění vypršela nebo byla zrušena. Proveďte  novou instalaci."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Åh nej! Det ser ud til at tilladelsen er udløbet eller blevet tilbagekaldt. Geninstaller venligst igen."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oh nein! Es sieht so aus, als ob die Berechtigung abgelaufen ist oder entzogen wurden. Bitte erneut installieren."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oh no! Looks like permission expired or was revoked. Please reinstall again."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "¡Oh no! Parece que el permiso ha caducado o se ha revocado. Vuelva a instalarlo."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oh non ! On dirait que l’autorisation a expiré ou a été révoquée. Veuillez la réinstaller."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נראה שתוקף ההרשאה פג או שההרשאה בוטלה. יש להתקין מחדש שוב."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Errore! Sembra che l'autorizzazione sia scaduta o che sia stata revocata. Prova a reinstallare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "アクセス許可の有効期限が切れたか、取り消されたようです。もう一度インストールしてください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "죄송합니다! 권한이 만료되었거나 취소된 것 같습니다. 다시 설치하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oh nee! Het lijkt erop dat de machtiging is verlopen of is ingetrokken. Installeer het opnieuw."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Å nei! Det ser ut til at tillatelsen er utløpt eller tilbakekalt. Vennligst installer på nytt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O nie! Wygląda na to, że uprawnienia wygasły lub zostały cofnięte. Zainstaluj aplikację ponownie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Oh não! Parece que a permissão expirou ou foi revogada. Por favor, reinstale novamente."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ah, não! Parece que a permissão expirou ou foi revogada. Reinstale novamente."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vai, nu! Se pare că permisiunea a expirat sau a fost revocată. Reinstalați din nou."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Похоже, разрешение истекло или было отозвано. Необходима переустановка."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O, ne! Izgleda da je dozvola istekla ili je povučena. Instalirajte ponovo."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Åh nej! Det verkar som om behörigheten löpt ut eller återkallats. Installera om igen."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hata! İznin süresi dolmuş veya iptal edilmiş gibi görünüyor. Lütfen yeniden yükleyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отакої! Схоже, дозвіл більше не дійсний або його відкликано. Перевстановіть додаток знову."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ôi không! Có vẻ như quyền đã hết hạn hoặc đã bị thu hồi. Vui lòng cài đặt lại."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "哦不！看起来权限已过期或被撤销。请重新安装。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "糟糕！權限似乎過期或遭到撤銷。請重新安裝。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "signing_up_terms",
+        "library.inlang.paraglideJs": "signing_up_terms"
+    },
+    "id": "famous_jobs_crash",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "By signing up you agree to our <2>Terms</2> & <3>Privacy Policy</3>."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En vous inscrivant, vous acceptez nos <2>Conditions d'utilisation</2> et notre <3>Politique de confidentialité</3>."
+                }
+            ]
+        }
+    ]
+}

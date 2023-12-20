@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "redirect_url_warning",
+        "library.inlang.paraglideJs": "redirect_url_warning"
+    },
+    "id": "red_stars_check",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيؤدي إضافة إعادة توجيه إلى تعطيل صفحة النجاح. تأكد من ذكر \"تأكيد الحجز\" في صفحة النجاح المخصصة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Přidáním přesměrování se stránka úspěchu vypne. Nezapomeňte na vlastní stránce úspěchu uvést „Rezervace potvrzena“."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das Hinzufügen einer Umleitung wird die Erfolgsseite deaktivieren. Erwähnen Sie \"Buchung bestätigt\" auf Ihrer benutzerdefinierten Erfolgsseite."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adding a redirect will disable the success page. Make sure to mention \"Booking Confirmed\" on your custom success page."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Agregar una redirección deshabilitará la página de éxito. Asegúrese de mencionar \"Reserva confirmada\" en su página de éxito personalizada."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'ajout d'une redirection désactivera la page de succès. Assurez-vous de mentionner « Réservation confirmée » sur votre page de succès personnalisée."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הוספת כתובת URL להפניה אוטומטית תגרום להשבתת הדף \"הפעולה הצליחה\". חשוב להוסיף את ההודעה \"ההזמנה אושרה בהצלחה'\"בדף המותאם אישית לציון שהפעולה הצליחה."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aggiungendo un reindirizzamento, viene disabilitata la pagina di conferma dell'esito. Assicurati che nella pagina di conferma dell'esito personalizzata compaia la dicitura \"Prenotazione confermata\"."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "リダイレクトを追加すると、予約完了ページが無効化されます。カスタム予約完了ページには、必ず \"予約が完了しました\" と記載してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "리디렉션을 추가하면 성공 페이지가 비활성화됩니다. 사용자 지정 성공 페이지에 \"예약 확정\"을 언급해야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Als u een omleiding toevoegt, wordt de succespagina uitgeschakeld. Zorg ervoor dat u op uw aangepaste succespagina \"Boeking bevestigd\" vermeldt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dodanie przekierowania wyłączy stronę powodzenia. Upewnij się, że na Twojej niestandardowej stronie powodzenia znajduje się wzmianka o potwierdzeniu rezerwacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao adicionar um redirecionamento irá desativar a página de sucesso. Certifique-se que indica que \"A reserva foi confirmada\" na sua página de sucesso personalizada."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A página de sucesso será desabilitada ao adicionar um redirecionamento. Não se esqueça de mencionar \"Reserva confirmada\" na sua página de sucesso personalizada."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adăugarea unei redirecționări va dezactiva pagina cu mesajul de succes. Nu uitați să menționați „Rezervare confirmată” pe pagina cu mesajul de succes personalizat."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "При использовании перенаправления страница успешного бронирования будет отключена. Не забудьте упомянуть «Бронирование подтверждено» на собственной странице оповещения об успешном бронировании."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dodavanje preusmeravanja će onemogućiti stranicu uspeha. Obavezno navedite „Zakazivanje potvrđeno“ na vašoj prilagođenoj stranici uspeha."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Framgångssidan inaktiveras om du lägger till en omdirigering. Nämn \"Bokning bekräftad\" på din anpassade framgångssida."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yönlendirme eklemek başarı sayfasını devre dışı bırakır. Özel başarı sayfanızda \"Rezervasyon Onaylandı\" ifadesinden bahsetmeyi unutmayın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Якщо додати переспрямування, сторінка з результатом бронювання не з’являтиметься. Переконайтеся, що ви додали текст «Бронювання підтверджено» на свою сторінку з результатом бронювання."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thêm mục chuyển hướng sẽ tắt đi trang thành công. Hãy bảo đảm có đề cập \"Lịch hẹn đã xác nhận\" trên trang thành công tuỳ chỉnh riêng của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "添加重定向将禁用成功页面。请确保在您的自定义成功页面上提及“预约已确认”。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "加入重新導向功能會停用成功頁面。請務必在自訂的成功頁面中註明「預約已確認」。"
+                }
+            ]
+        }
+    ]
+}

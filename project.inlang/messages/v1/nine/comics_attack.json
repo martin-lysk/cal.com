@@ -1,0 +1,340 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "the_calcom_team",
+        "library.inlang.paraglideJs": "the_calcom_team"
+    },
+    "id": "nine_comics_attack",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "فريق "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tým společnosti "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Team"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " team"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El equipo de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'équipe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הצוות של "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il team "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " チーム"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 팀"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Het team van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zespół "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A equipa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A equipe de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Echipa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Команда "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tim kompanije "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-teamet"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Команда "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nhóm của "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 团队"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "companyName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 團隊"
+                }
+            ]
+        }
+    ]
+}

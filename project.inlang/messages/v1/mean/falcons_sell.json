@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "branded_subdomain",
+        "library.inlang.paraglideJs": "branded_subdomain"
+    },
+    "id": "mean_falcons_sell",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Branded Subdomain"
+                }
+            ]
+        }
+    ]
+}

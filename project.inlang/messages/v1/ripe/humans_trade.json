@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "org_description",
+        "library.inlang.paraglideJs": "org_description"
+    },
+    "id": "ripe_humans_trade",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "بضع جمل عن منظمتك. ستظهر على صفحة رابط منظمتك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Několik vět o vaší organizaci. Zobrazí se na adrese URL vaší organizace."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ein paar Sätze zu Ihrer Organisation. Dies wird auf der URL-Seite Ihrer Organisation erscheinen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A few sentences about your organization. This will appear on your organization's url page."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Algunas frases sobre su organización. Esto aparecerá en la página de la URL de su organización."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esaldi gutxi batzuk zure erakundeari buruz. Zure erakundearen orrialdean agertuko dira."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Quelques phrases à propos de votre organisation. Elles apparaîtront sur la page de profil public de votre organisation."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מספר משפטים אודות הארגון. הם יופיעו בדף עם כתובת ה-URL של הארגון."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Qualche informazione sulla tua organizzazione. Le informazioni appariranno nella pagina di profilo dell'organizzazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたの組織についての簡単な説明文です。あなたの組織の URL ページに表示されます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "귀하의 조직에 대한 몇 자 남겨주세요. 이 내용은 귀하 조직의 URL 페이지에 표시됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Een paar zinnen over uw organisatie. Dit wordt weergegeven op op uw organisatiepagina."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kilka zdań na temat Twojej organizacji. Pojawią się na stronie adresu URL Twojej organizacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Algumas frases sobre a sua organização. Isto será apresentado no URL da página da sua organização."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uma breve descrição sobre sua organização. Isso aparecerá na página principal da sua organização."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Câteva propoziții despre organizația dvs. Aceste informații vor apărea pe pagina publică a organizației dvs."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Краткое описание вашей организации. Этот текст будет виден на странице вашей организации."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nekoliko rečenica o vašoj organizaciji. Ovo će se pojaviti na url stranici vaše organizacije."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Några meningar om din organisation. Detta kommer att visas på din organisations webbsida."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Birkaç cümleyle kuruluşunuzdan bahsedin. Bu, kuruluşunuzun URL sayfasında görünecektir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Кілька речень про вашу організацію. Ця інформація з’явиться на сторінці за URL-адресою вашої організації."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Một vài câu về tổ chức của bạn. Thông tin này sẽ xuất hiện trên trang URL của tổ chức của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "关于您的组织的几句话。这将显示在您组织的链接页面上。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請提供關於組織的簡介，這會顯示在組織的網頁上。"
+                }
+            ]
+        }
+    ]
+}

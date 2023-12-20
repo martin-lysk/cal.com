@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "change_username_standard_to_premium",
+        "library.inlang.paraglideJs": "change_username_standard_to_premium"
+    },
+    "id": "slow_ears_allow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "عند التغيير من اسم مستخدم قياسي إلى اسم مستخدم مميز، سيتم نقلك إلى الدفع للترقية."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při změně uživatelského jména ze standardního na prémiové budete přesměrováni k platbě, po které přejdete na vyšší verzi."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da du skifter fra et standard til et premium brugernavn, vil du blive ført til kassen for at opgradere."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da Sie von einem Standard- zu einem Premium-Benutzernamen wechseln, werden Sie zum Upgrade zur Kasse gebracht."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "As you are changing from a standard to a premium username, you will be taken to the checkout to upgrade."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Como estás cambiando de un nombre de usuario estándar a un nombre de usuario premium, se te llevará al pago para actualizarlo."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il s'agit d'un nom d'utilisateur premium et l'appliquer vous redirigera vers la facturation pour valider le changement."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מאחר שאתה משנה את שם המשתמש מסטנדרטי לפרימיום, תועבר אל הקופה לצורך שדרוג."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Poiché stai passando da un nome utente standard a un nome utente premium, sarai portato alla pagina di pagamento per effettuare l'upgrade."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "スタンダードからプレミアムユーザー名に変更すると、アップグレードのための精算画面に移動します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "표준 사용자 이름에서 프리미엄 사용자 이름으로 변경하면 업그레이드를 위한 결제 단계로 이동합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Omdat je van een standaard naar een premium gebruikersnaam verandert, word je naar de kassa geleid om te upgraden."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Når du endrer fra et standard til et premium brukernavn, vil du bli tatt til kassen for å oppgradere."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ponieważ zmianiasz nazwę użytkownika ze standardowej na premium, przeniesiemy Cię do kasy w celu opłacenia wyższej wersji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Como está a mudar de um nome de utilizador padrão para um premium, irá para a finalização de compra para fazer o upgrade."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O nome de usuário será alterado de padrão para premium, por isso levaremos você para atualizar na conclusão."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Având în vedere că treceți de la un nume de utilizator standard la unul premium, veți fi redirecționat la pagina de plată pentru actualizare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы собираетесь изменить стандартное имя пользователя на имя пользователя премиум-уровня, поэтому будете перенаправлены на страницу оплаты для смены тарифа."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pošto prelazite sa standardnog na premijum korisničko ime, bićete preusmereni na naplatu da biste prešli na višu verziju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "När du ändrar från ett standard- till ett premium-användarnamn, kommer du att tas till kassan för att uppgradera."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Standart bir kullanıcı adından premium bir kullanıcı adına geçerken yükseltme işlemi için ödeme sayfasına yönlendirileceksiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Оскільки ви змінюєте стандартне ім’я користувача на преміальне, відкриється оформлення переходу на дорожчу підписку."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Do bạn thay đổi từ tên người dùng từ loại tiêu chuẩn sang cao cấp, bạn sẽ được đưa đến phần thanh toán để nâng cấp."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "当您从标准用户名更改为高级用户名后，您将被引导至账单页面进行升级。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的使用者名稱即將從標準改為高級，系統將帶您前往結帳畫面進行升級。"
+                }
+            ]
+        }
+    ]
+}

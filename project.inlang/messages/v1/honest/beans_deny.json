@@ -1,0 +1,508 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "invited_by_team",
+        "library.inlang.paraglideJs": "invited_by_team"
+    },
+    "id": "honest_beans_deny",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "دعاك "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " للانضمام إلى فريقهم كـ"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tým "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vás pozval do svého týmu na pozici "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " har inviteret dig til at deltage i deres team som "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " hat Sie eingeladen, dem Team als "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                },
+                {
+                    "type": "Text",
+                    "value": " beizutreten"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " has invited you to join their team as a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " te invitó a unirte a su equipo como "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vous a invité à rejoindre son équipe en tant que "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הוזמנת על ידי "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " להצטרף לצוות בתפקיד "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ti ha invitato a unirti al team come "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " から "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                },
+                {
+                    "type": "Text",
+                    "value": " としてチームに参加するよう招待されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 님이 귀하를 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                },
+                {
+                    "type": "Text",
+                    "value": " 자격으로 팀에 초대했습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " heeft u uitgenodigd om deel te nemen aan hun team als "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " har invitert deg til å bli med i teamet deres som en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zaprasza Cię do dołączenia do zespołu jako "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " enviou um convite para se juntar à sua equipa como "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " enviou um convite para juntar-se à equipe como "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " v-a invitat să faceți parte din echipa sa în calitate de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " приглашает вас присоединиться к команде с ролью «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vas je pozvao da se pridružite timu kao "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " har bjudit in dig att gå med i deras team som "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sizi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                },
+                {
+                    "type": "Text",
+                    "value": " olarak ekibe katılmaya davet ediyor"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " запрошує вас приєднатися до його або її команди в такій ролі: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã mời bạn gia nhập nhóm của họ ở vai trò "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已邀请您以 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的身份加入他们的团队"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "「"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "」已邀請您以"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "role"
+                },
+                {
+                    "type": "Text",
+                    "value": "的身分加入他們的團隊"
+                }
+            ]
+        }
+    ]
+}

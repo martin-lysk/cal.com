@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "disband_org_confirmation_message",
+        "library.inlang.paraglideJs": "disband_org_confirmation_message"
+    },
+    "id": "beige_humans_stop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هل أنت متأكد من أنك تريد حل هذه المنظمة؟ سيتم حذف جميع الفرق والأعضاء."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opravdu chcete tuto organizaci rozpustit? Všechny týmy a členové budou odstraněni."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sind Sie sicher, dass Sie diese Organisation auflösen möchten? Alle Teams und Mitglieder werden gelöscht."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Are you sure you want to disband this Org? All teams and members will be deleted."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "¿Está seguro de que desea disolver esta organización? Todos los equipos y miembros se eliminarán."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voulez-vous vraiment dissoudre cette organisation ? Toutes les équipes et tous les membres seront supprimés."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בטוח/ה שברצונך לפרק את הארגון הזה? כל הצוותים והחברים יימחקו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desideri sciogliere questa organizzazione? Tutti i team e i membri verranno eliminati."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この組織を解散しますか？すべてのチームとメンバーが削除されます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 조직을 해체하시겠습니까? 모든 팀과 구성원이 삭제됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Weet u zeker dat u deze organisatie wilt ontbinden? Alle teams en leden worden verwijderd."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Czy na pewno chcesz rozwiązać tę organizację? Wszystkie zespoły i wszyscy członkowie zostaną usunięci."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem a certeza que quer dissolver esta organização? Todas as equipas e membros serão eliminados."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem certeza de que deseja desfazer esta Org? Todos os membros e equipes serão excluídos."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sigur doriți să desființați această organizație? Se vor șterge toate echipele și toți membrii."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Расформировать эту организацию? Все команды и сотрудники будут удалены."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da li ste sigurni da želite da rasformirate ovu organizaciju? Svi timovi i članovi će biti izbrisani."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Är du säker på att du vill upplösa denna organisation? Alla team och medlemmar kommer att tas bort."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu kuruluşu dağıtmak istediğinizden emin misiniz? Tüm ekipler ve üyeler silinecek."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Справді розформувати цю організацію? Усі команди й учасників буде видалено."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có chắc chắn muốn giải tán Tổ chức này? Tất cả các nhóm và thành viên sẽ bị xoá."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您确定要解散此组织吗？所有团队和成员都将被删除。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "確定要解散此組織嗎？這會刪除所有團隊和成員。"
+                }
+            ]
+        }
+    ]
+}

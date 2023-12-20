@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "upgrade_to_flexible_pro_message",
+        "library.inlang.paraglideJs": "upgrade_to_flexible_pro_message"
+    },
+    "id": "forty_ghosts_flow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يوجد أعضاء في فريقك من دون مقاعد. قم بترقية خطة Pro خاصتك لتوفير المقاعد الناقصة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ve vašem týmu jsou členové bez místa. Upgradujte svůj Pro plán pro pokrytí chybějících míst."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Der er medlemmer i dit team uden en plads. Opgradér din pro plan for at dække manglende pladser."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Es gibt Mitglieder in Ihrem Team ohne Lizenz. Upgraden Sie Ihren Pro-Plan um fehlende Lizenzen abzudecken."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "There are members in your team without a seat. Upgrade your pro plan to cover missing seats."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hay miembros en tu equipo sin asiento. Actualiza al plan Pro para cubrir los asientos restantes."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Des membres dans votre équipe n'ont pas de place. Mettez à niveau votre plan Pro pour couvrir les places manquantes."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש בצוות שלך חברים שאין להם מקום. שדרג לחבילת Pro לדאוג למקומות החסרים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alcuni membri del tuo team non hanno un posto. Aggiorna il tuo piano Pro per coprire i posti mancanti."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたのチームには座席がないメンバーがいます。Pro プランへとアップグレードし、不足している座席を確保してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "팀에 시트가 없는 구성원이 있습니다. 누락된 시트를 보완하려면 Pro 플랜을 업그레이드하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er zijn leden in uw team zonder een plaats. Upgrade uw Pro-abonnement om de ontbrekende plaatsen te dekken."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det er medlemmer i teamet ditt uten sete. Oppgrader proffplanen din for å dekke manglende seter."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "W twoim zespole nie ma miejsca. Ulepsz swój plan pro aby pokryć brakujące miejsca."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Há membros sem lugar na sua equipa. Actualize para o plano Pro para cobrir os lugares em falta."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Há membros da sua equipe que não têm assento. Atualize para o plano Pro para incluir os assentos faltando."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Există membri fără licență în echipa dvs. Faceți upgrade la planul Pro pentru a acoperi licențele lipsă."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "В вашей команде есть пользователи без места. Перейдите на тарифный план Pro, чтобы получить недостающие места."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Imate članove u timu koji nemaju mesto. Nadogradite svoj pro plan da biste pokrili mesta koja nedostaju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det finns medlemmar i ditt team utan en plats. Uppgradera din pro plan för att täcka saknade platser."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ekibinizde alanı olmayan üyeler var. Eksik alanları doldurmak için profesyonel plana yükseltin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "У вашій команді є учасники без придбаних місць. Перейдіть на план Pro, щоб отримати всі потрібні місця."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có những thành viên trong nhóm của bạn không có gói. Nâng cấp gói PRO của bạn để trang trải những gói bị thiếu."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的团队中有没有位置的成员。升级到专业版来获得更多位置。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "在團隊裡，有成員沒有座位。升級為 Pro 方案就可以補上缺少的座位。"
+                }
+            ]
+        }
+    ]
+}

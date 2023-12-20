@@ -1,0 +1,348 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "meeting_with_user",
+        "library.inlang.paraglideJs": "meeting_with_user"
+    },
+    "id": "four_baboons_allow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "الاجتماع مع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Schůzka s "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "{Event type title} imellem {Organiser} & {Scheduler}"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Meeting mit "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "{Event type title} between {Organiser} & {Scheduler}"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reunión con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "{Event type title} entre {Organiser} et {Scheduler}"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "{Event type title} פגישה בין {Organiser} ו- {Scheduler}"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Riunione con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " とのミーティング"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 님과의 회의"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Afspraak met "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Møte med {ATTENDEE}"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Spotkanie z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reunião com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reunião com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Întâlnire cu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Встреча с "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sastanak sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Möte med "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ile toplantı"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Нарада з користувачем "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gặp gỡ với "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "与 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的会议"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "與 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的會議"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "dynamically_display_attendee_or_organizer",
+        "library.inlang.paraglideJs": "dynamically_display_attendee_or_organizer"
+    },
+    "id": "three_pigs_trade",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "عرض اسم حضورك بشكل ديناميكي، أو اسمك عندما يراه حضورك"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dynamické zobrazení jména účastníka pro vás nebo vašeho jména pro účastníka"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vis dynamisk navnet på din deltager for dig, eller dit navn hvis det ses af din deltager"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zeigt dynamisch entweder Ihnen den Namen Ihres Teilnehmers bzw. Ihrer Teilnehmerin an oder zeigt Ihrem/Ihrer Teilnehmerin Ihren Namen an"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dynamically display the name of your attendee for you, or your name if it's viewed by your attendee"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mostrar dinámicamente el nombre de su asistente para usted, o su nombre si es visto por su asistente"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Affiche dynamiquement le nom du participant pour vous ou votre nom s'il est vu par le participant"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הצגה דינאמית של השם של המשתתף/ת בפניך או של השם שלך אם הצופה הוא/היא המשתתף/ת"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Visualizza dinamicamente il nome del partecipante oppure il tuo nome, se visualizzato dal partecipante"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたに対しては出席者の名前を、出席者に対してはあなたの名前を動的に表示します"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "참석자의 이름을 동적으로 표시하거나, 참석자가 보는 경우 귀하의 이름을 표시합니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Geef dynamisch de naam van uw deelnemer weer aan u of uw naam als het door uw deelnemer bekeken wordt"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vis navnet på deltakeren din dynamisk for deg, eller navnet ditt hvis det er sett av deltakeren din"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dynamicznie wyświetlaj nazwę uczestnika lub Twoją nazwę, jeśli zostanie ona wyświetlone przez Twojego uczestnika"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mostrar dinamicamente o nome do seu participante, ou o seu nome, se visto pelo seu participante"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Exibe dinamicamente o nome do participante para você, ou seu nome se for visto pelo seu participante"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Afișați dinamic numele participantului pentru dvs. sau numele dvs. dacă este vizualizat de participantul dvs."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Динамически отображать имя участника, если событие просматриваете вы, или ваше имя, если его просматривает участник"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dinamičko prikazivanje imena učesnika vama, ili prikazivanje vašeg imena učesniku"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Visa dynamiskt deltagarens namn för dig, eller ditt namn om det visas av deltagaren"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kendiniz için katılımcınızın adını veya katılımcınız tarafından görüntüleniyorsa adınızı dinamik olarak gösterin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Динамічно показувати ім’я учасника вам або ваше ім’я учаснику, який його переглядає"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hiển thị linh động tên người tham dự cho bạn thấy, hoặc hiển thị tên bạn nếu tên đó được thấy bởi người tham dự"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "动态显示参与者的姓名，如果参与者查看，则显示您的姓名"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "為您動態顯示與會者的姓名，若與會者查看，則會顯示您的姓名"
+                }
+            ]
+        }
+    ]
+}

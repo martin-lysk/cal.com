@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "couldnt_charge_card_error",
+        "library.inlang.paraglideJs": "couldnt_charge_card_error"
+    },
+    "id": "slick_paths_suffer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Could not charge card for Payment"
+                }
+            ]
+        }
+    ]
+}

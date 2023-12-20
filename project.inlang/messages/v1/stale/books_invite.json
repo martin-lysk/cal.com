@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "org_is_unpublished_description",
+        "library.inlang.paraglideJs": "org_is_unpublished_description"
+    },
+    "id": "stale_books_invite",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "رابط هذه المنظمة غير متاح حاليًا. يرجى الاتصال بمالك المنظمة أو طلب النشر منه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tento odkaz organizace není v současné době k dispozici. Kontaktujte prosím vlastníka organizace nebo ho požádejte o jeho zveřejnění."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dieser Organisations-Link ist derzeit nicht verfügbar. Bitte kontaktieren Sie den Organisations-Besitzer oder fragen Sie ihn, ob er ihn veröffentlicht."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This organization link is currently not available. Please contact the organization owner or ask them to publish it."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El enlace de esta organización no está disponible actualmente. Comuníquese con el propietario de la organización o pídale que lo publique."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ce lien d'organisation n'est actuellement pas disponible. Veuillez contacter le propriétaire de l'organisation ou lui demander de le publier."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הקישור לארגון הזה אינו זמין כעת. יש ליצור קשר עם הבעלים של הארגון או לבקש מהם לפרסם אותו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il link di questa organizzazione non è attualmente disponibile. Contatta il proprietario dell'organizzazione o chiedigli di pubblicarlo."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この組織のリンクは現在利用できません。組織の所有者に連絡するか、リンクを公開するよう依頼してください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 조직 링크는 현재 사용할 수 없습니다. 조직 소유자에게 문의하거나 게시해 달라고 요청하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deze organisatiekoppeling is momenteel niet beschikbaar. Neem contact op met de organisatie-eigenaar of vraag om het te publiceren."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Link organizacji jest obecnie niedostępny. Skontaktuj się z właścicielem organizacji lub poproś o jego opublikowanie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Esta ligação da organização não está atualmente disponível. Por favor, entre em contacto com os responsáveis pela organização ou solicite aos mesmos a respetiva publicação."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este link da organização não está disponível no momento. Entre em contato com o proprietário da organização ou peça que seja publicado."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acest link de organizație nu este disponibil momentan. Contactați proprietarul organizației sau rugați-l să îl publice."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Эта ссылка на организацию в настоящее время недоступна. Свяжитесь с владельцем организации и попросите его опубликовать ее."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovaj link Organizacije trenutno nije dostupan. Obratite se vlasniku Organizacije i zamolite ga da ga objavi."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Den här organisationslänken är för närvarande inte tillgänglig. Kontakta organisationens ägare eller be denne att publicera den."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu kuruluş bağlantısı şu anda kullanılamıyor. Lütfen kuruluş sahibiyle iletişime geçin veya ondan bir bağlantı paylaşmasını isteyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Посилання на цю організацію зараз недоступне. Зверніться до власника організації або попросіть його опублікувати посилання."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Liên kết tổ chức này hiện không khả dụng. Hãy liên lạc với chủ tổ chức hoặc yêu cầu họ công bố liên kết đó."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "该组织链接当前不可用。请联系组织所有者或要求他们发布。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此組織連結目前無法使用。請聯絡組織擁有者，或請對方發佈。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,408 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "allow_client_to_do",
+        "library.inlang.paraglideJs": "allow_client_to_do"
+    },
+    "id": "curvy_beans_stare",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "السماح لـ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " بالقيام بهذا؟"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chcete povolit klientovi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " provádět uvedené akce?"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zulassen, dies zu tun?"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Allow "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " to do this?"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "¿Desea permitir que "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " haga esto?"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Autoriser "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " à faire cela ?"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "האם לאפשר ל-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " לעשות זאת?"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consentire a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " di farlo?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " にこれの実行を許可しますか？"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": "님이 이 작업을 수행하도록 허용하시겠습니까?"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dit toestaan voor "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Czy chcesz umożliwić to klientowi ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": ")?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Permitir que "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " possa fazer isto?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Permitir que "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " faça isto?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Permiteți ca "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " să facă acest lucru?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Разрешить "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " эти действия?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da li dozvoljavate "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " da to uradi?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tillåt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " att göra detta?"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " adlı kullanıcıya bu işlemler için izin verilsin mi?"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Дозволити "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " це робити?"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cho phép "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " làm điều này?"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "允许 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 执行此操作？"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "允許 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 這麼做嗎？"
+                }
+            ]
+        }
+    ]
+}

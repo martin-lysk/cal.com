@@ -1,0 +1,46 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "share_a_link_or_embed_description",
+        "library.inlang.paraglideJs": "share_a_link_or_embed_description"
+    },
+    "id": "warm_hoops_invite",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Share your "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " link or embed on your site."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Partagez votre lien ou intégration "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sur votre site."
+                }
+            ]
+        }
+    ]
+}

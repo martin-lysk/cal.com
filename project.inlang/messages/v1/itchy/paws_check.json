@@ -1,0 +1,384 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_type_created_successfully",
+        "library.inlang.paraglideJs": "event_type_created_successfully"
+    },
+    "id": "itchy_paws_check",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم إنشاء نوع الحدث "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Typ události "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " byl úspěšně vytvořen"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " begivenhedstype blev oprettet"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " Ereignistyp erfolgreich erstellt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " event type created successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tipo de evento creado con éxito"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " type d'événement créé avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יצירת האירוע מסוג "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " בוצעה בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tipo di evento creato con successo"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " イベント種別が正常に作成されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 이벤트 타입이 성공적으로 생성되었습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " evenement met succes aangemaakt"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " hendelsestype opprettet"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utworzono "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " typ wydarzenia pomyślnie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tipo de evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " criado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " evento criado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tip de eveniment creat cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " тип мероприятия успешно создан"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " tip događaja uspešno napravljen"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " har skapats"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinlik türü başarıyla oluşturuldu"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Тип заходу «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": "» створено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã tạo thành công loại sự kiện "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                },
+                {
+                    "type": "Text",
+                    "value": " 活动类型创建成功"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "成功新增活動類型 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventTypeTitle"
+                }
+            ]
+        }
+    ]
+}

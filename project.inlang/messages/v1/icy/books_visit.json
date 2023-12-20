@@ -1,0 +1,474 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "invalid_url_error_message",
+        "library.inlang.paraglideJs": "invalid_url_error_message"
+    },
+    "id": "icy_books_visit",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "عنوان URL غير صالح من أجل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". عنوان URL للعينة: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Neplatná adresa URL pro "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Příklad URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ungültige URL für "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Beispiel-URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Invalid URL for "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Sample URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL no válida para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". URL de ejemplo: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כתובת URL לא חוקית עבור "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". כתובת URL לדוגמה: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL non valido per "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". URL di esempio: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": " の無効な URL です。サンプル URL："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 대한 URL이 유효하지 않습니다. 샘플 URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ongeldige URL voor "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Voorbeeld-URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nieprawidłowy adres URL dla: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Przykładowy adres URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL inválida para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". URL de exemplo: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL inválida para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". URL de amostra: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adresă URL nevalidă pentru "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Model URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Недопустимый URL для "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Пример URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Neispravan URL za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Primer URL-a: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ogiltig URL för "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Exempel-URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": " için geçersiz URL. Örnek URL: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Неприпустима URL-адреса для "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Зразок URL-адреси: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "URL không hợp lệ cho "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": ". URL mẫu: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的链接无效。示例链接："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "label"
+                },
+                {
+                    "type": "Text",
+                    "value": " 網址無效。網址範例："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "sampleUrl"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_available_users_found_error",
+        "library.inlang.paraglideJs": "no_available_users_found_error"
+    },
+    "id": "wide_memes_drive",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No available users found. Could you try another time slot?"
+                }
+            ]
+        }
+    ]
+}

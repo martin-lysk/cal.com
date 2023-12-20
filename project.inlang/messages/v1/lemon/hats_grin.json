@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "disable_2fa_recommendation",
+        "library.inlang.paraglideJs": "disable_2fa_recommendation"
+    },
+    "id": "lemon_hats_grin",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إذا كنت بحاجة إلى تعطيل المصادقة من عاملين، فنوصيك بإعادة تمكينها في أقرب وقت ممكن."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokud potřebujete dvoufázové ověřování vypnout, doporučujeme ho co nejdříve zase zapnout."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hvis du har brug for at deaktivere 2FA, anbefaler vi at genaktivere den så hurtigt som muligt."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Falls Sie 2FA deaktivieren müssen, empfehlen wir, es so schnell wie möglich wieder zu aktivieren."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "If you need to disable 2FA, we recommend re-enabling it as soon as possible."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si necesita deshabilitar 2FA, le recomendamos que lo vuelva a habilitar lo antes posible."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si vous avez besoin de désactiver la double authentification, nous vous recommandons de la réactiver dès que possible."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אם עליך להשבית את האימות הדו-גורמי, מומלץ להפעיל אותו שוב בהקדם האפשרי."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se è necessario disattivare 2FA, si consiglia di riattivarlo il prima possibile."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "2FA を無効にする必要がある場合は、その必要がなくなった後すぐに有効にしなおすことをおすすめします。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "2FA를 비활성화해야 하는 경우, 가능한 한 빨리 다시 활성화하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Als u tweestapsverificatie wilt deactiveren, raden wij aan om dit zo snel mogelijk ongedaan te maken."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hvis du må deaktivere 2FA, anbefaler vi å reaktivere den så snart som mulig."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeśli chcesz wyłączyć 2FA, zalecamy ponowne włączenie go tak szybko, jak to możliwe."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se precisar desativar o 2FA, recomendamos reativá-lo o mais rápido possível."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se precisar desativar a autenticação de dois fatores, recomendamos reativá-la o mais rápido possível."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dacă aveţi nevoie să dezactivaţi 2FA, vă recomandăm reactivarea cât mai curând posibil."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Если вам нужно отключить двухфакторную авторизацию, мы рекомендуем включить её как можно скорее."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ako morate da onemogućite 2FA, predlažemo da je omogućite što pre."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om du behöver inaktivera 2FA rekommenderar vi att du återaktiverar den så snart som möjligt."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "İki adımlı kimlik doğrulamayı devre dışı bırakmanız gerekiyorsa mümkün olan en kısa sürede yeniden etkinleştirmenizi öneririz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Якщо вам потрібно вимкнути двоетапну перевірку, рекомендуємо потім увімкнути її якомога швидше."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nếu bạn cần tắt xác thực hai yếu tố, chúng tôi khuyên bạn nên bật lại nó càng sớm càng tốt."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果您需要临时禁用两步验证，我们建议尽快重新启用它。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果有必要關閉兩階段認證，我們建議還是要盡快重新開啟。"
+                }
+            ]
+        }
+    ]
+}

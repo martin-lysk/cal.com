@@ -1,0 +1,634 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "disable_payment_app",
+        "library.inlang.paraglideJs": "disable_payment_app"
+    },
+    "id": "five_taxis_hide",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قام المشرف بتعطيل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " الذي يؤثر على نوع الحدث "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " لديك. لا يزال بإمكان الحاضرين حجز هذا النوع من الأحداث، ولكن لن يُطالبوا بالدفع. يمكنك إخفاء نوع الحدث لمنع حدوث هذا إلى أن يقوم المشرف بتغيير طريقة الدفع لك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administrátor zakázal "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", což ovlivňuje váš typ události "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Účastníci si stále mohou rezervovat tento typ události, ale nebudou vyzváni k platbě. Abyste tomu zabránili, můžete tento typ události skrýt, dokud správce tento způsob platby znovu nepovolí."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administratoren har deaktiveret "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", hvilket påvirker din begivenhedstype "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Deltagere er stadig i stand til at booke denne type begivenhed, men vil ikke blive bedt om at betale. Du kan skjule begivenhedstypen for at forhindre dette, indtil din administrator genaktiverer din betalingsmetode."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Der Admin hat "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " deaktiviert, wodurch Ihr Termintyp "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " beeinflusst wurde. Die Teilnehmer können diesen Termintyp immer noch buchen, werden aber nicht zur Zahlung aufgefordert. Sie können den Termintyp ausblenden, um dies zu verhindern, bis Ihr Administrator Ihre Zahlungsmethode wieder aktiviert."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The admin has disabled "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " which affects your event type "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Attendees are still able to book this type of event but will not be prompted to pay. You may hide hide the event type to prevent this until your admin renables your payment method."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El administrador ha deshabilitado "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", lo que afecta a su tipo de evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Los asistentes todavía pueden reservar este tipo de evento, pero no se les pedirá que paguen. Puede ocultar el tipo de evento para evitar esto hasta que su administrador habilite de nuevo su método de pago."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'administrateur a désactivé "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " qui affecte votre type d'événement "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Les participants sont toujours en mesure de réserver ce type d'événement, mais ne seront pas invités à payer. Vous pouvez masquer le type d'événement pour l'empêcher jusqu'à ce que votre administrateur réactive votre moyen de paiement."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מנהל/ת המערכת השבית/ה את "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", ויש לכך השפעה על סוג האירוע שלך בשם "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". המשתתפים עדיין יוכלו להזמין אירוע מסוג זה, אבל לא תוצג להם בקשה לביצוע תשלום. ניתן להסתיר את סוג האירוע הזה על מנת למנוע מצב זה עד שמנהל/ת המערכת יפעיל/תפעיל שוב את שיטת התשלום."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'amministratore ha disabilitato "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", il che ha effetto sul tuo tipo di evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". I partecipanti sono ancora in grado di prenotare questo tipo di evento ma non gli verrà richiesto di pagare. Per evitarlo, è possibile nascondere questo tipo di evento fino a che l'amministratore non riattivi il tuo metodo di pagamento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "管理者が "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " を無効にしたため、イベントの種類 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " に影響を与える可能性があります。出席者がこの種類のイベントを予約することは可能ですが、支払いを促されることはありません。管理者が支払い方法を再度有効にするまでの間これを防ぐために、イベントの種類を非表示にすることができます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "관리자가 이벤트 타입 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 영향을 미치는 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 앱을 비활성화했습니다. 참석자는 여전히 이러한 타입의 이벤트를 예약할 수 있지만 결제하라는 메시지는 표시되지 않습니다. 관리자가 결제 수단을 다시 활성화할 때까지 이를 방지하기 위해 이벤트 타입을 숨길 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De beheerder heeft "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " uitgeschakeld die van invloed is op uw gebeurtenistype "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Deelnemers kunnen dit tyoe gebeurtenissen nog steeds boeken, maar worden niet gevraagd te betalen. U kunt het gebeurtenistype verbergen om dit te voorkomen totdat uw beheerde de betaalmethode opnieuw inschakelt."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administrator wyłączył aplikację "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", która ma wpływ na Twój typ wydarzenia ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": "). Uczestnicy nadal mogą rezerwować wydarzenie tego typu, ale nie zostaną poproszeni o płatność. Możesz ukryć ten typ wydarzenia, aby temu zapobiec, póki administrator nie włączy ponownie Twojej metody płatności."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O administrador desativou "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", que afeta o seu tipo de evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Os participantes ainda podem reservar este tipo de evento, mas não será pedido que façam qualquer pagamento. Pode ocultar o tipo de evento para evitar esta situação até que o administrador reative o seu método de pagamento."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O administrador desativou "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", afetando o seu tipo de evento "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Os participantes ainda poderão reservar este tipo de evento, mas não será solicitado pagamento. Você poderá ocultar o tipo de evento para impedir isso até o adiministrador reativar seu método de pagamento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administratorul a dezactivat "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " care afectează tipul tău de eveniment "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Participanții încă pot să facă rezervări pentru acest tip de eveniment, dar nu li se va solicita să plătească. Poți ascunde tipul de eveniment pentru a preveni acest lucru până când administratorul tău reactivează metoda ta de plată."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Приложение "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", используемое для событий типа «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": "», отключено администратором. Участники по-прежнему могут бронировать данный тип событий, но не будут получать сообщение о необходимости произвести оплату. Чтобы этого избежать, вы можете скрыть тип событий до тех пор, пока администратор снова не активирует способ оплаты."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administrator je onemogućio "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", što utiče na vaš tip događaja "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Učesnici još uvek mogu da zakažu ovaj tip događaja, ali od njih neće biti zatraženo da plate. Možete da sakrijete ovaj tip događaja da biste to sprečili dok vaš administrator ponovo ne omogući vaš način plaćanja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administratören har inaktiverat "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vilket påverkar din händelsetyp "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Deltagarna kan fortfarande boka den här händelsetypen, men de uppmanas inte att betala. Du kan dölja händelsetypen för att förhindra detta tills din administratör återaktiverar betalningsmetoden."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yönetici, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " etkinlik türünüzü etkileyebilecek "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " uygulamasını devre dışı bıraktı. Katılımcılar yine de bu tür bir etkinlik için rezervasyon yaptırabilirler ancak herhangi bir ödeme yapmalarına gerek yoktur. Bu durumu önlemek için yöneticiniz ödeme yönteminizi yeniden etkinleştirene kadar etkinlik türünü gizleyebilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Адміністратор вимкнув додаток "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", що впливає на ваш тип заходу «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": "». Учасники все одно можуть бронювати події такого типу, але від них не вимагатиметься оплата. Ви можете приховати цей тип заходу, щоб уникнути цього, і дочекатись активації способу оплати адміністратором."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Một quản trị viên đã tắt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " vốn có ảnh hưởng đến loại sự kiện "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Người tham dự vẫn có thể đặt hẹn cho loại sự kiện này nhưng sẽ được nhắc trả phí. Bạn có thể ẩn loại sự kiện này để tránh điều này cho đến khi quản trị viên kích hoạt lại phương thức thanh toán của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "管理员已禁用会影响活动类型 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "。参与者仍然能预约此类型的活动，但不会被提示付款。您可以隐藏该活动类型来防止出现这种情况，直到管理员重新启用您的支付方式。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "管理員已停用會影響 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 活動類型的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "。與會者仍可預約此類型活動，但不會收到付費提示。您也可以隱藏此活動類型來避免這種情況，直到管理員再次啟用您的付款方式為止。"
+                }
+            ]
+        }
+    ]
+}

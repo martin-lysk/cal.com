@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "disable_notes_description",
+        "library.inlang.paraglideJs": "disable_notes_description"
+    },
+    "id": "ripe_hotels_guess",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لأسباب تتعلق بالخصوصية، سيتم إخفاء المدخلات والملاحظات الإضافية في إدخال التقويم. سيتم إرسالها إلى بريدك الإلكتروني."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Z důvodu ochrany soukromí budou v záznamu kalendáře skryty další vstupy a poznámky. Stále budou odeslány na váš e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Af fortrolighedshensyn vil yderligere input og noter blive skjult i kalenderposten. De vil stadig blive sendt til din e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aus Datenschutzgründen werden zusätzliche Eingaben und Notizen im Kalendereintrag ausgeblendet. Sie werden trotzdem an Ihre E-Mail gesendet."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "For privacy reasons, additional inputs and notes will be hidden in the calendar entry. They will still be sent to your email."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por razones de privacidad, las entradas y notas adicionales se ocultarán en la entrada del calendario. Seguirán enviándose a su correo electrónico."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pour des raisons de confidentialité, les champs et notes supplémentaires seront masquées dans l'entrée du calendrier. Elles vous seront tout de même envoyées par e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מסיבות פרטיות, אפשרויות קלט נוספות והערות יוסתרו מהרשומה בלוח השנה. הם עדיין יישלחו אליך בדוא\"ל."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per motivi di privacy, gli input e le note aggiuntivi saranno nascosti nella voce del calendario. Verranno comunque inviati alla tua email."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "プライバシー上の理由から、追加の入力やメモはカレンダーのエントリで非表示にされます。それらは引き続きあなたのメールアドレスに送信されます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "개인 정보 보호를 위해, 추가 입력 및 메모는 캘린더 항목에서 숨겨지지만, 여전히 귀하의 이메일로 전송됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om privacyredenen worden extra invoer en notities verborgen in het kalenderitem. Ze worden nog wel naar uw e-mail verzonden."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Av personvernhensyn vil flere input og notater være skjult i kalenderoppføringen. De vil fortsatt bli sendt til din e-post."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ze względu na prywatność, dodatkowe dane wejściowe i notatki zostaną ukryte we wpisie kalendarza. Będą one nadal wysyłane na Twój adres e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por razões de privacidade, informações adicionais e notas serão escondidas no registo do calendário. Serão enviadas para o seu email."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por motivo de privacidade, notas e dados adicionais serão ocultos na entrada do calendário. Serão enviadas por e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din motive de confidențialitate, intrările și notele suplimentare vor fi ascunse în intrarea din calendar. Acestea vor fi trimise în continuare pe adresa dvs. de e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "В целях обеспечения конфиденциальности дополнительные поля и заметки будут скрыты в записи календаря. При этом они будут отправлены на ваш адрес электронной почты."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Iz razloga privatnosti, dodatni unosi i napomene biće skriveni u stavci kalendara. Međutim, ipak će vam se slati na imejl."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Av sekretessskäl kommer ytterligare indata och anteckningar att döljas i kalenderposten. De kommer fortfarande att skickas till din e-post."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gizlilik nedeniyle, takvim girişinde ek girişler ve notlar gizlenecektir. Bu bilgiler yine de e-postanıza gönderilebilecektir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "З міркувань конфіденційності додаткові поля введення та примітки буде приховано в записі календаря. Їх усе одно буде надіслано вам на електронну пошту."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vì lý do riêng tư, các trường và ghi chú bổ sung sẽ bị ẩn trong mục lịch. Chúng sẽ vẫn được gửi đến email của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "出于隐私原因，额外的输入和备注将在日历条目中被隐藏，但它们仍将发送到您的电子邮件中。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "為保護隱私，行事曆中的其他輸入內容及備註將會隱藏，但仍會傳送至您的電子郵件。"
+                }
+            ]
+        }
+    ]
+}

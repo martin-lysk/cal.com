@@ -1,0 +1,350 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "associate_with_cal_account",
+        "library.inlang.paraglideJs": "associate_with_cal_account"
+    },
+    "id": "tangy_readers_wonder",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "رافق نفسك بمعلوماتك الشخصية من "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Přiřadit vám vaše osobní údaje z klienta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verknüpfen Sie sich mit Ihren persönlichen Daten von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Associate you with your personal info from "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lo asocie con su información personal de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לשייך בינך לבין הפרטים האישיים שלך מ-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Associarti con i tuoi dati personali da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたと "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " からのあなたの個人情報を関連づけられます"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "귀하를 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 님의 개인 정보와 연결하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U koppelen aan uw persoonsgegevens van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Powiązać Cię z Twoimi danymi osobistymi od klienta ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": ")"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Associar as suas informações pessoais do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " consigo"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Associar você com suas informações pessoais de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "să vă asocieze cu informațiile dvs. personale deținute de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Сопоставить вас с персональными данными "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da vas poveže sa vašim ličnim informacijama na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Koppla dig till dina personuppgifter från "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kişisel bilgilerinizi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " kullanıcısındaki bilgilerle ilişkilendirmek"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пов’язувати вас із персональною інформацією, отриманою від "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Liên kết bạn với thông tin cá nhân của bạn từ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "将您与您在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的个人信息相关联"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "將您和您在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "clientName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的個人資料建立關聯"
+                }
+            ]
+        }
+    ]
+}

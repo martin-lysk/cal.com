@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "limit_booking_only_first_slot_description",
+        "library.inlang.paraglideJs": "limit_booking_only_first_slot_description"
+    },
+    "id": "olive_geckos_remain",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Allow only the first slot of every day to be booked"
+                }
+            ]
+        }
+    ]
+}

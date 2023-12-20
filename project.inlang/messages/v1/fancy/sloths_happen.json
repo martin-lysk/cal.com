@@ -1,0 +1,456 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_status_bookings_yet",
+        "library.inlang.paraglideJs": "no_status_bookings_yet"
+    },
+    "id": "fancy_sloths_happen",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لا توجد عمليات حجز "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zatím žádné "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " rezervace"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " bookinger"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Es gibt noch keine "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " Buchungen"
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Δεν υπάρχουν "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " κρατήσεις"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " bookings"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aún no hay reservas "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aucune réservation "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " pour le moment"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "עדיין אין הזמנות בסטטוס "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nema "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " rezervacija"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nessuna prenotazione in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " の予約はありません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " 예약이 없음"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Geen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " afspraken"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " bookinger"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Brak "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " rezerwacji"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ainda não tem reservas "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ainda não tem reservas "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nicio rezervare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Нет бронирований со статусом «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Još nema "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " rezervacija"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inga "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "-bokningar"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " rezervasyonu yok"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Немає бронювань зі станом «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chưa có lịch hẹn "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " nào"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "暂无 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " 预约"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "暫無 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "status"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的預約"
+                }
+            ]
+        }
+    ]
+}

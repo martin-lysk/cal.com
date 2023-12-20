@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "token_not_found",
+        "library.inlang.paraglideJs": "token_not_found"
+    },
+    "id": "witty_showers_design",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Token not found"
+                }
+            ]
+        }
+    ]
+}

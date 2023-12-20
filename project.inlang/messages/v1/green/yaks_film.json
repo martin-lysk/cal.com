@@ -1,0 +1,514 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "check_with_provider_and_user",
+        "library.inlang.paraglideJs": "check_with_provider_and_user"
+    },
+    "id": "green_yaks_film",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يُرجى التحقق من مزود الدفع لديك و"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " بشأن كيفية التعامل مع الأمر."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pro řešení prosím zkontaktujte vašeho správce plateb a/nebo uživatele "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tjek venligst med din betalingsudbyder og "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " om hvordan du håndterer dette."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte überprüfen Sie bei Ihrem Zahlungsanbieter und "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", wie Sie damit umgehen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please check with your payment provider and "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " how to handle this."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por favor, compruebe con su proveedor de pago y "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " cómo manejar esto."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez vérifier avec votre fournisseur de paiement et "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " comment gérer cela."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש לברר עם ספק התשלום ועם "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " כיצד לטפל בעניין."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Molimo vas da provjerite sa vašim pružateljem usluge plaćanja i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " kako riješiti ovo."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Silakan periksa kembali dengan penyedia layanan pembayaran kamu dan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " bagaimana untuk menangani ini."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifica con il tuo fornitore di servizi di pagamento e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " come gestirlo."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "これを処理する方法については、支払い業者と "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " にご確認ください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 문제의 처리 방법은 결제 제공업체 및 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "에서 확인하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Neem contact op met uw betalingsverwerker en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " om dit op te lossen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sjekk med betalingsleverandøren din og "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " hvordan du håndterer dette."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Proszę, sprawdź z dostawcą płatności i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " jak to zrobić."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifique com seu provedor de pagamento e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " como lidar com isso."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por favor, tente resolver junto do seu fornecedor de pagamentos e com o "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vă rugăm să verificați cu furnizorul dvs. de plăți și cu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "userName"
+                },
+                {
+                    "type": "Text",
+                    "value": " cum să gestionați această activitate."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Уточните у своего поставщика платежных услуг и "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": ", как поступить в этом случае."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Molimo vas proverite sa vašom uslugom plaćanja i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " kako bi rešili ovo."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vänligen kontrollera med din betalningsleverantör och "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " hur du hanterar detta."
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "உங்கள் கட்டண வழங்குநர் மற்றும் "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " உடன் இனைந்து இதை எவ்வாறு கையாள்வது என்பதைச் சரிபார்க்கவும்."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lütfen ödeme sağlayıcınızla ve "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " ile bunu nasıl ele alınacağınızı kontrol edin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Зверніться до свого постачальника платіжних послуг і користувача "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " щодо вирішення цієї проблеми."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hãy kiểm tra với nhà cung cấp thanh toán và "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " phương thức xử lý."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请联系您的支付提供商与 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " 来解决该问题。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請向付款提供方和 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "user"
+                },
+                {
+                    "type": "Text",
+                    "value": " 確認要如何處理。"
+                }
+            ]
+        }
+    ]
+}

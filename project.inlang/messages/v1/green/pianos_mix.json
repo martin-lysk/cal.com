@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "instant_event_tab_description",
+        "library.inlang.paraglideJs": "instant_event_tab_description"
+    },
+    "id": "green_pianos_mix",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Let people book immediately"
+                }
+            ]
+        }
+    ]
+}

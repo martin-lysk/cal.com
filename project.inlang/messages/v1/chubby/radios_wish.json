@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "advanced_managed_events",
+        "library.inlang.paraglideJs": "advanced_managed_events"
+    },
+    "id": "chubby_radios_wish",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Advanced Managed Event Types"
+                }
+            ]
+        }
+    ]
+}

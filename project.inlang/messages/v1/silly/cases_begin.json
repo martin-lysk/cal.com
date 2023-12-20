@@ -1,0 +1,644 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "enterprise_license_description",
+        "library.inlang.paraglideJs": "enterprise_license_description"
+    },
+    "id": "silly_cases_begin",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لتمكين هذه الميزة، احصل على مفتاح نشر في وحدة التحكم "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " وأضفه إلى وحدة التحكم الخاصة بك. nv باسم CALCOM_LICENSE_KEY. إذا كان لدى فريقك بالفعل ترخيص، يرجى الاتصال بـ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " للحصول على المساعدة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokud chcete povolit tuto funkci, získejte klíč pro nasazení v konzoli "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " a přidejte ho do souboru .env jako CALCOM_LICENSE_KEY. Pokud váš tým již licenci má, kontaktujte prosím "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " a požádejte o pomoc."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "For at aktivere denne funktion, skal du gå til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "setupUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " for at indtaste en licensnøgle. Hvis en licensnøgle allerede er på plads, bedes du kontakte "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " for hjælp."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um diese Funktion zu aktivieren, holen Sie sich einen Deployment-Schlüssel von der "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Konsole und fügen Sie ihn als CALCOM_LICENSE_KEY zu Ihrer .env hinzu. Wenn Ihr Team bereits eine Lizenz hat, wenden Sie sich bitte an "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " für Hilfe."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To enable this feature, have an administrator go to <2>/auth/setup</2> to enter a license key. If a license key is already in place, please contact <5>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "SUPPORT_MAIL_ADDRESS"
+                },
+                {
+                    "type": "Text",
+                    "value": "</5> for help."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para habilitar esta función, obtenga una clave de despliegue en la consola "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " y añádala a su .env como CALCOM_LICENSE_KEY. Si su equipo ya tiene una licencia, póngase en contacto con "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " para obtener ayuda."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pour activer cette fonctionnalité, demandez à un administrateur d'accéder à <2>/auth/setup</2> pour saisir une clé de licence. Si une clé de licence est déjà en place, veuillez contacter <5>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "SUPPORT_MAIL_ADDRESS"
+                },
+                {
+                    "type": "Text",
+                    "value": "</5> pour obtenir de l'aide."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כדי להפעיל את יכולת זו, בקש ממנהל לגשת אל הקישור "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "setupUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " והקלדת הרישיון. אם כבר יש רישיון מוגדר, צור קשר עם "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " לעזרה."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per abilitare questa funzione, ottenere una chiave di distribuzione presso la console "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " e aggiungerla al proprio .env come CALCOM_LICENSE_KEY. Nel caso il team possieda già una licenza, contattare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " per assistenza."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この機能を有効にするには、"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " コンソールでデプロイメントキーを入手して .env に CALCOM_LICENSE_KEY として追加してください。既にチームがライセンスを持っている場合は "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " にお問い合わせください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 기능을 활성화하려면 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " 콘솔에서 배포 키를 가져와 .env에 CALCOM_LICENSE_KEY로 추가하세요. 팀에 이미 라이선스가 있는 경우 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 문의하여 도움을 받으세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om deze functie in te schakelen, krijgt u een implementatiesleutel op de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": "-console en voegt u deze toe aan uw .env als CALCOM_LICENSE_KEY. Als uw team al een licentie heeft, neem dan contact op met "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " voor hulp."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "For å aktivere denne funksjonen, skaff deg en distribusjonsnøkkel på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": "-konsollen og legg den til i .env som CALCOM_LICENSE_KEY. Hvis teamet ditt allerede har en lisens, vennligst kontakt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " for å få hjelp."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aby włączyć tę funkcję, uzyskaj klucz wdrożenia na konsoli "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " i dodaj go do swojego pliku .env jako CALCOM_LICENSE_KEY. Jeśli Twój zespół ma już licencję, napisz na adres "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": ", aby uzyskać pomoc."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para ativar esta funcionalidade, obtenha uma chave de instalação na consola "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " e adicione-a ao seu .env como CALCOM_LICENSE_KEY. Se a sua equipa já tem uma licença, entre em contacto com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " para obter ajuda."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para ativar este recurso, obtenha uma chave de desenvolvimento no console "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " e adicione ao seu .env como CALCOM_LICENSE_KEY. Caso sua equipe já tenha uma licença, entre em contato com "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " para obter ajuda."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pentru a activa această caracteristică, obține o cheie de implementare la consola "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " și adaug-o la .env ca CALCOM_LICENSE_KEY. Dacă echipa ta are deja o licență, te rugăm să contactezi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " pentru ajutor."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Чтобы включить эту функцию, получите ключ развертывания на консоли "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " и добавьте его в .env как CALCOM_LICENSE_KEY. Если у вашей команды уже есть лицензия, пожалуйста, обратитесь за помощью в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da biste omogućili ovu funkciju, nabavite ključ za primenu na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " konzoli i dodajte ga u svoj .env kao CALCOM_LICENCE_KEY. Ako vaš tim već ima licencu, obratite se na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " za pomoć."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "För att aktivera den här funktionen hämtar du en distributionsnyckel i konsolen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " och lägger till den i din .env som CALCOM_LICENSE_KEY. Om ditt team redan har en licens kan du kontakta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " för att få hjälp."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu özelliği etkinleştirmek için "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " konsolundan bir dağıtım anahtarı alın ve bunu .env dosyanıza CALCOM_LICENSE_KEY olarak ekleyin. Ekibinizin zaten bir lisansı varsa yardım için lütfen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " adresinden iletişime geçin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Щоб увімкнути цю функцію, отримайте ключ розгортання в консолі "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " і додайте його у свій файл .env як CALCOM_LICENSE_KEY. Якщо у вашої команди вже є ліцензія, зверніться по допомогу за адресою "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Để bật tính năng này, nhận khoá triển khai tại console "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " và thêm nó vào .env của bạn ở dạng CALCOM_LICENSE_KEY. Nếu nhóm của bạn đã có giấy phép, vui lòng liên hệ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " để được trợ giúp."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "要启用此功能，请在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " 控制台获取一个部署密钥，并将其添加到您的 .env 中作为 CALCOM_LICENSE_KEY。如果您的团队已经有许可证，请联系 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " 获取帮助。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "若要啟用此功能，請在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "consoleUrl"
+                },
+                {
+                    "type": "Text",
+                    "value": " 主控台取得部署金鑰，並在您的 .env 中新增為 CALCOM_LICENSE_KEY。如果您的團隊已經取得授權，請聯絡 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "supportMail"
+                },
+                {
+                    "type": "Text",
+                    "value": " 取得協助。"
+                }
+            ]
+        }
+    ]
+}

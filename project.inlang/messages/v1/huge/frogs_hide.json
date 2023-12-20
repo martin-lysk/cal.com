@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "saml_configuration_placeholder",
+        "library.inlang.paraglideJs": "saml_configuration_placeholder"
+    },
+    "id": "huge_frogs_hide",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يُرجى لصق بيانات تعريف SAML المقدمة من مزود الهوية هنا"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vložte sem SAML metadata vašeho Identity Providera"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Indsæt venligst SAML-metadata fra din Identity Provider her"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte fügen Sie die SAML-Metadaten von Ihrem SAML-Anbieter hier ein"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please paste the SAML metadata from your Identity Provider here"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pega los metadatos SAML de tu Proveedor de Identidad aquí"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez coller les métadonnées SAML de votre fournisseur d'identité ici."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש להדביק את המטא-נתונים של SAML מספק הזהויות כאן"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Incolla qui i metadati SAML forniti dal tuo provider di identità"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ID プロバイダーから提供されている SAML のメタデータをこちらに貼り付けてください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "여기에 ID 제공자의 SAML 메타데이터를 붙여넣으세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Plak de SAML-metagegevens van uw identiteitsprovider hier"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vennligst lim inn SAML metadataene fra Identitetsleverandøren din her"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wklej tutaj metadane SAML od dostawcy tożsamości"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cole aqui os metadados de SAML do seu fornecedor de identidade"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por favor cole o SAML metadata do seu Provedor de Identidade aqui"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inserați aici metadatele SAML generate de furnizorul dvs. de identitate"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пожалуйста, вставьте здесь метаданные SAML от вашего провайдера"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Molimo vas, nalepite SAML metadatu iz vašeg Identity Provider-a ovde"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Klistra in SAML-metadata från din identitetsleverantör här"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lütfen Kimlik Sağlayıcınızdan gelen SAML meta verilerini buraya yapıştırın"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вставте тут метадані SAML від свого постачальника посвідчень"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vui lòng dán metadata SAML từ Nhà cung cấp danh tính của bạn tại đây"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请将从身份提供方获取的 SAML metadata 粘贴到这里"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請把身分提供者的 SAML Metadata 貼到這裡。"
+                }
+            ]
+        }
+    ]
+}

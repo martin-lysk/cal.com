@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "overlay_my_calendar_toc",
+        "library.inlang.paraglideJs": "overlay_my_calendar_toc"
+    },
+    "id": "polite_foxes_juggle",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "من خلال الارتباط بتقويمك، أنت تقبل سياسة الخصوصية وشروط الاستخدام. يمكنك إلغاء الوصول في أي وقت."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Připojením ke svému kalendáři přijímáte naše zásady ochrany osobních údajů a podmínky používání. Přístup můžete kdykoli odvolat."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Durch das Verbinden mit Ihrem Kalender akzeptieren Sie unsere Datenschutzerklärung und Nutzungsbedingungen. Sie können den Zugriff jederzeit widerrufen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "By connecting to your calendar, you accept our privacy policy and terms of use. You may revoke access at any time."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Al conectarse a su calendario, acepta nuestra política de privacidad y nuestros términos de uso. Puede revocar el acceso en cualquier momento."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En vous connectant à votre calendrier, vous acceptez notre politique de confidentialité et nos conditions d'utilisation. Vous pouvez révoquer cet accès à tout moment."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "על ידי חיבור אל לוח השנה שלך, את/ה מקבל/ת את מדיניות הפרטיות ואת תנאי השימוש שלנו. אפשר לשלול את הגישה בכל שלב."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Collegando il tuo calendario, accetti la nostra informativa sulla privacy e i termini di servizio. Puoi revocare l'accesso in qualsiasi momento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "カレンダーに接続することで、弊社のプライバシーポリシーと利用規約に同意することになります。アクセスはいつでも取り消せます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "캘린더에 연결하면 당사의 개인정보 보호정책 및 이용 약관에 동의하게 됩니다. 액세스 권한은 언제든 취소할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Door uw agenda te koppelen accepteert u ons privacybeleid en onze gebruiksvoorwaarden. U kunt de toegang op elk moment weer intrekken."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Łącząc się z kalendarzem, akceptujesz naszą politykę prywatności i warunki użytkowania. Możesz odwołać pozwolenie na dostęp w dowolnym momencie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao ligar-se ao seu calendário, você aceita a nossa política de privacidade e termos de utilização. Pode revogar o acesso a qualquer momento."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao conectar-se à seu Calendário, você aceita nossa política de privacidade e termos de uso. Você pode revogar o acesso a qualquer momento."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Prin conectarea la calendarul dvs., acceptați politica noastră de confidențialitate și condițiile de utilizare. Puteți revoca accesul în orice moment."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Подключая календарь, вы принимаете нашу политику конфиденциальности и условия использования. Доступ можно отменить в любое время."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Povezivanjem sa vašim kalendarom, prihvatate našu Politiku privatnosti i Uslove korišćenja. Možete da povučete pristup u bilo kom trenutku."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Genom att ansluta till din kalender godkänner du vår sekretesspolicy och våra användarvillkor. Du kan när som helst återkalla åtkomsten."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Takviminize bağlanarak gizlilik politikamızı ve kullanım koşullarımızı kabul etmiş olursunuz. Erişimi istediğiniz zaman iptal edebilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Під’єднуючи свій календар, ви приймаєте нашу політику конфіденційності й правила використання. Ви можете відкликати доступ будь-коли."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bằng cách kết nối với lịch của bạn, bạn chấp thuận chính sách quyền riêng tư và điều khoản sử dụng của chúng tôi. Bạn có thể rút quyền truy cập bất kì lúc nào."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "连接到您的日历，即表示您接受我们的隐私政策和使用条款。您可以随时撤销访问权限。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "連接至您的行事曆後，即表示您接受我們的隱私政策和使用條款。您隨時可撤回存取權限。"
+                }
+            ]
+        }
+    ]
+}

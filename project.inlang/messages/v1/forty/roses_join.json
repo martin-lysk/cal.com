@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "invalid_admin_password",
+        "library.inlang.paraglideJs": "invalid_admin_password"
+    },
+    "id": "forty_roses_join",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أنت مشرف ولكن ليس لديك كلمة مرور بطول 15 حرفًا على الأقل أو لا توجد مصادقة ثنائية حتى الآن"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jste správce, ale nemáte heslo dlouhé alespoň 15 znaků, případně ještě nemáte dvoufaktorové ověřování"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie sind als Admin festgelegt, benutzen allerdings ein Passwort, das kürzer als 15 Zeichen ist oder verwenden noch keine 2FA"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You are admin but you do not have a password length of at least 15 characters or no 2FA yet"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Usted es administrador pero no tiene una contraseña de al menos 15 caracteres o una autenticación de 2 factores aún"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous êtes administrateur, mais votre mot de passe ne fait pas au moins 15 caractères ou la double authentification n'est pas définie"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "את/ה מנהל/ת מערכת, אבל הסיסמה שלך כוללת פחות מ-15 תווים או שלא הגדרת עדיין אימות דו-גורמי"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sei un amministratore, ma la tua password non ha la lunghezza minima di 15 caratteri, oppure non utilizzi ancora l'autenticazione a due fattori"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたは管理者ですが、パスワードの長さが 15 文字以上になっていないか、二要素認証がまだ完了していません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "관리자이지만 비밀번호 길이가 15자 이상이 아니거나, 2단계 인증이 설정되지 않았습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U bent beheerder, maar u hebt geen wachtwoord van minimaal 15 tekens of nog geen tweestapsverificatie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jesteś administratorem, ale Twoje hasło jest krótsze niż 15 znaków lub nie używasz jeszcze uwierzytelniania dwuskładnikowego."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você é administrador, mas ainda não tem uma palavra-passe com pelo menos 15 caracteres"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você é administrador, mas ainda não tem uma senha de pelo menos 15 caracteres ou 2FA"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sunteți administrator, dar nu aveți încă o parolă de cel puțin 15 caractere sau autentificare cu doi factori (2FA)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "У вас есть права администратора, но ваш пароль короче 15 символов или вы не настроили двухфакторную авторизацию"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi ste administrator ali nemate lozinku koja je duga najmanje 15 znakova ili još uvek nemate dvostruku potvrdu identiteta"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du är administratör men ditt lösenord har färre än 15 tecken eller ingen 2FA än"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yöneticisiniz, ancak henüz en az 15 karakterden oluşan bir şifreniz veya 2 Adımlı Kimlik Doğrulamanız yok"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ви адміністратор, але у вас немає пароля, що містить принаймні 15 символів, або не налаштовано двоетапну автентифікацію"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn là quản trị viên nhưng bạn chưa đặt mật khẩu dài ít nhất 15 ký tự hoặc không có xác thực hai yếu tố"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您是管理员，但您的密码长度不足 15 个字符或尚未启用 2FA"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您是管理員，但您的密碼長度未符合至少 15 個字元的限制，或是尚未啟用兩階段驗證"
+                }
+            ]
+        }
+    ]
+}

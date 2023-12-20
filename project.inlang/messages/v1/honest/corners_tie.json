@@ -1,0 +1,460 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "update_timezone_description",
+        "library.inlang.paraglideJs": "update_timezone_description"
+    },
+    "id": "honest_corners_tie",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يبدو أن منطقتك الزمنية المحلية قد تغيرت إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". من المهم جداً تحديد المنطقة الزمنية المناسبة لمنع الحجز في أوقات غير مرغوب فيها. هل تريد تحديثها؟"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zdá se, že se místní časové pásmo změnilo na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Je velmi důležité zvolit správné časové pásmo, aby se zabránilo rezervacím v nežádoucích časech. Chcete ho změnit?"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det ser ud til at din lokale tidszone er ændret til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Det er meget vigtigt at have den korrekte tidszone for at forhindre bookinger på uønskede tidspunkter. Vil du opdatere den?"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ihre lokale Zeitzone scheint sich zu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": " geändert zu haben. Es ist sehr wichtig, die richtige Zeitzone zu haben, um Buchungen zu unerwünschten Zeiten zu verhindern. Möchten Sie sie aktualisieren?"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "It seems like your local timezone has changed to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ".  It's very important to have the correct timezone to prevent bookings at undesired times. Do you want to update it?"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Parece que su zona horaria local ha cambiado a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Es muy importante tener la zona horaria correcta para evitar reservas en tiempos no deseados. ¿Desea actualizarla?"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Votre fuseau horaire local semble être passé sur "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Il est très important d'avoir le bon fuseau horaire pour éviter les réservations à des heures indésirables. Souhaitez-vous le mettre à jour ?"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נראה שאזור הזמן המקומי שלך השתנה ל-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". מאוד חשוב שאזור הזמן המוגדר יהיה נכון על מנת למנוע הזמנות בשעות לא רצויות. האם ברצונך לעדכן את אזור הזמן?"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sembra che il fuso orario locale sia stato cambiato in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". È molto importante che il fuso orario sia impostato correttamente per evitare prenotazioni in orari indesiderati. Vuoi aggiornare il fuso orario?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたのローカルタイムゾーンが "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": " へと変更されたようです。望まない時間帯に予約が行われてしまうことがないよう、タイムゾーンを正しく設定しておくことは非常に重要です。更新しますか？"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "현지 시간대가 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": "(으)로 변경된 것 같습니다. 원하지 않는 시간에 예약되지 않도록 정확한 시간대를 설정하는 것이 매우 중요합니다. 업데이트하시겠습니까?"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Het lijkt erop dat uw lokale tijdzone is gewijzigd in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ".  Het is erg belangrijk dat de juiste tijdzone is ingesteld om boekingen op ongewenste tijden te voorkomen. Wilt u het bijwerken?"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det ser ut til at din lokale tidssone har endret seg til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Det er veldig viktig å ha riktig tidssone for å forhindre bookinger på uønskede tidspunkter. Vil du oppdatere den?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wygląda na to, że Twoja lokalna strefa czasowa zmieniła się na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Ustawienie prawidłowej strefy czasowej jest bardzo ważne, aby zapobiegać rezerwacjom o nieprawidłowych godzinach. Czy chcesz ją zmienić?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Parece que o seu fuso horário local mudou para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". É muito importante ter o fuso horário correto para evitar reservas em horários indesejados. Gostaria de atualizar o seu fuso horário?"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Parece que seu fuso horário local mudou para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". É muito importante ter o fuso horário correto para evitar reservas em horários indesejados. Você deseja atualizá-lo?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se pare că fusul dvs. orar local a fost modificat la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Este foarte important să aveți fusul orar corect, pentru a evita rezervările la ore nedorite. Doriți să îl actualizați?"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваш часовой пояс изменился на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Очень важно, чтобы часовой пояс был установлен правильно: это позволит избежать бронирования в нежелательное время. Обновить часовой пояс?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Izgleda da je vaša lokalna vremenska zona promenjena na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Jako je važno da imate ispravnu vremensku zonu da biste sprečili rezervacije u neželjeno vreme. Da li želite da je ažurirate?"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det verkar som om din lokala tidszon har ändrats till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Det är viktigt att ha rätt tidszon för att förhindra bokningar vid oönskade tider. Vill du uppdatera den?"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Görünüşe göre yerel saat diliminiz "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": " olarak değiştirilmiş. İstenmeyen zamanlarda rezervasyon yapılmasını önlemek için doğru saat dilimini ayarlamak çok önemlidir. Saat dilimini güncellemek ister misiniz?"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Схоже, ваш місцевий часовий пояс змінився на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Щоб бронювання не випадали на небажаний час, дуже важливо вказати правильний часовий пояс. Оновити часовий пояс?"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có vẻ như múi giờ địa phương của bạn đã đổi sang "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Điều quan trọng là có múi giờ chính xác để ngăn lịch hẹn ở giờ không mong muốn. Bạn có muốn cập nhật múi giờ?"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的本地时区似乎已更改为 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": "。请务必设置正确的时区以防止预约不当的时间。是否要更新?"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的當地時區似乎已變更為"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "formattedCurrentTz"
+                },
+                {
+                    "type": "Text",
+                    "value": "。請務必設定正確的時區，才能避免預約錯誤的時間。您要更新時區嗎？"
+                }
+            ]
+        }
+    ]
+}

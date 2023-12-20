@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "unlimited_teams",
+        "library.inlang.paraglideJs": "unlimited_teams"
+    },
+    "id": "witty_bats_film",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unlimited Teams"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Équipes illimitées"
+                }
+            ]
+        }
+    ]
+}

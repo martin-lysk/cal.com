@@ -1,0 +1,332 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "insights_team_filter",
+        "library.inlang.paraglideJs": "insights_team_filter"
+    },
+    "id": "grumpy_stars_fix",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "الفريق: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tým: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Team: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Team: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Equipo: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Équipe : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "צוות: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Team: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "チーム: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "팀: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Team: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zespół: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Equipa: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Equipe: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Echipă: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Команда: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tim: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Team: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ekip: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Команда: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nhóm: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "团队："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "團隊："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                }
+            ]
+        }
+    ]
+}

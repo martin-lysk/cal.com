@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "verify_team_tooltip",
+        "library.inlang.paraglideJs": "verify_team_tooltip"
+    },
+    "id": "good_fans_slide",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تأكيد فريقك لتمكين إرسال الرسائل إلى الحاضرين"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Proveďte ověření svého týmu a zapněte odesílání zpráv účastníkům"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifizieren Sie Ihr Team, um das Senden von Nachrichten an Teilnehmer zu aktivieren"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verify your team to enable sending messages to attendees"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifique su equipo para activar el envío de mensajes a los asistentes"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vérifiez votre équipe pour activer l'envoi de messages aux participants"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אמת/י את הצוות שלך כדי לאפשר שליחת הודעות למשתתפים"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Effettua la verifica del tuo team per abilitare l'invio di messaggi ai partecipanti"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "出席者へのメッセージ送信ができるようにするには、チームを確認してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "참석자에게 메시지를 보낼 수 있도록 팀을 인증하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifieer uw team om het versturen van berichten naar deelnemers in te schakelen"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zweryfikuj zespół, aby włączyć wysyłanie wiadomości do uczestników"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifique a sua equipa para poder enviar mensagens aos participantes"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifique seu time para habilitar o envio de mensagens aos participantes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verificați-vă echipa pentru a permite trimiterea de mesaje către participanți"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Подтвердите свою команду, чтобы отправлять участникам сообщения"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifikujte svoj tim da biste omogućili slanje poruka učesnicima"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifiera ditt team för att aktivera att skicka meddelanden till deltagare"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Katılımcılara mesaj göndermeyi etkinleştirmek için ekibinizi doğrulayın"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Верифікуйте свою команду, щоб увімкнути надсилання повідомлень відвідувачам"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Xác minh nhóm của bạn để kích hoạt chức năng gửi tin nhắn cho người tham dự"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "验证您的团队以允许向参与者发送消息"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "驗證您的團隊，已啟用傳送訊息給與會者的訊息"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,460 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "allow_dynamic_booking_tooltip",
+        "library.inlang.paraglideJs": "allow_dynamic_booking_tooltip"
+    },
+    "id": "whole_oranges_deny",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "روابط الحجز الجماعية التي يمكن إنشاؤها ديناميكيًا عن طريق إضافة أسماء مستخدمين متعددة باستخدام \"+\". مثال: \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer\""
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Odkazy na skupinové rezervace, které lze vytvořit dynamicky přidáním více uživatelských jmen s „+“. příklad: „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer“"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gruppe booking links, der kan oprettes dynamisk ved at tilføje flere brugernavne med et '+'. Eksempel: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gruppenbuchungslinks, die dynamisch durch Hinzufügen mehrerer Benutzernamen mit einem '+' erstellt werden können. Beispiel: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Group booking links that can be created dynamically by adding multiple usernames with a '+'. example: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Los enlaces de reservas grupales se pueden crear dinámicamente añadiendo varios nombres de usuario con un '+'. Ejemplo: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les liens de réservation de groupe peuvent être créés dynamiquement en ajoutant plusieurs noms d'utilisateur séparés par un « + ». Exemple : « "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer »."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "קישורי הזמנות קבוצתיות שניתן ליצור באופן דינמי על ידי הוספת שמות משתמשים מרובים עם '+', למשל: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "È possibile creare dinamicamente collegamenti a prenotazioni di gruppo inserendo più nomi utente separati da '+'. Esempio: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"+\" を使って複数のユーザー名を追加することで動的に作成できるグループ予約リンク。例: \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer\""
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'+' 기호로 여러 사용자 이름을 추가하여 동적으로 생성할 수 있는 그룹 예약 링크. 예: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Groepsboekingslinks die dynamisch kunnen worden aangemaakt door meerdere gebruikersnamen toe te voegen met een \"+\", bijvoorbeeld: \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gruppebooking-lenker som kan opprettes dynamisk ved å legge til flere brukernavn med en '+'. eksempel: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Grupuj linki do rezerwacji, które mogą być tworzone dynamicznie przez dodanie wielu nazw użytkowników z '+'. przykład: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "As ligações de reservas dinâmicas de grupos podem ser criadas dinamicamente ao adicionar múltiplos nomes de utilizador com um '+'. Por exemplo: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/duarte+marta'"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Agrupe links de reserva que podem ser criados dinamicamente ao adicionar vários nomes de usuário com \"+\", por exemplo: \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer\""
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Linkuri de rezervare în grup care pot fi create dinamic prin adăugarea mai multor nume de utilizator cu „+”. Exemplu: „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer”"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ссылки для группового бронирования, которые можно создавать динамически, указывая несколько имен пользователей при помощи знака «+». Пример: «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer»"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Moguće je dinamičko kreiranje linkova za grupne rezervacije navođenjem više korisničkih imena sa znakom „+”. Na primer: „"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer”"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gruppbokningslänkar som kan skapas dynamiskt genom att lägga till flera användarnamn med ett '+'. Exempel: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"+\" işareti ile birden çok kullanıcı adı eklenerek dinamik olarak oluşturulabilen grup rezervasyon bağlantıları. Örnek: \""
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer\""
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Посилання для групового бронювання, які можна створювати динамічно, додаючи кілька імен користувачів за допомогою «+». Приклад: «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer»"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Những liên kết đặt chỗ nhóm vốn có thể được tạo linh động bằng cách thêm nhiều tên người dùng bằng một dấu '+'. Ví dụ như '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "可以动态创建组预约链接，方法为使用 '+' 来添加多个用户名。例如: '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "使用 '+' 新增多個使用者名稱，以動態建立群組預約連結。例如：'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "/bailey+peer'"
+                }
+            ]
+        }
+    ]
+}

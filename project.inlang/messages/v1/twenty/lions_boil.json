@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "backup_code_instructions",
+        "library.inlang.paraglideJs": "backup_code_instructions"
+    },
+    "id": "twenty_lions_boil",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يمكن استخدام كل رمز احتياطي لمرة واحدة فقط لمنح حق الوصول بدون مصادقة منك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Každý záložní kód lze použít právě jednou k udělení přístupu bez vašeho způsobu ověřování."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeder Backup-Code kann genau einmal verwendet werden, um Zugriff ohne Ihren Authentifikator zu gewähren."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Each backup code can be used exactly once to grant access without your authenticator."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cada código de respaldo se puede utilizar exactamente una vez para conceder acceso sin su autenticador."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chaque code de récupération peut être utilisé une seule fois pour accorder l'accès sans votre authentificateur."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כל קוד גיבוי יכול לשמש פעם אחת בלבד להענקת גישה בלי היישום המאמת."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ogni codice di backup può essere utilizzato soltanto una volta per concedere l'accesso senza l'autenticatore."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "各バックアップコードが使えるのは1回ずつで、認証ソフトを使わずにアクセスを許可します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "각 백업 코드는 인증자 없이 액세스 권한을 부여하기 위해 정확히 한 번만 사용할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Elke back-upcode kan slechts één keer gebruikt worden om toegang te verlenen zonder uw authenticator."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Każdy kod zapasowy można wykorzystać dokładnie raz, aby uzyskać dostęp bez uwierzytelniania."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cada código alternativo pode ser utilizado exatamente uma vez para conceder acesso sem o seu autenticador."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cada código de reserva pode ser usado exatamente uma vez para conceder acesso sem seu autenticador."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fiecare cod de rezervă poate fi folosit exact o singură dată pentru a permite accesul fără autentificator."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Каждый код бэкапа можно использовать только один раз, чтобы предоставить доступ без аутентификатора."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Svaki kôd za rezervnu kopiju može biti korišćen samo jednom da bi se obezbedio pristup bez vašeg autentifikatora."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Varje säkerhetskopierad kod kan användas exakt en gång för att ge åtkomst utan din autentiserare."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Her yedekleme kodu, kimlik doğrulayıcınız olmadan erişim izni vermek için tam olarak bir kez kullanılabilir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Кожен резервний код можна використовувати один раз, щоб надати доступ без автентифікатора."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mỗi mã sao lưu có thể được dùng chính xác một lần để cấp quyền truy cập mà không cần bạn xác thực."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "每个备份代码只能使用一次，用于在没有验证器的情况下授予访问权限。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "每個支援代碼都只能用一次，以在未使用驗證者的情況下授予存取權。"
+                }
+            ]
+        }
+    ]
+}

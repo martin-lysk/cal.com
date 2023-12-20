@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "default_app_link_description",
+        "library.inlang.paraglideJs": "default_app_link_description"
+    },
+    "id": "shaggy_clocks_sleep",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يسمح تعيين رابط التطبيق الافتراضي لجميع أنواع الأحداث التي تم إنشاؤها حديثًا باستخدام رابط التطبيق الذي عينته."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nastavení výchozího odkazu na aplikaci umožní, aby všechny nově vytvořené typy událostí používaly vámi nastavený odkaz na aplikaci."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Indstilling af et standard app-link gør det muligt for alle nyoprettede begivenhedstyper at bruge det app-link, du har angivet."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mit dem Festlegen eines Standard-App-Links können alle neu erstellten Ereignistypen den App-Link verwenden, den Sie gesetzt haben."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Setting a default app link allows all newly created event types to use the app link you set."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Establecer un enlace de aplicación predeterminado permite que todos los tipos de eventos recién creados utilicen el enlace de aplicación que establezca."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Définir un lien d'application par défaut permet à tous les nouveaux types d'événements d'utiliser le lien d'application que vous avez défini."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדרת קישור אפליקציה ברירת מחדל מאפשר לכל הארועים החדשים להשתמש בקישור שהגדרת."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'impostazione di un link dell'app predefinita permette a tutti i nuovi tipi di eventi di usare il link dell'app impostato."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "デフォルトのアプリリンクを設定することで、新たに作成するすべてのイベントの種類が設定したアプリリンクを使用できるようになります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "기본 앱 링크를 설정하면 새로 생성된 모든 이벤트 유형에서 설정된 앱 링크를 사용할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Door een standaard app-link in te stellen kunnen alle nieuw gemaakte gebeurtenistypes de door u ingestelde app-link gebruiken."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ustawienie domyślnego linku do aplikacji pozwala wszystkim nowo utworzonym typom wydarzeń na używanie ustawionego przez Ciebie linku do aplikacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ao definir uma ligação predefinida da aplicação, permite que todos os tipos de eventos recém-criados utilizem a ligação de aplicação que definiu."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Definir um link padrão para o app permite que todos os tipos de evento recém-criados usem o link definido para o app."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Setarea unui link implicit pentru aplicații permite tuturor tipurilor de evenimente nou-create să utilizeze linkul pentru aplicații pe care l-ați setat."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Если установить ссылку на приложение по умолчанию, она будет присваиваться всем вновь создаваемым событиям."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podešavanje podrazumevanog linka aplikacije omogućava novokreiranim tipovima događaja da koriste link aplikacije koji ste postavili."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om du skapar en standardapplänk kan alla händelsetyper som nyligen skapats använda den applänk som du har angett."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Varsayılan uygulama bağlantısını ayarlamak, yeni oluşturulan tüm etkinlik türlerinin ayarladığınız uygulama bağlantısını kullanmasına olanak tanır."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Посилання на додаток за замовчуванням використовуватиметься для всіх новостворених типів подій."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thao tác đặt liên kết ứng dụng mặc định sẽ giúp cho phép tất cả các loại sự kiện mới tạo có thể dùng liên kết ứng dụng mà bạn đã đặt."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "设置默认应用链接可以让所有新创建的活动类型使用您设置的应用链接。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "設定預設應用程式連結，即可讓所有全新建立的活動類型使用您設定的應用程式連結。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "branded_subdomain_description",
+        "library.inlang.paraglideJs": "branded_subdomain_description"
+    },
+    "id": "loud_bees_lie",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Get your own branded subdomain, such as acme.cal.com"
+                }
+            ]
+        }
+    ]
+}

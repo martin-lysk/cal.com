@@ -1,0 +1,712 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_show_fee_charged_email_subject",
+        "library.inlang.paraglideJs": "no_show_fee_charged_email_subject"
+    },
+    "id": "seven_eagles_tan",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم تحصيل رسوم عدم حضور يبلغ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " من أجل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " في "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Poplatek za nedostavení se ve výši "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " stržen za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " dne "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gebühr für das Nichterscheinen in Höhe von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " für "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " am "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " berechnet"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No-show fee of "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " charged for "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " at "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Comisión por no presentarse de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " cobrada para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " el "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Frais d'absence de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " facturés pour "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " le "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "דמי אי-הגעה בסך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " חויבו עבור "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " ב-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Una penale per mancata presentazione di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " è stata addebitata per "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " alle "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " について不参加費用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " が請求されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 대한 노쇼 수수료 부과됨: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 날짜 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Afwezigheidsvergoeding van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " in rekening gebracht voor "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " om "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pobrano opłatę w wysokości "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " za niestawienie się na wydarzeniu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " dnia "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Taxa de não-comparência de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " debitada para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Foi cobrada uma taxa de não comparecimento de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " à(s) "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Taxă de neprezentare în valoare de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": ", percepută pentru "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": ", pe "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Списание комиссии за неявку на событие "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " в размере "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Naknada za izostanak u iznosu od "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " je naplaćena za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " dana "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Avgift på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " för utebliven närvaro debiteras för "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarihindeki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " adlı etkinlik için "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " katılmama ücreti alındı"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Плату за відсутність на заході «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": "» у розмірі "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " стягнуто "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Phí vắng mặt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " sẽ được tính cho "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " vào ngày "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已针对 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 收取 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的失约费"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已針對 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "title"
+                },
+                {
+                    "type": "Text",
+                    "value": " 收取 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的缺席費"
+                }
+            ]
+        }
+    ]
+}

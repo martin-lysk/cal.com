@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "delete_form_confirmation",
+        "library.inlang.paraglideJs": "delete_form_confirmation"
+    },
+    "id": "tidy_dolls_lose",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أي شخص قمت بمشاركة الرابط معه لن يكون قادرًا على الوصول إليه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Každý, komu jste odkaz nasdíleli, k němu ztratí přístup."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er du sikker på, at du vil slette denne formular? Enhver, som du har delt linket med, vil ikke længere kunne booke via dette. Desuden ville alle tilknyttede svar blive slettet."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jede Person, mit der Sie den Link geteilt haben, kann nicht mehr über das Formular buchen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Anyone who you've shared the link with will no longer be able to access it."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cualquier persona con la que hayas compartido el enlace ya no podrá acceder a él."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Toute personne avec qui vous avez partagé le lien ne pourra plus y accéder."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כל מי ששיתפת אתו את הקישור לא יוכל לגשת אליו יותר."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gli utenti con cui hai condiviso il link non potranno più accedervi."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "これまでにリンクを共有したユーザーは今後このフォームにアクセスできなくなります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "링크를 공유한 모든 사람이 더 이상 여기에 액세스할 수 없게 됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Iedereen met wie u de link heeft gedeeld heeft dan geen toegang meer ertoe."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Osoby, którym udostępniono ten link, nie będą miały już do niego dostępu."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem a certeza que pretende eliminar este formulário? Qualquer pessoa com quem tiver partilhado a ligação deixará de poder fazer reservas com o mesmo. Além disto, todas as respostas associadas serão também eliminadas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este link não será mais acessível para qualquer pessoa com quem tenha sido compartilhado."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nicio persoană căreia i-ați transmis linkul nu îl va mai putea accesa."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пользователи, с которыми вы поделились ссылкой, больше не смогут воспользоваться ей."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Svako sa kim ste podelili vezu više neće moći da joj pristupi."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alla som du delat länken med kommer inte längre att ha tillgång till det."
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "நீங்கள் இணைப்பைப் பகிர்ந்துள்ள எவரும் இனி அதை அணுக முடியாது."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bağlantıyı paylaştığınız hiç kimse artık bu formu kullanarak buna erişemeyecek."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Користувачі, з якими ви поділилися посиланням, більше не зможуть перейти за ним."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có chắc là mình muốn xóa biểu mẫu này? Những người mà bạn chia sẻ liên kết họ sẽ không thể đặt lịch hẹn bằng liên kết đó được nữa. Ngoài ra, tất cả những hồi đáp có liên quan cũng sẽ bị xóa."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "与您共享链接的所有人都将无法再对其进行访问。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您分享此連結的任何使用者，都將無法再使用此表單預約。"
+                }
+            ]
+        }
+    ]
+}

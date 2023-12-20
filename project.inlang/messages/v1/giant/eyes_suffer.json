@@ -1,0 +1,24 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "you_must_be_logged_in_to",
+        "library.inlang.paraglideJs": "you_must_be_logged_in_to"
+    },
+    "id": "giant_eyes_suffer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You must be logged in to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "url"
+                }
+            ]
+        }
+    ]
+}

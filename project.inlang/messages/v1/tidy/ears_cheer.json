@@ -1,0 +1,54 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "multiple_duration_timeUnit",
+        "library.inlang.paraglideJs": "multiple_duration_timeUnit"
+    },
+    "id": "tidy_ears_cheer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " $t("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "unit"
+                },
+                {
+                    "type": "Text",
+                    "value": "_timeUnit)"
+                }
+            ]
+        }
+    ]
+}

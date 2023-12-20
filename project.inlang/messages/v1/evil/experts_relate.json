@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "premium_support",
+        "library.inlang.paraglideJs": "premium_support"
+    },
+    "id": "evil_experts_relate",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Premium Support"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Assistance Premium"
+                }
+            ]
+        }
+    ]
+}

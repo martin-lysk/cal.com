@@ -1,0 +1,270 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "change_email_hint",
+        "library.inlang.paraglideJs": "change_email_hint"
+    },
+    "id": "hungry_pigs_sip",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قد تحتاج إلى تسجيل الخروج والعودة لرؤية التغييرات التي تم تنفيذها"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Možná se budete muset odhlásit a znovu přihlásit, aby se změny projevily"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det kan være nødvendigt at logge ud og ind igen for at se ændringerne træde i kraft"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Möglicherweise müssen Sie sich aus- und einloggen, um jegliche Änderung wirksam zu machen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You may need to log out and back in to see any change take effect"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Es posible que tengas que cerrar la sesión y volver a entrar para que los cambios surtan efecto"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Saioa itxi eta berriro hasi beharko duzu edozein aldaketa ikusi ahal izateko"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous devrez peut-être vous déconnecter et vous reconnecter pour que le changement prenne effet."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ייתכן שיהיה צורך לצאת ולהיכנס שוב כדי לראות שהשינויים נכנסו לתוקף"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per rendere effettive le modifiche, potrebbe essere necessario disconnettersi e accedere nuovamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "変更内容を反映させるためには、一度ログアウトしてからもう一度ログインする必要があります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "변경 사항을 적용하려면 로그아웃했다가 다시 로그인해야 할 수 있습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U moet zich mogelijk afmelden en weer aanmelden voordat de wijzigingen van kracht worden"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det kan hende du må logge ut og inn igjen for å se at endringer trer i kraft"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aby zmiany weszły w życie, konieczne może być wylogowanie się i ponowne zalogowanie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pode ter de terminar sessão e voltar a iniciar para que a alteração produza efeitos"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você pode precisar sair e entrar novamente para as alterações serem aplicadas"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pentru implementarea modificărilor, ar putea fi necesar să vă deconectați și să vă reconectați"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Чтобы изменения вступили в силу, может потребоваться повторный вход в аккаунт"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Možda ćete morati da se odjavite i ponovo prijavite da biste videli bilo kakve izvršene promene"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du kanske måste logga ut och in igen för att se förändringen träda i kraft"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Değişikliklerin geçerli olduğunu görmek için çıkış yapıp tekrar giriş yapmanız gerekebilir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Щоб зміни почали діяти, можливо, знадобиться вийти із системи та знову ввійти"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có thể cần đăng xuất và đăng nhập lại để thấy được sự thay đổi có hiệu lực"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您可能需要登出并重新登录才能看到更改生效"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "可能得要登出後再登入，才可以看到變更生效"
+                }
+            ]
+        }
+    ]
+}

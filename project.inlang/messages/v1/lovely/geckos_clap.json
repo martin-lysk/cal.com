@@ -1,0 +1,444 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "every_for_freq",
+        "library.inlang.paraglideJs": "every_for_freq"
+    },
+    "id": "lovely_geckos_clap",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "كل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " لمدة"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vždy po "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hver "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " for"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alle "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " für"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Every "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " for"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cada "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " para"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chaque "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " pour"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כל "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " למשך"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ogni "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " per"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "の "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " ごと"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "매 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": "회:"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Elke "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " gedurende"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hver "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " for"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Co "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " przez"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A cada "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " por"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A cada "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " durante"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "În/la fiecare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": ", timp de"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Раз в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " в течение"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Svaki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " za"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Varje "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " för"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Her "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Раз на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " протягом"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mỗi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                },
+                {
+                    "type": "Text",
+                    "value": " cho"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "每 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "每 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "freq"
+                }
+            ]
+        }
+    ]
+}

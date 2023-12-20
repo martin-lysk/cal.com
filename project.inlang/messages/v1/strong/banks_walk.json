@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "limit_booking_only_first_slot",
+        "library.inlang.paraglideJs": "limit_booking_only_first_slot"
+    },
+    "id": "strong_banks_walk",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Limit booking only first slot"
+                }
+            ]
+        }
+    ]
+}

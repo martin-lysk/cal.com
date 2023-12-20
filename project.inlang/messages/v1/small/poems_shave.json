@@ -1,0 +1,820 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "new_event_subject",
+        "library.inlang.paraglideJs": "new_event_subject"
+    },
+    "id": "small_poems_shave",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدث جديد: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nová událost: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ny begivenhed: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Neuer Termin: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "New event: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nuevo Evento: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gertaera berria: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nouvel événement : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אירוע חדש: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Novi događaj: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Richiesta di nuovo evento: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "新規イベント: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "새 이벤트: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nieuwe afspraak: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ny hendelse: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nowe wydarzenie: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Novo evento: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Novo evento: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Eveniment nou: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Новое событие: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Novi dogadjaj: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ny bokning: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yeni etkinlik: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Новий захід: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " – "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " – "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sự kiện mới: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "新活动: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "新活動："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                },
+                {
+                    "type": "Text",
+                    "value": " - "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventType"
+                }
+            ]
+        }
+    ]
+}

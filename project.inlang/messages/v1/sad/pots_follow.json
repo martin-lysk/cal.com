@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "troubleshooter",
+        "library.inlang.paraglideJs": "troubleshooter"
+    },
+    "id": "sad_pots_follow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Troubleshooter"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dépannage"
+                }
+            ]
+        }
+    ]
+}

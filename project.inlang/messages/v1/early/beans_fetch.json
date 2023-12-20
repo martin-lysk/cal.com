@@ -1,0 +1,280 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "password_has_been_reset_login",
+        "library.inlang.paraglideJs": "password_has_been_reset_login"
+    },
+    "id": "early_beans_fetch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تمت إعادة تعيين كلمة المرور الخاصة بك. يمكنك الآن تسجيل الدخول باستخدام كلمة المرور التي تم إنشاؤها حديثًا."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vaše heslo bylo obnoveno. Nyní se můžete přihlásit pomocí nově vytvořeného hesla."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din adgangskode er blevet nulstillet. Du kan nu logge ind med din nyoprettede adgangskode."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ihr Passwort wurde zurückgesetzt. Sie können sich jetzt mit Ihrem neu erstellten Passwort anmelden."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Your password has been reset. You can now login with your newly created password."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Su contraseña ha sido restablecida. Ahora puede iniciar sesión con su nueva contraseña."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zure pasahitza berrezarri da. Orain saioa has dezakezu sortu berri duzun pasahitzarekin."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Votre mot de passe a été réinitialisé. Vous pouvez désormais vous connecter avec votre nouveau mot de passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הסיסמה שלך אופסה. עכשיו ניתן להיכנס עם הסיסמה החדשה."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vaša lozinka je resetirana. Sada se možete prijaviti sa svojom novom lozinkom."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La tua password è stata reimpostata. Ora puoi accedere con la tua password appena creata."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "パスワードがリセットされました。新しく作成したパスワードでログインできるようになりました。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "비밀번호가 초기화되었습니다. 이제 새로 생성한 비밀번호로 로그인할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uw wachtwoord is opnieuw ingesteld. U kunt nu inloggen met uw nieuwe wachtwoord."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Passordet ditt har blitt tilbakestilt. Du kan nå logge på med ditt nye passord."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Twoje hasło zostało zresetowane. Możesz teraz zalogować się przy użyciu nowo utworzonego hasła."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A sua senha foi redefinida. Agora pode iniciar sessão com a sua senha recém-criada."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A sua senha foi redefinida. Agora pode fazer login com a sua senha recém-criada."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Parola a fost resetată. Acum vă puteţi conecta cu parola nou creată."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваш пароль был сброшен. Теперь вы можете войти с новым паролем."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vaša lozinka je resetovana. Sada možete da se ulogujete sa vašom novom lozinkom."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ditt lösenord har återställts. Du kan nu logga in med ditt nyskapade lösenord."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Şifreniz sıfırlandı. Artık yeni oluşturulan şifrenizle giriş yapabilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваш пароль скинуто. Тепер ви можете ввійти в систему з новим паролем."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mật khẩu của bạn đã được thiết lập lại. Bây giờ bạn có thể đăng nhập bằng mật khẩu mới tạo của mình."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的密码已重置。您现在可以使用您的新密码登录。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "密碼已經重置。現在即可使用新建立的密碼登入。"
+                }
+            ]
+        }
+    ]
+}

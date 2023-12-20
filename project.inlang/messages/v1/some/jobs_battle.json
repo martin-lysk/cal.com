@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "available_apps_desc",
+        "library.inlang.paraglideJs": "available_apps_desc"
+    },
+    "id": "some_jobs_battle",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ليس لديك تطبيقات مثبّتة. تصفّح التطبيقات ذات الشعبية أدناه واستكشف المزيد في <1>متجر التطبيقات</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nemáte nainstalované žádné aplikace. Níže si můžete prohlédnout oblíbené aplikace a další objevit v našem <1>obchodu s aplikacemi</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie haben keine Apps installiert. Sehen Sie sich beliebte Apps unten an und entdecken Sie noch mehr in unserem <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "View popular apps below and explore more in our <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No tiene aplicaciones instaladas. Vea las aplicaciones populares a continuación y explore más en nuestra <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aucune application installée. Consultez les applications populaires ci-dessous et découvrez-en plus dans notre <1>App Store</1>."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לא מותקנת אצלך אף אפליקציה. ראה/י אפליקציות פופולריות מתחת וסייר/י כדי לראות אפליקציות נוספות ב-<1>App Store</1> שלנו"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Non hai nessuna applicazione installata. Visualizza le applicazioni popolari qui sotto ed esplorane altre nel nostro <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "インストールされているアプリがありません。以下で人気アプリを確認してから <1>App Store</1> でさらにご覧ください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "설치된 앱이 없습니다. 아래에서 인기 앱을 확인하고 <1>App Store</1>에서 더 많은 앱을 탐색해 보세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U heeft geen apps geïnstalleerd. Bekijk hieronder populaire apps en ontdek meer in onze <1>appstore</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nie masz zainstalowanych aplikacji. Zobacz popularne aplikacje poniżej i odkryj ich więcej w naszym sklepie <1>App Store</1>."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Não tem aplicações instaladas. Consulte as aplicações mais populares abaixo e explore mais na nossa <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você não tem nenhum aplicativo instalado. Veja apps populares abaixo e explore mais em nossa <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nu aveți nicio aplicație instalată. Vizualizați aplicațiile populare de mai jos și explorați mai multe în <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "У вас нет установленных приложений. Просмотрите популярные приложения ниже или найдите нужные вам приложения в нашем <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nemate instaliranih aplikacija. Pogledajte popularne aplikacije ispod i dodatno istražite na našem <1>App Store-u</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har inga appar installerade. Visa populära appar nedan och utforska mer i vår <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yüklü uygulamanız yok. Aşağıda popüler uygulamaları görüntüleyin ve <1>App Store</1>'da daha fazlasını keşfedin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "У вас немає встановлених додатків. Перегляньте популярні додатки нижче й дізнайтеся більше в <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn chưa cài đặt ứng dụng nào. Xem những ứng dụng được chuộng bên dưới và khám phá thêm trong <1>App Store</1>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您尚未安装任何应用。在我们的<1>应用商店</1>中查看热门应用，并探索更多内容。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您尚未安裝任何應用程式。到我們的 <1>App Store</1> 查看以下的熱門應用程式，並探索更多內容"
+                }
+            ]
+        }
+    ]
+}

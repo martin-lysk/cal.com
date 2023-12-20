@@ -1,0 +1,426 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "max_limit_allowed_hint",
+        "library.inlang.paraglideJs": "max_limit_allowed_hint"
+    },
+    "id": "five_places_tell",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يجب أن يكون عدد الأحرف "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " أو أقل"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Maximální povolená délka je "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " znaků"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Muss "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " oder weniger Zeichen lang sein"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Must be "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " or fewer characters long"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Debe tener "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " o menos caracteres"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " karaktere edo gutxiagoko luzera izan behar du"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Doit contenir "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " caractères ou moins"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "חייב להיות באורך של עד "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " תווים"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deve avere una lunghezza massima di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " caratteri"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " 文字以下で入力してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": "자 이하여야 합니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Moet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": "} of minder tekens lang zijn"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Może składać się z maksymalnie "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " znaków"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pode ter um máximo de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " caracteres"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "O tamanho deve ser de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " ou menos caracteres"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trebuie să aibă "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " sau mai puține caractere"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Не более "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " символов"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mora da ima "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " znakova ili manje"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Måste innehålla "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " eller färre tecken"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En fazla "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " karakter uzunluğunda olmalıdır"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Максимальна кількість символів: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Phải dài "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " ký tự trở xuống"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "长度必须为 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " 或更少字符"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "長度上限為 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "limit"
+                },
+                {
+                    "type": "Text",
+                    "value": " 個字元"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "admin_org_notification_email_body_part3",
+        "library.inlang.paraglideJs": "admin_org_notification_email_body_part3"
+    },
+    "id": "clean_badgers_enter",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "بمجرد تكوين النطاق الفرعي، يرجى وضع علامة على تكوين DNS كما تم في إعدادات مشرف المنظمات."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Až subdoménu nakonfigurujete, označte konfiguraci DNS jako provedenou v nastavení správce organizací."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sobald Sie die Subdomain konfiguriert haben, markieren Sie bitte die DNS-Konfiguration wie in den Organisationen Admin-Einstellungen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Once you configure the subdomain, please mark the DNS configuration as done in Organizations Admin Settings."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Una vez que configure el subdominio, marque la configuración DNS como se hace en la Configuración de administrador."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une fois le sous-domaine configuré, veuillez marquer la configuration DNS comme terminée dans les paramètres d'administration des organisations."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לאחר שתגדיר/י את התת-דומיין, יש לסמן שתצורת DNS הושלמה בהגדרות מנהלי המערכת של הארגון."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dopo aver configurato il sottodominio, contrassegnare la configurazione del DNS come completata nelle impostazioni di amministrazione dell'organizzazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "サブドメインを設定したら、組織の管理設定で DNS 設定を完了とマークしてください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "하위 도메인을 구성한 후 조직 관리 설정에서 DNS 구성을 완료로 표시하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zodra u het subdomein heeft geconfigureerd, markeert u de DNS-configuratie als voltooid in Beheerdersinstellingen voor organisaties."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Po skonfigurowaniu subdomeny,proszę oznaczyć konfigurację DNS jako gotową w ustawieniach administratora organizacji."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Depois de configurar o subdomínio, marque a configuração DNS como concluída nas Definições de Administração de Organizações."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Após configurar o subdomínio, marque a configuração do DNS com concluída nas Configurações de administrador das organizações."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "După ce configurați subdomeniul, marcați configurarea DNS ca finalizată în setările de administrare a organizațiilor."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Настроив поддомен, в настройках администратора организаций поставьте «готово» рядом с конфигурацией DNS."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kada konfigurišete poddomen, označite DNS konfiguraciju kao završenu u Podešavanjima administratora organizacije."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "När du har konfigurerat underdomänen, markera DNS-konfigurationen som gjort i organisationens admin-inställningar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Alt alan adını yapılandırdıktan sonra lütfen DNS yapılandırmasını Kuruluş Yönetici Ayarlarında olduğu gibi işaretleyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Щойно ви налаштуєте піддомен, вкажіть в налаштуваннях адміністратора організації, що налаштування DNS виконано."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sau khi bạn cấu hình tên miền phụ, vui lòng đánh dấu cấu hình DNS là xong trong phần Thiết lập quản trị tổ chức."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "配置子域后，请在组织管理员设置中将 DNS 配置标记为已完成。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "設定子網域後，請在組織管理設定中將 DNS 設定標記為已完成。"
+                }
+            ]
+        }
+    ]
+}

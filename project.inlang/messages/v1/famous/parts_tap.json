@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "instant_tab_title",
+        "library.inlang.paraglideJs": "instant_tab_title"
+    },
+    "id": "famous_parts_tap",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Instant Booking"
+                }
+            ]
+        }
+    ]
+}

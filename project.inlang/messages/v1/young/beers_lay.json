@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "2fa_disabled",
+        "library.inlang.paraglideJs": "2fa_disabled"
+    },
+    "id": "young_beers_lay",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يتم تمكين المصادقة الثنائية فقط لمصادقة البريد الإلكتروني وكلمة المرور"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dvoufaktorové ověřování lze povolit pouze pro ověřování e-mailem a heslem"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zwei-Faktor-Authentifizierung kann nur für E-Mail- und Passwort-Authentifizierung aktiviert werden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Two-Factor authentication can only be enabled for email and password authentication"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La autenticación de dos factores solo se puede habilitar para la autenticación por correo electrónico y contraseña"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La double authentification ne peut être activée que pour l'authentification par e-mail et mot de passe"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ניתן להפעיל אימות דו-גורמי רק לאימות בדוא\"ל ובאמצעות סיסמה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "L'autenticazione a due fattori può essere abilitata solo per l'autenticazione tramite e-mail e password"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "二要素認証は、メール認証とパスワード認証に対してのみ有効化できます"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "2단계 인증은 이메일 및 비밀번호 인증에만 사용할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tweestapsverificatie kan alleen worden ingeschakeld voor e-mail- en wachtwoordverificatie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uwierzytelnianie dwuskładnikowe można włączyć tylko w celu uwierzytelniania adresu e-mail i hasła"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A autenticação de dois fatores só pode ser ativada para autenticação por e-mail e palavra-passe"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A autenticação de dois fatores pode ser habilitada para autenticação de senha e e-mail"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Autentificarea cu doi factori poate fi activată numai pentru autentificare prin e-mail și parolă"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Двухфакторную авторизацию можно включить только при использовании авторизации по электронной почте и паролю"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dvostruka potvrda identiteta može biti omogućena samo za potvrdu identiteta putem imejla i lozinke"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tvåfaktorsautentisering kan endast aktiveras för e-post- och lösenordsautentisering"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "İki Adımlı Kimlik Doğrulama, yalnızca e-posta ve şifre kimlik doğrulaması için etkinleştirilebilir"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Двоетапну автентифікацію можна ввімкнути лише для входу за допомогою електронної пошти й пароля"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Xác thực hai yếu tố chỉ được bật cho chức năng xác thực qua email và mật khẩu"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "只能为电子邮件和密码身份验证启用两步验证"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "兩階段認證只能針對電子郵件和密碼驗證啟用"
+                }
+            ]
+        }
+    ]
+}

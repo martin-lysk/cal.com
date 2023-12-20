@@ -1,0 +1,336 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "organization_admin_invited_heading",
+        "library.inlang.paraglideJs": "organization_admin_invited_heading"
+    },
+    "id": "strong_eels_camp",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تمت دعوتك للانضمام إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Byli jste pozváni do organizace "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie wurden eingeladen, ein Mitglied von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zu werden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You've been invited to join "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lo han invitado a unirse a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous avez été invité à rejoindre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הוזמנת להצטרף אל "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hai ricevuto un invito a unirti a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " への参加に招待されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 초대되셨습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U bent uitgenodigd om lid te worden van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaproszono Cię do dołączenia do organizacji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Recebeu um convite para se juntar a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você recebeu um convite para ingressar em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ați fost invitat să faceți parte din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вас пригласили в организацию "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozvani ste da se pridružite organizaciji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har blivit inbjuden att gå med i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ekibine katılmaya davet edildiniz"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вас запрошено приєднатися до організації "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn đã được mời gia nhập "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已被邀请加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已獲邀加入 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "orgName"
+                }
+            ]
+        }
+    ]
+}

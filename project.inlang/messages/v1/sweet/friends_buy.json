@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "requires_confirmation_mandatory",
+        "library.inlang.paraglideJs": "requires_confirmation_mandatory"
+    },
+    "id": "sweet_friends_buy",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يمكن إرسال رسائل نصية فقط للحاضرين عندما يتطلب نوع الفعالية تأكيداً."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "SMS zprávy lze účastníkům zasílat pouze v případě, že typ události vyžaduje potvrzení."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Textnachrichten können nur an Teilnehmer gesendet werden, wenn der Ereignistyp bestätigt werden muss."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Text messages can only be sent to attendees when event type requires confirmation."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Los mensajes de texto solo se pueden enviar a los asistentes cuando el tipo de evento requiere confirmación."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les messages ne peuvent être envoyés aux participants que lorsque le type d'événement nécessite une confirmation."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ניתן לשלוח הודעות טקסט למשתתפים רק כאשר סוג האירוע מחייב אישור."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "I messaggi di testo possono solo essere inviati ai partecipanti quando il tipo di evento richiede una conferma."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "イベントタイプが確認を必要とする場合にのみ、出席者にテキストメッセージが送信されることがあります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "문자 메시지는 이벤트 유형에 확인이 필요한 경우에만 참석자에게 보낼 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sms-berichten kunnen alleen naar deelnemers worden verzonden als het gebeurtenistype bevestiging vereist."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wiadomości tekstowe można wysyłać do uczestników tylko wtedy, gdy typ zdarzenia wymaga potwierdzenia."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "As mensagens de texto só podem ser enviadas aos participantes quando o tipo de evento requerer confirmação."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mensagens de texto só podem ser enviadas a participantes quando este tipo de evento exigir confirmação."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mesajele text pot fi trimise participanților doar atunci când tipul de eveniment necesită confirmare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Участникам можно отправлять сообщения, только если тип события предполагает подтверждение."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Poruke mogu da se šalju samo učesnicima kada tip događaja zahteva potvrdu."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Textmeddelanden kan endast skickas till deltagare när evenemangstypen kräver bekräftelse."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Metin mesajları yalnızca katılımcılardan etkinlik türü onayı alınması gerektiğinde gönderilebilir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Текстові повідомлення можна надсилати лише учасникам, коли тип події вимагає підтвердження."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tin nhắn văn bản chỉ có thể được gửi đến người tham dự khi loại sự kiện cần thao tác xác nhận."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "仅当活动类型需要确认时，才能向参与者发送短信。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "簡訊只會在活動類型需要確認時傳送給與會者。"
+                }
+            ]
+        }
+    ]
+}

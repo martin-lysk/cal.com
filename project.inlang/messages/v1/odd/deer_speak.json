@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "admin_user_created_description",
+        "library.inlang.paraglideJs": "admin_user_created_description"
+    },
+    "id": "odd_deer_speak",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لقد أنشأت بالفعل مستخدم مسؤول. يمكنك الآن تسجيل الدخول إلى حسابك."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uživatele administrátora již máte vytvořeného. Teď se můžete přihlásit ke svému účtu."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har allerede oprettet en administrator bruger. Du kan nu logge ind på din konto."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie haben bereits einen Administrator-Benutzer erstellt. Sie können sich nun in Ihr Konto einloggen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You have already created an administrator user. You can now log in to your account."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ya ha creado un usuario administrador. Ahora puede iniciar sesión en su cuenta."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous avez déjà créé un utilisateur administrateur. Vous pouvez maintenant vous connecter à votre compte."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כבר יצרת משתמש מנהל. אתה יכול לבצע כניסה לחשבונך."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hai già creato un utente amministratore. Puoi effettuare l'accesso al tuo account."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "すでに管理者ユーザーを作成しています。これでアカウントにログインすることができます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이미 관리자 사용자를 생성했습니다. 이제 계정에 로그인할 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U heeft al een beheerdergebruiker gemaakt. U kunt nu inloggen op uw account."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utworzono już użytkownika administratora. Możesz teraz zalogować się na swoim koncie."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Já criou um utilizador com privilégios de administração. Pode agora iniciar sessão na sua conta."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você já criou um usuário administrador. Já é possível fazer login na sua conta."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ați creat deja un utilizator-administrator. Acum vă puteți conecta la contul dvs."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы уже создали пользователя с функциями администратора. Теперь можно войти в учетную запись."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Već ste kreirali administratora. Sada možete da se prijavite na svoj nalog."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har redan skapat en administratörsanvändare. Du kan nu logga in på ditt konto."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zaten bir yönetici kullanıcı oluşturdunuz. Artık hesabınıza giriş yapabilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ви вже створили адміністратора. Тепер можете ввійти у свій обліковий запис."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn đã tạo một người dùng quản trị. Giờ bạn có thể đăng nhập tài khoản của mình."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已经创建管理员用户。您现在可以登录您的账户。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已建立管理員使用者。您現在可以登入您的帳號。"
+                }
+            ]
+        }
+    ]
+}

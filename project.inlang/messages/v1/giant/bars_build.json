@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "description_lock_timezone_toggle_on_booking_page",
+        "library.inlang.paraglideJs": "description_lock_timezone_toggle_on_booking_page"
+    },
+    "id": "giant_bars_build",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تقفل المنطقة الزمنية على صفحة الحجز، وهذا مفيد للأحداث وجهاً لوجه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uzamčení časového pásma na stránce rezervace (užitečné pro osobní události)."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um die Zeitzone auf der Buchungsseite zu sperren, nützlich für Termine in Person."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To lock the timezone on booking page, useful for in-person events."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bloquear la zona horaria en la página de reserva, es útil para eventos en persona."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pour verrouiller le fuseau horaire sur la page de réservation, utile pour les événements en personne."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כדי לנעול את אזור הזמן בדף ההזמנות – שימושי לאירועים אישיים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per bloccare il fuso orario nella pagina di prenotazione, utile per gli eventi di persona."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約ページのタイムゾーンを固定するためのもので、対面のイベントに役立ちます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약 페이지에서 시간대를 잠그는 기능은 대면 이벤트에 유용합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om de tijdzone op de boekingspagina te vergrendelen, handig voor persoonlijke gebeurtenissen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aby zablokować strefę czasową na stronie rezerwacji (przydatne dla wydarzeń stacjonarnych)."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Para bloquear o fuso horário na página de reservas. Útil para eventos presenciais."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bloquear o fuso horário na página de reservas, útil para eventos presenciais."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pentru a bloca fusul orar pe pagina de rezervare, util pentru evenimentele în persoană."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Блокировка часового пояса на странице бронирования подходит для личных событий."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Za zaključavanje vremenske zone na stranici za zakazivanja, korisno za događaje licem u lice."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "För att låsa tidszonen på bokningssidan, användbart för personliga händelser."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyon sayfasında saat dilimini kilitlemek kişisel etkinlikler için kullanışlıdır."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Для блокування часового поясу на сторінці бронювання (корисне для окремих заходів)"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Để khoá múi giờ trên trang lịch hẹn, hữu dụng cho những sự kiện đích thân tham dự."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "在预约页面上锁定时区，这对面对面活动非常有用。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "鎖定預約頁面的時區，安排實體活動時非常實用。"
+                }
+            ]
+        }
+    ]
+}

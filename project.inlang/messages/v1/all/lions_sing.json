@@ -1,0 +1,608 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "email_body_slug_replacement_notice",
+        "library.inlang.paraglideJs": "email_body_slug_replacement_notice"
+    },
+    "id": "all_lions_sing",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "استبدل مشرف في فريق <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> نوع الحدث لديك<strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> بنوع الحدث المُدار الذي يتحكم فيه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Správce v týmu <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> nahradil váš typ události <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> spravovaným typem události, který ovládá."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ein Administrator im <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>-Team hat Ihren Ereignistyp <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> durch einen verwalteten Ereignistyp ersetzt, den er steuert."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "An administrator on the <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> team has replaced your event type <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> with a managed event type that they control."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un administrador del equipo <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> reemplazó su tipo de evento <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> con un tipo de evento gestionado que él controla."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un administrateur de l'équipe <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> a remplacé votre type d'événement <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> par un type d'événement géré qu'il contrôle."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מנהל/ת בצוות <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> החליף/ה את סוג האירוע שלך, <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>, בסוג של אירוע מנוהל שתהיה לו/ה אפשרות לשלוט בו."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un amministratore del team <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> ha sostituito il tuo tipo di evento <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> con un tipo di evento gestito da lui controllato."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> チームの管理者が、あなたのイベントの種類 <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> を彼らが管理する管理済みのイベントの種類へと置き換えました。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 팀의 관리자가 귀하의 이벤트 타입 <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>을(를) 제어 대상인 관리형 이벤트 타입으로 교체했습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Een beheerder van het team <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> heeft uw gebeurtenistype <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> vervangen door een type beheerde gebeurtenis dat deze beheert."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administrator zespołu <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> zastąpił Twój typ wydarzenia <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> kontrolowanym przez siebie typem zarządzanego wydarzenia."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um administrador na equipa <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> substituiu o seu tipo de evento <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> por um tipo de evento gerido, controlado por eles."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um administrador na equipe <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> substituiu seu tipo de evento <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> por um tipo de evento controlado por ele."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un administrator din echipa <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> v-a înlocuit tipul de eveniment <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> cu un tip de eveniment configurat pe care îl controlează."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Администратор команды <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> заменил ваш тип события <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> на управляемый им тип события."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Administrator iz <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> tima je zamenio vaš tip događaja <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> tipom događaja kojim on upravlja."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En administratör i <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>-teamet har ersatt din händelsetyp <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> med en hanterad händelsetyp som hen kontrollerar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> ekibindeki bir yönetici, <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> etkinlik türünüzü kontrol ettiği yönetilen bir etkinlik türüyle değiştirdi."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Адміністратор команди <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> замінив ваш тип заходу<strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> на керований тип заходу, який він контролює."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Một quản trị viên trên nhóm <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> đã thay thế loại sự kiện của bạn <strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> bằng một loại sự kiện được quản lý mà họ kiểm soát."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 团队的一位管理员已将您的活动类型 <strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 替换为他们控制的托管活动类型。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<strong>"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "teamName"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong> 團隊管理員已使用其所控管的受管活動類型來取代您的活動類型<strong>/"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "slug"
+                },
+                {
+                    "type": "Text",
+                    "value": "</strong>。"
+                }
+            ]
+        }
+    ]
+}

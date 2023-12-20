@@ -1,0 +1,424 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "acknowledge_booking_no_show_fee",
+        "library.inlang.paraglideJs": "acknowledge_booking_no_show_fee"
+    },
+    "id": "khaki_guests_add",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أقر بأنه إذا لم أحضر هذا الحدث فسيتم سحب رسوم عدم حضور من بطاقتي تبلغ "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beru na vědomí, že pokud se této události nezúčastním, bude z mé karty stržen poplatek za nedostavení se ve výši "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ich bestätige, dass meiner Karte eine Gebühr von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " berechnet wird, sofern ich nicht an diesem Ereignis teilnehme."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "I acknowledge that if I do not attend this event that a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " no show fee will be applied to my card."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Reconozco que si no asisto a este evento, se aplicará a mi tarjeta una tarifa de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " por no presentarme."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Je reconnais que si je ne participe pas à cet événement, des frais d'absence de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " seront appliqués à ma carte."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מובן לי שאם לא אשתתף באירוע הזה, דמי אי-הגעה בסך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " ינוכו מהכרטיס שלי."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Confermo che in caso di mia mancata partecipazione a questo evento, una penale per mancata presentazione di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " verrà addebitata sulla mia carta."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "このイベントに出席しなかった場合、不参加費用として "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " が私のカードに請求されることに同意します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "본인은 이 이벤트에 참석하지 않을 경우 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 대한 노쇼 수수료가 내 카드에 부과됨을 인정합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ik erken dat als ik deze gebeurtenis niet bijwoon, er "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " aan afwezigheidsvergoeding van mijn kaart worden afgeschreven."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rozumiem, że jeśli nie wezmę udziału w wydarzeniu, z mojej karty pobrana zostanie opłata za niestawienie się w wysokości "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Eu aceito que caso eu não compareça a este evento, será cobrada uma taxa de não-comparência de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " no meu cartão."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Estou ciente de que, se eu não comparecer a este evento, será cobrada no meu cartão uma taxa de não comparecimento de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dacă nu particip la acest eveniment, accept să mi se perceapă de pe card o taxă de neprezentare în valoare de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Я подтверждаю, что в случае моей неявки на событие с моей карты будет списана комиссия в размере "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jasno mi je da će mi biti naplaćena naknada za izostanak putem kartice u iznosu od "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " ukoliko ne prisustvujem ovom događaju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jag bekräftar att en avgift på "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " för utebliven närvaro debiteras mitt kort om jag inte deltar i händelsen."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu etkinliğe katılmadığım takdirde kartımdan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " tutarında katılmama ücreti alınmasını kabul ediyorum."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Я усвідомлюю, що в разі моєї відсутності на цьому заході з моєї картки буде стягнуто плату в розмірі "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tôi công nhận là nếu tôi không tham dự sự kiện này thì một khoản phí vắng mặt là "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " sẽ được áp dụng cho thẻ của tôi."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我同意，如果我不参加此活动，将从我的卡中收取 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的失约费。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我同意若我未出席此活動，將從我的卡片收取 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "amount, currency"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的缺席費。"
+                }
+            ]
+        }
+    ]
+}

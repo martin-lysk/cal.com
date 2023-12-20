@@ -1,0 +1,402 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "sso_connection_deleted_successfully",
+        "library.inlang.paraglideJs": "sso_connection_deleted_successfully"
+    },
+    "id": "tame_deer_jog",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم حذف تكوين "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurace "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " odstraněna"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " konfiguration blev slettet"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Konfiguration erfolgreich gelöscht"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " configuration deleted successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuración de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " eliminada con éxito"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuration "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " supprimée avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדרות "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " נמחקו בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurazione "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " eliminata correttamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " の構成が正常に削除されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 구성이 삭제되었습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-configuratie verwijderd"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfiguracja "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " została usunięta"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuração "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " eliminada com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configuração de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " excluída com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurația "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " a fost ștearsă cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Конфигурация "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " удалена"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " konfiguracija je uspešno izbrisana"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": "-konfiguration har tagits bort"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " yapılandırması başarıyla silindi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Конфігурацію "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " видалено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã xoá thành công cấu hình "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已成功删除 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 配置"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已成功刪除 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "connectionType"
+                },
+                {
+                    "type": "Text",
+                    "value": " 設定"
+                }
+            ]
+        }
+    ]
+}

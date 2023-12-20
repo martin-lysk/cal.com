@@ -1,0 +1,300 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "rejection_reason_description",
+        "library.inlang.paraglideJs": "rejection_reason_description"
+    },
+    "id": "itchy_walls_exist",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هل أنت متأكد من رغبتك في رفض الحجز؟ سنقوم بإبلاغ الشخص الذي حاول الحجز. يمكنك تقديم سبب أدناه."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opravdu chcete rezervaci odmítnout? Osobě, která se váš čas pokusila rezervovat, dáme vědět. Níž můžete uvést důvod."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er du sikker på, at du vil afvise bookingen? Vi giver personen, der har forsøgt at booke, besked. Du kan angive en årsag nedenfor."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sind Sie sicher, dass Sie die Buchung ablehnen möchten? Wir werden die Person, die versucht hat zu buchen, informieren. Sie können einen Grund angeben."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Are you sure you want to reject the booking? We'll let the person who tried to book know. You can provide a reason below."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "¿Estás seguro de que deseas rechazar la reserva? Le haremos saber a la persona que ha intentado reservar. Puedes indicar una razón a continuación."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ziur zaude erreserba errefusatu nahi duzula? Erreserba-eskaera egin duen pertsonari jakinaraziko zaio. Arrazoi bat adieraz dezakezu behean."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voulez-vous vraiment refuser la réservation ? Nous informerons la personne qui a tenté de réserver. Vous pouvez fournir un motif ci-dessous."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "בטוח שברצונך לדחות את ההזמנה? אנחנו ניידע את האדם שניסה להזמין. יש לך אפשרות להוסיף את הסיבה לדחייה למטה."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeste li sigurni da želite odbiti rezervaciju? Obavijestit ćemo osobu koja ju je pokušala zakazati. Možete navesti razlog ispod."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kamu yakin menolak pemesanan? Kami akan memberitahu orang yang memesan. Kamu bisa menyediakan alasan di bawah ini."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sei sicuro di voler rifiutare la prenotazione? Informeremo la persona che ha cercato di prenotare. Puoi indicare il motivo qui sotto."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この予約を拒否してよろしいですか？予約を試みたユーザーに通知を送ります。拒否の理由は、下にご記入いただけます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약을 거부하시겠습니까? 예약하려고 시도하셨던 다른 분께 알려드릴 것입니다. 해당 사유는 아래에서 제공하실 수 있습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Weet u zeker dat u de boeking wilt weigeren? We informeren de persoon die probeerde te boeken. U kunt hieronder een reden opgeven."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er du sikker på at du vil avvise bookingen? Vi gir beskjed til personen som prøvde å booke. Du kan oppgi en årsak nedenfor."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Czy jesteś pewien, że chcesz odrzucić prośbę o rezerwację? Damy znać osobie, która próbowała jej dokonać. Poniżej możesz podać powód."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De certeza que quer rejeitar a reserva? Avisaremos a pessoa que tentou reservar. Pode indicar uma razão abaixo."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tem certeza de que deseja recusar a reserva? Avisaremos a pessoa que tentou reservar. Se quiser, informe um motivo abaixo."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sigur doriți să respingeți rezervarea? Vom anunța persoana care a încercat să rezerve. Puteți specifica un motiv mai jos."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отказаться от брони? Мы сообщим пользователю, который пытался оформить бронь. Вы можете указать причину отказа ниже."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da li ste sigurni da želite da odbijete rezervaciju? Obavestićemo osobu koja je pokušala da rezerviše. Možete navesti razlog ispod."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Är du säker på att du vill avböja bokningen? Vi kommer att meddela personen som försökte boka. Du kan ange en anledning nedan."
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "முன்பதிவை நிராகரிக்க விரும்புகிறீர்களா? முன்பதிவு செய்ய முயற்சித்தவருக்குத் தெரியப்படுத்துவோம். நீங்கள் கீழே ஒரு காரணத்தை வழங்கலாம்."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyonu reddetmek istediğinizden emin misiniz? Rezervasyon yaptırmaya çalışan kişiye haber vereceğiz. Aşağıda bir neden sunabilirsiniz."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Справді відмовити в бронюванні? Ми сповістимо користувача, який надіслав цей запит. Ви можете вказати причину нижче."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có chắc bạn muốn từ chối đặt lịch hẹn? Chúng tôi sẽ cho người đặt biết. Bạn có thể cho người dùng biết lý do từ chối dưới đây."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您确定要拒绝预约吗？我们会通知试图预约的人，您可以在下面解释原因。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "確定要拒絕預約嗎？我們會讓想要進行預約的對方知道。可以在下方提供原因。"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,358 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "request_reschedule_subtitle",
+        "library.inlang.paraglideJs": "request_reschedule_subtitle"
+    },
+    "id": "chilly_trees_live",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ألغى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " الحجز وطلب منك اختيار حجز في وقت آخر."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " zrušil rezervaci a požádal vás, abyste si vybrali jiný termín."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " hat den Termin abgesagt und Sie gebeten, eine andere Zeit auszuwählen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " has canceled the booking and requested you to pick another time."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " ha cancelado la reserva y le ha solicitado que elija otra hora."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": "(e)k erreserba bertan behera utzi du eta beste denbora-tarte bat hautatzeko eskatu dizu."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " a annulé la réservation et vous a demandé de choisir un autre moment."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " ביטל/ה את ההזמנה וביקש/ה שתבחר/י מועד אחר."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " ha cancellato la prenotazione e ti ha chiesto di scegliere un altro orario."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " が予約をキャンセルし、別の時間帯を選ぶようにリクエストしています。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": "에서 예약을 취소하고 다른 시간을 선택할 것을 요청했습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " heeft de boeking geannuleerd en u verzocht een andere tijd te kiezen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizator ("
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": ") anulował rezerwację i prosi Cię o wybranie innego terminu."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " cancelou a reserva e pediu que escolhesse outro horário."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " cancelou a reserva e solicitou que você escolhesse outro horário."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " a anulat rezervarea și v-a cerut să alegeți o altă dată."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " отменил(-а) бронирование и попросил(-а) вас выбрать другое время."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " je otkazao/la rezervaciju i tražio/la je da odaberete drugo vreme."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " har avbokat bokningen och bett dig att välja en annan tid."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " rezervasyonu iptal etti ve sizden başka bir saat seçmenizi istiyor."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Організатор "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " скасував бронювання й попросив вас вибрати інший час."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " đã hủy đặt chỗ đó và yêu cầu bạn chọn thời gian khác."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已取消预约并请求您选择其他时间。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "organizer"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已取消預約，並要求您選擇其他時間。"
+                }
+            ]
+        }
+    ]
+}

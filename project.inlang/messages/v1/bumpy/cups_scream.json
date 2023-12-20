@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "join_meeting",
+        "library.inlang.paraglideJs": "join_meeting"
+    },
+    "id": "bumpy_cups_scream",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Join Meeting"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "all_event_types_filter_label",
+        "library.inlang.paraglideJs": "all_event_types_filter_label"
+    },
+    "id": "swift_lies_watch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "All Event Types"
+                }
+            ]
+        }
+    ]
+}

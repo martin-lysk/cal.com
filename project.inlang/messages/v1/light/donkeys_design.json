@@ -1,0 +1,250 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_available_apps_description",
+        "library.inlang.paraglideJs": "no_available_apps_description"
+    },
+    "id": "light_donkeys_design",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يرجى التأكد من وجود تطبيقات في نشرك تحت 'الحزم/متجر تطبيقات'"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zkontrolujte, zda máte ve svém nasazení v části „packages/app-store“ k dispozici aplikace"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sørg for, at der er apps i din implementering under 'packages/app-store'"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte stellen Sie sicher, dass sich unter „packages/app-store“ Apps in Ihrem Deployment befinden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please ensure there are apps in your deployment under 'packages/app-store'"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifique que haya aplicaciones en su implementación en 'packages/app-store'"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez vous assurer qu'il y a des applications dans votre déploiement sous \"packages/app-store\""
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ודא/י שיש אפליקציות בפריסה שלך בנתיב 'packages/app-store'"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Controlla che ci siano delle applicazioni nella tua distribuzione, in 'packages/app-store'"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"packages/app-store\" 直下のデプロイメントにアプリがあることをご確認ください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'packages/app-store' 아래 배포에 앱이 있는지 확인하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zorg ervoor dat er apps zijn in uw implementatie onder \"packages/app-store\""
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Upewnij się, że w Twoim wdrożeniu w folderze „packages/app-store” znajdują są aplikacje."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Garanta que existem aplicações na sua instalação em 'packages/app-store'"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Verifique se há aplicativos na sua implantação, em \"packages/app-store\""
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Asigură-te că există aplicații în implementare sub „packages/app-store”"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Убедитесь, что в вашей установке в 'packages/app-store' есть приложения"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uverite se da ima aplikacija u vašoj fascikli za instalaciju pod „packages/app-store“"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se till att det finns appar i din distribution under \"packages/app-store\""
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"packages/app-store\" altındaki dağıtım klasörünüzde uygulamaların olduğundan emin olun"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Переконайтеся, що packages/app-store містить додатки для розгортання"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vui lòng bảo đảm rằng có những ứng dụng trong phần triển khai trong 'packages/app-store'"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请确保您在“packages/app-store”下的部署中有应用"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請確認「packages/app-store」下方的部署了應用程式"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "managed_event_url_clarification",
+        "library.inlang.paraglideJs": "managed_event_url_clarification"
+    },
+    "id": "poor_hotels_fall",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "سيتم ملء \"اسم المستخدم\" باسم المستخدم للأعضاء المعينين"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "„uživatelské jméno“ bude vyplněno uživatelským jménem přiřazených členů"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "„Benutzername“ wird mit dem Benutzernamen der zugewiesenen Mitglieder ausgefüllt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"username\" will be filled by the username of the members assigned"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "El \"nombre de usuario\" se completará con el nombre de usuario de los miembros asignados"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "« nom d'utilisateur » sera rempli par le nom d'utilisateur des membres assignés"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יש למלא את שדה \"username\" בשמות המשתמשים של החברים שהוקצו"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "il campo \"username\" può essere compilato solo con il nome utente dei membri assegnati"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"ユーザー名\" には割り当てられたメンバーのユーザー名が入ります"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"username\"은 할당된 회원의 사용자 이름으로 채워집니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"username\" wordt gevuld met de gebruikersnaam van de toegewezen leden"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pole „username” zostanie wypełnione nazwą przypisanego użytkownika"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"nome-de-utilizador\" será substituído pelo nome de utilizador dos membros atribuídos"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "o \"nome de usuário\" será preenchido com o nome de usuário dos membros atribuídos"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Câmpul „username” va fi completat cu numele de utilizator ale membrilor desemnați"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "в «username» указываются имена пользователей, которым будет назначен тип события"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "„username“ će biti ispunjeno korisničkim imenom dodeljenog člana"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"användarnamn\" fylls i med användarnamnet för de medlemmar som tilldelats"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"username\" alanı, atanan üyelerin kullanıcı adı ile doldurulur"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Поле «username» буде заповнено іменами користувачів призначених учасників"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "\"username\" sẽ được điền vào theo tên người dùng của những thành viên được phân công"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "“用户名”将填写所分配成员的用户名"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "「使用者名稱」會填入所指派成員的使用者名稱"
+                }
+            ]
+        }
+    ]
+}

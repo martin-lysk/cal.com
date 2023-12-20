@@ -1,0 +1,230 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "orgs_upgrade_to_enable_feature",
+        "library.inlang.paraglideJs": "orgs_upgrade_to_enable_feature"
+    },
+    "id": "six_points_ask",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تحتاج إلى الترقية إلى خطة enterprise لتفعيل هذه الميزة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokud chcete zapnout tuto funkci, musíte upgradovat na náš tarif Enterprise."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie müssen auf unsere Enterprise-Lizenz aktualisieren, um diese Funktion zu aktivieren."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You need to upgrade to our enterprise plan to enable this feature."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Debe pasarse a nuestro plan Enterprise para habilitar esta función."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "כדי לאפשר שימוש בתכונה הזו, יש לשדרג לתוכנית שלנו לארגונים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Per abilitare questa funzione, è necessario eseguire l'upgrade al nostro piano Enterprise."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この機能を有効にするには Enterprise プランにアップグレードする必要があります。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 기능을 활성화하려면 엔터프라이즈 플랜으로 업그레이드해야 합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U moet upgraden naar ons Enterprise-abonnement om deze functie in te schakelen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aby włączyć tę funkcję, musisz przejść na plan Enterprise."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Deve atualizar para o nosso plano empresarial para ativar esta funcionalidade."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você precisa atualizar para nosso plano empresarial para ativar esse recurso."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Trebuie să faceți upgrade la planul nostru Enterprise pentru a activa această caracteristică."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Для использования этой функции нужно перейти на тарифный план Enterprise."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Morate da nadogradite na naš Enterprise plan da biste omogućili ovu funkciju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du behöver uppgradera till vår företagsplan för att aktivera den här funktionen."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu özelliği etkinleştirmek için kurumsal planımıza geçmeniz gerekiyor."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вам необхідно перейти на план Enterprise, щоб ввімкнути цю функцію."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn cần nâng cấp gói Enterprise để bật tính năng này."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您需要升级到我们的企业计划才能启用此功能。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "須升級至 Enterprise 方案才能啟用此功能。"
+                }
+            ]
+        }
+    ]
+}

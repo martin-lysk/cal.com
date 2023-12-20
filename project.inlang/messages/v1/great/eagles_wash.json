@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "hosts_unavailable_for_booking",
+        "library.inlang.paraglideJs": "hosts_unavailable_for_booking"
+    },
+    "id": "great_eagles_wash",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Some of the hosts are unavailable for booking."
+                }
+            ]
+        }
+    ]
+}

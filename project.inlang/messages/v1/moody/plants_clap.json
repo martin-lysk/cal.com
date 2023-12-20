@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "custom_event_name_description",
+        "library.inlang.paraglideJs": "custom_event_name_description"
+    },
+    "id": "moody_plants_clap",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إنشاء أسماء أحداث مخصصة لعرضها في حدث الرزنامة"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vytvářejte vlastní názvy událostí, které se budou zobrazovat v kalendáři událostí"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opret tilpassede begivenhedsnavne, der skal vises på kalenderbegivenheden"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Erstellen Sie benutzerdefinierte Terminnamen, die im Kalendereintrag angezeigt werden sollen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Create customised event names to display on calendar event"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cree nombres de eventos personalizados para que el evento aparezca en el calendario"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Créez des noms d'événement personnalisés à afficher sur l'événement du calendrier"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "צור שמות אירועים בהתאמה אישית שיוצגו באירוע בלוח השנה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Crea nomi di eventi personalizzati da visualizzare nell'evento del calendario"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "カレンダーのイベントに表示するカスタマイズされたイベント名を作成します"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "캘린더 이벤트에 표시할 사용자 정의 이벤트 이름 만들기"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Maak aangepaste gebeurtenisnamen om weer te geven op agendagebeurtenissen"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lag tilpassede hendelsesnavn som skal vises på kalender-hendelsen"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utwórz niestandardowe nazwy wydarzeń, które będą wyświetlać się w kalendarzu wydarzeń."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Crie nomes de eventos personalizados a mostrar no calendário de eventos"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Criar nomes de eventos personalizados para exibir no evento do calendário"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Creați nume de evenimente personalizate pentru a fi afișate pe evenimentul calendarului"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Создавайте пользовательские названия событий, которые будут отображаться в событии в календаре"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kreirajte prilagođena imena događaja za prikaz na kalendaru događaja"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skapa anpassade händelsenamn som ska visas på kalenderhändelse"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Takvim etkinliğinde görüntülenecek özelleştirilmiş etkinlik adları oluşturun"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вибирайте для заходів власні назви, що показуватимуться в календарі"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tạo những tên sự kiện tuỳ chỉnh để hiển thị ở phần sự kiện lịch"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "创建要在日历活动上显示的自定义活动名称"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "建立自訂活動名稱，以在行事曆活動上顯示"
+                }
+            ]
+        }
+    ]
+}

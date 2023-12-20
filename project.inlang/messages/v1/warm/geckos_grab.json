@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "allow_dynamic_booking",
+        "library.inlang.paraglideJs": "allow_dynamic_booking"
+    },
+    "id": "warm_geckos_grab",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "السماح للحضور بالحجز لك عن طريق حجز المجموعات الديناميكي"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Povolit účastníkům rezervovat vás prostřednictvím dynamických skupinových rezervací"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tillad deltagere at booke dig gennem dynamiske gruppebookinger"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ermöglichen Sie es den Teilnehmenden, Sie über dynamische Gruppenbuchungen zu buchen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Allow attendees to book you through dynamic group bookings"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Permitir que los asistentes lo reserven a través de reservas dinámicas de grupo"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Autorisez les participants à prendre rendez-vous avec vous via des réservations de groupe dynamiques."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "לאפשר למשתתפים לשריין איתך פגישה באמצעות הזמנות קבוצתיות דינמיות"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Consenti ai partecipanti di prenotare per te utilizzando le prenotazioni di gruppo dinamiche"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "出席者が動的なグループ予約を通じてあなたを予約できるようにする"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "참석자가 동적 그룹 예약을 통해 귀하를 예약하도록 허용"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sta deelnemers toe om u te boeken via dynamische groepsboekingen"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tillat deltakere å booke deg gjennom dynamiske gruppebookinger"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pozwól uczestnikom rezerwować cię przez dynamiczne rezerwacje grupowe"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Permitir que os participantes façam reservas consigo através de reservas dinâmicas de grupos"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Permita que os participantes façam reservas com as reservas de grupo dinâmicas"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Permiteți participanților să vă efectueze rezervări dinamice în grup"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Разрешить участникам бронировать встречи с вами при помощи динамического группового бронирования"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dozvolite učesnicima da rezervišu termin sa vama putem dinamičkih grupnih rezervacija"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tillåt deltagare att boka dig via dynamiska gruppbokningar"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Katılımcıların dinamik grup rezervasyonları aracılığıyla sizin adınıza rezervasyon yapmalarına izin verin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Дозволити учасникам бронювати ваш час за допомогою динамічних групових бронювань"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cho phép người tham gia đặt chỗ cho bạn thông qua chức năng đặt chỗ động cho nhóm"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "允许参与者通过动态组预约来向您预约"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "允許與會者透過動態群組向您預約"
+                }
+            ]
+        }
+    ]
+}

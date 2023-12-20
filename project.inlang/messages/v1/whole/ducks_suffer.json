@@ -1,0 +1,416 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "workflow_updated_successfully",
+        "library.inlang.paraglideJs": "workflow_updated_successfully"
+    },
+    "id": "whole_ducks_suffer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم تحديث سير العمل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pracovní postup "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " byl aktualizován"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " workflow opdateret"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " Workflow erfolgreich aktualisiert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " workflow updated successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Flujo de trabajo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " actualizado correctamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Workflow "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mis à jour avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "עדכון תהליך העבודה "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " בוצע בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Flusso di lavoro "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " aggiornato correttamente"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " が正常に更新されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 워크플로 업데이트 완료"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Werkstroom "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " bijgewerkt"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Arbeidsflyten for "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ble oppdatert"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pomyślnie zaktualizowano przepływ pracy "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fluxo de trabalho "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " actualizado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fluxo de trabalho "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " atualizado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fluxul de lucru "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " a fost actualizat cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Рабочий процесс "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " обновлен"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Radni tok "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " je uspešno ažuriran"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " uppdaterades framgångsrikt"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " iş akışı başarıyla güncellendi"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Робочий процес «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» оновлено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã cập nhật thành công tiến độ công việc "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 工作流程已成功更新"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已成功更新 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "workflowName"
+                }
+            ]
+        }
+    ]
+}

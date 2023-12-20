@@ -1,0 +1,332 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "edit_users_availability",
+        "library.inlang.paraglideJs": "edit_users_availability"
+    },
+    "id": "lucky_women_pay",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تعديل توافر المستخدم: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Upravte dostupnost uživatele: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Benutzerverfügbarkeit bearbeiten: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Edit user's availability: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Editar disponibilidad del usuario: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Modifier la disponibilité de l'utilisateur : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "עריכת הזמינות של משתמש: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Modifica la disponibilità dell'utente: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ユーザーの空き状況を編集："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "사용자 가용성 편집: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beschikbaarheid van gebruiker bewerken: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Edytuj dostępność użytkownika: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Editar a disponibilidade do utilizador: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Editar disponibilidade do usuário: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Editați disponibilitatea utilizatorului: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Редактировать данные о доступности пользователя: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uredi dostupnost korisnika: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Redigera användarens tillgänglighet: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kullanıcının müsaitlik durumunu düzenleyin: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Редагувати доступність користувача: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sửa tình trạng trống lịch của người dùng: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "编辑用户的可预约时间："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "編輯使用者的可預約時間："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "username"
+                }
+            ]
+        }
+    ]
+}

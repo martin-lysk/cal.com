@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "cal_signup_description",
+        "library.inlang.paraglideJs": "cal_signup_description"
+    },
+    "id": "sharp_items_invent",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Free for individuals. Team plans for collaborative features."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gratuit pour les particuliers. Plans Équipes pour les fonctionnalités collaboratives."
+                }
+            ]
+        }
+    ]
+}

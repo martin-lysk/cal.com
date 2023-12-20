@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "manage_availability_schedules",
+        "library.inlang.paraglideJs": "manage_availability_schedules"
+    },
+    "id": "smart_rooms_sniff",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Manage availability schedules"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Gérer les horaires de disponibilité"
+                }
+            ]
+        }
+    ]
+}

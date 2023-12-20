@@ -1,0 +1,38 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "connect_all_calendars_description",
+        "library.inlang.paraglideJs": "connect_all_calendars_description"
+    },
+    "id": "purple_parts_cheer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " reads availability from all your existing calendars."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " relève la disponibilité de tous vos calendriers existants."
+                }
+            ]
+        }
+    ]
+}

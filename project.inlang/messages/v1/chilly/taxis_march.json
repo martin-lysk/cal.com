@@ -1,0 +1,332 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "location_options",
+        "library.inlang.paraglideJs": "location_options"
+    },
+    "id": "chilly_taxis_march",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "خيارات الموقع "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Možná místa konání: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " Veranstaltungsort-Optionen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " location options"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " opciones de ubicación"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " options de lieu"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " אפשרויות מיקום"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " opzioni di luogo"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " ヵ所の場所のオプション"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": "개의 위치 옵션"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " locatieopties"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lokalizacje do wyboru: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " opções de localização"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " opções de local"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " (de) opțiuni privind locul"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Параметры местоположения "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " opcije lokacije"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " platsalternativ"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " konum seçenekleri"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Варіантів місць проведення: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " lựa chọn vị trí"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 个位置选项"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "locationCount"
+                },
+                {
+                    "type": "Text",
+                    "value": " 個地點選項"
+                }
+            ]
+        }
+    ]
+}

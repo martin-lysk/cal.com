@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "make_setup_instructions",
+        "library.inlang.paraglideJs": "make_setup_instructions"
+    },
+    "id": "cruel_houses_argue",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>انتقل إلى <1><0>إنشاء رابط دعوة</0></1> وقم بتثبيت تطبيق Cal.com </0><1> ثم سجّل الدخول إلى حسابك وقم بإنشاء \"سيناريو جديد\".</1><2>اختر Cal.com على أنه أحد تطبيقات \"التشغيل\" لديك. اختر أيضا حدث تشغيل. </2><3>اختر حسابك ثم ادخل مفتاح API الفريد الخاص بك.</3><4>اختبر المشغل لديك.</4><5>لقد أتممت الأمر!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Přejděte na <1><0>odkaz s pozvánkou pro Make</0></1> a nainstalujte aplikaci Cal.com.</0><1>Přihlaste se ke svému účtu Make a vytvořte nový scénář.</1><2>Jako spouštěcí aplikaci vyberte Cal.com. Dále vyberte událost spouštěče.</2><3>Vyberte svůj účet a následně zadejte svůj unikátní klíč API.</3><4>Otestujte svůj spouštěč.</4><5>Všechno je připraveno!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Gehen Sie zu: <1><0>Make-Einladungs-Link</0></1>und installieren Sie die Cal.com-App.</0><1> Loggen Sie sich in Ihr Make-Konto ein und erstellen Sie ein neues Szenario.</1><2>Wählen Sie Cal.com als ihre Auslöser-App aus. Wählen Sie auch ein Auslöserereignis aus.</2><3>Wählen Sie ihr Konto aus und geben Sie dann Ihren eindeutigen API-Key ein.</3><4>Probierne Sie den Auslöser aus.</4><5>Und fertig!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Go to <1><0>Make Invite Link</0></1> and install the Cal.com app.</0><1>Log into your Make account and create a new Scenario.</1><2>Select Cal.com as your Trigger app. Also choose a Trigger event.</2><3>Choose your account and then enter your Unique API Key.</3><4>Test your Trigger.</4><5>You're set!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Vaya al <1><0>Enlace de invitación de Make</0></1> e instale la aplicación Cal.com.</0><1>Inicie sesión en su cuenta de Make y cree un nuevo escenario.</1><2>Seleccione Cal.com como su aplicación de activación. Elija también un evento de activación.</2><3>Elija su cuenta y luego ingrese su clave API única.</3><4>Pruebe su activador.</4><5>¡Ya está!</5 >"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Accédez au <1><0>lien d'invitation Make</0></1> et installez l'application Cal.com.</0><1>Connectez-vous à votre compte Make et créez un nouveau scénario.</1><2>Sélectionnez Cal.com comme application déclencheur. Choisissez également un événement déclencheur.</2><3>Choisissez votre compte, puis saisissez votre clé API unique.</3><4>Testez votre déclencheur.</4><5>Vous êtes prêt !</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>עבור/י אל <1><0>יצירת קישור Invite</0></1> והתקן/י את אפליקציית Cal.com.</0><1>התחבר/י לחשבון Make שלך וצור/י Scenario חדש.</1><2>בחר/י את Cal.com כאפליקציית ה-Trigger. בנוסף, בחר/י אירוע Trigger.</2><3>בחר/י את החשבון שלך ולאחר מכן הזן/י את מפתח ה-API הייחודי שלך.</3><4>בדוק/י את ה-Trigger.</4><5>וזהו, הכל מוכן!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Segui il <1><0>link di invito Make</0></1> e installa l'applicazione Cal.com.</0><1>Accedi al tuo account Make e crea un nuovo Scenario.</1><2>Seleziona Cal.com come app trigger. Scegli l'evento trigger.</2><3>Seleziona il tuo account e immetti la tua chiave API unica.</3><4>Fai una prova del tuo trigger.</4><5>Fatto!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0><1><0>Make の招待リンク</0></1>に移動して、Cal.com アプリをインストールします。</0><1>Make アカウントにログインして、新しいシナリオ作成します。</1><2>Cal.com をトリガーアプリとして選択します。またトリガーイベントを選びます。</2><3>アカウントを選んでから、あなた専用のAPIキーを入力します。</3><4>トリガーをテストします。</4><5>設定完了！</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0><1><0>초대 링크 만들기</0></1>로 이동하여 Cal.com 앱을 설치합니다.</0><1>Make 계정에 로그인하고 새 시나리오를 만듭니다.</1><2>Cal.com을 Trigger 앱으로 선택합니다. 트리거 이벤트도 선택합니다.</2><3>계정을 선택한 후 고유 API 키를 입력합니다.</3><4>트리거를 테스트합니다.</4><5>이제 준비되었습니다!</5 >"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Ga naar <1><0>Make-uitnodigingslink</0></1> en installeer de Cal.com-app.</0><1>Log in bij uw Make-account en maak een nieuw scenario.</1><2>Selecteer Cal.com als uw activatie-app. Kies ook een activatiegebeurtenis.</2><3>Kies uw account en voer uw unieke API-sleutel in.</3><4>Test uw activatie.</4><5>U bent er klaar voor!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Przejdź do sekcji <1><0>Link z zaproszeniem Make</0></1> i zainstaluj aplikację Cal.com.</0><1><0>Zaloguj się do swojego konta Make i utwórz nowy Scenariusz (Scenario).</1><2>Wybierz Cal.com jako aplikację wyzwalającą. Wybierz również wydarzenie wyzwalające. </2></2>Wybierz konto, a następnie wprowadź niepowtarzalny klucz interfejsu API.</3><4>Przetestuj wyzwalanie.</4><5>Wszystko gotowe!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Aceda a <1><0>Criar ligação de convite</0></1> e instale a aplicação Cal.com.</0><1>Inicie sessão na sua conta Make e crie um novo Cenário.</1><2>Selecione Cal.com como a sua aplicação de Trigger. Escolha também um evento de Trigger.</2><3>Escolha a sua conta e depois introduza a sua Chave da API Única.</3><4>Teste o seu Trigger.</4><5>Está pronto!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Vá para <1><0>Vincular convite do Make</0></1> e instale o aplicativo do Cal.com.</0><1>Entre na conta do Make e crie um novo Cenário.</1><2>Selecione Cal.com como seu aplicativo de gatilho. Escolha também um evento de gatilho.</2><3>Escolha sua conta e insira sua chave de API única.</3><4>Teste seu gatilho.</4><5>Tudo pronto!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Mergeți la <1><0>linkul de invitație Make</0></1> și instalați aplicația Cal.com.</0><1>Conectați-vă la contul dvs. Make și creați un scenariu nou.</1><2>Selectați Cal.com ca aplicație declanșatoare. De asemenea, alegeți un eveniment de declanșare.</2><3>Selectați contul dvs. și introduceți cheia dvs. API unică.</3><4>Testați declanșatorul.</4><5>Sunteți gata!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Перейдите по <1><0>пригласительной ссылке Make</0></1> и установите приложение Cal.com.</0><1>Войдите в аккаунт Make и создайте новый сценарий.</1><2>Выберите Cal.com в качестве приложения-триггера. Также выберите событие-триггер.</2><3>Выберите свою учетную запись и введите уникальный ключ API.</3><4>Проверьте триггер.</4><5>Готово!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Idite na <1><0>link Napravi pozivnicu</0></1> i instalirajte aplikaciju Cal.com.</0><1>Prijavite se u Napravi nalog i kreirajte novi Scenario.</1><2>Izaberite Cal.com kao vašu applikaciju Okidač. Takođe odaberite okidač događaja.</2><3>Izaberite svoj nalog i unesite svoj jedinstveni API ključ.</3><4>Testirajte svoj okidač.</4><5>Spremni ste!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Gå till <1><0>Skapa inbjudningslänk</0></1> och installera Cal.com-appen.</0><1>Logga in på ditt Make-konto och skapa ett nytt Scenario.</1><2>Välj Cal.com som din Trigger-app. Välj också en triggerhändelse.</2><3>Välj ditt konto och ange sedan din unika API-nyckel.</3><4>Testa din trigger.</4><5>Du är redo!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Make Davet Bağlantısına</0></1> <0>gidin<1> ve Cal.com uygulamasını yükleyin.<0><1>Make hesabınıza giriş yapın ve yeni bir Senaryo oluşturun.</1><2>Tetikleyici uygulamanız olarak Cal.com'u seçin. Ayrıca bir Tetikleyici etkinliği seçin.</2><3>Hesabınızı seçin ve ardından Benzersiz API Anahtarınızı girin.</3><4>Tetikleyicinizi test edin.</4><5>Hazırsınız!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Перейдіть<1><0>за посиланням у запрошенні Make</0></1> і встановіть додаток Cal.com.</0><1>Увійдіть у свій обліковий запис Make і створіть новий сценарій.</1><2>Виберіть Cal.com як додаток Trigger, а також укажіть подію Trigger.</2><3>Виберіть свій обліковий запис і введіть унікальний ключ API.</3><4>Перевірте Trigger.</4><5>Усе готово!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>Đến <1><0>Liên kết mời Make</0></1> và cài đặt ứng dụng Cal.com.</0><1>Đăng nhập vào tài khoản Make của bạn và tạo một Scenario mới.</1><2>Chọn Cal.com làm ứng dụng Trigger của bạn. Đồng thời chọn một sự kiện Trigger.</2><3>Chọn tài khoản của bạn và sau đó điền vào Khoá API đặc trưng.</3><4>Thử nghiệm Trigger của bạn.</4><5>Bạn đã xong!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>转到 <1><0>Make 邀请链接</0></1>并安装 Cal.com 应用。</0><1>登录您的 Make 账户并创建一个新 Scenario。</1><2>选择 Cal.com 作为您的 Trigger 应用。同时选择一个 Trigger 事件。</2><3>选择您的账户，然后输入您的唯一 API 密钥。</3><4>测试您的 Trigger。</4><5>设置完毕!</5>"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<0>前往 <1><0>Make Invite Link</0></1>，然後安裝 Cal.com 應用程式。</0><1>登入您的 Make 帳號並建立新的 Scenario。</1><2>選取 Cal.com 作為您的 Trigger 應用程式，也請一併選擇 Trigger 事件。</2><3>選擇您的帳號，然後輸入您的唯一 API 金鑰。</3><4>測試您的 Trigger。</4><5>一切就大功告成了！</5>"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "enter_digit_code",
+        "library.inlang.paraglideJs": "enter_digit_code"
+    },
+    "id": "rude_parents_live",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أدخل الرمز المكون من 6 أرقام الذي أرسلناه إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zadejte šestimístný kód, který jsme vám zaslali na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Geben Sie den 6-stelligen Code ein, den wir an "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " gesendet haben"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enter the 6 digit code we sent to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingrese el código de 6 dígitos que enviamos a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Entrez le code à 6 chiffres que nous avons envoyé à "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הזן/הזיני את הקוד בן 6 הספרות ששלחנו לכתובת "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Immetti il codice di 6 cifre che è stato inviato a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " に送信した 6 桁のコードを入力してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " 주소로 보내드린 6자리 코드를 입력하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voer de 6-cijferige code in die we naar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " hebben gestuurd"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wprowadź 6-cyfrowy kod, który wysłaliśmy na adres "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduza o código de 6 dígitos que enviámos para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Insira o código de seis dígitos enviado para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduceți codul din 6 cifre pe care l-am trimis la adresa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введите 6-значный код, который мы отправили на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unesite šestocifreni kod koji smo vam poslali na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ange den 6-siffriga koden som vi skickade till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " adresine gönderdiğimiz 6 haneli kodu girin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введіть 6-значний код, який ми надіслали на адресу "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nhập mã 6 chữ số mà chúng tôi đã gửi tới "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "输入我们发送至 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 6 位代码"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "輸入我們傳送至 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 6 位數驗證碼"
+                }
+            ]
+        }
+    ]
+}

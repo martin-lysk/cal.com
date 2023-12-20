@@ -1,0 +1,384 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "account_managed_by_identity_provider",
+        "library.inlang.paraglideJs": "account_managed_by_identity_provider"
+    },
+    "id": "pretty_trees_obey",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تجري إدارة حسابك بواسطة "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Váš účet spravuje "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Din konto administreres af "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ihr Konto wird verwaltet von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Your account is managed by "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tu cuenta es administrada por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Votre compte est géré par "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "החשבון שלך מנוהל על ידי "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il tuo account è gestito da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "あなたのアカウントは "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " によって管理されています"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "귀하의 계정 관리자는 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": "입니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uw account wordt beheerd door "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kontoen din administreres av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Twoje konto jest zarządzane przez "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A sua conta é gerida por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sua conta é gerenciada por "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Contul dvs. este gestionat de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ваш аккаунт управляется "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vašim nalogom upravlja "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ditt konto hanteras av "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hesabınız "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarafından yönetiliyor"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вашим обліковим записом керує "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tài khoản của bạn do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " quản lý"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您的账户由 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " 管理"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "帳號歸 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "provider"
+                },
+                {
+                    "type": "Text",
+                    "value": " 管轄"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "about_your_organization_description",
+        "library.inlang.paraglideJs": "about_your_organization_description"
+    },
+    "id": "fifty_facts_greet",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "المنظمات هي بيئات مشتركة حيث يمكنك إنشاء فرق متعددة مع أعضاء مشتركين وأنواع الأحداث والتطبيقات ومهام سير العمل المشتركة والمزيد."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizace jsou sdílená prostředí, ve kterých můžete vytvořit několik týmů se sdílenými členy, typy událostí, aplikacemi, pracovními postupy a mnoha dalšími věcmi."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizations sind geteilte Umgebungen, in denen Sie mehrere Teams mit gemeinsamen Mitgliedern, Termintypen, Apps, Workflows und mehr erstellen können.\n"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizations are shared environments where you can create multiple teams with shared members, event types, apps, workflows and more."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Las organizaciones son entornos compartidos donde puede crear varios equipos con miembros, tipos de eventos, aplicaciones, flujos de trabajo compartidos y más."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Les organisations sont des environnements partagés dans lesquels vous pouvez créer plusieurs équipes avec des membres partagés, des types d'événements, des applications, des workflows, etc."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ארגונים הם סביבות משותפות שבהן ניתן ליצור צוותים מרובים עם משאבים משותפים, כמו חברים, סוגי אירועים, אפליקציות, תהליכי עבודה ועוד."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le organizzazioni sono ambienti condivisi dove è possibile creare dei team con condivisione di membri, tipi di eventi, applicazioni, flussi di lavoro e altro ancora."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "組織は、共有メンバー、イベントの種類、アプリ、ワークフローなどを含む複数のチームを作成可能な共有環境です。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organization은 구성원, 이벤트 유형, 앱, 워크플로 등을 공유하여 여러 팀을 만들 수 있는 공유 환경입니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organisaties zijn gedeelde omgevingen waar u meerdere teams met gedeelde gebeurtenistypen, apps, werkstromen en meer kunt maken."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizacje to współdzielone środowiska, w których możesz utworzyć wiele zespołów ze wspólnymi członkami, typami wydarzeń, aplikacjami, przepływami pracy itd."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "As organizações são ambientes partilhados onde pode criar, entre outras coisas, várias equipas com membros, tipos de eventos, aplicações e fluxos de trabalho partilhados."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizações são ambientes compartilhados em que você pode criar múltiplas equipes com membros, fluxos de trabalho, aplicativos, tipos de evento compartilhados e muito mais."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizațiile sunt medii partajate în care puteți crea mai multe echipe cu membri, tipuri de evenimente, aplicații, fluxuri de lucru comune și multe altele."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Организация — это общая рабочая среда, в которой можно создавать несколько команд с общими сотрудниками, типами событий, приложениями, рабочими процессами и т. п."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organizacije su deljena okruženja gde možete da kreirate više timova sa deljenim članovima, vrstama događaja, aplikacijama, radnim tokovima i mnogim drugim stvarima."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organisationer är delade miljöer där du kan skapa flera team med delade medlemmar, händelsetyper, appar, arbetsflöden och mycket mer."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kuruluşlar; paylaşımlı üyeler, etkinlik türleri, uygulamalar, iş akışları ve daha fazlasıyla birden çok ekip oluşturabileceğiniz paylaşımlı ortamlardır."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Організації — це спільне середовище, де можна створити кілька команд зі спільними учасниками, типами заходів, додатками, робочими процесами тощо."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tổ chức là môi trường chia sẻ tại đó bạn có thể tạo nhiều nhóm có thành viên chung, loại sự kiện chung, ứng dụng chung, tiến độ công việc chung, v.v..."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "组织是共享环境，您可以在其中创建多个具有共享的成员、活动类型、应用、工作流程等要素的团队。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "組織是一種共用環境，您可以在其中建立多個團隊，而這些團隊則可共享成員、活動類型、應用程式、工作流程等。"
+                }
+            ]
+        }
+    ]
+}

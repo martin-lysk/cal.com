@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "create_your_org_description",
+        "library.inlang.paraglideJs": "create_your_org_description"
+    },
+    "id": "tame_socks_grab",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Upgrade to Enterprise and receive a subdomain, unified billing, Insights, extensive whitelabeling and more"
+                }
+            ]
+        }
+    ]
+}

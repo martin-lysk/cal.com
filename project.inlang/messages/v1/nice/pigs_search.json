@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_organization_slug",
+        "library.inlang.paraglideJs": "no_organization_slug"
+    },
+    "id": "nice_pigs_search",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "حدث خطأ أثناء إنشاء فرق لهذه المنظمة. الكلمة اللطيفة للرابط مفقودة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Při vytváření týmů pro tuto organizaci došlo k chybě. Chybějící slug adresy URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beim Erstellen von Teams für diese Organization ist ein Fehler aufgetreten. URL-Slug fehlt."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "There was an error creating teams for this organization. Missing URL slug."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hubo un error al crear equipos para esta organización. Falta el slug de URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Une erreur s'est produite lors de la création des équipes pour cette organisation. Le slug du lien est manquant."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אירעה שגיאה במהלך הניסיון ליצור צוותים עבור הארגון הזה. חסר רכיב slug של URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si è verificato un errore durante la creazione dei team per questa organizzazione. Slug URL mancante."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この組織でチームを作成する際にエラーが発生しました。URL スラッグがありません。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이 조직의 팀을 만드는 중 오류가 발생했습니다. URL 슬러그가 없습니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Er is een fout opgetreden bij het maken van teams voor deze organisatie. Ontbrekende URL-slug."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Podczas tworzenia zespołów tej organizacji wystąpił błąd. Brakujący slug adresu URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ocorreu um erro ao criar equipas para esta organização. Falta o slug do URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Houve um erro ao criar equipes para esta organizazção. Falta o campo de dados dinâmico do URL."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A survenit o eroare la crearea echipelor pentru această organizație. Slug URL lipsă."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "При создании команд для этой организации произошла ошибка. Отсутствует слаг URL-адреса."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desila se greška kod kreiranja timova za ovu organizaciju. Nedostaje URL slug."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ett fel uppstod när team skapades för den här organisationen. URL-sluggen saknas."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu kuruluş için ekipler oluşturulurken bir hata oluştu. URL bilgisi eksik."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Сталася помилка під час створення команд для цієї організації. Відсутня URL-адреса."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Có lỗi khi tạo nhóm cho tổ chức này. Slug URL bị thiếu."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "为该组织创建团队时出错。缺少链接 slug。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "為此組織建立團隊時發生錯誤。缺少網址 slug。"
+                }
+            ]
+        }
+    ]
+}

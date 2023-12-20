@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "dont_want_to_wait",
+        "library.inlang.paraglideJs": "dont_want_to_wait"
+    },
+    "id": "light_tools_share",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Don't want to wait?"
+                }
+            ]
+        }
+    ]
+}

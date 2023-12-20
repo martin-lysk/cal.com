@@ -1,0 +1,512 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "request_reschedule_title_organizer",
+        "library.inlang.paraglideJs": "request_reschedule_title_organizer"
+    },
+    "id": "great_stars_serve",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لقد طلبت من "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " إعادة جدولة موعد"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Požádali jste uživatele "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " o změnu časového plánu"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har anmodet "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " om at omlægge"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie haben "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " zur Neuplanung aufgefordert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You have requested "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " to reschedule"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le ha solicitado a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " que reprograme"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Beste denbora-tarte bat hautatzeko eskatu diozu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": "(r)i"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous avez demandé à "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " de replanifier la réservation"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ביקשת מ"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " לקבוע מועד חדש"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zatražili ste da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " promijeni termin"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kamu telah meminta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " untuk menjadwalkan ulang"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hai richiesto a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " di riprogrammare"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " にスケジュールの変更をリクエストしました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": "에게 일정 변경을 요청하셨습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U heeft "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " gevraagd om te verplaatsen"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har bedt "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " om å endre tidspunkt"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " poproszono o zmianę harmonogramu"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Solicitou um reagendamento a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você solicitou que "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " reagendasse"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "I-ați cerut lui "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " să reprogrameze"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вы запросили у "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " изменение расписания"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zatražili ste da "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " promeni vreme rezervacije"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du har begärt att "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " ska boka om"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "நீங்கள் "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " ஐ மறுஅட்டவணைக்குக் கோரியுள்ளீர்கள்"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " adlı kişiye yeniden planlama talebinde bulundunuz"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ви попросили учасника "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " перенести бронювання"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn đã yêu cầu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " xếp lại lịch"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已请求 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " 重新安排"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您已要求 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendee"
+                },
+                {
+                    "type": "Text",
+                    "value": " 重新預約"
+                }
+            ]
+        }
+    ]
+}

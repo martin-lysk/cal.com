@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "team_deletion_cannot_be_undone",
+        "library.inlang.paraglideJs": "team_deletion_cannot_be_undone"
+    },
+    "id": "plenty_webs_fail",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Be Careful. Team deletion cannot be undone"
+                }
+            ]
+        }
+    ]
+}

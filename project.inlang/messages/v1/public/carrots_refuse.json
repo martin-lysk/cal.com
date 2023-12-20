@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "update_cal_video_logo",
+        "library.inlang.paraglideJs": "update_cal_video_logo"
+    },
+    "id": "public_carrots_refuse",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Update Cal Video Logo"
+                }
+            ]
+        }
+    ]
+}

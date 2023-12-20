@@ -1,0 +1,538 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "from_to_date_period",
+        "library.inlang.paraglideJs": "from_to_date_period"
+    },
+    "id": "wild_emus_shine",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "من: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " إلى: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Od: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " do: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Von: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " Bis: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "From: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " To: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Desde: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " Hasta: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " À : "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "מ: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " עד: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Da: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " A: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "開始: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " 終了: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "시작일: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " 종료일: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Van: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " Tot: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Od: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " Do: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " A: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " Para: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "De la: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " La: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "С: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " По: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Od: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " Do: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Från: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " till: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " லிருந்து "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " வரை"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Başlangıç: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " Bitiş: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "З: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " До: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Từ: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " Đến: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "开始日期: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " 结束日期: "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "開始："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "startDate"
+                },
+                {
+                    "type": "Text",
+                    "value": " 結束："
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "endDate"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "org_publish_error",
+        "library.inlang.paraglideJs": "org_publish_error"
+    },
+    "id": "cuddly_phones_sneeze",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Organization could not be published"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,690 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "event_between_users",
+        "library.inlang.paraglideJs": "event_between_users"
+    },
+    "id": "crazy_ravens_knock",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " بين "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " و"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mezi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mellem "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " og "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zwischen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " und "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " between "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " and "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " entre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " y "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " entre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " et "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " בין "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " ו-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tra "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " と "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " が出席する"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " 와 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 사이의 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tussen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mellom "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " og "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " między "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " entre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " entre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " între "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " și "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " между "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " и "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " mellan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " och "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " ve "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " arasındaki "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "«"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» за участі ведучого "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " і учасника "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                },
+                {
+                    "type": "Text",
+                    "value": " giữa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " và "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " 和 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 之间的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "host"
+                },
+                {
+                    "type": "Text",
+                    "value": " 和 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "attendeeName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "eventName"
+                }
+            ]
+        }
+    ]
+}

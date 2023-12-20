@@ -1,0 +1,374 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "enter_number_between_range",
+        "library.inlang.paraglideJs": "enter_number_between_range"
+    },
+    "id": "seven_beers_love",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "الرجاء إدخال رقم بين 1 و "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zadejte prosím číslo v rozpětí 1 a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bitte geben Sie eine Zahl zwischen 1 und "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                },
+                {
+                    "type": "Text",
+                    "value": " ein"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Please enter a number between 1 and "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduzca un número entre 1 y "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mesedez sartu 1 eta "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                },
+                {
+                    "type": "Text",
+                    "value": " arteko zenbaki bat"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veuillez entrer un nombre entre 1 et "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נא להזין מספר בין 1 ל-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Insrisci un numero compreso tra 1 e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "1 から "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                },
+                {
+                    "type": "Text",
+                    "value": " の数字を入力してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "1에서 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                },
+                {
+                    "type": "Text",
+                    "value": " 사이의 숫자를 입력하세요"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voer een getal in tussen 1 en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wprowadź liczbę od 1 do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduza um número entre 1 e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Por favor, insira um número entre 1 e "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Introduceți un număr între 1 și "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введите число от 1 до "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unesite broj između 1 i "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ange ett tal mellan 1 och "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lütfen 1 ile "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                },
+                {
+                    "type": "Text",
+                    "value": " arasında bir sayı girin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Введіть число від 1 до "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vui lòng nhập một số từ 1 đến "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "请输入一个介于 1 和 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                },
+                {
+                    "type": "Text",
+                    "value": " 之间的数字"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "請輸入介於 1 到 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "maxOccurences"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的數字"
+                }
+            ]
+        }
+    ]
+}

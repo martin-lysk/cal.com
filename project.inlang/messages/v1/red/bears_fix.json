@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "add_one_fixed_attendee",
+        "library.inlang.paraglideJs": "add_one_fixed_attendee"
+    },
+    "id": "red_bears_fix",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أضف حاضرًا ثابتًا وجدولة دوارة عبر عدد من الحاضرين."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Přidejte jednoho pevně stanoveného účastníka a „round robin“ přes daný počet účastníků."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tilføj en fast deltager og round robin gennem en række deltagere."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Fügen Sie einen festen Teilnehmer und einen Round Robin mit einer Reihe von Teilnehmern hinzu."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Add one fixed attendee and round robin through a number of attendees."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Agregue un asistente fijo y realice rotación por turnos a través de un número de asistentes."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ajoutez un participant fixe et le round-robin via un certain nombre de participants."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הוסף/י משתתף/ת קבוע/ה אחד/ת ועבור/י בסבב בין מספר משתתפים."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aggiungi un partecipante fisso e fai intervenire a turno altri partecipanti."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "固定された出席者を 1 人追加し、複数の出席者についてラウンドロビン方式で出席スケジュールを決定します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "한 명의 고정 참석자를 추가하고 여러 참석자를 라운드 로빈 방식으로 순환합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Voeg één vaste deelnemer en round-robin toe via een aantal deelnemers."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Legg til én fast deltaker og round robin gjennom et antall deltakere."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dodaj jednego stałego uczestnika i przeglądaj uczestników zgodnie z algorytmem karuzelowym"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adicione um participante fixo e distribua de forma equilibrada a partir de um número de participantes."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adicione um participante fixo e utilize o round-robin em uma determinada quantidade de participantes."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adaugă un participant fix şi unul din sistemul „round-robin” dintr-un număr de participanţi."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Добавьте одного фиксированного участника и назначайте участников по очереди."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dodajte jednog fiksnog učesnika i onda rotirajte ostale učesnike."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lägg till en fast deltagare och Round Robin för ett antal deltagare."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bir sabit katılımcı ekleyin ve katılımcı sayısına göre rotasyon yapın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Додайте одного постійного учасника та циклічно замінюйте кількох інших учасників."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Thêm một người tham dự và round robin cố định thông qua số người tham dự."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "添加一名固定参与者，并由多名参与者轮流担任。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "新增一名固定的與會者，並由多名與會者輪流擔任。"
+                }
+            ]
+        }
+    ]
+}

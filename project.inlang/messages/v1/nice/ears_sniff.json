@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "installed_app_crm_description",
+        "library.inlang.paraglideJs": "installed_app_crm_description"
+    },
+    "id": "nice_ears_sniff",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تهيئة تطبيقات CRM التي يمكن استخدامها لتتبع من قابلته"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nakonfigurujte aplikace CRM, které se mají používat ke sledování toho, s kým jste se setkali"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurieren Sie, welche CRM-Apps verwendet werden sollen, um einen Überblick über die Personen zu behalten, mit denen Sie sich getroffen haben"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure which CRM apps to use for keeping track of who you've met with"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure qué aplicaciones de CRM usar para realizar un seguimiento de las personas con las que se ha reunido"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurez les applications de CRM à utiliser pour garder une trace des personnes que vous avez rencontrées."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הגדר/הגדירי את אפליקציות ה-CRM שבהן ברצונך להשתמש לניהול מעקב אחר האנשים שנפגשת איתם"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Scegli quali app CRM utilizzare per tenere traccia delle persone che hai incontrato"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "会った人を記録するのにどの CRM アプリを使用するかを設定します"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "만났던 사람을 추적하는 데 사용할 CRM 앱 구성"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configureer welke CRM-apps moeten worden gebruikt voor het bijhouden van wie u hebt ontmoet"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Skonfiguruj aplikacje CRM, za pomocą których chcesz monitorować to, z kim się spotykasz"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurar as aplicações de CRM a utilizar para manter um registo das pessoas com quem se reuniu"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configure quais aplicativos CRM usar para acompanhar os integrantes das suas reuniões"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Configurați ce aplicații CRM vor fi utilizate pentru a ține evidența persoanelor cu care v-ați întâlnit"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Выберите CRM-приложения, в которых вы хотите отслеживать, с кем у вас были встречи"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurišite koje CRM aplikacije ćete koristiti za praćenje sa kim ste se sreli"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Konfigurera vilka CRM-appar som ska användas för att hålla reda på vilka du har träffat"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tanıştığınız kullanıcıları takip etmek için hangi CRM uygulamalarının kullanılacağını belirleyin"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Укажіть, які застосунки для CRM використовувати, щоб вести облік користувачів, з якими ви зустрічались"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Cấu hình ứng dụng CRM nào cần dùng để theo dõi những người mà bạn đã họp cùng"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "配置用于记录您见过的人的 CRM 应用"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "設定要使用哪些 CRM 應用程式來追蹤您已見過面的人"
+                }
+            ]
+        }
+    ]
+}

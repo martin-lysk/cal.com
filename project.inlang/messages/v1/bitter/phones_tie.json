@@ -1,0 +1,416 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "schedule_created_successfully",
+        "library.inlang.paraglideJs": "schedule_created_successfully"
+    },
+    "id": "bitter_phones_tie",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم إنشاء جدول "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " بنجاح"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Plán "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " byl úspěšně vytvořen"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tidsplan blev oprettet"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " -Verfügbarkeitsplan erfolgreich erstellt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " schedule created successfully"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Horario "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " creado con éxito"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Planning "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " créé avec succès"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "יצירת התזמון "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " בוצעה בהצלחה"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Programma "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " creato"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " のスケジュールが正常に作成されました"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 일정이 성공적으로 생성되었습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Planning "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " aangemaakt"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tidsplan opprettet"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Utworzono "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " typ wydarzenia pomyślnie"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Horário "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " criado com sucesso"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Agenda "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " criada com êxito"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Programul "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " a fost creat cu succes"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Расписание "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " успешно создано"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Raspored "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " je uspešno izbrisan"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-schemat har skapats"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " planı başarıyla oluşturuldu"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Розклад «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": "» створено"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đã tạo thành công lịch "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 时间表已成功创建"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "成功新增行程表 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "scheduleName"
+                }
+            ]
+        }
+    ]
+}

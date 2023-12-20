@@ -1,0 +1,950 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "request_another_invitation_email",
+        "library.inlang.paraglideJs": "request_another_invitation_email"
+    },
+    "id": "gold_clowns_spend",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "إذا كنت تفضل عدم استخدام "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " كبريدك الإلكتروني "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " أو لديك بالفعل حساب "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ، يرجى طلب دعوة أخرى إلى ذلك البريد الإلكتروني."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pokud si nepřejete použít e-mail "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " pro "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nebo už účet na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " máte, požádejte prosím o další pozvánku na jiný e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hvis du foretrækker ikke at bruge "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " som din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " e-mail eller allerede har en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " konto, bedes du anmode om en anden invitation til den pågældende e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Falls Sie "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " lieber nicht als Ihre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-E-Mail verwenden möchten oder bereits über ein "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-Konto verfügen, fordern Sie bitte eine weitere Einladung zu dieser E-Mail an."
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Αν προτιμάτε να μην χρησιμοποιείτε το "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " ως "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " email σας ή να έχετε ήδη λογαριασμό "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " , παρακαλώ ζητήστε μια άλλη πρόσκληση σε αυτό το email."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "If you prefer not to use "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " as your "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " email or already have a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " account, please request another invitation to that email."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si prefiere no utilizar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " como su correo electrónico de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " o ya tiene una cuenta de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", por favor solicite otra invitación a ese email."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Si vous préférez ne pas utiliser "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " comme votre adresse e-mail "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " ou si vous avez déjà un compte "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", veuillez demander une autre invitation à cette adresse."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אם אתה מעדיף לא להשתמש בכתובת "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " ככתובת הדוא\"ל שלך עבור "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " או שכבר יש לך חשבון "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", יש לבקש לקבל הזמנה נוספת לכתובת הדוא\"ל הרצויה."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ako ne želite koristiti "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " kao vašu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " adresu e-pošte ili već imate "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " račun, zatražite još jednu pozivnicu na tu adresu."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jika kamu lebih suka tidak menggukan "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " sebagai email "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " atau telah memiliki akun "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " silakan membuat permintaan lain kepada email tersebut."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se preferisci non usare "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " come email "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " o già hai un account "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", per favore richiedi un altro invito a quella email."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " を "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " のメールアドレスとして使用しない場合、または "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " アカウントをすでに持っている場合は、そのメールへの招待を別にリクエストしてください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " 을 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 계정에 사용하고 싶지 않거나 이미 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 계정이 있는 경우, 그 메일로 초대를 요청하세요."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Als u "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " liever niet als uw "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " e-mail wilt gebruiken of al een "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " account heeft, vraag dan een andere uitnodiging aan voor die e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hvis du foretrekker å ikke bruke "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " som "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-e-post eller allerede har en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-konto, vennligst be om en annen invitasjon til denne e-posten."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Jeśli wolisz nie używać "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " jako adresu e-mail "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " lub masz już konto "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", poproś o inne zaproszenie na ten e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se não quiser utilizar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " como email do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", ou já tem uma conta em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", por favor peça outro convite para esse email."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se não quiser utilizar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " como email do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", ou já tem uma conta em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", por favor peça outro convite para esse email."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dacă preferați să nu utilizați "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " ca e-mail "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " sau aveți deja un cont "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", vă rugăm să solicitați o altă invitație la acel e-mail."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Если вы не хотите использовать "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " как ваш "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " адрес электронной почты или уже есть аккаунт "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", пожалуйста, запросите другое приглашение на это письмо."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ako preferirate da ne koristite "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " kao vašu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " e-poštu ili već imate "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " nalog, zatražite još jednu pozivnicu na tu e-poštu."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Om du föredrar att inte använda "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " som din "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " e-post eller redan har ett "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " konto, vänligen begär en annan inbjudan till den e-postadressen."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " e-posta adresiniz olarak "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " adresini kullanmak istemiyorsanız veya zaten bir "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " hesabınız varsa lütfen bu e-posta için başka bir davet talebinde bulunun."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Якщо ви не хочете використовувати "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " в "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " або вже маєте обліковий запис "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", надішліть запит на запрошення на потрібну електронну адресу."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nếu bạn không muốn sử dụng "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " là email "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " của bạn hay đã có tài khoản "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": ", hãy yêu cầu lời mời sang email đó."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果您不希望使用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " 作为您的 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 邮箱或已经有一个 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 账户，请使用您希望使用的邮箱再次请求一封邮件。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "如果不想要使用 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "toEmail"
+                },
+                {
+                    "type": "Text",
+                    "value": " 來當作用在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的電子郵件，或已有 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 帳號，請另外索取該電信箱的邀請。"
+                }
+            ]
+        }
+    ]
+}

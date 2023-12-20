@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "calendars_were_checking_for_conflicts",
+        "library.inlang.paraglideJs": "calendars_were_checking_for_conflicts"
+    },
+    "id": "cruel_spoons_behave",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Calendars we’re checking for conflicts"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Calendriers dont nous vérifions les conflits"
+                }
+            ]
+        }
+    ]
+}

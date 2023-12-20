@@ -1,0 +1,648 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "verify_email_page_body",
+        "library.inlang.paraglideJs": "verify_email_page_body"
+    },
+    "id": "olive_yaks_say",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "أرسلنا رسالة إلكترونية إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". من المهم تأكيد عنوان بريدك الإلكتروني لضمان تسليم البريد الإلكتروني والتقويم من "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Odeslali jsme e-mail na adresu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". E-mailovou adresu je důležité ověřit, aby byla zaručena co nejlepší doručitelnost e-mailů a kalendářů z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wir haben eine E-Mail an "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " gesendet. Es ist wichtig, Ihre E-Mail-Adresse zu bestätigen, um die Zustellbarkeit für E-Mails und Kalenderbenachrichtigungen von "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " zu gewährleisten."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We've sent an email to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". It is important to verify your email address to guarantee the best email and calendar deliverability from "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviamos un correo electrónico a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Es importante que verifique su dirección de correo electrónico para garantizar que "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " le ofrezca el mejor servicio de entrega de correos y calendarios."
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Email bat bidali dugu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " helbidera. Garrantzitsua da zure email helbidea egiaztatzea, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "-tik mezuak eta egutegiko eguneratzeak ahalik eta hobekien jasoko dituzula bermatzeko."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nous avons envoyé un e-mail à "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Il est important de vérifier votre adresse e-mail pour garantir la meilleure délivrabilité des e-mails et des calendriers de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "שלחנו הודעת דוא״ל לכתובת "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". חשוב שתאמת/י את כתובת הדוא״ל שלך כדי להבטיח שתוכל/י לקבל הודעות מ-"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " לכתובת הדוא״ל וללוח השנה שלך."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Abbiamo inviato un'e-mail a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". È importante verificare il tuo indirizzo e-mail per garantire la consegna delle e-mail e delle notifiche del calendario "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " にメールを送信しました。"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " からのメール配信とカレンダー通知が確実に機能するようにするには、メールアドレスの確認が重要です。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "에 이메일을 발송했습니다. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "에서 이메일과 캘린더를 가능한 한 차질 없이 보내드리려면 이메일 주소를 인증하는 것이 중요합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "We hebben een e-mail naar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " gestuurd. Het is belangrijk om uw e-mailadres te verifiëren om de beste bezorgbaarheid van e-mails en agenda's van "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " te garanderen."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wysłaliśmy wiadomość e-mail na adres "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Weryfikacja adresu e-mail jest ważna, ponieważ umożliwia zagwarantowanie prawidłowego działania kalendarza i dostarczania wiadomości e-mail z aplikacji "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviámos um e-mail para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". É importante verificar o seu endereço de e-mail para garantir que receberá as comunicações de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enviamos um e-mail para "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". É importante verificar seu endereço de e-mail para garantir o melhor envio de e-mail e calendário do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Am trimis un e-mail către "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Este important să vă verificați adresa de e-mail pentru a garanta cea mai bună furnizare a e-mailurilor și datelor de calendar de la "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Мы отправили письмо на адрес "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Обязательно подтвердите адрес электронной почты, чтобы обеспечить гарантированную доставку уведомлений от "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " по электронной почте и в календаре."
+                }
+            ]
+        },
+        {
+            "languageTag": "sk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Odoslali sme e-mail na adresu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". E-mailovú adresu je potrebné overiť, aby bola zaručená čo najlepšia doručiteľnosť e-mailov a kalendárov z "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Poslali smo imejl na "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Važno je da potvrdite svoju adresu e-pošte kako biste osigurali najbolju isporučivost e-pošte i kalendara od aplikacije "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vi har skickat ett e-postmeddelande till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Det är viktigt att verifiera din e-postadress för att garantera den bästa e-post- och kalenderleveransen från "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " adresine bir e-posta gönderdik. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " tarafından gönderilen e-posta ve takvim bilgilerinin güvenilir bir şekilde teslim edilmesini sağlamak için e-posta adresinizi doğrulamanız önemlidir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ми надіслали лист на адресу "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Підтвердьте свою електронну адресу, щоб уникнути проблем із доставкою листів і даних календаря із застосунку "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chúng tôi đã gửi một email đến "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ". Bạn cần xác minh địa chỉ email để bảo đảm "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " có thể gửi được email và lịch một cách ổn thoả nhất."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我们已向 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " 发送了一封电子邮件。请务必验证您的电子邮件地址，以确保让 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 发挥最佳的电子邮件和日历递送能力。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "我們已傳送電子郵件至 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "。請務必驗證您的電子郵件地址，以確保能準確收到 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "appName"
+                },
+                {
+                    "type": "Text",
+                    "value": " 遞送的電子郵件和行事曆。"
+                }
+            ]
+        }
+    ]
+}

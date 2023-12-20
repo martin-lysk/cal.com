@@ -1,0 +1,462 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "invalid_password_hint",
+        "library.inlang.paraglideJs": "invalid_password_hint"
+    },
+    "id": "plenty_beers_tan",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يجب أن تتألف كلمة المرور على الأقل من "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " أحرف، ورقم واحد على الأقل، ومزيج من الحروف الكبيرة والصغيرة"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Heslo musí být minimálně "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " znaků dlouhé, obsahovat alespoň jedno číslo a obsahovat kombinaci velkých a malých písmen"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Adgangskoden skal være mindst "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " tegn langt, der indeholder mindst ét tal og har en blanding af store og små bogstaver"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das Passwort muss mindestens "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " Zeichen lang sein und mindestens eine Nummer beinhalten, sowie eine Mischung aus Groß- und Kleinbuchstaben sein"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The password must be a minimum of "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " characters long containing at least one number and have a mixture of uppercase and lowercase letters"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La contraseña debe tener un mínimo de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " caracteres que contengan al menos un número y una mezcla de letras mayúsculas y minúsculas"
+                }
+            ]
+        },
+        {
+            "languageTag": "eu",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pasahitzak gutxienez "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " karaktereko luzera behar du gutxienez zenbaki bat eta letra maiuskula zein minuskulak nahasten dituela"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Le mot de passe doit contenir au moins "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " caractères, un chiffre et un mélange de lettres majuscules et minuscules."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "הסיסמה חייבת להיות באורך של "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " תווים לפחות ולכלול לפחות ספרה אחת ושילוב של אותיות רישיות וקטנות"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "La password deve avere una lunghezza minima di "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " caratteri e deve contenere almeno 1 numero e una combinazione di caratteri maiuscoli e minuscoli"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "パスワードには少なくとも 1 文字以上数字を含め、アルファベットの大文字と小文字を両方使用した上で "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " 文字以上の長さに設定してください"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "비밀번호는 7자 이상이어야 하고 숫자가 하나 이상 포함되어야 하며 대문자와 소문자가 혼합되어야 합니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Het wachtwoord moet minimaal "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " tekens lang zijn, minimaal 1 cijfer bevatten en bestaan uit een mix van hoofd- en kleine letters"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Passordet må være minst "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " tegn langt og inneholde minst ett tall og ha en blanding av store og små bokstaver"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Hasło musi składać się z co najmniej "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " znaków, zawierać co najmniej jedną cyfrę oraz kombinację wielkich i małych liter"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A palavra-passe deve ter no mínimo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " caracteres, com pelo menos um número e uma mistura de letras maiúsculas e minúsculas"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A senha precisa ter pelo menos sete caracteres com pelo menos um número e ser uma combinação de letras maiúsculas e minúsculas"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Parola trebuie să aibă cel puțin "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " caractere, să conțină cel puțin o cifră și o combinație de litere mari și litere mici"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пароль должен быть не короче "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " символов и содержать заглавные и строчные буквы, а также не менее одной цифры"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lozinka mora da bude dugačka najmanje "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " znakova, da sadrži najmanje jedan broj i da ima mešavinu velikih i malih slova"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Lösenordet måste innehålla minst "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " tecken och har minst en siffra samt en blandning av versaler och gemener"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Şifre en az "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " karakter uzunluğunda olmalı, en az bir rakam içermeli ve büyük ve küçük harflerin karışımından oluşmalıdır"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Пароль має містити не менше ніж "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " символів: принаймні одну цифру та комбінацію великих і малих літер"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mật khẩu phải có tối thiểu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " ký tự chứa ít nhất một con số và phải kết hợp chữ cái in hoa lẫn in thường"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "密码必须是至少 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " 个字符长，包含至少一个数字，并且是大写和小写字母混合"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "密碼長度至少要有 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "passwordLength"
+                },
+                {
+                    "type": "Text",
+                    "value": " 個字元，其中包含至少一個數字和大小寫字母組合"
+                }
+            ]
+        }
+    ]
+}

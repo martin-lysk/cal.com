@@ -1,0 +1,396 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "no_category_apps",
+        "library.inlang.paraglideJs": "no_category_apps"
+    },
+    "id": "mighty_wombats_count",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لا توجد تطبيقات "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Žádné aplikace v kategorii "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " apps"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Keine "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " Apps"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " apps"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "No hay aplicaciones de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Aucune application "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "אין אפליקציות בקטגוריה "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nessuna app "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " アプリはありません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " 앱 없음"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Geen apps voor "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ingen "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " apper"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Brak aplikacji z kategorii "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sem aplicações de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sem aplicativos de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nicio aplicație "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Нет приложений в категории «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "»"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Nema "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " aplikacija"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Inga "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "-appar"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " uygulaması yok"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": " — немає додатків"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Không có ứng dụng "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "无"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "应用"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "沒有"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "category"
+                },
+                {
+                    "type": "Text",
+                    "value": "應用程式"
+                }
+            ]
+        }
+    ]
+}

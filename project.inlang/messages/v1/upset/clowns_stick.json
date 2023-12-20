@@ -1,0 +1,510 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "link_expires",
+        "library.inlang.paraglideJs": "link_expires"
+    },
+    "id": "upset_clowns_stick",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ملاحظة: تنتهي الصلاحية في غضون "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " من الساعات."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "P.S. Platnost vyprší za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " hodin."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Det udløber om "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " timer."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Es läuft in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " Stunden ab."
+                }
+            ]
+        },
+        {
+            "languageTag": "el",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Υ.Γ. Λήγει σε "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " ώρες."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. It expires in "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " hours."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Expira en "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " horas."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Il expire dans "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " heures."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "נ.ב. תוקף הקישור יפוג תוך "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " שעות."
+                }
+            ]
+        },
+        {
+            "languageTag": "hr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Ističe za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " sati."
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "oya, ini hangus dalam "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " jam."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Scade tra "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " ore."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "追記: 有効期限は "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " 時間後に切れます。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " 시간 안에 만료됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. De uitnodiging verloopt over "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " uur."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Det utløper om "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " timer."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "P.S. Wygasa za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " godzin."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "P.S.: Expira em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " horas."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "P.S.: Expira em "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " horas."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Expiră în "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " ore."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Это истекает через "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " часов."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Ističe za "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " sati."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Den går ut om "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " timmar."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Not: Süre "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " saat içinde dolacak."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "P.S. Термін дії – ще "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " год."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. Link hết hạn trong vòng "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " tiếng."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "另外，它将在 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " 小时后过期。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "p.s. "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "expiresIn"
+                },
+                {
+                    "type": "Text",
+                    "value": " 小時之後過期。"
+                }
+            ]
+        }
+    ]
+}

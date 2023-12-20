@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "remove_filters",
+        "library.inlang.paraglideJs": "remove_filters"
+    },
+    "id": "thin_ads_hang",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Clear all filters"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Effacer les filtres"
+                }
+            ]
+        }
+    ]
+}

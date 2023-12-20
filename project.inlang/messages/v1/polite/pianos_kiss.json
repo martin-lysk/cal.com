@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "admin_delete_organization_description",
+        "library.inlang.paraglideJs": "admin_delete_organization_description"
+    },
+    "id": "polite_pianos_kiss",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "<ul><li>Teams that are member of this organization will also be deleted along with their event-types</li><li>Users that were part of the organization will not be deleted and their event-types will also remain intact.</li><li>Usernames would be changed to allow them to exist outside the organization</li></ul>"
+                }
+            ]
+        }
+    ]
+}

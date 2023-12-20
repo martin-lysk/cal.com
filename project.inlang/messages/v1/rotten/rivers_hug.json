@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "dark_theme_contrast_error",
+        "library.inlang.paraglideJs": "dark_theme_contrast_error"
+    },
+    "id": "rotten_rivers_hug",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dark Theme color doesn't pass contrast check. We recommend you change this colour so your buttons will be more visible."
+                }
+            ]
+        }
+    ]
+}

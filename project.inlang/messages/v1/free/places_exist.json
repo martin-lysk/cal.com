@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "premium_to_standard_username_description",
+        "library.inlang.paraglideJs": "premium_to_standard_username_description"
+    },
+    "id": "free_places_exist",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "هذا اسم مستخدم قياسي، سوف ينقلك هذا التحديث إلى صفحة الفوترة لخفض المستوى."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Toto je standardní uživatelské jméno a při aktualizaci přejdete k fakturaci, kde provedete snížení úrovně."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dette er et standard brugernavn og opdatering vil tage dig til fakturering for nedgradering."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dies ist ein Standard-Benutzername und die Aktualisierung führt Sie zur Rechnungsstellung, um ein Downgrade durchzuführen."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This is a standard username and updating will take you to billing to downgrade."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este es un nombre de usuario estándar y la actualización te llevará a la facturación para bajar de categoría."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Il s'agit d'un nom d'utilisateur standard et l'appliquer vous redirigera vers la facturation pour résilier votre plan."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "זהו שם משתמש סטנדרטי. אם תעדכן/י אותו, תועבר/י לדף החיוב לצורך שנמוך."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Questo è un nome utente standard e l'aggiornamento ti porterà alla fatturazione per il downgrade."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "これは標準のユーザー名です。更新するとダウングレードを行うための請求画面に移動します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "이것은 표준 사용자 이름이며 업데이트하면 다운그레이드를 위한 청구로 이동합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dit is een standaard gebruikersnaam. Als u deze bijwerkt, gaat u naar facturering om te downgraden."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dette er et standard brukernavn og oppdatering tar deg til betaling for å nedgradere."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "To standardowa nazwa użytkownika i aktualizacja spowoduje przejście do rozliczenia za zmianę wersji na niższą."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este é um nome de utilizador padrão, e ao atualizar irá para a faturação para fazer o downgrade."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Este é um nome de usuário padrão. Para atualizá-lo, levaremos você para fazer downgrade na cobrança."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Acesta este un nume de utilizator standard, iar actualizarea vă va duce la facturare pentru retrogradare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Это стандартное имя пользователя. В случае изменения вы будете перенаправлены на страницу оплаты для смены тарифа."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovo je standardno korisničko ime i ažuriranje će vas poslati na naplatu da biste prešli na nižu verziju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Det här är ett förinställt användarnamn och uppdateringen tar dig till fakturering för att nedgradera."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu, standart bir kullanıcı adıdır ve güncelleme işlemi eski sürüme geçmeniz için sizi faturalandırma sayfasına yönlendirir."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Це стандартне ім’я користувача. Якщо оновити його, ви перейдете до оформлення підписки з вужчим функціоналом."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Đây là tên người dùng tiêu chuẩn và việc cập nhật sẽ đưa bạn đến khâu thanh toán để hạ cấp độ."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "这是一个标准用户名，更新流程会将您引导至账单页面进行降级。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "此為標準使用者名稱，更新系統會帶您前往付費頁面進行降級。"
+                }
+            ]
+        }
+    ]
+}

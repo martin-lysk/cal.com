@@ -1,0 +1,378 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "team_is_unpublished",
+        "library.inlang.paraglideJs": "team_is_unpublished"
+    },
+    "id": "seven_hands_fetch",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "لم يُنشر "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tým "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " není zveřejněn"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " ist unveröffentlicht"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " is unpublished"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " no está publicado"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " n'est pas publiée"
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "צוות "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " אינו מפורסם"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " non è pubblicato"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " は公開されていません"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " 팀은 게시되지 않았습니다"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " is niet gepubliceerd"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zespół "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " nie został opublikowany"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "A equipa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " ainda não está publicada"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Publicação de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " cancelada"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Echipa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " nu este publicată"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Команда "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " снята с публикации"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Opozvano je objavljivanje tima "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " har avpublicerats"
+                }
+            ]
+        },
+        {
+            "languageTag": "ta",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " வெளியிடப்படவில்லை"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " paylaşılmadı"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Публікацію команди «"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": "» скасовано"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " chưa được công bố"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                },
+                {
+                    "type": "Text",
+                    "value": " 已被取消发布"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "已取消發佈 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "team"
+                }
+            ]
+        }
+    ]
+}

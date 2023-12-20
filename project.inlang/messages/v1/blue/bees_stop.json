@@ -1,0 +1,240 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "enterprise_license_development",
+        "library.inlang.paraglideJs": "enterprise_license_development"
+    },
+    "id": "blue_bees_stop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يمكنك اختبار هذه الميزة في وضع التطوير. لاستخدام الإنتاج، يرجى مطالبة المسؤول بالذهاب إلى <2>/auth/setup</2> لإدخال مفتاح الترخيص."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Tuto funkci můžete vyzkoušet v režimu vývoje. Produkční použití vyžaduje od správce zadání licenčního klíče v <2>/auth/setup</2>."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Sie können diese Funktion im Entwicklungsmodus testen. Zur Nutzung im regulären Arbeitsumfeld, besuchen Sie bitte <2>/auth/setup</2>, um einen Lizenzschlüssel einzugeben."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "You can test this feature on development mode. For production usage please have an administrator go to <2>/auth/setup</2> to enter a license key."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puede probar esta función en el modo de desarrollo. Para el uso de producción, haga que un administrador vaya a <2>/auth/setup</2> para ingresar una clave de licencia."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vous pouvez tester cette fonctionnalité en mode développement. Pour une utilisation en production, veuillez demander à un administrateur d'aller à <2>/auth/setup</2> pour entrer une clé de licence."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ניתן לבדוק את התכונה הזו במצב פיתוח. לשימוש מצב הייצור, מנהל/ת מערכת צריך/ה לעבור אל <2>/auth/setup</2> ולהזין מפתח רישיון."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puoi testare questa funzionalità in modalità sviluppo. Per l'utilizzo in produzione, l'amministratore deve accedere a <2>/auth/setup</2> e immettere la chiave di licenza."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "この機能は開発モードでテストできます。本番環境で使用するには、管理者に <2>/auth/setup</2> にアクセスするよう依頼し、ライセンスキーを入力してもらってください。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "개발 모드에서 이 기능을 테스트할 수 있습니다. 프로덕션 용도의 경우 관리자가 <2>/auth/setup</2>으로 이동하여 라이선스 키를 입력하도록 하십시오."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "U kunt deze functie testen in de in ontwikkelingsmodus. Voor productiegebruik moet een beheerder naar <2>/auth/setup</2> gaan om een licentiecode in te voeren."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Możesz przetestować tę funkcję w trybie deweloperskim. Aby wykorzystać ją w celach produkcyjnych, poproś administratora o wprowadzenie klucza licencyjnego w obszarze <2>/auth/setup</2>."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Pode testar esta funcionalidade no modo de desenvolvimento. Para utilização em produção, um administrador deverá aceder a <2>/auth/setup</2> para inserir a chave da licença."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Você pode testar este recurso no modo de desenvolvimento. Para uso em produção, solicite que um administrador acesse <2>/auth/setup</2> e insira uma chave de licença."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Puteți testa această caracteristică în modul de dezvoltare. Pentru utilizarea în mediul de producție, solicitați unui administrator să acceseze <2>/auth/setup</2> pentru a introduce o cheie de licență."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Протестируйте эту функцию в режиме разработки. Для использования в рабочем режиме администратор должен перейти по ссылке <2>/auth/setup</2> и ввести лицензионный ключ."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ovu funkciju možete testirati u razvojnom režimu. Za proizvodnu upotrebu neka administrator ode na <2>/auth/setup</2> da unese ključ za licencu."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Du kan testa den här funktionen i utvecklingsläge. För produktionsanvändning ska en administratör gå till <2>/auth/setup</2> för att ange en licensnyckel."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bu özelliği, geliştirme modunda deneyebilirsiniz. Üretim kullanımı için lütfen bir yöneticinin lisans anahtarını girmesi için <2>/auth/setup</2> adımlarını izlemesini sağlayın."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ви можете випробувати цю функцію в режимі розробки. Щоб скористатися нею, адміністратору потрібно перейти в розділ <2>«Перевірка»/«Налаштування»</2> і ввести ключ ліцензії."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bạn có thể thử nghiệm tính năng này ở chế độ phát triển. Để sử dụng cho sản xuất, hãy nhờ quản trị viên vào phần <2>/auth/setup</2> để nhập một khoá giấy phép."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您可以在开发模式下测试此功能。对于生产用途，请让管理员转到 <2>/auth/setup</2> 输入许可证密钥。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "您可以在開發模式下測試此功能。若要用於生產環境，請由管理員前往 <2>/auth/setup</2> 輸入授權金鑰。"
+                }
+            ]
+        }
+    ]
+}

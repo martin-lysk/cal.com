@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "stripe_description",
+        "library.inlang.paraglideJs": "stripe_description"
+    },
+    "id": "dry_masks_rule",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "يتطلب الدفع للحجز (0.5% + 0.10 يورو عمولة لكل معاملة)"
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vyžadovat poplatek za rezervace (0,5 % + 0,10 € provize za transakci)"
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kræv betaling for bookinger (0,5% + €0,10 provision per transaktion)"
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zahlung für Buchungen (0,5 % + 0,10 € Provision pro Transaktion)"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Require payment for bookings (0.5% + €0.10 commission per transaction)"
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se requiere un pago para las reservas (0,5 % + 0,10 € de comisión por transacción)"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Exigez un paiement pour les réservations (0,5 % + 0,10 € de commission par transaction)."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "דרישת תשלום עבור הזמנות (0.5% + €0.10 עמלה לכל עסקה)"
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Richiedi pagamento per le prenotazioni (0,5% + 0,10 € di commissione per transazione)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "予約の支払いが必要です（1回の取引につき0.5% + 0.10ユーロの手数料）"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "예약 결제 필수(거래 건당 0.5% + €0.10 수수료)"
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Vereis betaling voor boekingen (0,5% en € 0,10 provisie per transactie)"
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Krev betaling for bookinger (0.5% + €0.10 provisjon per transaksjon)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wymagaj płatności za rezerwacje (0,5% + 0,10 EUR prowizji za transakcję)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Exigir pagamento para reservas (0,5% + €0.10 de comissão por transação)"
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Solicitar pagamento de reservas (0,5% + €0.10 de comissão por transação)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Solicitați plata pentru rezervări (0,5% + 0,10 EUR comision pentru fiecare tranzacție)"
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Получайте оплату за бронирование (0,5% + €0,10 за транзакцию)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zahtevajte plaćanje za rezervacije (0,5% + €0.10 provizije po transakciji)"
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Kräver betalning för bokningar (0,5 % + 0,10 € provision per transaktion)"
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rezervasyonlar için ödeme yapılması gereklidir (işlem başına %0,5 + 0,10€ komisyon)"
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Вимагати оплату за бронювання (комісія за транзакцію: 0,5% + 0,10 €)"
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Yêu cầu thanh toán để đặt lịch (0,5% + 0,10€ phí hoa hồng cho mỗi giao dịch)"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "需要为预约付款（0.5% + 每笔交易 €0.10 佣金）"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "預約需付款 (0.5% + 每筆交易 €0.10 的佣金)"
+                }
+            ]
+        }
+    ]
+}

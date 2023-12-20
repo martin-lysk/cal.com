@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "share_a_link_or_embed",
+        "library.inlang.paraglideJs": "share_a_link_or_embed"
+    },
+    "id": "hip_goats_send",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Share a link or embed"
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Partagez un lien ou une intégration"
+                }
+            ]
+        }
+    ]
+}

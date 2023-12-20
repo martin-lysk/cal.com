@@ -1,0 +1,456 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "password_reset_email",
+        "library.inlang.paraglideJs": "password_reset_email"
+    },
+    "id": "light_bugs_call",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "تم إرسال بريد إلكتروني إلى "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " يحتوي على تعليمات لإعادة تعيين كلمة المرور."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "E-mail s pokyny k obnovení hesla byl zaslán na adresu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En e-mail er på vej til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " med instruktioner om at nulstille din adgangskode."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Eine E-Mail mit Anweisungen zum Zurücksetzen Ihres Passworts ist auf dem Weg zu "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "An email is on it’s way to "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " with instructions to reset your password."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Se envió un correo electrónico a "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " con instrucciones para restablecer tu contraseña."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un e-mail est en route vers "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " avec les instructions pour réinitialiser votre mot de passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "שלחנו לך הודעת דוא\"ל עם הוראות לאיפוס הסיסמה לכתובת "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Un'e-mail con le istruzioni per reimpostare la password è stata inviata all'indirizzo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "パスワードのリセット方法を記載したメールを "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " 宛に送信しました。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "비밀번호 재설정 지침이 포함된 이메일이 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " 주소로 전송됩니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Een e-mail is onderweg naar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " met instructies om uw wachtwoord opnieuw in te stellen."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "En e-post er på vei til "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " med instruksjoner for å tilbakestille passordet."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Wiadomość e-mail z instrukcjami resetowania hasła została wysłana na adres "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um e-mail está a caminho de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " com instruções para redefinir a sua palavra-passe."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Um e-mail está a caminho de "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " com instruções para redefinir sua senha."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Veți primi în curând un e-mail la adresa "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": ", cu instrucțiuni de resetare a parolei."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "В ближайшее время вы получите на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " письмо с инструкциями по сбросу пароля."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Imejl je na putu do "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " sa instrukcijama za resetovanje vaše lozinke."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Ett e-postmeddelande är på väg till "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " med anvisningar för att återställa ditt lösenord."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " adresine şifrenizi sıfırlama talimatlarını içeren bir e-posta gönderildi."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Електронний лист з інструкціями зі скидання пароля надіслано на "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Một email đang được gửi tới "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " kèm các chỉ dẫn đặt lại mật khẩu."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "正在将包含重设密码说明的电子邮件发送至 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": "。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "含有密碼重設說明的電子郵件已在前往 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "email"
+                },
+                {
+                    "type": "Text",
+                    "value": " 的路上。"
+                }
+            ]
+        }
+    ]
+}

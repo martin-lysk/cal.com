@@ -1,0 +1,260 @@
+{
+    "alias": {
+        "plugin.inlang.i18next": "edit_profile_info_description",
+        "library.inlang.paraglideJs": "edit_profile_info_description"
+    },
+    "id": "fuzzy_buses_speak",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "ar",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "قم بتعديل معلومات ملفك الشخصي المعروضة على رابط الجدولة."
+                }
+            ]
+        },
+        {
+            "languageTag": "cs",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Upravit informace o vašem profilu, které jsou zobrazeny na vašem plánovacím odkazu."
+                }
+            ]
+        },
+        {
+            "languageTag": "da",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Redigér dine profiloplysninger, der vises på dit planlægningslink."
+                }
+            ]
+        },
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bearbeiten Sie Ihre Profilinformationen, welche bei Ihrem Cal-Link angezeigt werden."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Edit your profile information, which shows on your scheduling link."
+                }
+            ]
+        },
+        {
+            "languageTag": "es",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Edite la información de su perfil, que se muestra en su enlace de programación."
+                }
+            ]
+        },
+        {
+            "languageTag": "fr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Modifiez les informations de votre profil, qui apparaissent sur votre lien de réservation."
+                }
+            ]
+        },
+        {
+            "languageTag": "he",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ערוך את פרטי הפרופיל שלך שיופיעו בקישור לקביעת מועד."
+                }
+            ]
+        },
+        {
+            "languageTag": "it",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Modifica le informazioni del tuo profilo, che verranno visualizzate sul tuo link di pianificazione."
+                }
+            ]
+        },
+        {
+            "languageTag": "ja",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "スケジューリングリンクに表示されるプロフィール情報を編集します。"
+                }
+            ]
+        },
+        {
+            "languageTag": "ko",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "일정 링크에 표시되는 프로필 정보를 수정합니다."
+                }
+            ]
+        },
+        {
+            "languageTag": "nl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Bewerk profielgegevens die worden weergegeven op uw boekpagina."
+                }
+            ]
+        },
+        {
+            "languageTag": "no",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Rediger profilinformasjonen din, som viser på planleggingslenken."
+                }
+            ]
+        },
+        {
+            "languageTag": "pl",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Edytuj dane swojego profilu, które pokazują się na linku do planowania."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Edite as informações do seu perfil, que mostram a sua ligação de agendamento."
+                }
+            ]
+        },
+        {
+            "languageTag": "pt-BR",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Edite as informações do seu perfil, que aparecem na sua página de reservas."
+                }
+            ]
+        },
+        {
+            "languageTag": "ro",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Editați informațiile de profil, care sunt afișate pe link-ul dvs. de programare."
+                }
+            ]
+        },
+        {
+            "languageTag": "ru",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Отредактируйте информацию своего профиля, она будет отображаться на вашей публичной странице."
+                }
+            ]
+        },
+        {
+            "languageTag": "sr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Uredite informacije svog profila, koje su prikazane na linku za rezervaciju."
+                }
+            ]
+        },
+        {
+            "languageTag": "sv",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Redigera profilinformationen som visas på din schemaläggningslänk."
+                }
+            ]
+        },
+        {
+            "languageTag": "tr",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Planlama bağlantınızda görünecek olan profil bilgilerinizi düzenleyin."
+                }
+            ]
+        },
+        {
+            "languageTag": "uk",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Внесіть зміни у відомості профілю, доступні за вашим посиланням для планування."
+                }
+            ]
+        },
+        {
+            "languageTag": "vi",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Chỉnh sửa thông tin hồ sơ của bạn mà sẽ hiển thị trên liên kết lập lịch của bạn."
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-CN",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "编辑您的个人资料，在您的预约链接上显示。"
+                }
+            ]
+        },
+        {
+            "languageTag": "zh-TW",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "編輯個人檔案資訊，會在預約連結上顯示。"
+                }
+            ]
+        }
+    ]
+}
