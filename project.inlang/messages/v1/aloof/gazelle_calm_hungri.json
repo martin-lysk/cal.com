@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.i18next": "login",
-        "library.inlang.paraglideJs": "login"
+        "plugin.inlang.i18next": "make_team_private_description",
+        "library.inlang.paraglideJs": "make_team_private_description"
     },
-    "id": "all_games_raise",
+    "id": "aloof_gazelle_calm_hungri",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "تسجيل الدخول"
+                    "value": "لن يتمكن أعضاء فريقك من رؤية أعضاء الفريق الآخرين عند تشغيل هذا الإعداد."
                 }
             ]
         },
@@ -22,17 +22,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Přihlášení"
-                }
-            ]
-        },
-        {
-            "languageTag": "da",
-            "match": [],
-            "pattern": [
-                {
-                    "type": "Text",
-                    "value": "Login"
+                    "value": "Po zapnutí této funkce neuvidí členové vašeho týmu ostatní členy týmu."
                 }
             ]
         },
@@ -42,7 +32,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Anmelden"
+                    "value": "Wenn diese Einstellung aktiv ist, können deine Teammitglieder keine anderen Teammitglieder sehen."
                 }
             ]
         },
@@ -52,7 +42,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Your team members won't be able to see other team members when this is turned on."
                 }
             ]
         },
@@ -62,17 +52,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Entrar"
-                }
-            ]
-        },
-        {
-            "languageTag": "eu",
-            "match": [],
-            "pattern": [
-                {
-                    "type": "Text",
-                    "value": "Saioa hasi"
+                    "value": "Los miembros de su equipo no podrán ver a otros miembros del equipo cuando esto esté activado."
                 }
             ]
         },
@@ -82,7 +62,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Connexion"
+                    "value": "Les membres de votre équipe ne pourront pas voir les autres membres de l'équipe si cette option est activée."
                 }
             ]
         },
@@ -92,27 +72,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "כניסה"
-                }
-            ]
-        },
-        {
-            "languageTag": "hr",
-            "match": [],
-            "pattern": [
-                {
-                    "type": "Text",
-                    "value": "Prijavite se"
-                }
-            ]
-        },
-        {
-            "languageTag": "hu",
-            "match": [],
-            "pattern": [
-                {
-                    "type": "Text",
-                    "value": "Bejelentkezés"
+                    "value": "כשההגדרה הזו מופעלת, חברי הצוות שלך לא יוכלו לראות חברי צוות אחרים."
                 }
             ]
         },
@@ -122,7 +82,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Quando questa opzione è attivata, i membri del tuo team non potranno vedere gli altri membri del team."
                 }
             ]
         },
@@ -132,7 +92,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "ログイン"
+                    "value": "これをオンにすると、チームメンバーは他のチームメンバーを確認することができなくなります。"
                 }
             ]
         },
@@ -142,7 +102,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "로그인"
+                    "value": "이 기능을 켜면 팀원이 다른 팀원을 볼 수 없게 됩니다."
                 }
             ]
         },
@@ -152,17 +112,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Inloggen"
-                }
-            ]
-        },
-        {
-            "languageTag": "no",
-            "match": [],
-            "pattern": [
-                {
-                    "type": "Text",
-                    "value": "Logg Inn"
+                    "value": "Uw teamleden kunnen geen andere teamleden zien wanneer dit ingeschakeld is."
                 }
             ]
         },
@@ -172,7 +122,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Gdy to ustawienie jest włączone, członkowie zespołu nie będą mogli zobaczyć innych członków zespołu."
                 }
             ]
         },
@@ -182,7 +132,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Iniciar sessão"
+                    "value": "Os membros da sua equipa não poderão ver outros membros da equipa quando esta opção estiver ativada."
                 }
             ]
         },
@@ -192,7 +142,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Os membros da sua equipe não poderão ver outros membros da equipe após habilitar isso."
                 }
             ]
         },
@@ -202,7 +152,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Autentificare"
+                    "value": "Membrii echipei dvs. nu vor putea vedea ceilalți membrii ai echipei atunci când această opțiune este activată."
                 }
             ]
         },
@@ -212,7 +162,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Вход"
+                    "value": "Если эта опция включена, участники вашей команды не смогут видеть других участников команды."
                 }
             ]
         },
@@ -222,7 +172,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Ulogujte se"
+                    "value": "Članovi vašeg tima neće moći da vide druge članove tima kada je ovo aktivirano."
                 }
             ]
         },
@@ -232,7 +182,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Logga in"
+                    "value": "Dina teammedlemmar kommer inte att kunna se andra teammedlemmar när detta är aktiverat."
                 }
             ]
         },
@@ -242,7 +192,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Giriş"
+                    "value": "Bu özellik açıldığında ekip üyeleriniz diğer ekip üyelerini göremez."
                 }
             ]
         },
@@ -252,7 +202,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Увійти"
+                    "value": "Учасники вашої команди не зможуть бачити інших учасників, якщо цей параметр ввімкнено."
                 }
             ]
         },
@@ -262,7 +212,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Đăng nhập"
+                    "value": "Thành viên nhóm của bạn sẽ không thể thấy thành viên nhóm khác khi cái này được bật."
                 }
             ]
         },
@@ -272,7 +222,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "登录"
+                    "value": "开启此选项后，您的团队成员将无法看到其他团队成员。"
                 }
             ]
         },
@@ -282,7 +232,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "登入"
+                    "value": "啟用此設定時，團隊成員將無法查看其他團隊成員。"
                 }
             ]
         }

@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.i18next": "login",
-        "library.inlang.paraglideJs": "login"
+        "plugin.inlang.i18next": "hidden_team_member_message",
+        "library.inlang.paraglideJs": "hidden_team_member_message"
     },
-    "id": "all_games_raise",
+    "id": "witty_wasp_bask_hopeless",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "تسجيل الدخول"
+                    "value": "لم يتم الدفع مقابل مقعدك. يمكنك الترقية إلى Pro أو إعلام مالك الفريق أنه يستطيع الدفع مقابل مقعدك."
                 }
             ]
         },
@@ -22,7 +22,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Přihlášení"
+                    "value": "Vaše místo není zaplacené. Buď přejděte na tarif Pro, nebo informujte vlastníka týmu, že za vaše místo může zaplatit."
                 }
             ]
         },
@@ -32,7 +32,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Din plads er ikke betalt for, enten Opgradér til PRO eller lad teamejeren vide, at de kan betale for din plads."
                 }
             ]
         },
@@ -42,7 +42,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Anmelden"
+                    "value": "Ihre Teammitgliedschaft ist nicht bezahlt, entweder upgraden Sie Ihren Account auf Pro oder lassen den Team-Organisator wissen, dass er für Ihren Platz im Team bezahlen kann."
                 }
             ]
         },
@@ -52,7 +52,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Your seat is not paid for, either Upgrade to PRO or let the team owner know they can pay for your seat."
                 }
             ]
         },
@@ -62,17 +62,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Entrar"
-                }
-            ]
-        },
-        {
-            "languageTag": "eu",
-            "match": [],
-            "pattern": [
-                {
-                    "type": "Text",
-                    "value": "Saioa hasi"
+                    "value": "No está paga tu plaza, actualiza a PRO o infórmale al propietario del equipo para que pague tu plaza."
                 }
             ]
         },
@@ -82,7 +72,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Connexion"
+                    "value": "Votre place n'est pas payée, passez au plan Pro ou faites savoir au propriétaire de l'équipe qu'il peut payer votre place."
                 }
             ]
         },
@@ -92,7 +82,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "כניסה"
+                    "value": "לא בוצע תשלום עבור המקום שלך. ניתן לשדרג ל-PRO או ליידע את הבעלים של הצוות שהוא או היא יכולים לשלם עבור המקום שלך."
                 }
             ]
         },
@@ -102,17 +92,17 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Prijavite se"
+                    "value": "Vaše mjesto nije plaćeno, ili se pretplatite na PRO ili obavijestite vođu tima da plati za vaše mjesto."
                 }
             ]
         },
         {
-            "languageTag": "hu",
+            "languageTag": "id",
             "match": [],
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Bejelentkezés"
+                    "value": "Kamu tidak dibayari, upgrade ke PRO atau beritahu pemilik tim bahwa mereka bisa membayari kamu."
                 }
             ]
         },
@@ -122,7 +112,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Il tuo posto non è pagato. Passa a Pro oppure informa il proprietario del team che può pagare il tuo posto."
                 }
             ]
         },
@@ -132,7 +122,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "ログイン"
+                    "value": "座席料の支払いが完了していません。Pro へとアップグレードするか、チームのオーナーにあなたの座席料の支払いをご依頼ください。"
                 }
             ]
         },
@@ -142,7 +132,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "로그인"
+                    "value": "귀하의 시트 비용은 Pro로 업그레이드하거나 팀 소유자에게 그들이 귀하의 시트 비용을 지불할 수 있다고 알리는 어떤 경우에도 지불되지 않습니다."
                 }
             ]
         },
@@ -152,7 +142,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Inloggen"
+                    "value": "Uw plaats is niet betaald. Upgrade naar Pro of laat de teameigenaar weten dat deze uw plaats kan betalen."
                 }
             ]
         },
@@ -162,7 +152,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Logg Inn"
+                    "value": "Setet ditt er ikke betalt for, enten oppgrader til PRO eller la teameieren få vite at de kan betale for setet ditt."
                 }
             ]
         },
@@ -172,7 +162,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Twoje miejsce nie jest opłacone, przejdź na wersję Pro lub poinformuj właściciela zespołu o tym, że może zapłacić za Twoje miejsce."
                 }
             ]
         },
@@ -182,7 +172,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Iniciar sessão"
+                    "value": "O seu lugar não está pago, faça upgrade para PRO ou informe ao proprietário da equipa que pode pagar pelo seu lugar."
                 }
             ]
         },
@@ -192,7 +182,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Seu assento não é pago, atualize para a versão Pro ou avise o proprietário da equipe de que é possível pagar pelo seu assento."
                 }
             ]
         },
@@ -202,7 +192,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Autentificare"
+                    "value": "Licența dvs. nu este plătită. Fie faceți upgrade la Pro, fie anunțați proprietarul echipei că vă poate plăti licența."
                 }
             ]
         },
@@ -212,7 +202,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Вход"
+                    "value": "Ваше место не оплачено. Перейдите на аккаунт PRO или свяжитесь с руководителем команды, чтобы сообщить ему, что он может оплатить ваше место."
                 }
             ]
         },
@@ -222,7 +212,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Ulogujte se"
+                    "value": "Vaše mesto nije plaćeno, ili se pretplatite na Pro ili obavestite vođu tima da plati za vaše mesto."
                 }
             ]
         },
@@ -232,7 +222,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Logga in"
+                    "value": "Din plats är inte betalad för. Uppgradera till Pro eller låt teamägaren veta att de kan betala för din plats."
                 }
             ]
         },
@@ -242,7 +232,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Giriş"
+                    "value": "Yeriniz ücretli değil. Hesabınızı Pro'ya yükseltin veya ekip yöneticisinden yeriniz için ödeme yapmasını isteyin."
                 }
             ]
         },
@@ -252,7 +242,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Увійти"
+                    "value": "Ваше місце не оплачено. Перейдіть на версію Pro або попросіть власника команди оплатити ваше місце."
                 }
             ]
         },
@@ -262,7 +252,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Đăng nhập"
+                    "value": "Ghế ngồi của bạn không được thanh toán bởi nhóm, hãy nâng cấp lên PRO hoặc thông báo cho người quản lý nhóm để họ có thể thanh toán cho ghế ngồi của bạn."
                 }
             ]
         },
@@ -272,7 +262,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "登录"
+                    "value": "您的位置尚未付费，请升级到专业版或通知团队管理员为您付费。"
                 }
             ]
         },
@@ -282,7 +272,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "登入"
+                    "value": "此座位尚未付費。請升級至 Pro，或通知團隊主持人協助付費。"
                 }
             ]
         }

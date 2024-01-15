@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.i18next": "login",
-        "library.inlang.paraglideJs": "login"
+        "plugin.inlang.i18next": "send_invite_email",
+        "library.inlang.paraglideJs": "send_invite_email"
     },
-    "id": "all_games_raise",
+    "id": "lazy_toad_pick_doubtful",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "تسجيل الدخول"
+                    "value": "إرسال دعوة عبر البريد الإلكتروني"
                 }
             ]
         },
@@ -22,7 +22,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Přihlášení"
+                    "value": "Odeslat pozvánku e-mailem"
                 }
             ]
         },
@@ -32,7 +32,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Send en invitations e-mail"
                 }
             ]
         },
@@ -42,7 +42,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Anmelden"
+                    "value": "Einladungs-E-Mail senden"
                 }
             ]
         },
@@ -52,7 +52,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Send an invite email"
                 }
             ]
         },
@@ -62,7 +62,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Entrar"
+                    "value": "Enviar Invitación por Email"
                 }
             ]
         },
@@ -72,7 +72,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Saioa hasi"
+                    "value": "Bidali gonbidapen-email bat"
                 }
             ]
         },
@@ -82,7 +82,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Connexion"
+                    "value": "Envoyer une invitation par e-mail"
                 }
             ]
         },
@@ -92,27 +92,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "כניסה"
-                }
-            ]
-        },
-        {
-            "languageTag": "hr",
-            "match": [],
-            "pattern": [
-                {
-                    "type": "Text",
-                    "value": "Prijavite se"
-                }
-            ]
-        },
-        {
-            "languageTag": "hu",
-            "match": [],
-            "pattern": [
-                {
-                    "type": "Text",
-                    "value": "Bejelentkezés"
+                    "value": "שליחת דוא\"ל הזמנה"
                 }
             ]
         },
@@ -122,7 +102,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Invia un'email di invito"
                 }
             ]
         },
@@ -132,7 +112,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "ログイン"
+                    "value": "招待メールを送信"
                 }
             ]
         },
@@ -142,7 +122,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "로그인"
+                    "value": "초대 이메일 보내기"
                 }
             ]
         },
@@ -152,7 +132,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Inloggen"
+                    "value": "Verstuur een uitnodigingsmail"
                 }
             ]
         },
@@ -162,7 +142,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Logg Inn"
+                    "value": "Send en invitasjons-e-post"
                 }
             ]
         },
@@ -172,7 +152,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Wyślij e-mail z zaproszeniem"
                 }
             ]
         },
@@ -182,7 +162,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Iniciar sessão"
+                    "value": "Enviar um e-mail de convite"
                 }
             ]
         },
@@ -192,7 +172,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Enviar um convite por e-mail"
                 }
             ]
         },
@@ -202,7 +182,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Autentificare"
+                    "value": "Trimite un e-mail de invitație"
                 }
             ]
         },
@@ -212,7 +192,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Вход"
+                    "value": "Отправить приглашение по электронной почте"
                 }
             ]
         },
@@ -222,7 +202,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Ulogujte se"
+                    "value": "Pošalji poziv preko e-pošte"
                 }
             ]
         },
@@ -232,7 +212,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Logga in"
+                    "value": "Skicka ett inbjudningsmail"
                 }
             ]
         },
@@ -242,7 +222,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Giriş"
+                    "value": "Davet e-postası gönder"
                 }
             ]
         },
@@ -252,7 +232,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Увійти"
+                    "value": "Надіслати ел. лист із запрошенням"
                 }
             ]
         },
@@ -262,7 +242,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Đăng nhập"
+                    "value": "Gửi \blời mời email"
                 }
             ]
         },
@@ -272,7 +252,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "登录"
+                    "value": "发送邀请邮件"
                 }
             ]
         },
@@ -282,7 +262,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "登入"
+                    "value": "寄送邀請郵件"
                 }
             ]
         }

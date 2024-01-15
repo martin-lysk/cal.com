@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.i18next": "login",
-        "library.inlang.paraglideJs": "login"
+        "plugin.inlang.i18next": "upload_target",
+        "library.inlang.paraglideJs": "upload_target"
     },
-    "id": "all_games_raise",
+    "id": "weak_iguana_glow_cruel",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "تسجيل الدخول"
+                    "value": "تحميل "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -22,7 +26,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Přihlášení"
+                    "value": "Nahrát "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -32,7 +40,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Upload "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -41,8 +53,12 @@
             "match": [],
             "pattern": [
                 {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
                     "type": "Text",
-                    "value": "Anmelden"
+                    "value": " hochladen"
                 }
             ]
         },
@@ -52,7 +68,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Upload "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -62,7 +82,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Entrar"
+                    "value": "Cargar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -72,7 +96,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Saioa hasi"
+                    "value": "Igo "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -82,7 +110,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Connexion"
+                    "value": "Télécharger un "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -92,7 +124,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "כניסה"
+                    "value": "העלאת "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -102,7 +138,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Prijavite se"
+                    "value": "Učitaj "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -112,7 +152,25 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Bejelentkezés"
+                    "value": "Feltöltés "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                }
+            ]
+        },
+        {
+            "languageTag": "id",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Unggah "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -122,7 +180,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Carica "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -131,8 +193,12 @@
             "match": [],
             "pattern": [
                 {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
                     "type": "Text",
-                    "value": "ログイン"
+                    "value": " をアップロードする"
                 }
             ]
         },
@@ -142,7 +208,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "로그인"
+                    "value": "업로드 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -152,7 +222,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Inloggen"
+                    "value": "Upload "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -162,7 +236,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Logg Inn"
+                    "value": "Last opp "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -172,7 +250,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Prześlij "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -182,7 +264,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Iniciar sessão"
+                    "value": "Carregar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -192,7 +278,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Login"
+                    "value": "Enviar "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -202,7 +292,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Autentificare"
+                    "value": "Încărcaţi "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -212,7 +306,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Вход"
+                    "value": "Загрузить "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -222,7 +320,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Ulogujte se"
+                    "value": "Prikači "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -232,7 +334,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Logga in"
+                    "value": "Ladda upp "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -241,8 +347,12 @@
             "match": [],
             "pattern": [
                 {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
                     "type": "Text",
-                    "value": "Giriş"
+                    "value": " yükle"
                 }
             ]
         },
@@ -252,7 +362,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Увійти"
+                    "value": "Завантажити "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -262,7 +376,15 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Đăng nhập"
+                    "value": "Tải "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
+                },
+                {
+                    "type": "Text",
+                    "value": " lên"
                 }
             ]
         },
@@ -272,7 +394,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "登录"
+                    "value": "上传 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         },
@@ -282,7 +408,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "登入"
+                    "value": "上傳 "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "target"
                 }
             ]
         }
